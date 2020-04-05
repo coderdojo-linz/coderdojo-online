@@ -117,8 +117,8 @@ Wir werden diesmal bei der Version vom Freitag, 3.4. weitermachen.
 Wenn ihr da nicht dabei wart ist das kein Problem. Die Version könnt ihr unter [CoderDojo-Spaceshooter V1](https://scratch.mit.edu/projects/382856553) einfach öffnen und herunterladen.
 
 Von dort aus werden wir den Spaceshooter erweitern und neue Funktionen hinzufügen. Freut euch auf:
-* hintergrund mit bewgten Sternen
-* ein Spiel mit mehr als einem Leben
+* hintergrund mit bewegten Sternen
+* ein Spiel mit mehr als nur einem Leben
 * gefährliche Meteoritenbruchstücke
 
 ### Voraussetzungen
