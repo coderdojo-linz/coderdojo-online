@@ -9,7 +9,7 @@
 | TBD         | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
-| TBD         | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) |                                                            |
+| 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | vorläufig: https://dynatrace.zoom.us/j/839746804 |
 
 ## Pimp Your Website mit CSS
 
@@ -107,16 +107,27 @@ TBD
 
 ## Pimp Your Scratch Spaceshooter
 
-Zeit: TBD
+Zeit: 16:00 bis 18:00
 
 ### Beschreibung
 
-Habt ihr unseren [Scratch Spaceshooter](https://linz.coderdojo.net/trainingsanleitungen/scratch/scratch-space-shooter-v3.html) schon mal gebaut? Dann ist dieser Workshop etwas für euch. Ihr werdet den Spaceshooter um spannende, neue Funktionen erweitern und dabei hoffentlich eine Menge Tricks in Scratch lernen.
+Habt ihr unseren [Scratch Spaceshooter](https://linz.coderdojo.net/trainingsanleitungen/scratch/scratch-space-shooter-v3.html) schon mal gebaut? 
+
+Wir werden diesmal bei der Version vom Freitag, 3.4. weitermachen.
+Wenn ihr da nicht dabei wart ist das kein Problem. Die Version könnt ihr unter [CoderDojo-Spaceshooter V1](https://scratch.mit.edu/projects/382856553) einfach öffnen und herunterladen.
+
+Von dort aus werden wir den Spaceshooter erweitern und neue Funktionen hinzufügen. Freut euch auf:
+* hintergrund mit bewgten Sternen
+* ein Spiel mit mehr als einem Leben
+* gefährliche Meteoritenbruchstücke
 
 ### Voraussetzungen
 
 * Installiertes [Scratch](https://scratch.mit.edu/download)
 * **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+
+Wenn ihr beim letzten mal noch nicht dabei wart, ladet auch bitte vorher die Version des Spaceshooter herunter.
+
 
 ### Mentorinnen und Mentoren
 
