@@ -9,7 +9,7 @@
 | TBD         | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
-| 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | vorläufig: https://dynatrace.zoom.us/j/839746804 |
+| 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | [Zoom Link](https://dynatrace.zoom.us/j/839746804)         |
 
 ## Pimp Your Website mit CSS
 
@@ -117,7 +117,7 @@ Wir werden diesmal bei der Version vom Freitag, 3.4. weitermachen.
 Wenn ihr da nicht dabei wart ist das kein Problem. Die Version könnt ihr unter [CoderDojo-Spaceshooter V1](https://scratch.mit.edu/projects/382856553) einfach öffnen und herunterladen.
 
 Von dort aus werden wir den Spaceshooter erweitern und neue Funktionen hinzufügen. Freut euch auf:
-* hintergrund mit bewegten Sternen
+* Hintergrund mit bewegten Sternen
 * ein Spiel mit mehr als nur einem Leben
 * gefährliche Meteoritenbruchstücke
 
