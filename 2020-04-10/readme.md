@@ -5,7 +5,7 @@
 | Zeit        | Thema                                                             | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
 | 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [https://zoom.us/j/384514141](https://zoom.us/j/384514141) |
-| TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
+| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
 | TBD         | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
@@ -36,7 +36,7 @@ Letzte Woche haben wir uns im Detail mit HTML beschäftigt. Diesmal wollen wir u
 
 ## Anfängerworkshop Scratch
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
