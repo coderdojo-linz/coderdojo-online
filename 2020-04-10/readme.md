@@ -76,10 +76,10 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-Wenn du schon immer Redstone Schaltungen selber entwerfen wolltest oder verstehen willst was die Schaltungen tun die du von Youtube kopierst ;) dann bist du hier genau richtig! Wir werden einen Einsteigerkurs in Redstone machen mit:
+Wenn du schon immer Redstone Schaltungen selber entwerfen wolltest oder verstehen willst wie die Schaltungen funktionieren die du von Youtube kopierst ;) dann bist du hier genau richtig! Wir werden einen Einsteigerkurs in Redstone machen mit:
 - Grundlagen: Was ist redstone, welche Bauteile gibt es dafür, ...
-- Erste logische Schaltungen: Was sind Und/Oder/Nicht Schaltungen und warum brauch ich sie
-- Erste kompliziertere Schaltung, wie baue ich eine versteckte Tür mit Pistons.
+- Erste logische Schaltungen: Was sind Und/Oder/Nicht Schaltungen und warum brauch ich sie.
+- Erste kompliziertere Schaltungungen, wie baue ich eine versteckte Tür mit Pistons.
 
 ### Voraussetzungen
 
