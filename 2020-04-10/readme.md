@@ -6,7 +6,7 @@
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
 | 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [https://zoom.us/j/384514141](https://zoom.us/j/384514141) |
 | 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| TBD         | [Java](#java)                                                     |                                                            |
+| 16:00-18:00 | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
 | 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | [Zoom Link](https://dynatrace.zoom.us/j/839746804)         |
@@ -54,16 +54,16 @@ Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im Co
 
 ## Java
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wir werden unserem Spiel beibringen auf Benutzereingaben zu reagieren und Kollisionen zu erkennen.
 
 ### Voraussetzungen
 
-* [JDK der Java SE14](https://www.oracle.com/java/technologies/javase-downloads.html)
 * [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/de-de/idea/download/#section=windows)
+* [Git](https://git-scm.com/download/win)
 
 ### Mentorinnen und Mentoren
 
