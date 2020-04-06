@@ -6,7 +6,7 @@
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
 | 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [https://zoom.us/j/384514141](https://zoom.us/j/384514141) |
 | 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| TBD         | [Java](#java)                                                     |                                                            |
+| 16:00-18:00 | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
 | 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | [Zoom Link](https://dynatrace.zoom.us/j/839746804)         |
@@ -72,20 +72,23 @@ TBD
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wenn du schon immer Redstone Schaltungen selber entwerfen wolltest oder verstehen willst was die Schaltungen tun die du von Youtube kopierst ;) dann bist du hier genau richtig! Wir werden einen Einsteigerkurs in Redstone machen mit:
+- Grundlagen: Was ist redstone, welche Bauteile gibt es dafür, ...
+- Erste logische Schaltungen: Was sind Und/Oder/Nicht Schaltungen und warum brauch ich sie
+- Erste kompliziertere Schaltung, wie baue ich eine versteckte Tür mit Pistons.
 
 ### Voraussetzungen
 
-TBD
+Du brauchst einen offiziellen Minecraft Account und Minecraft in der Version 1.15.2 installiert und spielbereit. Es muss ein offizieller Account sein, weil wir auf einem gemeinsamen Server unsere Übungen machen werden.
 
 ### Mentorinnen und Mentoren
 
 * Matthias
-
+* Jan Holzweber
 
 ## Virtuelles Elektronikbasteln
 
