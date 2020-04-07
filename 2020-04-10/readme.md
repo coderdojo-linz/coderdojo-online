@@ -15,7 +15,7 @@
 
 ## Pimp Your Website mit CSS
 
-Zeit: 14:00-16:00
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -39,7 +39,7 @@ Letzte Woche haben wir uns im Detail mit HTML beschäftigt. Diesmal wollen wir u
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: 14:00-16:00
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -57,7 +57,7 @@ TBD
 
 ## Java
 
-Zeit: 16:00-18:00
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
