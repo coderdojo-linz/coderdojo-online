@@ -72,20 +72,23 @@ Wir werden unserem Spiel beibringen auf Benutzereingaben zu reagieren und Kollis
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wenn du schon immer Redstone Schaltungen selber entwerfen wolltest oder verstehen willst wie die Schaltungen funktionieren die du von Youtube kopierst ;) dann bist du hier genau richtig! Wir werden einen Einsteigerkurs in Redstone machen mit:
+- Grundlagen: Was ist redstone, welche Bauteile gibt es dafür, ...
+- Erste logische Schaltungen: Was sind Und/Oder/Nicht Schaltungen und warum brauch ich sie.
+- Erste kompliziertere Schaltungungen, wie baue ich eine versteckte Tür mit Pistons.
 
 ### Voraussetzungen
 
-TBD
+Du brauchst einen offiziellen Minecraft Account und Minecraft in der Version 1.15.2 installiert und spielbereit. Es muss ein offizieller Account sein, weil wir auf einem gemeinsamen Server unsere Übungen machen werden.
 
 ### Mentorinnen und Mentoren
 
 * Matthias
-
+* Jan Holzweber
 
 ## Virtuelles Elektronikbasteln
 
