@@ -1,15 +1,17 @@
 # 10. April 2020
 
+
 ## Überblick
 
 | Zeit        | Thema                                                             | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
-| 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [Zoom Link](https://zoom.us/j/384514141)                   |
+| 13:45-15:45 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [Zoom Link](https://zoom.us/j/384514141)                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
+| 13:45-15:45 | [Java](#java)                                                     |                                                            |
 | 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| 16:00-18:00 | [Java](#java)                                                     |                                                            |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | [Zoom Link](https://dynatrace.zoom.us/j/839746804)         |
+
 
 ## Pimp Your Website mit CSS
 
@@ -32,24 +34,25 @@ Letzte Woche haben wir uns im Detail mit HTML beschäftigt. Diesmal wollen wir u
 * Karin
 * Rainer
 * Cornelia
+* Gerlinde
 
 
-## Anfängerworkshop Scratch
+## Virtuelles Elektronikbasteln
 
-Zeit: 16:00-18:00
+Zeit: 14:00-16:00
 
 ### Beschreibung
 
-Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren.
+In diesem Workshop könnt ihr virtuell Elektronik basteln mit [Tinkercad](https://www.tinkercad.com/). Ihr werdet Schaltungen bauen und braucht dafür weder Lötkolben noch Bauteile. Dieser Workshop ist offen für alle, nicht nur für Teilnehmerinnen und Teilnehmern vom *CoderDojo Elektronik Classroom*.
 
 ### Voraussetzungen
 
-* Installiertes [Scratch](https://scratch.mit.edu/download)
-* **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+TBD
 
 ### Mentorinnen und Mentoren
 
-* Gerlinde
+* Günther
+* Michael
 
 
 ## Java
@@ -68,6 +71,26 @@ Wir werden unserem Spiel beibringen auf Benutzereingaben zu reagieren und Kollis
 ### Mentorinnen und Mentoren
 
 * Thomas
+
+
+## Anfängerworkshop Scratch
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren.
+
+### Voraussetzungen
+
+* Installiertes [Scratch](https://scratch.mit.edu/download)
+* **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+
+### Mentorinnen und Mentoren
+
+* Gerlinde
+* Sonja
+* Walter
 
 
 ## Minecraft Redstone
@@ -89,23 +112,6 @@ Du brauchst einen offiziellen Minecraft Account und Minecraft in der Version 1.1
 
 * Matthias
 * Jan Holzweber
-
-## Virtuelles Elektronikbasteln
-
-Zeit: TBD
-
-### Beschreibung
-
-In diesem Workshop könnt ihr virtuell Elektronik basteln mit [Tinkercad](https://www.tinkercad.com/). Ihr werdet Schaltungen bauen und braucht dafür weder Lötkolben noch Bauteile. Dieser Workshop ist offen für alle, nicht nur für Teilnehmerinnen und Teilnehmern vom *CoderDojo Elektronik Classroom*.
-
-### Voraussetzungen
-
-TBD
-
-### Mentorinnen und Mentoren
-
-* Günther
-* Michael
 
 
 ## Pimp Your Scratch Spaceshooter
