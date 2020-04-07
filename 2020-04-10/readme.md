@@ -4,7 +4,7 @@
 
 | Zeit        | Thema                                                             | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
-| 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [https://zoom.us/j/384514141](https://zoom.us/j/384514141) |
+| 14:00-16:00 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [Zoom Link](https://zoom.us/j/384514141)                   |
 | 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
 | 16:00-18:00 | [Java](#java)                                                     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
