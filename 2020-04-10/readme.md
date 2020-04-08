@@ -6,10 +6,10 @@
 | Zeit        | Thema                                                             | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
 | 13:45-15:45 | [Pimp Your Website mit CSS](#pimp-your-website-mit-css)           | [Zoom Link](https://zoom.us/j/384514141)                   |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
-| 13:45-15:45 | [Java](#java)                                                     |                                                            |
-| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     | [Zoom Link](https://zoom.us/j/190881403)                   |
+| 13:45-15:45 | [Java](#java)                                                     | [Zoom Link](https://zoom.us/j/218047339)                   |
+| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             | [Zoom Link](https://zoom.us/j/976771003)                   |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                         | [Zoom Link](https://zoom.us/j/973893563)                   |
 | 16:00-18:00 | [Pimp Your Scratch Spaceshooter](#pimp-your-scratch-spaceshooter) | [Zoom Link](https://dynatrace.zoom.us/j/839746804)         |
 
 
