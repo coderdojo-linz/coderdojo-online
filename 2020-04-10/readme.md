@@ -45,9 +45,13 @@ Zeit: 13:45-15:45
 
 In diesem Workshop könnt ihr virtuell Elektronik basteln mit [Tinkercad](https://www.tinkercad.com/). Ihr werdet Schaltungen bauen und braucht dafür weder Lötkolben noch Bauteile. Dieser Workshop ist offen für alle, nicht nur für Teilnehmerinnen und Teilnehmern vom *CoderDojo Elektronik Classroom*.
 
+Wir werden die Strom und Spannungsmessung in Tinkercad anschauen und es werden die Grundlagen Strom, Spannung und Widerstand anhand eines einfachen Beispiels erklärt, dass jeder zu Hause im Nachgang nachbauen kann. Mit Alufolie, einem Bleistift, einer 12V Lampe aus dem Auto und eine 9V Batterie bauen wir eine Helligkeitsregelung.
+
+Im zweiten Teil werden wir den Elternalarm mit dem Arduino und ein paar virtuellen Bauteilen auf Tinkercad bauen. Wer möchte nicht wissen wenn sich die Eltern oder Geschwister dem Zimmer nähern. Mit der Schaltung und dem Programm könnte ihr dann dieses Projekt später in die Realität überführen.
+
 ### Voraussetzungen
 
-TBD
+Computer mit Internetzugang, Begeisterung und etwas Zeit. Es wird wieder eine Tinkercad Classroom geben, wo ihr in den erste 10 Min mit euren Nickname Zugang bekommt. Und dann geht es auch schon los!
 
 ### Mentorinnen und Mentoren
 
