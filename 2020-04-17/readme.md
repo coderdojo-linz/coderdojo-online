@@ -37,9 +37,10 @@ Zeit: 13:45 - 15:45
 
 ### Beschreibung
 
-Wir basteln wieder mit Tinkercad. Wir werden bei der Strom und Spannungsmessung weiter machen. Dieses Mal werfen wir einen Blick auf die Versorgungsspannung der Batterie und die Spannungsabfälle an den Verbrauchern und die Ströme die durch die Bauteile und verbraucher fliessen. Wir werfen nochmals einen Blick auf das ohmsche gesetz und überprüfen unsere Beobachtungen
+Alle die schon mal im Classroom waren können die Zugänge wieder benutzen, alle die noch nie was mit Tinkercad gemacht haben bitte gleich am anfang melden, dann machen wir 10 Min Einführung in Tinkercad. Ihr könnte euch auch auf dieser Seite schon Informieren [Tinkercad Kurzanleitung](https://www.smarthome-tricks.de/esp8266-einfuehrung/arduino-schaltung-mit-tinkercad-simulieren/)
+Wir basteln wieder mit Tinkercad. Wir werden bei der Strom und Spannungsmessung weiter machen. Dieses Mal werfen wir einen Blick auf die Versorgungsspannung der Batterie und die Spannungsabfälle an den Verbrauchern und die Ströme die durch die Bauteile und verbraucher fliessen. Wir werfen nochmals einen Blick auf das ohmsche Gesetz und überprüfen unsere Beobachtungen
 
-Mit den Arduino werden wir eine Temperaturmessung bauen. Dazu Nutzen wir den Analogeingang des Arduinos. Wir werden auch ein paar Themen zum Microkontroller besprechen. 
+Mit den Arduino werden wir eine Temperaturmessung bauen. Dazu Nutzen wir den Analogeingang des Arduinos. Wir werden auch ein paar Themen rund um den Arduino besprechen. 
 
 ### Voraussetzungen
 
