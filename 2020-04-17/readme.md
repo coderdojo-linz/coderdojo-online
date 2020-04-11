@@ -6,7 +6,7 @@
 | Zeit        | Thema                                                             | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|------------------------------------------------------------|
 | TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
 | TBD         | ?                                                                 |                                                            |
 | TBD         | ?                                                                 |                                                            |
@@ -33,15 +33,17 @@ Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im Co
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45 - 15:45
 
 ### Beschreibung
 
-TBD
+Wir basteln wieder mit Tinkercad. Wir werden bei der Strom und Spannungsmessung weiter machen. Dieses Mal werfen wir einen Blick auf die Versorgungsspannung der Batterie und die Spannungsabfälle an den Verbrauchern und die Ströme die durch die Bauteile und verbraucher fliessen. Wir werfen nochmals einen Blick auf das ohmsche gesetz und überprüfen unsere Beobachtungen
+
+Mit den Arduino werden wir eine Temperaturmessung bauen. Dazu Nutzen wir den Analogeingang des Arduinos. Wir werden auch ein paar Themen zum Microkontroller besprechen. 
 
 ### Voraussetzungen
 
-TBD
+PC oder Laptop, Internetzugang, eventuell einen Taschenrechner (es geht auch der am PC)
 
 ### Mentorinnen und Mentoren
 
