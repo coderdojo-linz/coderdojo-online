@@ -8,7 +8,7 @@
 | TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
-| TBD         | ?                                                                 |                                                            |
+| 16:00-18:00 | [Java](#java)                                                     |                                                            |
 | TBD         | ?                                                                 |                                                            |
 | TBD         | ?                                                                 |                                                            |
 
@@ -68,3 +68,20 @@ TBD
 
 * Matthias
 * Jan Holzweber
+
+## Java
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Wir werden unserem Spiel beibringen Kollisionen zu erkennen.
+
+### Voraussetzungen
+
+* [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/de-de/idea/download/#section=windows)
+* [Git](https://git-scm.com/download/win)
+
+### Mentorinnen und Mentoren
+
+* Thomas
