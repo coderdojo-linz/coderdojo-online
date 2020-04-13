@@ -12,6 +12,7 @@
 | TBD         | ?                                                                 |               |                                                            |
 | TBD         | ?                                                                 |               |                                                            |
 
+Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 ## Anfängerworkshop Scratch
 
