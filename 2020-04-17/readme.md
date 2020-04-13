@@ -3,14 +3,14 @@
 
 ## Überblick
 
-| Zeit        | Thema                                                             | Zugangslink                                                |
-|-------------|-------------------------------------------------------------------|------------------------------------------------------------|
-| TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             |                                                            |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |                                                            |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                         |                                                            |
-| 16:00-18:00 | [Java](#java)                                                     |                                                            |
-| TBD         | ?                                                                 |                                                            |
-| TBD         | ?                                                                 |                                                            |
+| Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink                                                |
+|-------------|-------------------------------------------------------------------|---------------|------------------------------------------------------------|
+| TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             | zoom01        |                                                            |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |                                                            |
+| TBD         | [Minecraft Redstone](#minecraft-redstone)                         |               |                                                            |
+| 16:00-18:00 | [Java](#java)                                                     |               |                                                            |
+| TBD         | ?                                                                 |               |                                                            |
+| TBD         | ?                                                                 |               |                                                            |
 
 
 ## Anfängerworkshop Scratch
