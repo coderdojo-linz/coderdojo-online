@@ -12,7 +12,9 @@ Die Passwörter für die zuvor genannten Zoom-Benutzer können bei Rainer erfrag
 
 ## Meetings
 
-Jedem Workshop im Online CoderDojo wird ein zoom-Benutzer (z.B. *zoom01*) zugeordnet. Einer der Hosts für den Workshop steigt **mit diesem Benutzer** in den Zoom-Client ein und kann damit das Meeting starten. Optional kann man danach einem anderen Benutzer (z.B. persönlichem Zoom-Benutzer) die *Host*-Rechte geben.
+Jedem Workshop im Online CoderDojo wird ein zoom-Benutzer (z.B. *zoom01*) zugeordnet. Einer der Hosts für den Workshop steigt **mit diesem Benutzer** in den Zoom-Client ein und kann damit das Meeting starten.
+
+Optional kann man danach einem anderen Benutzer (z.B. persönlichem Zoom-Benutzer) die *Host*-Rechte geben. **Achtung:** Auch wenn die Host-Rechte übergeben wurden, wird der ursprüngliche Benutzer dadurch nicht "frei". Er kann *kein* andere Meeting starten, ohne das ursprüngliche Meeting zuvor beenden zu müssen.
 
 ## Einschränkungen
 
