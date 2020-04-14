@@ -5,40 +5,24 @@
 
 | Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink                                                |
 |-------------|-------------------------------------------------------------------|---------------|------------------------------------------------------------|
-| TBD         | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             | zoom01        |                                                            |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |                                                            |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                         |               |                                                            |
-| 16:00-18:00 | [Java](#java)                                                     |               |                                                            |
-| TBD         | ?                                                                 |               |                                                            |
-| TBD         | ?                                                                 |               |                                                            |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     | zoom01        |                                                            |
+| 13:45-15:45 | [TypeScript](#typescript)                                         | zoom02        |                                                            |
+| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             | zoom01        |                                                            |
+| 16:00-18:00 | [Java](#java)                                                     | zoom02        |                                                            |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                         | zoom03        |                                                            |
+| 16:00-18:00 | [Bootstrap (CSS)](#bootstrap-css)                                 | zoom04        |                                                            |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
-
-## Anfängerworkshop Scratch
-
-Zeit: TBD
-
-### Beschreibung
-
-Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren.
-
-### Voraussetzungen
-
-* Installiertes [Scratch](https://scratch.mit.edu/download)
-* **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
-
-### Mentorinnen und Mentoren
-
-* TBD
 
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: 13:45 - 15:45
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Alle die schon mal im Classroom waren können die Zugänge wieder benutzen, alle die noch nie etwas mit Tinkercad gemacht haben bitte gleich am Anfang melden, dann erhaltet ihr eine 10 Min Einführung in Tinkercad. Ihr könnt euch auf dieser Seite schon einmal vorab informieren [Tinkercad Kurzanleitung](https://www.smarthome-tricks.de/esp8266-einfuehrung/arduino-schaltung-mit-tinkercad-simulieren/)
+Alle die schon mal im Classroom waren können die Zugänge wieder benutzen, alle die noch nie etwas mit Tinkercad gemacht haben bitte gleich am Anfang melden, dann erhaltet ihr eine 10 Min Einführung in Tinkercad. Ihr könnt euch auf dieser Seite schon einmal vorab informieren [Tinkercad Kurzanleitung](https://www.smarthome-tricks.de/esp8266-einfuehrung/arduino-schaltung-mit-tinkercad-simulieren/).
+
 Wir basteln wieder mit Tinkercad. Wir werden bei der Strom- und Spannungsmessung weiter machen. Dieses Mal werfen wir einen Blick auf die Versorgungsspannung der Batterie und die Spannungsabfälle an den Verbrauchern, sowie die Ströme, die durch die Bauteile und Verbraucher fliessen. Wir werfen nochmals einen Blick auf das Ohmsche Gesetz und überprüfen unsere Beobachtungen
 
 Mit den Arduino werden wir eine Temperaturmessung bauen. Dazu nutzen wir den Analogeingang des Arduinos. Wir werden auch ein paar Themen rund um den Arduino besprechen. 
@@ -53,9 +37,9 @@ PC oder Laptop, Internetzugang, eventuell einen Taschenrechner (es geht auch der
 * Michael
 
 
-## Minecraft Redstone
+## TypeScript
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -67,8 +51,27 @@ TBD
 
 ### Mentorinnen und Mentoren
 
-* Matthias
-* Jan Holzweber
+* Rainer
+
+
+## Anfängerworkshop Scratch
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Natürlich darf ein Workshop für Anfängerinnen und Anfänger mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren.
+
+### Voraussetzungen
+
+* Installiertes [Scratch](https://scratch.mit.edu/download)
+* **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+
+### Mentorinnen und Mentoren
+
+* Sonja
+* Gerlinde
+
 
 ## Java
 
@@ -86,3 +89,39 @@ Wir werden unserem Spiel beibringen Kollisionen zu erkennen.
 ### Mentorinnen und Mentoren
 
 * Thomas
+
+
+## Minecraft Redstone
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+TBD
+
+### Voraussetzungen
+
+TBD
+
+### Mentorinnen und Mentoren
+
+* Matthias
+* Jan Holzweber
+
+
+## Bootstrap CSS
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+TBD
+
+### Voraussetzungen
+
+TBD
+
+### Mentorinnen und Mentoren
+
+* Karin
+* Rainer
