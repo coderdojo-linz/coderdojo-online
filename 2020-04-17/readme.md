@@ -3,14 +3,14 @@
 
 ## Überblick
 
-| Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                                |
-|-------------|-------------------------------------------------------------------------|---------------|------------------------------------------------------------|
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        |                                                            |
-| 13:45-15:45 | [TypeScript](#typescript)                                               | zoom02        |                                                            |
-| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)                   | zoom01        |                                                            |
-| 16:00-18:00 | [Java](#java)                                                           | zoom02        |                                                            |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom03        |                                                            |
-| 16:00-18:00 | [Responsive Websites mit Bootstrap](#responsive-websites-mit-bootstrap) | zoom04        |                                                            |
+| Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
+|-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        | [Zoom Link](https://zoom.us/j/98789138621)        |
+| 13:45-15:45 | [TypeScript](#typescript)                                               | zoom02        | [Zoom Link](https://zoom.us/j/92198752576)        |
+| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)                   | zoom01        | [Zoom Link](https://zoom.us/j/99339025558)        |
+| 16:00-18:00 | [Java](#java)                                                           | zoom02        | [Zoom Link](https://zoom.us/j/92032918488)        |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom03        | [Zoom Link](https://zoom.us/j/99966757401)        |
+| 16:00-18:00 | [Responsive Websites mit Bootstrap](#responsive-websites-mit-bootstrap) | zoom04        | [Zoom Link](https://zoom.us/j/99506376161)        |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
