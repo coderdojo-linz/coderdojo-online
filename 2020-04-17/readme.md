@@ -3,14 +3,14 @@
 
 ## Überblick
 
-| Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink                                                |
-|-------------|-------------------------------------------------------------------|---------------|------------------------------------------------------------|
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     | zoom01        |                                                            |
-| 13:45-15:45 | [TypeScript](#typescript)                                         | zoom02        |                                                            |
-| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)             | zoom01        |                                                            |
-| 16:00-18:00 | [Java](#java)                                                     | zoom02        |                                                            |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                         | zoom03        |                                                            |
-| 16:00-18:00 | [Bootstrap (CSS)](#bootstrap-css)                                 | zoom04        |                                                            |
+| Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                                |
+|-------------|-------------------------------------------------------------------------|---------------|------------------------------------------------------------|
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        |                                                            |
+| 13:45-15:45 | [TypeScript](#typescript)                                               | zoom02        |                                                            |
+| 16:00-18:00 | [Anfängerworkshop Scratch](#anfängerworkshop-scratch)                   | zoom01        |                                                            |
+| 16:00-18:00 | [Java](#java)                                                           | zoom02        |                                                            |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom03        |                                                            |
+| 16:00-18:00 | [Responsive Websites mit Bootstrap](#responsive-websites-mit-bootstrap) | zoom04        |                                                            |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -109,7 +109,7 @@ TBD
 * Jan Holzweber
 
 
-## Bootstrap CSS
+## Responsive Websites mit Bootstrap
 
 Zeit: 16:00-18:00
 
