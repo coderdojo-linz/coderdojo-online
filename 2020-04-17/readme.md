@@ -100,11 +100,15 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wenn du schon immer Redstone Schaltungen selber entwerfen wolltest oder verstehen willst wie die Schaltungen funktionieren die du von Youtube kopierst ;) dann bist du hier genau richtig! Wir werden unseren Kurs fortsetzen, diesesmal mit:
+
+* Speicherzellen, wie kann ich Zustände in meinen Schaltungen abbilden
+* Taktgeber, wie kann ich regelmäßig meine Schaltung aktivieren
+* Impulsgeber, wie kann ich Signale auf Impulse umwandeln
 
 ### Voraussetzungen
 
-TBD
+Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1.15.2 installiert. Wir werden auf einem gemeinsamen Server unsere Übungen machen.
 
 ### Mentorinnen und Mentoren
 
