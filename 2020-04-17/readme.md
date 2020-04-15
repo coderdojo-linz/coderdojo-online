@@ -115,11 +115,14 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Letzte Woche haben wir eine Webseite mit CSS hübscher gestaltet und mit einigen Animationen versehen. Diese Woche starten wir mit der selben Webseite wie beim letzten Mal, verwenden aber [Bootstrap](https://getbootstrap.com/) um die Webseite zu gestalten. Wir verwenden das Grid System, um das Layout auf für mobile Devices anzupassen, und wir werden einige Komponenten wie z.B. das Karussell zum Durchblättern von Bildern einbauen.
 
 ### Voraussetzungen
 
-TBD
+* [Visual Studio Code](https://code.visualstudio.com/)
+* **mit folgenden Plugins**:
+  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### Mentorinnen und Mentoren
 
