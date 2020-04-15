@@ -43,11 +43,14 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+In diesem Workshop setzen wir uns im Detail mit Basiskonzepten von Programmiersprachen wie Variablen, Datentypen, Funktionen, Klassen, Ablauflogik etc. am Beispiel von TypeScript auseinander. Auch wenn du andere Programmiersprachen verwendest, kannst du das Wissen aus diesem Workshop dort sicher auch anwenden. Du bist hier richtig, wenn du mehr über die Hintergründe von Coding erfahren möchtest und Verständnis dafür gewinnen möchtest, was so manche Codezeilen, die du bisher aus unseren Beispielangaben kopiert hast, wirklich bedeuten.
 
 ### Voraussetzungen
 
-TBD
+* Programmiererfahrung (zumindest eine Menge Scratch, noch besser ein wenig HTML/CSS/JavaScript, Java, Python oder Ähnliches)
+* Mikrofon und idealerweise Webcam, da wir viel über Coding-Konzepte reden werden
+* [Node.js](https://nodejs.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Mentorinnen und Mentoren
 
