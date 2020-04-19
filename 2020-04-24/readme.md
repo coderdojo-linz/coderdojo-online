@@ -51,6 +51,8 @@ TBD
 
 ### Mentorinnen und Mentoren
 
+* Daniel
+
 TBD - Hat jemand Lust, einen Anfänger- oder Fortgeschrittenenworkshop zu machen?
 
 
