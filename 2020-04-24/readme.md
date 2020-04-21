@@ -11,9 +11,9 @@
 | 14:00-14:45 | Junior Bootcamp: [Erste Schritte mit R und yarrr](https://www.globalazurebootcamp.at/sessions/#187103) | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | 15:00-15:45 | Junior Bootcamp: [Amateurfunk als Hobby](https://www.globalazurebootcamp.at/sessions/#185213)          | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| TBD         | [Scratch](#scratch)                                                     |               |                                                   |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        |                                                   |
+| 13:45-15:45 | [Scratch](#scratch)                                                     | zoom02        |                                                   |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom01        |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -37,7 +37,7 @@ Günther und Michael
 
 ## Scratch
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
@@ -52,12 +52,10 @@ TBD
 
 * Daniel
 
-TBD - Hat jemand Lust, einen Anfänger- oder Fortgeschrittenenworkshop zu machen?
-
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
