@@ -13,7 +13,6 @@
 | 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
 | TBD         | [Scratch](#scratch)                                                     |               |                                                   |
-| TBD         | [Java](#java)                                                           |               |                                                   |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -52,24 +51,6 @@ TBD
 ### Mentorinnen und Mentoren
 
 TBD - Hat jemand Lust, einen Anfänger- oder Fortgeschrittenenworkshop zu machen?
-
-
-## Java
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-* [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/de-de/idea/download/#section=windows)
-* [Git](https://git-scm.com/download/win)
-
-### Mentorinnen und Mentoren
-
-TBD
 
 
 ## Minecraft Redstone
