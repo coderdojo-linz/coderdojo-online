@@ -11,7 +11,7 @@
 | 14:00-14:45 | Junior Bootcamp: [Erste Schritte mit R und yarrr](https://www.globalazurebootcamp.at/sessions/#187103) | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | 15:00-15:45 | Junior Bootcamp: [Amateurfunk als Hobby](https://www.globalazurebootcamp.at/sessions/#185213)          | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
 | TBD         | [Scratch](#scratch)                                                     |               |                                                   |
 | TBD         | [Java](#java)                                                           |               |                                                   |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
@@ -21,19 +21,19 @@ Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-li
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Wir Basteln und mit ein paar 5 Cent Münzen, Alufolie, Essig eine Batterie und bringen damit ein LED zum leuchten, danach werden wir das was wir gebaut haben in Tinkercad nachbauen, Rechnen, Simulieren und Messen. Anschliessend machen wir mit dem Arduion ein Messgerät für Spannungen von 0-5V und zeigen da auf einem Display an. 
 
 ### Voraussetzungen
 
-TBD
+Ein Computer mit [Tinkercad] (https://www.tinkercad.com) Zugang. 
 
 ### Mentorinnen und Mentoren
 
-TBD
+Günther und Michael 
 
 
 ## Scratch
