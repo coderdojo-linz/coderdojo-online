@@ -13,7 +13,7 @@
 | 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        |                                                   |
 | 13:45-15:45 | [Scratch](#scratch)                                                     | zoom02        |                                                   |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom01        |                                                   |
+| 17:00-19:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom01        |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
