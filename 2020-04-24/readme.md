@@ -55,11 +55,11 @@ TBD
 
 ## Minecraft Redstone
 
-Zeit: 16:00-18:00
+Zeit: 17:00-19:00
 
 ### Beschreibung
 
-TBD
+Diese Woche werden wir uns 3x3 Türen widmen. Wir werden uns verschiedene Designs ansehen, verstehen und gemeinsam bauen.
 
 ### Voraussetzungen
 
@@ -67,4 +67,6 @@ Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1
 
 ### Mentorinnen und Mentoren
 
-TBD
+Matthias
+Hans-Peter
+Jan
