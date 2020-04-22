@@ -28,7 +28,7 @@ Wir Basteln und mit ein paar 5 Cent Münzen, Alufolie, Essig eine Batterie und b
 
 ### Voraussetzungen
 
-Ein Computer mit [Tinkercad] (https://www.tinkercad.com) Zugang. 
+Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang. 
 
 ### Mentorinnen und Mentoren
 
