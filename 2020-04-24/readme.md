@@ -8,12 +8,12 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 14:00-14:45 | Junior Bootcamp: [Erste Schritte mit R und yarrr](https://www.globalazurebootcamp.at/sessions/#187103) | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
-| 15:00-15:45 | Junior Bootcamp: [Amateurfunk als Hobby](https://www.globalazurebootcamp.at/sessions/#185213)          | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
-| 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | n.a. | Siehe [Junior Bootcamp Seite](https://www.globalazurebootcamp.at/junior-bootcamp/) |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        |                                                   |
-| 13:45-15:45 | [Scratch](#scratch)                                                     | zoom02        |                                                   |
-| 17:00-19:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom01        |                                                   |
+| 14:00-14:45 | Junior Bootcamp: [Erste Schritte mit R und yarrr](https://www.globalazurebootcamp.at/sessions/#187103) | zoom01 | [https://zoom.us/j/98934769617?pwd=VlJjOEQ4Z1JVSmdJRWk4MHNCcVJ5UT09](https://zoom.us/j/98934769617?pwd=VlJjOEQ4Z1JVSmdJRWk4MHNCcVJ5UT09) |
+| 15:00-15:45 | Junior Bootcamp: [Amateurfunk als Hobby](https://www.globalazurebootcamp.at/sessions/#185213)          | zoom01 | [https://zoom.us/j/98149971916?pwd=eWhnZnArVlVGN1FzcjZxSm16TENyZz09](https://zoom.us/j/98149971916?pwd=eWhnZnArVlVGN1FzcjZxSm16TENyZz09) |
+| 16:00-16:45 | Junior Bootcamp: [Sicher durch die Firewall?](https://www.globalazurebootcamp.at/sessions/#185215)     | zoom01 | [https://zoom.us/j/95576490549?pwd=clJxMlJDZzBRMWxDSXlreGw1UW9TZz09](https://zoom.us/j/95576490549?pwd=clJxMlJDZzBRMWxDSXlreGw1UW9TZz09) |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom02        | [https://zoom.us/j/92539730609?pwd=ZFUrUzhVeUIrazB3alRaNk5yN3gydz09](https://zoom.us/j/92539730609?pwd=ZFUrUzhVeUIrazB3alRaNk5yN3gydz09)               |
+| 13:45-15:45 | [Scratch](#scratch)                                                     | zoom03        | [https://zoom.us/j/93092383676?pwd=b2JtTTF2YlNjMnVUNm1DSGpuNHlkZz09](https://zoom.us/j/93092383676?pwd=b2JtTTF2YlNjMnVUNm1DSGpuNHlkZz09)               |
+| 17:00-19:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom02        | [https://zoom.us/j/99742116537?pwd=V3VwR3ZLMFBzcXJPNW8vMkJiaGo4QT09](https://zoom.us/j/99742116537?pwd=V3VwR3ZLMFBzcXJPNW8vMkJiaGo4QT09)               |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
