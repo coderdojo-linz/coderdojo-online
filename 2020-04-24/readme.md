@@ -50,8 +50,7 @@ Natürlich darf ein Workshop für Anfänger*Innen und/oder Fortgeschrittene mit 
 
 ### Mentorinnen und Mentoren
 
-* Daniel
-* Walter
+Daniel und Walter
 
 
 ## Minecraft Redstone
