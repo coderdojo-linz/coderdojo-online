@@ -37,11 +37,11 @@ Günther und Michael
 
 ## Scratch
 
-Zeit: 16:00-18:00
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Natürlich darf ein Workshop für Anfänger*Innen und/oder Fortgeschrittene mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren. Wenn ihr schon Erfahrung habt, dann sehen wir uns ein schwierigeres Beispiel an.
 
 ### Voraussetzungen
 
@@ -51,6 +51,7 @@ TBD
 ### Mentorinnen und Mentoren
 
 * Daniel
+* Walter
 
 
 ## Minecraft Redstone
