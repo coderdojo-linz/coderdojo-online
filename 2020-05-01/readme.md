@@ -7,7 +7,7 @@
 |---------------|-----------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)         |               |                                                   |
 | TBD           | [Minecraft Redstone](#minecraft-redstone)                             |               |                                                   |
-| 16:00 - 18:00 | [dynamische Webseite mit Node.js](#dynamischeWebseite)                |               |                                                   |
+| 16:00 - 18:00 | [dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)    |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
