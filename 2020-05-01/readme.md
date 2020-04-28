@@ -5,13 +5,14 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Scratch Hacking mit Nodejs und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |               |                                                   |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
-## Scratch Hacking mit Nodejs und TypeScript
+## Scratch Hacking mit Node.js und TypeScript
 
 Zeit: 13:45-15:45
 
@@ -25,7 +26,6 @@ Die letzten Wochen haben wir uns Details rund um TypeScript angesehen. Diesmal w
 * Mikrofon und idealerweise Webcam, da wir viel über Coding-Konzepte reden werden
 * [Node.js](https://nodejs.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
-
 
 ### Mentorinnen und Mentoren
 
@@ -47,3 +47,30 @@ Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1
 ### Mentorinnen und Mentoren
 
 Matthias und Jan
+
+
+## Dynamische Webseite mit Node.js
+
+Zeit: 16:00 - 18:00
+
+### Beschreibung
+
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat.
+
+Wir werden uns den Unterschied zu statischen Webseiten erarbeiten und gemeinsam eine einfache dynamische Webseite mit Node.js bauen.
+
+### Voraussetzungen
+
+#### Grundlegende Kenntnisse
+
+* beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
+* HTML
+
+#### Software
+
+* einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
+* [Node.js](https://nodejs.org/en/download/)
+
+### Mentorinnen und Mentoren
+
+Thomas
