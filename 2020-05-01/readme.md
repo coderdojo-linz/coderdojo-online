@@ -5,9 +5,10 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
 | 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
+| 16:00-18:00 | [Scratch Open Space](#scratch-open-space)                               |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -76,3 +77,12 @@ Wir werden uns den Unterschied zu statischen Webseiten erarbeiten und gemeinsam 
 ### Mentorinnen und Mentoren
 
 Thomas
+
+
+## Scratch Open Space
+
+### Mentorinnen und Mentoren
+
+* Karin
+* Rainer
+* Daniel?
