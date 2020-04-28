@@ -5,28 +5,31 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Nodejs und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |               |                                                   |
 | TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| TBD         | TBD                                                                     |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
-## Virtuelles Elektronikbasteln
+## Scratch Hacking mit Nodejs und TypeScript
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Die letzten Wochen haben wir uns Details rund um TypeScript angesehen. Diesmal wenden wir das gelernte an, um Scratch zu hacken. Wir wollen mit Node.js und TypeScript computergenerierte Scratch-Spiele erzeugen und dabei etwas über den Umgang mit Dateien, JSON, Serialisierung von Daten etc. zu lernen. Scratch ist eine hervorragende, in TypeScript geschriebene Anwendung und wir möchten durch den Blick hinter die Kulissen von den Profis lernen, die Scratch entwickelt haben.
 
 ### Voraussetzungen
 
-TBD
+* Ein wenig Programmiererfahrung mit JavaScript, TypeScript, Java, C# oder einer ähnlichen Programmiersprache
+* Mikrofon und idealerweise Webcam, da wir viel über Coding-Konzepte reden werden
+* [Node.js](https://nodejs.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
 
 ### Mentorinnen und Mentoren
 
-Günther und Michael
+Rainer
 
 
 ## Minecraft Redstone
