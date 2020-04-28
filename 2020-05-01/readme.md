@@ -6,7 +6,7 @@
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |               |                                                   |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -34,11 +34,13 @@ Rainer
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Diese Woche beschäftigen wir uns mit versteckten Zugängen.
+* Lifte, Stiegen, Türen
+* Wie kann ich Türöffner/Schlüssel gut verstecken
 
 ### Voraussetzungen
 
