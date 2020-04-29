@@ -5,10 +5,10 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
-| 16:00-18:00 | [Scratch Open Space](#scratch-open-space)                               |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) | zoom01 | https://us02web.zoom.us/j/89069840267?pwd=M3BTT2JuTUdRa2NTOVM5T2VUOEFyUT09 |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom01        | https://us02web.zoom.us/j/82701702618?pwd=cjRUYnlkeEp2aFRJR2hVYis2b0kwUT09 |
+| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | zoom02        | https://us02web.zoom.us/j/83443070804?pwd=dDFlb3lGRXZ6Yk5zZUFVVkdhQkNlQT09 |
+| 16:00-18:00 | [Scratch Open Space](#scratch-open-space)                               | zoom03        | https://us02web.zoom.us/j/83951225879?pwd=MHNjcVlGRXMwY1RWeC84RFEwc21nUT09 |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
