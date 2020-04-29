@@ -81,6 +81,17 @@ Thomas
 
 ## Scratch Open Space
 
+Zeit: 16:00 - 18:00
+
+### Beschreibung
+
+Wir treffen uns zum Scratchen. Ihr könnt selbständig an Scratch-Projekten arbeiten und wir helfen euch bei Problemen. Keine Idee, welches Scratch-Projekt das richtige für dich ist? Wir suchen gerne mit dir ein für deine Erfahrung passendes aus unseren Übungsanleitungen. Falls Anfängerinnen und Anfänger dabei sind, die noch nie mit Scratch programmiert haben, helfen wir gerne bei den ersten Schritten.
+
+### Voraussetzungen
+
+* Installiertes [Scratch](https://scratch.mit.edu/download)
+* **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+
 ### Mentorinnen und Mentoren
 
 * Karin
