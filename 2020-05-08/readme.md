@@ -5,11 +5,11 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| TBD         | [Scratch](#scratch)                                                     |               |                                                   |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
+| TBD           | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
+| TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| TBD           | [Scratch](#scratch)                                                     |               |                                                   |
+| TBD           | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -90,13 +90,13 @@ Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1
 
 ## Dynamische Webseite mit Node.js
 
-Zeit: TBD
+Zeit: 16:00 - 18:00
 
 ### Beschreibung
 
 Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat.
 
-Wir werden uns den Unterschied zu statischen Webseiten erarbeiten und gemeinsam eine einfache dynamische Webseite mit Node.js bauen.
+Wir werden an unserer ChatApp weiterarbeiten.
 
 ### Voraussetzungen
 
@@ -109,6 +109,7 @@ Wir werden uns den Unterschied zu statischen Webseiten erarbeiten und gemeinsam 
 
 * einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
 * [Node.js](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/download/win)
 
 ### Mentorinnen und Mentoren
 
