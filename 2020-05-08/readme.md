@@ -5,18 +5,18 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD           | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
-| TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| TBD           | [Scratch](#scratch)                                                     |               |                                                   |
-| TBD           | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
+| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| 16:00-18:00 | [Von Scratch zu Python](#von-scratch-zu-python)                         |               |                                                   |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
 ## Scratch Hacking mit Node.js und TypeScript
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -32,6 +32,7 @@ Letzte Woche haben wir das Dateiformat von Scratch zerlegt und dabei etwas über
 ### Mentorinnen und Mentoren
 
 * Rainer
+* Karin
 
 
 ## Virtuelles Elektronikbasteln
@@ -52,22 +53,23 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 * Michael
  
 
-## Scratch
+## Von Scratch zu Python
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-Natürlich darf ein Workshop für Anfänger*Innen und/oder Fortgeschrittene mit Scratch im CoderDojo nicht fehlen. Wenn ihr noch nie mit Scratch gearbeitet habt, dann könnt ihr in diesem Workshop euer erstes Computerspiel programmieren. Wenn ihr schon Erfahrung habt, dann sehen wir uns ein schwierigeres Beispiel an.
+Viele von euch haben schon Erfahrung mit Scratch und sind neugierig, wie "richtiges", textuelles Programmieren funktioniert. Sonja zeigt euch in diesem Workshop erste Schritte in Python. Ihr baut ein kleines Programm in Scratch und anschließend übersetzt ihr es in Python. So lernt ihr, wie Scratch-Programmierbausteine in Python-Kommandos aussehen.
 
 ### Voraussetzungen
 
 * Installiertes [Scratch](https://scratch.mit.edu/download)
 * **oder** [Onlinevariante von Scratch](https://scratch.mit.edu/)
+* Aktuelle Version von [Python](https://www.python.org/downloads/)
 
 ### Mentorinnen und Mentoren
 
-TBD
+* Sonja
 
 
 ## Minecraft Redstone
