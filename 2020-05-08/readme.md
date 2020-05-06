@@ -5,11 +5,11 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| 16:00-18:00 | [Von Scratch zu Python](#von-scratch-zu-python)                         |               |                                                   |
-| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
+| 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) | zoom01 | https://us02web.zoom.us/j/84300080892?pwd=MjlReDBKL2p4N0xxNW9paERxSENSQT09 |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom02        | https://us02web.zoom.us/j/85413750768?pwd=OGNOZUdPVzRYemRmWEUwRURFNGYyQT09 |
+| 16:00-18:00 | [Von Scratch zu Python](#von-scratch-zu-python)                         | zoom01        | https://us02web.zoom.us/j/82665569429?pwd=SlVsVjFEY3BFVWlBU1NpUEFzVHQwdz09 |
+| 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               | zoom02        | https://us02web.zoom.us/j/85327277265?pwd=MXo1S0lUZEpJVW04T1hZbC9hT3Y4dz09 |
+| 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | zoom03        | https://us02web.zoom.us/j/88940936374?pwd=K2hLZWJRSXVyanRSTmJPaVNXVDg2QT09 |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
