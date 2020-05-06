@@ -6,7 +6,7 @@
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | 13:45-15:45 | [Scratch Hacking mit Node.js und TypeScript](#scratch-hacking-mit-nodejs-und-typescript) |  |                                               |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
 | 16:00-18:00 | [Von Scratch zu Python](#von-scratch-zu-python)                         |               |                                                   |
 | 16:00-18:00 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 16:00-18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
@@ -37,11 +37,11 @@ Letzte Woche haben wir das Dateiformat von Scratch zerlegt und dabei etwas über
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Wir messen wieder Strom und Spannung an einem Spannungsteiler. Danach basteln wir an einem LED Lauflicht mit dem Arduino. Wir stellen den Blockcode einen Textcode gegenüber und werden den Textcode optimieren.
 
 ### Voraussetzungen
 
