@@ -74,11 +74,11 @@ Viele von euch haben schon Erfahrung mit Scratch und sind neugierig, wie "richti
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Diese Woche werden wir einen Blick auf automatisierte Farmen werfen. Natürlich nur solche die auch einen Haufen Redstone beinhalten ;)
 
 ### Voraussetzungen
 
