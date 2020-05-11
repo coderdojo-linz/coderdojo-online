@@ -5,11 +5,11 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| TBD         | Scratch?                                                                |               |                                                   |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
+| TBD           | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
+| TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| TBD           | Scratch?                                                                |               |                                                   |
+| TBD           | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
+| 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -70,7 +70,7 @@ Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1
 
 ## Dynamische Webseite mit Node.js
 
-Zeit: TBD
+Zeit: 16:00 - 18:00
 
 ### Beschreibung
 
