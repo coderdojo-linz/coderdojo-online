@@ -6,7 +6,7 @@
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD           | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
-| TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
+| 13:45-15:45   | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
 | TBD           | Scratch?                                                                |               |                                                   |
 | TBD           | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
@@ -34,11 +34,11 @@ TBD
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Wir werden werden mit vier Widerständen einen sogenannte Messbrücke aufbauen und die Spannung und den Strom messen und die Effekte besprechen. Mit dem Arduino machen wir diesesmal einen Rauchmelder mit einem Gassensor und vergleichen den Blockcode mit den Textcode
 
 ### Voraussetzungen
 
