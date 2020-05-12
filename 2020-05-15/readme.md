@@ -7,7 +7,8 @@
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD           | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
 | 13:45-15:45   | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| TBD           | Scratch?                                                                |               |                                                   |
+| TBD           | Scratch?                                                                          |               |                                                   |
+| 16:00 - 18:00 | [Python](#python)                                                      |               |                                                   |
 | TBD           | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 
@@ -49,6 +50,21 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 * Günther
 * Michael
 
+## Python
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Nachdem wir letzte Woche erste Schritte in Python gemacht haben, werden wir dieses Mal mit Tkinter einen Alien zeichnen und programmieren.
+
+### Voraussetzungen
+
+* Aktuelle Version von [Python](https://www.python.org/downloads/)
+
+### Mentorinnen und Mentoren
+
+* Sonja
 
 ## Minecraft Redstone
 
