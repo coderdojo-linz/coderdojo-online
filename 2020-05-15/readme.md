@@ -84,11 +84,12 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Auf einem virtuellen oder wenn bei euch vorhanden echten Micro:bit werden wir ein Einsteiger gerechtes Projekt gemeinsam umsetzen und wenn Zeit bleibt einfach weiter dran tüfteln.
 
 ### Voraussetzungen
 
-TBD
+* Installiertes [MakeCode for micro:bit](https://www.microsoft.com/store/apps/9pjc7sv48lcx)
+* **oder** [Onlinevariante von MakeCode for micro:bit](https://makecode.microbit.org/)
 
 ### Mentorinnen und Mentoren
 
