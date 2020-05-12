@@ -7,7 +7,7 @@
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| 13:45-15:45 | [Minecraft Redstone ?](#minecraft-redstone)                             |               |                                                   |
+| 13:45-15:45 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
 | 13:45-15:45 | [Microbit Einsteiger](#microbit-einsteiger)                             |               |                                                   |
 | 16:00-18:00 | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
 | 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |                                                   |
