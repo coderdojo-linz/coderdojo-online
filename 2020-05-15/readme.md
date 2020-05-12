@@ -137,7 +137,7 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Du hast schon deine ersten Projekte mit Scratch hinter dir? Wir werden diesmal den Klassiker Pacman in Scratch realisieren.
 
 ### Voraussetzungen
 
