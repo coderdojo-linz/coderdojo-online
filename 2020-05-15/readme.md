@@ -5,13 +5,13 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                                                   |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                   |
-| 13:45-15:45 | [Minecraft Redstone](#minecraft-redstone)                               |               |                                                   |
-| 13:45-15:45 | [Microbit Einsteiger](#microbit-einsteiger)                             |               |                                                   |
-| 16:00-18:00 | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   |               |                                                   |
-| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |                                                   |
-| 16:00-18:00 | [Scratch](#scratch)                                                     |               |                                                   |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | zoom01        | https://us02web.zoom.us/j/81407411826?pwd=SVlNWlJuTmIvaitEaHhjT3hDenljZz09 |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom02        | https://us02web.zoom.us/j/88265661736?pwd=aFUrUHRFQ3U5OFRPQ2Q3aWd2UWdLUT09 |
+| 13:45-15:45 | [Minecraft Redstone](#minecraft-redstone)                               | zoom03        | https://us02web.zoom.us/j/84022879780?pwd=RiszWmpPM1oyL1h4Nmh5ZDN4c21QUT09 |
+| 13:45-15:45 | [Microbit Einsteiger](#microbit-einsteiger)                             | zoom04        | https://us02web.zoom.us/j/84399293341?pwd=dkV1VGErU1F4TjAyTXJUdFMwRit4dz09 |
+| 16:00-18:00 | [Web-Entwicklung mit Hugo](#web-entwicklung-mit-Hugo)                   | zoom01        | https://us02web.zoom.us/j/81510541132?pwd=UnU3aTNiRlgvOUtzZ0ZvZWxjRThodz09 |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   | zoom02        | https://us02web.zoom.us/j/82206885442?pwd=UTBZT2s5bXhxamZwSG1EMjBndXR5UT09 |
+| 16:00-18:00 | [Scratch Packman](#scratch-pacman)                                      | zoom03        | https://us02web.zoom.us/j/84433172231?pwd=aWh2b2plQmNqSWhYYllNbWNVdU1hQT09 |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -106,11 +106,12 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wenn du schon etwas Ahnung von HTML und CSS hast, kannst du mit Karin in diesem Workshop lernen, wie man hübsche und vor allem schnelle Webseiten erstellen kann. Karin zeigt, wie der Open-Source Webseiten-Generator *Hugo* funktioniert und man damit seine Homepage wie ein echter Profi aufbaut.
 
 ### Voraussetzungen
 
-TBD 
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Hugo herunterladen](https://github.com/gohugoio/hugo/releases/tag/v0.70.0)
 
 ### Mentorinnen und Mentoren
 
@@ -135,7 +136,7 @@ Nachdem wir letzte Woche erste Schritte in Python gemacht haben, werden wir dies
 * Sonja
 
 
-## Scratch
+## Scratch Pacman
 
 Zeit: 16:00-18:00
 
