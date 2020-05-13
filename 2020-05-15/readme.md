@@ -70,7 +70,7 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Diese Woche wird es wieder technischer! Wir werden uns verschiedene Kombinationsschlösser ansehen, die schnell sehr kompliziert werden können :)
 
 ### Voraussetzungen
 
