@@ -31,6 +31,10 @@ Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu
 * beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
 * HTML
 
+### Installationsanleitung
+
+Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200515).
+
 #### Software
 
 * einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
