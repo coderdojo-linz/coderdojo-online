@@ -104,11 +104,12 @@ Ihr braucht einen offiziellen Minecraft Account und die Java-Minecraft Version 1
 
 ## Scratch Pacman
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Fortsetzung des PacMan in Scratch vom letzen mal. Für alle die neu dazukommen werde ich unseren aktuellen Stand als SB3-Datei weitergeben, sodass ihr gleich mit
+einsteigen könnt. Diesmal werden wir dafür sorgen dass die Geister auf der Bildfläche erscheinen und PacMan auch endlich mal was zu Essen bekommt :).
 
 ### Voraussetzungen
 
