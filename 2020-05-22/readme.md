@@ -6,10 +6,10 @@
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |   |   |
-| TBD           | [Heap, Stack und Rekursion](#heap-stack-und-rekursion)                  |   |   |
+| 13:45 - 15:45 | [Heap, Stack und Rekursion](#heap-stack-und-rekursion)                  |   |   |
 | TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |   |   |
 | TBD           | [Minecraft Redstone](#minecraft-redstone)                               |   |   |
-| TBD           | [Scratch Packman](#scratch-pacman)                                      |   |   |
+| 16:00 - 18:00 | [Scratch Packman](#scratch-pacman)                                      |   |   |
 | TBD           | TBD                                                                     |   |   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
