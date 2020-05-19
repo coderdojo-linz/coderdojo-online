@@ -5,23 +5,25 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |   |   |
-| TBD         | [Heap, Stack und Rekursion](#heap-stack-und-rekursion)                  |   |   |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |   |   |
-| TBD         | [Minecraft Redstone](#minecraft-redstone)                               |   |   |
-| TBD         | [Scratch Packman](#scratch-pacman)                                      |   |   |
-| TBD         | TBD                                                                     |   |   |
+| 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |   |   |
+| TBD           | [Heap, Stack und Rekursion](#heap-stack-und-rekursion)                  |   |   |
+| TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |   |   |
+| TBD           | [Minecraft Redstone](#minecraft-redstone)                               |   |   |
+| TBD           | [Scratch Packman](#scratch-pacman)                                      |   |   |
+| TBD           | TBD                                                                     |   |   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
 ## Dynamische Webseite mit Node.js
 
-Zeit: TBD
+Zeit: 16:00 - 18:00
 
 ### Beschreibung
 
-Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. Wir werden an unserer ChatApp weiterarbeiten.
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. 
+
+Dieses Mal sehen wir uns an, wie man am Server eine Datenbank benutzt und deren Daten am Client anzeigt.
 
 ### Voraussetzungen
 
@@ -32,7 +34,7 @@ Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu
 
 ### Installationsanleitung
 
-Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200515).
+Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200522).
 
 #### Software
 
