@@ -8,7 +8,7 @@
 | 16:00 - 18:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |   |   |
 | 13:45 - 15:45 | [Heap, Stack und Rekursion](#heap-stack-und-rekursion)                  |   |   |
 | TBD           | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |   |   |
-| TBD           | [Minecraft Redstone](#minecraft-redstone)                               |   |   |
+| 13:34 - 15:45 | [Minecraft Redstone](#minecraft-redstone)                               |   |   |
 | 16:00 - 18:00 | [Scratch Packman](#scratch-pacman)                                      |   |   |
 | TBD           | TBD                                                                     |   |   |
 
@@ -86,11 +86,11 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ## Minecraft Redstone
 
-Zeit: TBD
+Zeit: 13:45 - 15:45
 
 ### Beschreibung
 
-TBD
+Teil 2 unserer Kombination-locks! Diesesmal versuchen wir uns an Locks die Buttons als Eingabe verwenden. Das macht das ganze um einiges Komplizierter, wie ihr merken werdet ;)
 
 ### Voraussetzungen
 
