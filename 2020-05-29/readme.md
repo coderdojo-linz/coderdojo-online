@@ -8,7 +8,7 @@
 | TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |   |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
 | TBD         | HTML & CSS Hands-On                                                     |               |   |
-| TBD         | ??                                                                      |               |   |
+| TBD         | [Micro:bit Workshop](#microbit-workshop)                                |               |   |
 | TBD         | ??                                                                      |               |   |
 | TBD         | ??                                                                      |               |   |
 
@@ -85,3 +85,21 @@ In diesem Workshop werden wir ausführlich die Basics von HTML und CSS üben:
 
 * Karin
 * Rainer
+
+
+## Microbit Workshop
+
+Zeit: TBD
+
+### Beschreibung
+
+Wir basteln gemeinsam an einer Micro:bit Wetterstation.
+
+### Voraussetzungen
+
+* Installiertes [MakeCode for micro:bit](https://www.microsoft.com/store/apps/9pjc7sv48lcx)
+* **oder** [Onlinevariante von MakeCode for micro:bit](https://makecode.microbit.org/)
+
+### Mentorinnen und Mentoren
+
+* Daniel
