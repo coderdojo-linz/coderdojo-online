@@ -67,6 +67,7 @@ Wir basteln gemeinsam an einer Micro:bit Wetterstation.
 
 * Installiertes [MakeCode for micro:bit](https://www.microsoft.com/store/apps/9pjc7sv48lcx)
 * **oder** [Onlinevariante von MakeCode for micro:bit](https://makecode.microbit.org/)
+* zwei "echte" Micro:bit oder der in MakeCode eingebaute Emulator
 
 ### Mentorinnen und Mentoren
 
