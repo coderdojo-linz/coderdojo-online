@@ -7,7 +7,7 @@
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |   |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
-| TBD         | ??                                                                      |               |   |
+| TBD         | HTML & CSS Hands-On                                                     |               |   |
 | TBD         | ??                                                                      |               |   |
 | TBD         | ??                                                                      |               |   |
 | TBD         | ??                                                                      |               |   |
@@ -61,3 +61,27 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 * Günther
 * Michael
+
+## HTML & CSS Hands-On
+
+Zeit: TBD
+
+### Beschreibung
+
+In diesem Workshop werden wir ausführlich die Basics von HTML und CSS üben:
+
+* welche HTML Elemente gibt es
+* wie kann ich sie positionieren
+* welche CSS Selektoren gibt es
+* wie kann ich die Darstellung für verschiedene Display-Größen anpassen
+* Variablen in CSS
+* wie kann ich in CSS rechnen
+
+### Voraussetzungen
+
+* ein wenig Erfahrung mit HTML & CSS
+
+### Mentoren
+
+* Karin
+* Rainer
