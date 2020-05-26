@@ -8,6 +8,7 @@
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
 | TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |               |   |
 | TBD         | [Micro:bit Workshop](#microbit-workshop)                                |               |   |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |   |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -72,3 +73,23 @@ Wir basteln gemeinsam an einer Micro:bit Wetterstation.
 ### Mentorinnen und Mentoren
 
 * Daniel
+
+## Python für AnfängerInnen
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Wir starten mit dem Spiel "Bubble Blaster". Dazu programmieren wir in Tkinter ein U-Boot, mit dem man so viele Blasen wie möglich zum Platzen bringen soll. 
+
+### Voraussetzungen
+
+* Aktuelle Version von [Python](https://www.python.org/downloads/)
+
+### Mentorinnen und Mentoren
+
+* Sonja
+
+
+
+
