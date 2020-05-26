@@ -80,7 +80,7 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-Wir starten mit dem Spiel "Bubble Blaster". Dazu programmieren wir in Tkinter ein U-Boot, mit dem man so viele Blasen wie möglich zum Platzen bringen soll. 
+Wir starten mit dem Spiel "Bubble Blaster". Dazu programmieren wir mit Tkinter in Python ein U-Boot, mit dem man so viele Blasen wie möglich zum Platzen bringen soll. 
 
 ### Voraussetzungen
 
