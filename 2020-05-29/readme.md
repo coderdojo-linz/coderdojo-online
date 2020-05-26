@@ -5,10 +5,11 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
-| TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |               |   |
-| TBD         | [Micro:bit Workshop](#microbit-workshop)                                |               |   |
-| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | zoom01        | https://us02web.zoom.us/j/82377686889?pwd=VERMbURKTnRHRDQvNVpWRy83TWlMdz09 |
+| 13:45-15:45 | [HTML & CSS Hands-On](#html--css-hands-on)                              | zoom04        | https://us02web.zoom.us/j/89640081964?pwd=RDFtMjBrdWxzeXpkSEpqYlNMZWdZdz09 |
+| 13:45-15:45 | [Micro:bit Workshop](#microbit-workshop)                                | zoom03        | https://us02web.zoom.us/j/82813503653?pwd=WHNpVkMwRjE1YW5tMXNTWCtaSWQrZz09 |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   | zoom02        | https://us02web.zoom.us/j/84882434331?pwd=a1JIaC9QbmErNzUyanM0Y3pjVVJHdz09 |
+| 16:00-18:00 | [Unity Moonhack](#unity-moonhack)                                       | zoom01        | https://us02web.zoom.us/j/85099735480?pwd=MmN1dUd5WDBBdzJIcy9SRS9MQUNVQT09 |
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -33,7 +34,7 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ## HTML & CSS Hands-On
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -58,11 +59,11 @@ In diesem Workshop werden wir ausführlich die Basics von HTML und CSS üben:
 
 ## Microbit Workshop
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Wir basteln gemeinsam an einer Micro:bit Wetterstation.
+Wir basteln gemeinsam an einer Micro:bit Wetterstation. Das richtige Projekt für die von euch, die schon etwas Erfahrung mit Programmieren mit Scratch oder Mirco:bit haben.
 
 ### Voraussetzungen
 
@@ -73,6 +74,7 @@ Wir basteln gemeinsam an einer Micro:bit Wetterstation.
 ### Mentorinnen und Mentoren
 
 * Daniel
+
 
 ## Python für AnfängerInnen
 
@@ -91,5 +93,18 @@ Wir starten mit dem Spiel "Bubble Blaster". Dazu programmieren wir mit Tkinter i
 * Sonja
 
 
+## Unity Moonhack
 
+Zeit: 16:00-18:00
 
+### Beschreibung
+
+TBD
+
+### Voraussetzungen
+
+TBD
+
+### Mentorinnen und Mentoren
+
+* Hans-Peter
