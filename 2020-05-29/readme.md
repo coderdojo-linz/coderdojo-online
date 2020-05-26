@@ -7,7 +7,7 @@
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |   |
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
-| TBD         | [HTML & CSS Hands-On](#html-css-hands-on)                               |               |   |
+| TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |               |   |
 | TBD         | [Micro:bit Workshop](#microbit-workshop)                                |               |   |
 | TBD         | ??                                                                      |               |   |
 | TBD         | ??                                                                      |               |   |
