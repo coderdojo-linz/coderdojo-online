@@ -5,7 +5,7 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |   |
 | TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |               |   |
 | TBD         | [Micro:bit Workshop](#microbit-workshop)                                |               |   |
 
@@ -14,11 +14,11 @@ Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-li
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Wir machen in der ersten halben Stunden Grundlagen mit einer Batterie, Widerständen, Ampere und Voltmeter und schauen mal was da so alles passiert. Dann werden wir eine Arduionschaltung, die wir schon mal gemacht haben wiederholen und erweitern.
 
 ### Voraussetzungen
 
