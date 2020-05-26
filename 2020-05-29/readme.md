@@ -99,11 +99,15 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Das Spiel Moonhack kennt ihr vielleicht schon vom Beispiel Scratch Moonhack.
+Diesmal werden wir versuchen das gleiche Spiel mit Unity zu realisieren.
 
 ### Voraussetzungen
 
-TBD
+Bitte installier dir schon vor dem Coderdojo folgende Dinge:
+- [Unity 2019.3](https://store.unity.com/) (oder eine aktuellere - du wirst dafür einen Account bei Unity anlegen müssen - nimm bitte die Induvidual/Personal Version) 
+- [Visual Studio 2019 Community](https://visualstudio.microsoft.com/de/vs/unity-tools/)
+
 
 ### Mentorinnen und Mentoren
 
