@@ -20,7 +20,7 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Wir machen in der ersten halben Stunden Grundlagen mit einer Batterie, Widerständen, Ampere und Voltmeter und schauen mal was da so alles passiert. Dann werden wir eine Arduionschaltung, die wir schon mal gemacht haben wiederholen und erweitern.
+Wir machen in der ersten halben Stunde Grundlagen mit einer Batterie, Widerständen, Ampere und Voltmeter und schauen mal was da so alles passiert. Dann werden wir eine Arduionschaltung, die wir schon mal gemacht haben wiederholen und erweitern.
 
 ### Voraussetzungen
 
