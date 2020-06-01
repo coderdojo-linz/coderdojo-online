@@ -8,7 +8,7 @@
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |         |   |
 | TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |         |   |
 | TBD         | [Micro:bit Workshop](#microbit-workshop)                                |         |   |
-| TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |         |   |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |         |   |
 | TBD         | [Unity Moonhack](#unity-moonhack)                                       |         |   |
 | TBD         | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | | |
 | TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c) | | |
@@ -74,11 +74,12 @@ TBD
 
 ## Python für AnfängerInnen
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Wir haben letztes Mal mit dem Spiel "Bubble Blaster" begonnen und gelernt wie man ein U-Boot mit Pfeiltasten steuern kann. Dieses Mal erzeugen wir Bubbles, die über den Bildschirm wandern. Ziel des Spiel ist es, möglichst viele Bubbles mit dem U-Boot zu treffen.
+Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
 
 ### Voraussetzungen
 
