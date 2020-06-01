@@ -28,6 +28,10 @@ Optional kann man danach einem anderen Benutzer (z.B. persönlichem Zoom-Benutze
 
 Beim Anlegen von Online CoderDojo Zoom Meetings könnt ihr optional die jeweils anderen Zoom-Benutzer als *alternative Hosts* eintragen. Wenn man also z.B. ein Meeting mit *zoom01* anlegt, kann man *zoom02* bis *zoom04* als alternative Hosts eintragen.
 
+## Host Key
+
+Falls ihr einen eigenen Zoom-User habt und diesen verwenden wollt/müsst, könnt ihr bei Rainer den *Host Key* für den jeweiligen User erfragen. Mit diesem Key könnt ihr die Host-Rolle im Meeting mit eurem persönlichen Zoom-User übernehmen und müsst euch nicht mit zoom*xx*@linz.coderdojo.net einloggen.
+
 ## Einschränkungen
 
 Wir haben momentan vier Zoom-Hosts. Das heißt, dass maximal vier Zoom-Meetings gleichzeitig laufen können.
