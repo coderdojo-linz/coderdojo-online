@@ -12,7 +12,7 @@
 | TBD         | [Unity Moonhack](#unity-moonhack)                                       |         |   |
 | TBD         | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | | |
 | TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c) | | |
-| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | zoom01 | https://us02web.zoom.us/j/81130037599?pwd=eXNVZnlvb25qNXNOWm9LL2dORTk4Zz09 |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |         |   |
 
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
