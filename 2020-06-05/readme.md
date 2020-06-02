@@ -154,7 +154,9 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. Dieses Mal implementieren wir die beiden noch fehlenden CRUD-Operationen (create, read, update, delete) um Einträge in der FeuerwehrApp ändern und löschen zu können.
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. 
+
+Dieses Mal implementieren wir die beiden noch fehlenden CRUD-Operationen (create, read, update, delete) um Einträge in der FeuerwehrApp ändern und löschen zu können. Weiters sehen wir uns an, wie man die empfangenen Daten mit Javascript als Tabelle darstellt und diese mit einer Filterfunktion versieht. Falls noch Zeit bleibt, können wir beginnen die ChatApp und die FeuerwehrApp in einem gemeinsame App zu integrieren.
 
 ### Voraussetzungen
 
