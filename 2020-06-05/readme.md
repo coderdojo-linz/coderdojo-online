@@ -7,7 +7,6 @@
 |-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |         |   |
 | TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |         |   |
-| TBD         | [Micro:bit Workshop](#microbit-workshop)                                |         |   |
 | 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |         |   |
 | TBD         | [Unity Moonhack](#unity-moonhack)                                       |         |   |
 | TBD         | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | | |
@@ -52,25 +51,6 @@ TBD (Fortsetzung von letzter Woche)
 
 * Karin
 * Rainer
-
-
-## Microbit Workshop
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-* Installiertes [MakeCode for micro:bit](https://www.microsoft.com/store/apps/9pjc7sv48lcx)
-* **oder** [Onlinevariante von MakeCode for micro:bit](https://makecode.microbit.org/)
-* zwei "echte" Micro:bit oder der in MakeCode eingebaute Emulator
-
-### Mentorinnen und Mentoren
-
-* Daniel
 
 
 ## Python für AnfängerInnen
