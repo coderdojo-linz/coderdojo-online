@@ -1,25 +1,21 @@
 # 5. Juni 2020
 
-
 ## Überblick
 
-| Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                       |
-|-------------|-------------------------------------------------------------------------|---------------|---------------------------------------------------|
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |         |   |
-| TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                              |         |   |
-| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |         |   |
-| TBD         | [Unity Moonhack](#unity-moonhack)                                       |         |   |
-| TBD         | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | | |
-| TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c) | | |
-| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |         |   |
+| Zeit        | Thema                                                                           | Zoom-Benutzer | Zugangslink |
+| ----------- | ------------------------------------------------------------------------------- | ------------- | ----------- |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)                   |               |             |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                           |               |             |
+| 13:45-15:45 | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) |               |             |
+| 16:00-18:00 | [Discord-Bot-mit-C#](#discord-bot-mit-c)                                        |               |             |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)              |               |             |
 
-
-Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
+Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -27,12 +23,11 @@ TBD
 
 ### Voraussetzungen
 
-Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang. 
+Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ### Mentorinnen und Mentoren
 
-* Günther
-* Michael
+- Günther
 
 
 ## HTML & CSS Hands-On
@@ -45,12 +40,12 @@ TBD (Fortsetzung von letzter Woche)
 
 ### Voraussetzungen
 
-* ein wenig Erfahrung mit HTML & CSS
+- ein wenig Erfahrung mit HTML & CSS
 
 ### Mentoren
 
-* Karin
-* Rainer
+- Karin
+- Rainer
 
 
 ## Python für AnfängerInnen
@@ -64,31 +59,11 @@ Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Ma
 
 ### Voraussetzungen
 
-* Aktuelle Version von [Python](https://www.python.org/downloads/)
+- Aktuelle Version von [Python](https://www.python.org/downloads/)
 
 ### Mentorinnen und Mentoren
 
-* Sonja
-
-
-## Unity Moonhack
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-Bitte installier dir schon vor dem Coderdojo folgende Dinge:
-- [Unity 2019.3](https://store.unity.com/) (oder eine aktuellere - du wirst dafür einen Account bei Unity anlegen müssen - nimm bitte die Induvidual/Personal Version) 
-- [Visual Studio 2019 Community](https://visualstudio.microsoft.com/de/vs/unity-tools/)
-
-
-### Mentorinnen und Mentoren
-
-* Hans-Peter
+- Sonja
 
 
 ## Mein erstes Computerspiel mit Scratch
@@ -101,20 +76,20 @@ Du hast noch nie programmiert, bist aber neugierig wie das geht? In diesem Works
 
 ### Voraussetzungen
 
-* **Keine** Vorkenntnisse über Programmieren notwendig
-* Wenn Kinder lesen können, können sie an diesem Workshop teilnehmen.
-* Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-* Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
-* Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+- **Keine** Vorkenntnisse über Programmieren notwendig
+- Wenn Kinder lesen können, können sie an diesem Workshop teilnehmen.
+- Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+- Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
+- Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
 
 ### Mentorinnen und Mentoren
 
-* Rainer
+- Rainer
 
 
-## Discord-Bot-mit-C#
+## Discord Bot mit C#
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
@@ -122,11 +97,13 @@ TBD
 
 ### Voraussetzungen
 
-TBD
+* Visual Studio Community
+* .NET Core
 
 ### Mentorinnen und Mentoren
 
-Jonas
+* Jonas
+
 
 ## Dynamische Webseite mit Node.js
 
@@ -134,7 +111,7 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. 
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat.
 
 Dieses Mal implementieren wir die beiden noch fehlenden CRUD-Operationen (create, read, update, delete) um Einträge in der FeuerwehrApp ändern und löschen zu können. Weiters sehen wir uns an, wie man die empfangenen Daten mit Javascript als Tabelle darstellt und diese mit einer Filterfunktion versieht. Falls noch Zeit bleibt, können wir beginnen die ChatApp und die FeuerwehrApp in einem gemeinsame App zu integrieren.
 
@@ -142,8 +119,8 @@ Dieses Mal implementieren wir die beiden noch fehlenden CRUD-Operationen (create
 
 #### Grundlegende Kenntnisse
 
-* beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
-* HTML
+- beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
+- HTML
 
 ### Installationsanleitung
 
@@ -151,10 +128,10 @@ Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So 
 
 #### Software
 
-* einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
-* [Node.js](https://nodejs.org/en/download/)
-* [Git](https://git-scm.com/download/win)
+- einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
+- [Node.js](https://nodejs.org/en/download/)
+- [Git](https://git-scm.com/download/win)
 
 ### Mentorinnen und Mentoren
 
-* Thomas
+- Thomas
