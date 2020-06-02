@@ -12,6 +12,7 @@
 | TBD         | [Unity Moonhack](#unity-moonhack)                                       |         |   |
 | TBD         | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | | |
 | TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c) | | |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | zoom01 | https://us02web.zoom.us/j/81130037599?pwd=eXNVZnlvb25qNXNOWm9LL2dORTk4Zz09 |
 
 
 Hinweis: Für *Zoom-Benutzer* siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -146,3 +147,32 @@ TBD
 ### Mentorinnen und Mentoren
 
 Jonas
+
+## Dynamische Webseite mit Node.js
+
+Zeit: 13:45-15:45
+
+### Beschreibung
+
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. Dieses Mal implementieren wir die beiden noch fehlenden CRUD-Operationen (create, read, update, delete) um Einträge in der FeuerwehrApp ändern und löschen zu können.
+
+### Voraussetzungen
+
+#### Grundlegende Kenntnisse
+
+* beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
+* HTML
+
+### Installationsanleitung
+
+Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200605).
+
+#### Software
+
+* einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
+* [Node.js](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/download/win)
+
+### Mentorinnen und Mentoren
+
+* Thomas
