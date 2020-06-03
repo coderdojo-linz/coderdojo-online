@@ -4,11 +4,11 @@
 
 | Zeit        | Thema                                                                           | Zoom-Benutzer | Zugangslink |
 | ----------- | ------------------------------------------------------------------------------- | ------------- | ----------- |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)                   |               |             |
-| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                           |               |             |
-| 13:45-15:45 | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) |               |             |
-| 16:00-18:00 | [Discord-Bot-mit-C#](#discord-bot-mit-c)                                        |               |             |
-| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)              |               |             |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)                   | zoom01        | https://us02web.zoom.us/j/84139135484?pwd=WGRWbEZ0cjY0Rit2SVVxSWFuUmhyUT09 |
+| 13:45-15:45 | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | zoom02        |             |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)              | zoom03        |             |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                           | zoom04        |             |
+| 16:00-18:00 | [Discord-Bot-mit-C#](#discord-bot-mit-c)                                        | zoom01        | https://us02web.zoom.us/j/85874187975?pwd=Vm85ZTB2T0owa1RKVE5NMkxLdGN5dz09 |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
