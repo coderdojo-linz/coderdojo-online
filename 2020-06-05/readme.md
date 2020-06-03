@@ -96,12 +96,21 @@ Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+Du wolltest schon immer mal deinen eigenen Discord Bot machen? Dann ist das genau der richtige Workshop für dich!
+In unserer ersten Session werden wir einen Bot programmieren, der uns auf Kommando süße Katzenbilder zusendet oder uns mit lustigen Witzen unterhält!
+Ideen und Vorschläge könnt ihr gerne vor oder während des Workshops bei mir ( @El'Capitano#5113 ) abgeben :) 
 
 ### Voraussetzungen
 
 * Visual Studio Community
 * .NET Core
+
+##### Nice  To Haves/Know (Optional)
+* [Postman]( https://www.postman.com/downloads/ )
+* [Quicktype](https://app.quicktype.io)
+
+##### Kann ich mich irgendwie auf den Workshop vorbereiten?
+Ja! Du kannst dir, wenn du möchtest schonmal einen Einblick im tollen Text-Tutorial der Bot-Autoren verschaffen! (Keine Angst, wir werden das auch im Workshop nochmal durchgehen ;) ) [Discord.Net Einsteiger Tutorial](https://discord.foxbot.me/latest/guides/getting_started/installing.html)
 
 ### Mentorinnen und Mentoren
 
