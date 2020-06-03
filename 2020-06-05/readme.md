@@ -19,7 +19,10 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Diesen Freitag starten wir mit der Lösung von Serien- und Parallelschaltung von Widerständen. Wir bauen die Schaltung im TinkerCAD nach und überprüfen die berechneten Ergebnisse mit dem Multimeter. Das Ohmsche Gesetz kommt auch wieder vor. Diese Übung ist auch für Anfänger geeignet. Vorbereiten kannst Du Dich auf unserer Hompage unter dem Menüpunkt [Löten](https://linz.coderdojo.net/infos/loeten.html#%C3%BCbungen-l%C3%B6ten) mit den *Elektronikübungen 1/2/3*.
+
+Im zweiten Teil werden wir wieder mit dem Arduino eine Schaltung bauen. Dieses Mal steuern wir eine bunte Led-Reihe von Neopixel an. Wir starten mit der Block Programmierung und schalten danach auf den Programmtext um. Dieses Beispiel eignet sich super für eigene LED Projekte. Viel Spaß
+
 
 ### Voraussetzungen
 
