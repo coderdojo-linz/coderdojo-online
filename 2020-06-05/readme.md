@@ -2,12 +2,12 @@
 
 ## Überblick
 
-| Zeit        | Thema                                                                           | Zoom-Benutzer | Zugangslink |
-| ----------- | ------------------------------------------------------------------------------- | ------------- | ----------- |
+| Zeit        | Thema                                                                           | Zoom-Benutzer | Zugangslink                                                                |
+| ----------- | ------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------- |
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)                   | zoom01        | https://us02web.zoom.us/j/84139135484?pwd=WGRWbEZ0cjY0Rit2SVVxSWFuUmhyUT09 |
-| 13:45-15:45 | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | zoom02        |             |
-| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)              | zoom03        |             |
-| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                           | zoom04        |             |
+| 13:45-15:45 | [Mein erstes Computerspiel mit Scratch](#mein-erstes-computerspiel-mit-scratch) | zoom02        | https://us02web.zoom.us/j/83084810683?pwd=MTJYbmgya1hXSjBwdHRIWFk3QlZQZz09 |
+| 13:45-15:45 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)              | zoom03        | https://us02web.zoom.us/j/81648902295?pwd=UWRkVEZiRC8xM2dGQ0pBTENzdTFzdz09 |
+| 16:00-18:00 | [Python für AnfängerInnen](#python-für-anfängerinnen)                           | zoom04        | https://us02web.zoom.us/j/89358979222?pwd=TWRnMzBlVzJzNngvWEUyZlhPQytSdz09 |
 | 16:00-18:00 | [Discord-Bot-mit-C#](#discord-bot-mit-c)                                        | zoom01        | https://us02web.zoom.us/j/85874187975?pwd=Vm85ZTB2T0owa1RKVE5NMkxLdGN5dz09 |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -19,10 +19,9 @@ Zeit: 13:45-15:45
 
 ### Beschreibung
 
-Diesen Freitag starten wir mit der Lösung von Serien- und Parallelschaltung von Widerständen. Wir bauen die Schaltung im TinkerCAD nach und überprüfen die berechneten Ergebnisse mit dem Multimeter. Das Ohmsche Gesetz kommt auch wieder vor. Diese Übung ist auch für Anfänger geeignet. Vorbereiten kannst Du Dich auf unserer Hompage unter dem Menüpunkt [Löten](https://linz.coderdojo.net/infos/loeten.html#%C3%BCbungen-l%C3%B6ten) mit den *Elektronikübungen 1/2/3*.
+Diesen Freitag starten wir mit der Lösung von Serien- und Parallelschaltung von Widerständen. Wir bauen die Schaltung im TinkerCAD nach und überprüfen die berechneten Ergebnisse mit dem Multimeter. Das Ohmsche Gesetz kommt auch wieder vor. Diese Übung ist auch für Anfänger geeignet. Vorbereiten kannst Du Dich auf unserer Hompage unter dem Menüpunkt [Löten](https://linz.coderdojo.net/infos/loeten.html#%C3%BCbungen-l%C3%B6ten) mit den _Elektronikübungen 1/2/3_.
 
 Im zweiten Teil werden wir wieder mit dem Arduino eine Schaltung bauen. Dieses Mal steuern wir eine bunte Led-Reihe von Neopixel an. Wir starten mit der Block Programmierung und schalten danach auf den Programmtext um. Dieses Beispiel eignet sich super für eigene LED Projekte. Viel Spaß
-
 
 ### Voraussetzungen
 
@@ -33,45 +32,9 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 - Günther
 
 
-## HTML & CSS Hands-On
-
-Zeit: 13:45-15:45
-
-### Beschreibung
-
-TBD (Fortsetzung von letzter Woche)
-
-### Voraussetzungen
-
-- ein wenig Erfahrung mit HTML & CSS
-
-### Mentoren
-
-- Karin
-- Rainer
-
-
-## Python für AnfängerInnen
-
-Zeit: 16:00-18:00
-
-### Beschreibung
-
-Wir haben letztes Mal mit dem Spiel "Bubble Blaster" begonnen und gelernt wie man ein U-Boot mit Pfeiltasten steuern kann. Dieses Mal erzeugen wir Bubbles, die über den Bildschirm wandern. Ziel des Spiel ist es, möglichst viele Bubbles mit dem U-Boot zu treffen.
-Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
-
-### Voraussetzungen
-
-- Aktuelle Version von [Python](https://www.python.org/downloads/)
-
-### Mentorinnen und Mentoren
-
-- Sonja
-
-
 ## Mein erstes Computerspiel mit Scratch
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
@@ -88,33 +51,6 @@ Du hast noch nie programmiert, bist aber neugierig wie das geht? In diesem Works
 ### Mentorinnen und Mentoren
 
 - Rainer
-
-
-## Discord Bot mit C#
-
-Zeit: 16:00-18:00
-
-### Beschreibung
-
-Du wolltest schon immer mal deinen eigenen Discord Bot machen? Dann ist das genau der richtige Workshop für dich!
-In unserer ersten Session werden wir einen Bot programmieren, der uns auf Kommando süße Katzenbilder zusendet oder uns mit lustigen Witzen unterhält!
-Ideen und Vorschläge könnt ihr gerne vor oder während des Workshops bei mir ( @El'Capitano#5113 ) abgeben :) 
-
-### Voraussetzungen
-
-* Visual Studio Community
-* .NET Core
-
-##### Nice  To Haves/Know (Optional)
-* [Postman]( https://www.postman.com/downloads/ )
-* [Quicktype](https://app.quicktype.io)
-
-##### Kann ich mich irgendwie auf den Workshop vorbereiten?
-Ja! Du kannst dir, wenn du möchtest schonmal einen Einblick im tollen Text-Tutorial der Bot-Autoren verschaffen! (Keine Angst, wir werden das auch im Workshop nochmal durchgehen ;) ) [Discord.Net Einsteiger Tutorial](https://discord.foxbot.me/latest/guides/getting_started/installing.html)
-
-### Mentorinnen und Mentoren
-
-* Jonas
 
 
 ## Dynamische Webseite mit Node.js
@@ -147,3 +83,50 @@ Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So 
 ### Mentorinnen und Mentoren
 
 - Thomas
+
+
+## Python für AnfängerInnen
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Wir haben letztes Mal mit dem Spiel "Bubble Blaster" begonnen und gelernt wie man ein U-Boot mit Pfeiltasten steuern kann. Dieses Mal erzeugen wir Bubbles, die über den Bildschirm wandern. Ziel des Spiel ist es, möglichst viele Bubbles mit dem U-Boot zu treffen.
+Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
+
+### Voraussetzungen
+
+- Aktuelle Version von [Python](https://www.python.org/downloads/)
+
+### Mentorinnen und Mentoren
+
+- Sonja
+
+
+## Discord Bot mit C#
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+Du wolltest schon immer mal deinen eigenen Discord Bot machen? Dann ist das genau der richtige Workshop für dich!
+In unserer ersten Session werden wir einen Bot programmieren, der uns auf Kommando süße Katzenbilder zusendet oder uns mit lustigen Witzen unterhält!
+Ideen und Vorschläge könnt ihr gerne vor oder während des Workshops bei mir ( @El'Capitano#5113 ) abgeben :)
+
+### Voraussetzungen
+
+- Visual Studio Community
+- .NET Core
+
+##### Nice To Haves/Know (Optional)
+
+- [Postman](https://www.postman.com/downloads/)
+- [Quicktype](https://app.quicktype.io)
+
+##### Kann ich mich irgendwie auf den Workshop vorbereiten?
+
+Ja! Du kannst dir, wenn du möchtest schonmal einen Einblick im tollen Text-Tutorial der Bot-Autoren verschaffen! (Keine Angst, wir werden das auch im Workshop nochmal durchgehen ;) ) [Discord.Net Einsteiger Tutorial](https://discord.foxbot.me/latest/guides/getting_started/installing.html)
+
+### Mentorinnen und Mentoren
+
+- Jonas
