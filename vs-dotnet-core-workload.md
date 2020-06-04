@@ -1,5 +1,5 @@
 # Wie man den .NET Core Workload Installiert
-Ihr könnt den Installer entweder [Suchen](#Nach-dem-Visual-Studio-Installer-Suchen) oder [Herunterladen](#Den-Visual-Studio-Installer-herunterladen)
+Ihr könnt den Installer entweder [Suchen](#12-nach-dem-visual-studio-installer-suchen) oder [Herunterladen](#11-den-visual-studio-installer-herunterladen)
  
 
  
