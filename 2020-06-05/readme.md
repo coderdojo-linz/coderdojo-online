@@ -116,7 +116,7 @@ Ideen und Vorschläge könnt ihr gerne vor oder während des Workshops bei mir (
 ### Voraussetzungen
 
 - Visual Studio Community
-- .NET Core
+- .NET Core ( [Installationsanleitung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/vs-dotnet-core-workload.md) )
 
 ##### Nice To Haves/Know (Optional)
 
