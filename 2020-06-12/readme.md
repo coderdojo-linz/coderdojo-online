@@ -9,7 +9,7 @@
 | TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
 | TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               |             |
 | TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c)                           |               |             |
-| TBD         | [CSS Tipps und Tricks](#css-tipps-und-tricks)                      |               |             |
+| TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                         |               |             |
 | TBD         | [C# Grundlagen ?](#c-grundlagen)                                   |               |             |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -134,17 +134,17 @@ Ja! Du kannst dir, wenn du möchtest schonmal einen Einblick im tollen Text-Tuto
 - Jonas
 
 
-## CSS Tipps und Tricks
+## HTML & CSS Hands-On
 
 Zeit: TBD
 
 ### Beschreibung
 
-TBD
+Diese Woche werden wir uns auf das Flexbox und Grid Layout von CSS konzentrieren und nebenbei auf die Basic CSS Features von erstem Workshop wiederholen.
 
 ### Voraussetzungen
 
-TBD
+Ein wenig Erfahrung mit HTML & CSS.
 
 ### Mentorinnen und Mentoren
 
