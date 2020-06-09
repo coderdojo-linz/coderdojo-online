@@ -7,7 +7,7 @@
 | 14:45-16:45  | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
 | 14:45-16:45  | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
 | 17:00-19:00  | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
-| TBD          | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
+| 14:45-16:45  | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
 | TBD          | [HTML & CSS Hands-On](#html--css-hands-on)                         |               |             |
 | 17:00-19:00  | [Unity](#unity)                                                    |               |             |
 
