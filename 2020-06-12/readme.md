@@ -66,7 +66,9 @@ Zeit: TBD
 
 ### Beschreibung
 
-TBD
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat.
+
+Dieses Mal implementieren wir die noch fehlenden CRUD-Operationen (create, read, update, delete) um Einträge in der FeuerwehrApp löschen zu können. Weiters sehen wir uns an, wie man die empfangenen Daten mit Javascript als Tabelle darstellt und diese mit einer Filterfunktion versieht. Falls noch Zeit bleibt, können wir beginnen die ChatApp und die FeuerwehrApp in einem gemeinsame App zu integrieren.
 
 ### Voraussetzungen
 
@@ -77,7 +79,7 @@ TBD
 
 ### Installationsanleitung
 
-Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200605).
+Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200612).
 
 #### Software
 
