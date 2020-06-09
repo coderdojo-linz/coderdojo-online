@@ -86,23 +86,27 @@ Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So 
 - Thomas
 
 
-## Discord Bot mit C
+## Discord Bot mit C#
 
-Zeit: TBD
+11.06.2020:
+Zeit: 16:00 ~ 18:00
+
+12.06.2020:
+Zeit: 14:45 - 16:45
+
 
 ### Beschreibung
 
-TBD
+Dieses mal werden wir gemeinsam das Katzenbild Kommando in unseren Bot um weitere Funktionen erweitert ([Issue](https://github.com/coderdojo-linz/DiscordBot-DotNet/issues/12)). Ausserdem wartet ein neues Minecraft-Feature darauf, von uns Implementiert zu werden :)
+
+Letztens haben wir uns Überlegt, über [Github](https://github.com/coderdojo-linz/DiscordBot-DotNet) einen Gemeinsamen Bot zu schreiben. Damit auch jeder mithelfen kann, werden wir nochmals in die wundervolle Welt des git's eintauchen :)
 
 ### Voraussetzungen
 
 - Visual Studio Community
 - .NET Core
-
-##### Nice To Haves/Know (Optional)
-
+- Ein Github Account
 - [Postman](https://www.postman.com/downloads/)
-- [Quicktype](https://app.quicktype.io)
 
 ##### Kann ich mich irgendwie auf den Workshop vorbereiten?
 
