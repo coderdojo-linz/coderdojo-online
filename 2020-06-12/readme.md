@@ -2,27 +2,20 @@
 
 ## Überblick
 
-| Zeit        | Thema                                                              | Zoom-Benutzer | Zugangslink |
-| ----------- | ------------------------------------------------------------------ | ------------- | ----------- |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
-| TBD         | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
-| TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
-| TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               |             |
-| TBD         | [Discord-Bot-mit-C#](#discord-bot-mit-c)                           |               |             |
-| TBD         | [HTML & CSS Hands-On](#html--css-hands-on)                         |               |             |
-| TBD         | [C# Grundlagen ?](#c-grundlagen)                                   |               |             |
+| Zeit         | Thema                                                              | Zoom-Benutzer | Zugangslink |
+| ------------ | ------------------------------------------------------------------ | ------------- | ----------- |
+| 14:45-16:45  | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
+| 14:45-16:45  | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
+| 17:00-19:00  | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
+| TBD          | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
+| TBD          | [HTML & CSS Hands-On](#html--css-hands-on)                         |               |             |
+| 17:00-19:00  | [Unity](#unity)                                                    |               |             |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
-## **Wichtig:** Offene, zu klärende Fragen
-
-1. Da die Schule wieder angefangen hat, ist zu diskutieren, ob wir die Workshops um 1h nach hinten verschieben (14:45-16:45, 17:00-19:00).
-1. Die Zielgruppen der Workshops überschneiden sich teilweise stark. Um den Kids die Möglichkeit zu geben, an allen für sie spannenden Workshops teilzunehmen, sollten wir diskutieren, ob gewisse Workshops (speziell für schon erfahrenere Coder) an anderen Tagen stattfinden können. Speziell diese Woche ist das durch den Feiertag (Donnerstag) relevant.
-
-
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
@@ -40,13 +33,13 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ## Scratch für AnfängerInnen
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
 Letzte Woche hatten wir wieder mal eine Scratch-Übung für Kids, die noch nie programmiert haben. Diese Woche machen wir mit einem zweiten Spiel weiter, das schon etwas anspruchsvoller ist, sich aber immer noch gut für Anfängerinnen und Anfänger eignet. Wenn du also die Grundbegriffe von Scratch kennst und mehr lernen möchtest, bist du in diesem Workshop richtig.
 
-Wenn du mitmachen möchtest, aber noch nie etwas in Scratch gemacht hast, baue einfach zur Vorbereitung selbständig oder mit Hilfe einer erwachsenen Person unser Einsteigerbeispiel [*Fang mich*](https://linz.coderdojo.net/trainingsanleitungen/scratch/scratch-fang-mich-v3.html) nach. Du wirst sehen, das ist überhaupt nicht schwer.
+Wenn du mitmachen möchtest, aber noch nie etwas in Scratch gemacht hast, baue einfach zur Vorbereitung selbständig oder mit Hilfe einer erwachsenen Person unser Einsteigerbeispiel [_Fang mich_](https://linz.coderdojo.net/trainingsanleitungen/scratch/scratch-fang-mich-v3.html) nach. Du wirst sehen, das ist überhaupt nicht schwer.
 
 ### Voraussetzungen
 
@@ -57,12 +50,13 @@ Wenn du mitmachen möchtest, aber noch nie etwas in Scratch gemacht hast, baue e
 
 ### Mentorinnen und Mentoren
 
-- Rainer
+- Pia
+- Karin
 
 
 ## Dynamische Webseite mit Node.js
 
-Zeit: TBD
+Zeit: 17:00-19:00
 
 ### Beschreibung
 
@@ -90,23 +84,6 @@ Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So 
 ### Mentorinnen und Mentoren
 
 - Thomas
-
-
-## Python für AnfängerInnen
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-- Aktuelle Version von [Python](https://www.python.org/downloads/)
-
-### Mentorinnen und Mentoren
-
-- Sonja
 
 
 ## Discord Bot mit C
@@ -154,9 +131,9 @@ Ein wenig Erfahrung mit HTML & CSS.
 - Rainer
 
 
-## C# Grundlagen
+## Unity
 
-Zeit: TBD
+Zeit: 17:00-19:00
 
 ### Beschreibung
 
@@ -168,4 +145,4 @@ TBD
 
 ### Mentorinnen und Mentoren
 
-TBD
+- Hans-Peter
