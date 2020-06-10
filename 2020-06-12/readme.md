@@ -4,20 +4,20 @@
 
 ### 11. Juni 2020
 
-| Zeit         | Thema                                                              | Zoom-Benutzer | Zugangslink |
-| ------------ | ------------------------------------------------------------------ | ------------- | ----------- |
-| 13:45-15:45  | [HTML & CSS Hands-On](#html--css-hands-on)                         |               |             |
-| 16:00-18:00  | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
+| Zeit        | Thema                                      | Zoom-Benutzer | Zugangslink                                                                |
+| ----------- | ------------------------------------------ | ------------- | -------------------------------------------------------------------------- |
+| 13:45-15:45 | [HTML & CSS Hands-On](#html--css-hands-on) | zoom01        | https://us02web.zoom.us/j/88339295462?pwd=NkxEd09FMFhIVTQrTUJGOVR4ODQ1dz09 |
+| 16:00-18:00 | [Discord Bot mit C#](#discord-bot-mit-c)   | zoom02        | https://us02web.zoom.us/j/81933915635?pwd=Z3Bxa3VyZ1o5SndIbnZLMExyUHpiZz09 |
 
 ### 12. Juni 2020
 
-| Zeit         | Thema                                                              | Zoom-Benutzer | Zugangslink |
-| ------------ | ------------------------------------------------------------------ | ------------- | ----------- |
-| 14:45-16:45  | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
-| 14:45-16:45  | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
-| 14:45-16:45  | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
-| 17:00-19:00  | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
-| 17:00-19:00  | [Unity](#unity)                                                    |               |             |
+| Zeit        | Thema                                                              | Zoom-Benutzer | Zugangslink                                                                |
+| ----------- | ------------------------------------------------------------------ | ------------- | -------------------------------------------------------------------------- |
+| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      | zoom01        | https://us02web.zoom.us/j/82199349665?pwd=WStGREZLWE1qWVZPakNpNmxUbHgzdz09 |
+| 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            | zoom02        | https://us02web.zoom.us/j/87332762398?pwd=cU4vbXdXWWMvZnluWmdBSVNqWGdEQT09 |
+| 14:45-16:45 | [Discord Bot mit C#](#discord-bot-mit-c)                           | zoom03        | https://us02web.zoom.us/j/81563576615?pwd=YWpzTHRyS1I2L1JaOVhnZUF2cjFKdz09 |
+| 17:00-19:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) | zoom04        | https://us02web.zoom.us/j/83122042872?pwd=RTkzV1EraDlqY1gwR01aWlFjd1RtZz09 |
+| 17:00-19:00 | [Unity](#unity)                                                    | zoom01        | https://us02web.zoom.us/j/83327599008?pwd=Y3lHL0swRjEraUR0Y0FMUVdJSlNwQT09 |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -49,7 +49,6 @@ Aufgrund der Nachfragen und aktuellen Projekte bietet Jonas zwei Termine an:
   Zeit: 16:00-18:00
 * Datum: 12.06.2020<br/>
   Zeit: 14:45 - 16:45
-
 
 ### Beschreibung
 
