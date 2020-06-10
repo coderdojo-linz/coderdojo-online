@@ -157,12 +157,14 @@ Zeit: 17:00-19:00
 
 ### Beschreibung
 
-TBD
+Diesmal möchten wir uns dem Spielfeld in 3D, einem einfachen NavMesh und der Sichtbarkeit 
+von Gegnern widmen.
 
 ### Voraussetzungen
 
-TBD
+- Installierter Unity-Hub mit Unity 2019.3 (andere Version geht auc)
+- Visual Studio 2019 (Community edition is ausreichend) mit installiertem "Game-Development with Unity" - Package
 
 ### Mentorinnen und Mentoren
 
-- Hans-Peter
+- Hans-Peter (bitte noch nicht veröffentlichen - muss noch einen Termin am Freitag verschieben - wenn das nicht geht, geb ich noch bescheid)
