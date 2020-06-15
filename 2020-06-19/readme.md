@@ -9,7 +9,7 @@
 | TBD  | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
 | TBD  | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
 | TBD  | [Unity](#unity)                                                    |               |             |
-| TBD  | ???                                                                |               |             |
+| 14:45-16:45  | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               |             |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -119,3 +119,20 @@ TBD
 
 - Hans-Peter
 - TBD
+
+## Python für AnfängerInnen
+
+Zeit: 14:45-16:45
+
+### Beschreibung
+
+Wir werden dieses Mal das Spiel "Bubble Blaster" fertigstellen.  Wir bringen die Blasen zum Platzen, wenn sie vom U-Boot getroffen werden und machen eine Anzeige für die Zeit und die erreichten Punkte.
+Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
+
+### Voraussetzungen
+
+- Aktuelle Version von [Python](https://www.python.org/downloads/)
+
+### Mentorinnen und Mentoren
+
+- Sonja
