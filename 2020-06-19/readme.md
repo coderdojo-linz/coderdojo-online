@@ -56,13 +56,15 @@ Zeit: 17:00-19:00
 
 ### Beschreibung
 
-Diese Woche können wir entweder lernen, einen Minecraft Server mit unserem Bot steuern oder eine Auto-Korrektur einbauen. ( [Bitte Abstimmen](https://github.com/coderdojo-linz/DiscordBot-DotNet/issues/40) )
+Diese Woche lernen wir, wie man in Discord eine Autokorrektur für Befehle in Discord entwickelt.
 
 ### Voraussetzungen
 
 - Visual Studio Community
 - .NET Core
 - Ein Github Account
+
+Um gleich anfangen zu können, bitte Ich euch, euren Fork bzw. euren lokalen Git-Klon des [Master-Branches](https://github.com/coderdojo-linz/DiscordBot-DotNet) vor dem Workshop auf dem aktuellen Stand zu bringen.
 
 ### Mentorinnen und Mentoren
 
