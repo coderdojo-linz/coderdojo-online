@@ -13,24 +13,19 @@
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
-## Discord Bot mit C
+## Discord Bot mit C#
 
 Zeit: TBD
 
 ### Beschreibung
 
-TBD
+Diese Woche können wir entweder lernen, einen Minecraft Server mit unserem Bot steuern oder eine Auto-Korrektur einbauen. ( [Bitte Abstimmen](https://github.com/coderdojo-linz/DiscordBot-DotNet/issues/40) )
 
 ### Voraussetzungen
 
 - Visual Studio Community
 - .NET Core
 - Ein Github Account
-- [Postman](https://www.postman.com/downloads/)
-
-##### Kann ich mich irgendwie auf den Workshop vorbereiten?
-
-Ja! Du kannst dir, wenn du möchtest schonmal einen Einblick im tollen Text-Tutorial der Bot-Autoren verschaffen! (Keine Angst, wir werden das auch im Workshop nochmal durchgehen ;) ) [Discord.Net Einsteiger Tutorial](https://discord.foxbot.me/latest/guides/getting_started/installing.html)
 
 ### Mentorinnen und Mentoren
 
