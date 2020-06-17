@@ -112,11 +112,25 @@ Zeit: 14:45-16:45
 
 ### Beschreibung
 
-TBD
+C# ist eine sehr verbreitete Programmiersprache zur Entwicklung von Applikationen auf verschiedensten Plattformen.  
+Wir möchten hier einige Grundlagen behandeln die dich in die Lage versetzten sollen:
+- ein einfaches Programm in C# zu entwickeln
+- zu verstehen wie in C# und .Net Programme ablaufen
+- die .Net(Core) Standardbibliothek zu verwenden
+- Pakete mittels NuGet hinzuzufügen und zu verwenden
+- dein Programm zu bauen und anderen zur Verfügung zu stellen
 
 ### Voraussetzungen
 
-TBD
+Wir werden der einfachheit halber folgende Programme verwenden. Bitte installier dir die dinge bereits vor Beginn auf deinem Rechner
+
+- [.Net Core Runtime 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+
+In Visual Studio Code bitte folgende Extensions installieren:
+- C# (C# for Visual Studio Code - powered by Omnisharp)
+- .NET Core Tools
+- NuGet Gallery
 
 ### Mentorinnen und Mentoren
 
