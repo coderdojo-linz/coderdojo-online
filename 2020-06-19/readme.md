@@ -4,12 +4,12 @@
 
 | Zeit        | Thema                                                              | Zoom-Benutzer | Zugangslink |
 | ----------- | ------------------------------------------------------------------ | ------------- | ----------- |
-| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
-| 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
-| 17:00-19:00 | [Discord Bot mit C#](#discord-bot-mit-c)                           |               |             |
-| 17:00-19:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
-| 14:45-16:45 | [C# Fundamentals](#c-fundamentals)                                 |               |             |
-| 14:45-16:45 | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               |             |
+| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               | https://us02web.zoom.us/j/88293634351?pwd=dkU1Rmo1bTRjZmJVRXFlY2J5N2JCUT09            |
+| 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               | https://us02web.zoom.us/j/82383911096?pwd=a3Z4VDdGSFlrZlpGaHg4dlRiU3JMUT09            |
+| 17:00-19:00 | [Discord Bot mit C#](#discord-bot-mit-c)                           |               | https://us02web.zoom.us/j/86341918484?pwd=alROeWxCWEh4VmxxV3dIQzBnNDhYZz09            |
+| 17:00-19:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               | https://us02web.zoom.us/j/89636964810?pwd=N083WWs3RkIyZ0hHckFtbkEzY0xNZz09            |
+| 14:45-16:45 | [C# Fundamentals](#c-fundamentals)                                 |               | https://us02web.zoom.us/j/81917319189?pwd=MUR4Y2pqT1dMRFlxOFloQ01JZ29yUT09            |
+| 14:45-16:45 | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               | https://us02web.zoom.us/j/82729173019?pwd=Z3k1WEN3a2RxS0YxbEtQekNta0wvZz09            |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
