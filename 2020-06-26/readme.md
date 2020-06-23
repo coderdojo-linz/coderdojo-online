@@ -88,11 +88,21 @@ Zeit: TBD
 
 ### Beschreibung
 
-TBD
+Fortsetzung vom letzten mal. Wir werden nochmals kurz wiederholen worum es bei .Net/c# eigentlich geht.
+Dann gehts an Themen wie Extension Methods, Nochmal kurz LINQ und Collections, parallele Verarbeitung und
+Asynchrone Programmierung in c#. (Was sind eigentlich Continuations???)
 
 ### Voraussetzungen
 
-TBD
+Wir werden der einfachheit halber folgende Programme verwenden. Bitte installier dir die dinge bereits vor Beginn auf deinem Rechner
+
+- [.Net Core Runtime 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+
+In Visual Studio Code bitte folgende Extensions installieren:
+- C# (C# for Visual Studio Code - powered by Omnisharp)
+- .NET Core Tools
+- NuGet Gallery
 
 ### Mentorinnen und Mentoren
 
