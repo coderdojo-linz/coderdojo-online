@@ -2,14 +2,13 @@
 
 ### Überblick
 
-| Zeit | Thema                                                              | Zoom-Benutzer | Zugangslink |
-| ---- | ------------------------------------------------------------------ | ------------- | ----------- |
-| TBD  | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)      |               |             |
-| TBD  | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)            |               |             |
-| TBD  | [Grundlagen Datenbanken mit C#](#grundlagen-datenbanken-mit-c)     |               |             |
-| TBD  | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs) |               |             |
-| TBD  | [C# Fundamentals](#c-fundamentals)                                 |               |             |
-| TBD  | [Python für AnfängerInnen](#python-für-anfängerinnen)              |               |             |
+| Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink |
+| ----------- | ----------------------------------------------------------------- | ------------- | ----------- |
+| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |             |
+| 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)           |               |             |
+| 14:45-16:45 | [Grundlagen Datenbanken mit C#](#grundlagen-datenbanken-mit-c)    |               |             |
+| 17:00-19:00 | [CSS Animationen](#css-animationen)                               |               |             |
+| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfüngerinnen) |               |             |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -30,9 +29,10 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 - Günther
 - Michael
 
+
 ## Scratch für AnfängerInnen
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
@@ -48,68 +48,46 @@ TBD
 ### Mentorinnen und Mentoren
 
 - Karin
-- Pia
+- TBD
+
 
 ## Grundlagen Datenbanken mit C#
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
-Diese Woche lernen wir, wie man in Discord eine Autokorrektur für Befehle in Discord entwickelt.
+TBD
 
 ### Voraussetzungen
 
-TBD
+- [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/de/downloads/)
+- *Azure Development* Workload in Visual Studio
 
 ### Mentorinnen und Mentoren
 
 - Rainer
-
-## Dynamische Webseite mit Node.js
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-TBD 
-
-### Mentorinnen und Mentoren
-
-- Thomas
-
-## C# Fundamentals
-
-Zeit: TBD
-
-### Beschreibung
-
-Fortsetzung vom letzten mal. Wir werden nochmals kurz wiederholen worum es bei .Net/c# eigentlich geht.
-Dann gehts an Themen wie Extension Methods, Nochmal kurz LINQ und Collections, parallele Verarbeitung und
-Asynchrone Programmierung in c#. (Was sind eigentlich Continuations???)
-
-### Voraussetzungen
-
-Wir werden der einfachheit halber folgende Programme verwenden. Bitte installier dir die dinge bereits vor Beginn auf deinem Rechner
-
-- [.Net Core Runtime 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-- [Visual Studio Code](https://code.visualstudio.com/Download)
-
-In Visual Studio Code bitte folgende Extensions installieren:
-- C# (C# for Visual Studio Code - powered by Omnisharp)
-- .NET Core Tools
-- NuGet Gallery
-
-### Mentorinnen und Mentoren
-
 - Hans-Peter
-- Daniel
 
-## Python für AnfängerInnen
+
+## CSS Animationen
+
+Zeit: 17:00-19:00
+
+### Beschreibung
+
+In diesem Workshop erstellen wir unsere ersten kleinen Animationen mit CSS. Ein bisschen Erfahrung in HTML und CSS ist von Vorteil, aber nicht unbedingt erforderlich.
+
+### Voraussetzungen
+
+- [Visual Studio Code](https://code.visualstudio.com)
+
+### Mentorinnen und Mentoren
+
+- Pia
+
+
+## Python Snake für AnfängerInnen
 
 Zeit: TBD
 
@@ -123,4 +101,4 @@ TBD
 
 ### Mentorinnen und Mentoren
 
-- Sonja
+- Peter
