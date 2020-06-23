@@ -93,7 +93,8 @@ Zeit: 14:45-16:45
 
 ### Beschreibung
 
-Wie der Name der Programmiersprache *Python* vermuten lässt, eignet sich die Sprache bestens um das klassische Computerspiel Snake zu programmieren. Wir werden ein Snake Spiel schreiben in dem sich eine Schlange mit den Pfeiltasten steuern lässt und durch das Essen von Äpfel Punkte sammelt sowie immer länger wachsen kann.
+Wie der Name der Programmiersprache *Python* vermuten lässt, eignet sich die Sprache bestens um das klassische Computerspiel Snake zu programmieren. Wir werden ein Snake Spiel schreiben in dem sich eine Schlange mit den Pfeiltasten steuern lässt und durch das Essen von Äpfel Punkte sammelt, sowie immer länger wachsen kann.
+
 Das Spiel werden wir von Grund auf entwickeln und Neueinsteiger sind daher herzlich willkommen!
 
 ### Voraussetzungen
