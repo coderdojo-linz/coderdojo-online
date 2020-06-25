@@ -58,7 +58,7 @@ Zeit: 14:45-16:45
 
 ### Beschreibung
 
-TBD
+Immer öfter brauchen einige von euch in Projekten die Möglichkeit, Daten abzuspeichern und wieder auszulesen. Ganz normale Dateien sind eine Möglichkeit, es gibt aber bessere Werkzeuge dafür: Datenbanken. In diesem Workshop sprechen wir darüber, welche Datenbanken es gibt (relationale, dokumentenorientierte, Key-Value), wann man welchen Typ verwendet, was SQL eigentlich ist und wie man aus C# auf sie zugreift. Für den Workshop solltet ihr schon ein wenig programmieren können. Vorhandenes C#-Wissen ist nicht unbedingt notwendig.
 
 ### Voraussetzungen
 
