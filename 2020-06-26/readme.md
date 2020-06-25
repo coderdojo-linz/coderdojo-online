@@ -4,7 +4,7 @@
 
 | Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink |
 | ----------- | ----------------------------------------------------------------- | ------------- | ----------- |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |             |
+| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |             |
 | 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)           |               |             |
 | 14:45-16:45 | [Grundlagen Datenbanken mit C#](#grundlagen-datenbanken-mit-c)    |               |             |
 | 17:00-19:00 | [CSS Animationen](#css-animationen)                               |               |             |
@@ -12,13 +12,14 @@
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
+
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
-TBD
+Wir starten mit Grundlagen der Elektronik und machen weiter mit Arduino-Programmierung mit Sensoren und Leuchtdioden. AnfängerInnen und Fortgeschrittene sind willkommen!
 
 ### Voraussetzungen
 
