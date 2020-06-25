@@ -8,7 +8,7 @@
 | 14:45-16:45 | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)           |               |             |
 | 14:45-16:45 | [Grundlagen Datenbanken mit C#](#grundlagen-datenbanken-mit-c)    |               |             |
 | 17:00-19:00 | [CSS Animationen](#css-animationen)                               |               |             |
-| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfüngerinnen) |               |             |
+| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen) |               |             |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
