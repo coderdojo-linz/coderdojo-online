@@ -7,6 +7,7 @@
 | TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |                                                                            |
 | TBD         | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)           |               |                                                                            |
 | TBD         | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen) |               |                                                                            |
+| TBD         | [Tetris in JavaScript](#tetris-in-javascript)                     |               |                                                                            |
 | TBD         | TBD                                                               |               |                                                                            |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -66,3 +67,22 @@ TBD
 ### Mentorinnen und Mentoren
 
 - Peter
+
+## Tetris in JavaScript
+
+Zeit: TBD
+
+### Beschreibung
+
+Wir werden gemeinsam Tetris programmieren, basierend auf dem tollen [Tutorial von Ania Kubów](https://www.youtube.com/watch?v=w1JJfK09ujQ&t=44s). In dem Tutorial programmieren Tetris basierend auf einem Grid mit simplem Styling. 
+
+### Voraussetzungen
+
+- grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
+- Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Alternativ kann auch eine online IDE verwendet werden, ich werde Codesandbox(https://codesandbox.io/) verwenden
+
+### Mentorinnen und Mentoren
+
+- Pia
