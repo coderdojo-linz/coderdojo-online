@@ -38,11 +38,15 @@ Zeit: 14:45-16:45
 
 ### Beschreibung
 
-TBD
+Wir uns ein einfaches Datenmodell überlegen sodass wir beliebige Objekte mit Settings ablegen, wieder lesen und Verändern
+können. Das ganze werden wir über Dependency Injection allen Bot-Modulen zur Verfügung stellen.
+
+Ein klein wenig Erfahrung mit C# ist sicher von Vorteil. Du musst aber kein c# Profi sein um mitmachen zu können.
 
 ### Voraussetzungen
 
-TBD
+- Eine .Net Entwicklungsumgebung z.B. Visual Studio 2019
+- Zugang zu Discord
 
 ### Mentorinnen und Mentoren
 
