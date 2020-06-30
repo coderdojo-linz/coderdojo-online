@@ -56,12 +56,14 @@ Zeit: TBD
 
 ### Beschreibung
 
-TBD
+Letzte Woche haben wir mit der Entwicklung von Snake für Python begonnen. Wir haben bereits eine steuerbare Schlange und auch einen Apfel auf das Spielfeld gezeichnet. Das Essen des Apfels und das immer weiter Wachsen der Schlange müssen wir allerdings noch implementieren. 
+
+Das Beispiel ist auf https://linz-preview.coderdojo.net/uebungsanleitungen/programmieren/python/snake/ beschrieben, dort findet sich auch der Stand vom Source Code nach der ersten Stunde. Für Neueinsteiger sollte es daher auch gut möglich sein an der Stunde teilzunehmen. Wir werden versuchen die Entwicklung Schritt für Schritt basierend auf dem Source Code der letzten Stunde vorzunehmen, sodass jeder gut folgen kann.
 
 ### Voraussetzungen
 
 - Aktuelle Version von [Python](https://www.python.org/downloads/)
-- Eine IDE wie pycharm ist hilfreich, aber nicht notwendig (https://www.jetbrains.com/de-de/pycharm/). Die kostenlose Community-Edition reicht dabei völlig aus.
+- Eine IDE wie pycharm ist hilfreich (https://www.jetbrains.com/de-de/pycharm/). Die kostenlose Community-Edition reicht dabei völlig aus.
 
 ### Mentorinnen und Mentoren
 
