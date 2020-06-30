@@ -2,24 +2,25 @@
 
 ### Überblick
 
-| Zeit        | Thema                                                             | Zoom-Benutzer | Zugangslink                                                                |
-| ----------- | ----------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------- |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)     |               |                                                                            |
-| TBD         | [Scratch für AnfängerInnen](#scratch-für-anfängerinnen)           |               |                                                                            |
-| TBD         | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen) |               |                                                                            |
-| TBD         | [Tetris in JavaScript](#tetris-in-javascript)                     |               |                                                                            |
-| 19:00-21:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)|               |                                                                            |
+| Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                                                |
+| ----------- | ----------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------- |
+| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                                            |
+| 14:45-16:45 | [Scratch](#scratch)                                                     |               |                                                                            |
+| 14:45-16:45 | [Wir bauen CosmosDB in den Bot ein](#wir-bauen-cosmosdb-in-den-bot-ein) |               |                                                                            |
+| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen)       |               |                                                                            |
+| 17:00-19:00 | [Tetris in JavaScript](#tetris-in-javascript)                           |               |                                                                            |
+| 19:00-21:00 | [Wie schütze ich meine Node.js Webseite vor Hackern](#wie-schütze-ich-meine-nodejs-webseite-vor-hackern)      |               |                                                                            |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
-TBD
+Elektronikbasteln geht auch übers Internet! Ihr übt und lernt Neues über Elektronik und Arduino-Programmierung mit Hilfe von [Tinkercad](https://www.tinkercad.com). Günther und Michael freuen sich auf elektronikinteressierte AnfängerInnen und haben sich auch wieder spannende Übungen für erfahrenere Bastler einfallen lassen. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
 
 ### Voraussetzungen
 
@@ -31,9 +32,9 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 - Michael
 
 
-## Scratch für AnfängerInnen
+## Wir bauen CosmosDB in den Bot ein
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
@@ -41,19 +42,37 @@ TBD
 
 ### Voraussetzungen
 
-- Nur grundlegendste Vorkenntnisse über Programmieren notwendig
+TBD
+
+### Mentorinnen und Mentoren
+
+- Hans-Peter
+
+
+## Scratch
+
+Zeit: 14:45-16:45
+
+### Beschreibung
+
+Lust, euer erstes Computerspiel zu programmieren oder kennt ihr Scratch schon und wollt eure Kenntnisse aufpolieren? Dann kommt vorbei im Scratch-Workshop mit Karin und Rainer. Wir werden uns in zwei Gruppen aufteilen. Die Anfängerinnen und Anfänger lernen die Grundlagen mit Rainer kennen. Wer schon mehr über Scratch weiß, der sucht sich diesmal mit Karin am Beginn des Workshops ein Spiel aus, an dem ihr dann selbständig arbeitet. Karin ist die ganze Zeit dabei und hilft euch, Probleme zu lösen und eure eigenen Ideen einzubringen.
+
+### Voraussetzungen
+
+- **Keine** Vorkenntnisse über Programmieren notwendig
 - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
 - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
 - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
 
 ### Mentorinnen und Mentoren
 
-- TBD
+- Karin
+- Rainer
 
 
 ## Python Snake für AnfängerInnen
 
-Zeit: TBD
+Zeit: 14:45-16:45
 
 ### Beschreibung
 
@@ -70,9 +89,10 @@ Das Beispiel ist auf https://linz-preview.coderdojo.net/uebungsanleitungen/progr
 
 - Peter
 
+
 ## Tetris in JavaScript
 
-Zeit: TBD
+Zeit: 17:00-19:00
 
 ### Beschreibung
 
@@ -89,15 +109,14 @@ Wir werden gemeinsam Tetris programmieren, basierend auf dem tollen [Tutorial vo
 
 - Pia
 
-## Dynamische Webseite mit Node.js
+
+## Wie schütze ich meine Node.js Webseite vor Hackern
 
 Zeit: 17:00 - 19:00
 
 ### Beschreibung
 
-Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat.
-
-Dieses Mal bauen wir eine Benutzerverwaltung in unsere App ein. Dazu werden wir uns folgende Themenbereiche ansehen und ausprobieren:
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. Dieses Mal bauen wir eine Benutzerverwaltung in unsere App ein. Dazu werden wir uns folgende Themenbereiche ansehen und ausprobieren:
 
 - verschlüsseltes Speichern von Passwörtern
 - Transportverschlüsselung
@@ -126,4 +145,3 @@ Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So 
 ### Mentorinnen und Mentoren
 
 - Thomas
-
