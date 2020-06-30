@@ -86,6 +86,8 @@ Dieses Mal bauen wir eine Benutzerverwaltung in unsere App ein. Dazu werden wir 
 
 ### Voraussetzungen
 
+Ein Einstieg in unsere Workshop-Serie ist mit den unten erwähnten grundlegenden Kenntnissen jederzeit möglich!
+
 #### Grundlegende Kenntnisse
 
 - beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
