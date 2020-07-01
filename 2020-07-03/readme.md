@@ -117,7 +117,7 @@ Wir werden gemeinsam Tetris programmieren, basierend auf dem tollen [Tutorial vo
 
 ## Wie schütze ich meine Node.js Webseite vor Hackern
 
-Zeit: 17:00 - 19:00
+Zeit: 19:00 - 21:00
 
 ### Beschreibung
 
