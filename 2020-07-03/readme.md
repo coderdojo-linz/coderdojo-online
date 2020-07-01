@@ -4,12 +4,13 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink                                                                |
 | ----------- | ----------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------- |
-| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                                                                            |
-| 14:45-16:45 | [Scratch](#scratch)                                                     |               |                                                                            |
-| 14:45-16:45 | [Wir bauen CosmosDB in den Bot ein](#wir-bauen-cosmosdb-in-den-bot-ein) |               |                                                                            |
-| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen)       |               |                                                                            |
-| 17:00-19:00 | [Tetris in JavaScript](#tetris-in-javascript)                           |               |                                                                            |
-| 19:00-21:00 | [Wie schütze ich meine Node.js Webseite vor Hackern](#wie-schütze-ich-meine-nodejs-webseite-vor-hackern)      |               |                                                                            |
+| 14:45-16:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | Zoom01        | https://us02web.zoom.us/j/87064474726?pwd=LytVd2JzK3BuOCtRdXc5Y1M1dVNzQT09                                                                           |
+| 14:45-16:45 | [Scratch](#scratch)                                                     | Zoom02        | https://us02web.zoom.us/j/85879207344?pwd=NFJvT2dBc1g1RmJlOUZabU1CTWxIdz09                                                                           |
+| 14:45-16:45 | [Wir bauen CosmosDB in den Bot ein](#wir-bauen-cosmosdb-in-den-bot-ein) | Zoom03        | https://us02web.zoom.us/j/87528965313?pwd=bHZlZy91THN2NDdqUW9YTmlpNEhxUT09                                                                           |
+| 14:45-16:45 | [Python Snake für AnfängerInnen](#python-snake-für-anfängerinnen)       | Zoom04        | https://us02web.zoom.us/j/84072180988?pwd=TFpGM204cTNzb3U5NmpEaitETFNZdz09                                                                           |
+| 17:00-19:00 | [Tetris in JavaScript](#tetris-in-javascript)                           | Zoom01        | https://us02web.zoom.us/j/86023426446?pwd=ZHdDT05QMXVTSXJlU1E4S25vYmNOUT09                                                                           |
+| 19:00-21:00 | [Wie schütze ich meine Node.js Webseite vor Hackern](#wie-schütze-ich-meine-nodejs-webseite-vor-hackern)      | Zoom02       | https://us02web.zoom.us/j/89551402230?pwd=emNVTytEcVFtSkI2T3ZGWkt3L3Nsdz09                                                                           |
+
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
