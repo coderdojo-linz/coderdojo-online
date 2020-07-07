@@ -9,6 +9,7 @@
 | TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |                   |
 | TBD         | [HTML/CSS/JavaScript](#html-css-javascript)                             |               |                   |
 | TBD         | [Android App-Entwicklung](#android-app-entwicklung)                     |               |                   |
+| 19:00-21:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                   |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -107,3 +108,41 @@ TBD
 
 - Matthias
 - TBD
+
+## Dynamische Webseite mit Node.js
+
+Zeit: 19:00 - 21:00
+
+### Beschreibung
+
+Dynamischen Webseiten sind in der Lage sich Informationen zu merken und diese zu verarbeiten, weil unser Code nicht nur im Browser sondern auch am Webserver selbst ausgeführt wird. Das gibt uns Möglichkeiten, die man mit statischen Webseiten nicht hat. Dieses Mal werden wir an der Benutzerverwaltung weiterarbeiten. Noch offen sind folgende Punkte:
+
+* die Benutzer und deren (verschlüsseltes) Passwort sollen in der Datenbank gespeichert werden
+* die Clients sollten bei jedem Kommando den "Ausweis" (JWT - Json Web Token) mitschicken
+* der Server soll nur Kommandos akzeptieren die einen gültigen Ausweis (JWT) mitschicken
+* das Secret, das wir zum Erzeugen des "Ausweises" (JWT) benutzen, soll als Umgebungsvariable übergeben werden können
+
+Wenn Ihr wollt, könnt Ihr Euch selbst die offenen Themen alleine oder in Gruppen ansehen und versuchen zu lösen. Wir werden uns im Workshop die Vorschläge ansehen und sie gemeinsam in unsere FeuerwehrApp übernehmen.
+
+### Voraussetzungen
+
+Ein Einstieg in unsere Workshop-Serie ist mit den unten erwähnten grundlegenden Kenntnissen jederzeit möglich!
+
+#### Grundlegende Kenntnisse
+
+- beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
+- HTML
+
+### Installationsanleitung
+
+Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200710).
+
+#### Software
+
+- einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
+- [Node.js](https://nodejs.org/en/download/)
+- [Git](https://git-scm.com/download/win)
+
+### Mentorinnen und Mentoren
+
+- Thomas
