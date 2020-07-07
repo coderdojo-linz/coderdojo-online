@@ -5,10 +5,9 @@
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink       |
 | ----------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
 | 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
-| TBD         | [Scratch](#scratch)                                                     |               |                   |
-| TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |                   |
-| TBD         | [HTML/CSS/JavaScript](#html-css-javascript)                             |               |                   |
-| TBD         | [Android App-Entwicklung](#android-app-entwicklung)                     |               |                   |
+| 13:45-15:45 | [Scratch](#scratch)                                                     |               |                   |
+| 13:45-15:45 | [HTML Workshop](#html-workshop)                                         |               |                   |
+| 16:00-18:00 | [Asynchrone Programmierung mit C# und JavaScript](#asynchrone-programmierung-mit-c-und-javascript)|   |                  |
 | 19:00-21:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                   |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
@@ -32,13 +31,31 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 - Michael
 
 
-## Scratch
+## HTML Workshop
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
 TBD
+
+### Voraussetzungen
+
+- TBD
+
+### Mentorinnen und Mentoren
+
+- Karin
+- Rainer
+
+
+## Scratch
+
+Zeit: 13:45-15:45
+
+### Beschreibung
+
+Lust, euer erstes Computerspiel zu programmieren oder kennt ihr Scratch schon und wollt eure Kenntnisse aufpolieren? Dann kommt vorbei im Scratch-Workshop mit Pia und Matthias. Wir werden uns in zwei Gruppen aufteilen. Die Anfängerinnen und Anfänger lernen die Grundlagen kennen. Für alle, die schon mehr über Scratch wissen, suchen wir am Beginn des Workshops gemeinsam ein Spiel aus, an dem wir dann arbeiten.
 
 ### Voraussetzungen
 
@@ -49,63 +66,26 @@ TBD
 
 ### Mentorinnen und Mentoren
 
-- TBD
-
-
-## Python für AnfängerInnen
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-- Aktuelle Version von [Python](https://www.python.org/downloads/)
-- Eine IDE wie pycharm ist hilfreich (https://www.jetbrains.com/de-de/pycharm/). Die kostenlose Community-Edition reicht dabei völlig aus.
-
-### Mentorinnen und Mentoren
-
-- TBD
-
-
-## HTML/CSS/JavaScript
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-- grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
-- Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Alternativ kann auch eine online IDE verwendet werden, ich werde Codesandbox(https://codesandbox.io/) verwenden
-
-### Mentorinnen und Mentoren
-
-- TBD
-
-
-## Android App-Entwicklung
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-TBD
-
-### Mentorinnen und Mentoren
-
+- Pia
 - Matthias
-- TBD
+
+
+## Asynchrone Programmierung mit C# und JavaScript
+
+Zeit: 16:00-18:00
+
+### Beschreibung
+
+TBD
+
+### Voraussetzungen
+
+TBD
+
+### Mentorinnen und Mentoren
+
+- Rainer
+
 
 ## Dynamische Webseite mit Node.js
 
