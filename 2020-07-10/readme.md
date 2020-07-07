@@ -4,7 +4,7 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink       |
 | ----------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
 | TBD         | [Scratch](#scratch)                                                     |               |                   |
 | TBD         | [Python für AnfängerInnen](#python-für-anfängerinnen)                   |               |                   |
 | TBD         | [HTML/CSS/JavaScript](#html-css-javascript)                             |               |                   |
@@ -16,13 +16,11 @@ Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-li
 
 ## Virtuelles Elektronikbasteln
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
-
-Letzte Woche: Elektronikbasteln geht auch übers Internet! Ihr übt und lernt Neues über Elektronik und Arduino-Programmierung mit Hilfe von [Tinkercad](https://www.tinkercad.com). Günther und Michael freuen sich auf elektronikinteressierte AnfängerInnen und haben sich auch wieder spannende Übungen für erfahrenere Bastler einfallen lassen. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
+Elektronikbasteln geht auch übers Internet! Mit [Tinkercad](https://www.tinkercad.com) simulieren wir Transistorschaltungen und programmieren den Arduino mit coolen Sensoren und Anzeigen. Günther und Michael freuen sich auf elektronikinteressierte AnfängerInnen und haben sich auch wieder spannende Übungen für erfahrenere Bastler einfallen lassen. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
 
 ### Voraussetzungen
 
