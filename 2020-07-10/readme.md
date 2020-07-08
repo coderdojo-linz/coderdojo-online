@@ -4,11 +4,12 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink       |
 | ----------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
-| 13:45-15:45 | [Scratch](#scratch)                                                     |               |                   |
-| 13:45-15:45 | [HTML Workshop](#html-workshop)                                         |               |                   |
-| 16:00-18:00 | [Asynchrone Programmierung mit C# und JavaScript](#asynchrone-programmierung-mit-c-und-javascript)|   |                  |
-| 19:00-21:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | Zoom01        | https://us02web.zoom.us/j/87344372407?pwd=L2dvangrVVFKNm1va3RLdUhzMW5FZz09                  |
+| 13:45-15:45 | [Scratch](#scratch)                                                     | Zoom02        | https://us02web.zoom.us/j/88024066954?pwd=Sy9NUlBtYnhzRXM2Y3FTSFBpd1RSZz09                  |
+| 13:45-15:45 | [HTML Workshop](#html-workshop)                                         | Zoom03        | https://us02web.zoom.us/j/82363959665?pwd=U0c0RWIxTmI2enZOaGU5OXdMN3lXUT09                  |
+| 16:00-18:00 | [Asynchrone Programmierung mit C# und JavaScript](#asynchrone-programmierung-mit-c-und-javascript)| Zoom01        | https://us02web.zoom.us/j/83697366589?pwd=MXBmMWxad0NkWk93cXJQeWR6TjJDdz09        |
+| 19:00-21:00 | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      | Zoom01        | https://us02web.zoom.us/j/87019944262?pwd=RWpGWGZaWjdqeFFNRVAraENmWm1KUT09                  |
+
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
