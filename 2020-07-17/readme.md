@@ -4,10 +4,10 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink       |
 | ----------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| TBD         | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
-| TBD         | [Scratch](#scratch)                                                     |               |                   |
-| TBD         | [HTML Workshop](#html-workshop)                                         |               |                   |
-| TBD         | [Dynamische Webseite mit Node.js](#dynamische-webseite-mit-nodejs)      |               |                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
+| 13:45-15:45 | [Python](#python)                                                       |               |                   |
+| 13:45-15:45 | [Web API](#web-api)                                                     |               |                   |
+| 16:00-18:00 | [Mobile App](#mobile-app)                                               |               |                   |
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
@@ -30,7 +30,24 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 - Michael
 
 
-## HTML Workshop
+## Python
+
+Zeit: TBD
+
+### Beschreibung
+
+TBD
+
+### Voraussetzungen
+
+TBD
+
+### Mentorinnen und Mentoren
+
+- Sonja
+
+
+## Mobile App
 
 Zeit: TBD
 
@@ -44,11 +61,11 @@ TBD
 
 ### Mentorinnen und Mentoren
 
-- Karin
-- Rainer
+- Matthias
+- Kathi
 
 
-## Scratch
+## Web API
 
 Zeit: TBD
 
@@ -58,43 +75,8 @@ TBD
 
 ### Voraussetzungen
 
-- **Keine** Vorkenntnisse über Programmieren notwendig
-- Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-- Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
-- Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+TBD
 
 ### Mentorinnen und Mentoren
 
 - TBD
-
-
-## Dynamische Webseite mit Node.js
-
-Zeit: TBD
-
-### Beschreibung
-
-TBD
-
-### Voraussetzungen
-
-Ein Einstieg in unsere Workshop-Serie ist mit den unten erwähnten grundlegenden Kenntnissen jederzeit möglich!
-
-#### Grundlegende Kenntnisse
-
-- beim Programmieren (z.B. mit JavaScript, Java, C#, C++, ...)
-- HTML
-
-### Installationsanleitung
-
-Wenn Du möchtest, kannst Du schon vorab unser Projekt bei Dir installieren. So haben wir beim Workshop mehr Zeit für's Programmieren und brauchen nicht so lange warten bis alle mit der Installation fertig sind. Eine Anleitung dazu findest Du auf [Github](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200710).
-
-#### Software
-
-- einen Texteditor wie z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com)
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://git-scm.com/download/win)
-
-### Mentorinnen und Mentoren
-
-- Thomas
