@@ -70,16 +70,23 @@ Während der Implementierung der App werdet ihr lernen, wie man eine einfache An
 
 ## Web API
 
-Zeit: TBD
+Zeit: 13:45 - 15:45
 
 ### Beschreibung
 
-TBD
+Habt ihr euch schon immer gefragt wie z.B. Applikationen an Suchergebnisse von Google kommen, oder wie ich in einer selbstgeschriebene App eine neue Nachricht in meinen Twitter feed bekommt?  
+
+Man benutzt das entsprechende Web API.  
+
+Wir versuchen hier zu verstehen, was Web-APIs sind und wie sie uns helfen können 
+ - selbst Daten für Applikationen bereitzustellen
+ - Dienste auf Servern anzusprechen und zu verwenden.
 
 ### Voraussetzungen
 
-TBD
+- evtl Postman zum ausprobieren (https://www.postman.com/downloads/)
+- Installiertes Visual Studio (Community Edition ist ausreichend - https://visualstudio.microsoft.com/de/downloads/)
 
 ### Mentorinnen und Mentoren
 
-- TBD
+- Hans-Peter
