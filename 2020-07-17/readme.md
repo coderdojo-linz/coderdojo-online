@@ -49,15 +49,18 @@ TBD
 
 ## Mobile App
 
-Zeit: TBD
+Zeit: 16:00-18:00
 
 ### Beschreibung
 
-TBD
+In diesem Workshop werden wir eine Android App entwickeln, in der man einen Satz eingeben kann, der dann (phonetisch auf Orte übersetzt) als Route auf einer Karte angezeigt wird. Die Idee dazu basiert auf diesem [Comic Strip](https://xkcd.com/2260/).
+Während der Implementierung der App werdet ihr lernen, wie man eine einfache Android App inklusive Navigation zwischen Screens schreibt. Außerdem werden wir über sogenannte REST Calls mit einem Server über das Internet kommunizieren, um den eingegebenen Satz in eine Route auf der Karte zu verwandeln. Zu guter letzt wird diese Route dann mithilfe von [Open Street Map](https://www.openstreetmap.org) auf einer Karte angezeigt. 
 
 ### Voraussetzungen
 
-- TBD
+- Ein Smartphone mit Android 5.0 oder höher ([So findest du die Android Version von deinem Smartphone](https://support.google.com/android/answer/7680439?hl=de))
+- Ein Kabel um dein Smartphone mit dem Computer zu verbinden
+- [Android Studio](https://developer.android.com/studio/install) auf dem Computer installiert und startbar
 
 ### Mentorinnen und Mentoren
 
