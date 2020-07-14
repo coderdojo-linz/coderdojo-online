@@ -32,15 +32,15 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ## Python
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Dieses Mal werden wir das Fische Spiel "Fang mich", das einige von euch wahrscheinlich schon von Scratch kennen, in Python programmieren. Neueinsteiger in Python sind genauso willkommen wie all jene, die schon erste Spiele mit Tkinter in Python programmiert haben.
 
 ### Voraussetzungen
 
-TBD
+- Aktuelle Version von [Python](https://www.python.org/downloads/)
 
 ### Mentorinnen und Mentoren
 
