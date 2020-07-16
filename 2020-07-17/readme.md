@@ -4,10 +4,11 @@
 
 | Zeit        | Thema                                                                   | Zoom-Benutzer | Zugangslink       |
 | ----------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           |               |                   |
-| 13:45-15:45 | [Python](#python)                                                       |               |                   |
-| 13:45-15:45 | [Web API](#web-api)                                                     |               |                   |
-| 16:00-18:00 | [Mobile App](#mobile-app)                                               |               |                   |
+| 13:45-15:45 | [Virtuelles Elektronikbasteln](#virtuelles-elektronikbasteln)           | Zoom01        | https://us02web.zoom.us/j/84493510897?pwd=Rk1pS3pHRnoxS1JwSVJqV0NyK1ZSQT09                  |
+| 13:45-15:45 | [Python](#python)                                                       | Zoom02        | https://us02web.zoom.us/j/83134524363?pwd=MUlrWGxnVm5mSEZKWTBOMEc1KzZNZz09                  |
+| 13:45-15:45 | [Web API](#web-api)                                                     | Zoom03        | https://us02web.zoom.us/j/84536012794?pwd=S0NZcnFxeTc5aGxRMnJUZkordjl5dz09                  |
+| 16:00-18:00 | [Mobile App](#mobile-app)                                               | Zoom01        | https://us02web.zoom.us/j/83328876512?pwd=b2oyUnQ5K3FMNGxIYmtvQVYwTGtwZz09                  |
+
 
 Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md).
 
