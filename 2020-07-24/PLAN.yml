@@ -16,7 +16,7 @@ workshops:
       zoom: ''
     - begintime: '00:00'
       endtime: '00:00'
-      draft: false
+      draft: true
       title: 'Ein Spiel mit Python'
       targetAudience: ''
       description: >- 
