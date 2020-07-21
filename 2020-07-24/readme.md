@@ -5,7 +5,7 @@
 | Zeit          | Thema                                                                                           | Zoom-Benutzer | Zugangslink |
 | ------------- | ----------------------------------------------------------------------------------------------- | ------------- | ----------- |
 | 13:45-15:45   | [Virtuelles Elektronikbasteln mit Raspberry Pi](#virtuelles-elektronikbasteln-mit-raspberry-pi) |               |             |
-| TBD           | [Ein Spiel mit Python](#ein-spiel-mit-python)                                                   |               |             |
+| 13:45-15:45   | [Ein Spiel mit Python](#ein-spiel-mit-python)                                                   |               |             |
 | TBD           | [Web APIs absichern und Hacker draußen halten](#web-apis-absichern-und-hacker-drauen-lassen)    |               |             |
 | TBD           | [Native Android Mobile App in Java](#native-android-mobile-app-in-java)                         |               |             |
 | 19:00 - 21:00 | [Test Driven Development](#test-driven-development)                                             |               |             |
@@ -34,11 +34,11 @@ Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
 
 ## Ein Spiel mit Python
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Wir werden dieses Mal das Spiel "Fang mich" von letzter Woche fertigstellen. Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
 
 ### Voraussetzungen
 
