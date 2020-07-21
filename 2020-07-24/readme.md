@@ -94,6 +94,7 @@ Zeit: 19:00 - 21:00
 
 In diesem Workshop lernst Du eine Vorgehensweise kennen, die Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. Für jede Erweiterung unserer Software erstellen wir zuerst einen neuen Test der rot wird (fehl schlägt). Im nächsten Schritt implementieren wir nur so viel um den Test grün zu bekommen. Ist der Test zufriedengestellt, geht es an das Refactoring (Entfernen von Wiederholungen im Code). So entsteht mit jedem weiteren Test unsere Software. Als Bonus bekommen wir ein Sicherheitsnetz bestehend aus unseren Tests, die uns bei künftigen Erweiterungen helfen und das Verhalten unseres Codes dokumentieren.
 
+Da wir in einer großen Gruppe arbeiten werden, ist keine Vorbereitung nötig. Das im Workshop verwendete Projekt gibt es natürlich wie gewohnt nach dem Workshop auf Github zum selbst Ausprobieren.
 
 ### Voraussetzungen
 
