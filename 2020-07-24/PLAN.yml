@@ -2,7 +2,7 @@ workshops:
     - begintime: '13:45'
       endtime: '15:45'
       draft: true
-      title: 'Virtuelles Elektronikbasteln mit Raspberry Pi'
+      title: Virtuelles Elektronikbasteln mit Raspberry Pi
       targetAudience: ab 10, für Anfänger und Fortgeschrittene
       description: >- 
         Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
