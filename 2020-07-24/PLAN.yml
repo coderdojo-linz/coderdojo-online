@@ -3,7 +3,7 @@ workshops:
       endtime: '15:45'
       draft: false
       title: 'Virtuelles Elektronikbasteln mit Raspberry Pi'
-      targetAudience: ''
+      targetAudience: ab 10, für Anfänger und Fortgeschrittene
       description: >- 
         Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
         Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
@@ -56,12 +56,11 @@ workshops:
       zoom: ''
     - begintime: '19:00'
       endtime: '21:00'
-      draft: true
+      draft: false
       title: 'Test Driven Development'
-      targetAudience: ''
+      targetAudience: etwas Programmiererfahrung notwendig
       description: >- 
-        In diesem Workshop lernst Du eine Vorgehensweise kennen, d
-        ie Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. 
+        In diesem Workshop lernst Du eine Vorgehensweise kennen, die Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. 
         Für jede Erweiterung unserer Software erstellen wir zuerst einen neuen Test der rot wird (fehl schlägt). 
         Im nächsten Schritt implementieren wir nur so viel um den Test grün zu bekommen. Ist der Test zufriedengestellt, 
         geht es an das Refactoring (Entfernen von Wiederholungen im Code). So entsteht mit jedem weiteren Test unsere Software. 
