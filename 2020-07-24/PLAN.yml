@@ -1,6 +1,6 @@
 workshops:
-    - begintime: 13:45
-      endtime: 21:00
+    - begintime: '13:45'
+      endtime: '21:00'
       draft: false
       title: Workshops werden noch bekanntgegeben
       targetAudience: für Kinder zwischen 8 und 17 Jahren
