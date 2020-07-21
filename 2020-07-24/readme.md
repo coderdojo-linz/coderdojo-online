@@ -4,7 +4,7 @@
 
 | Zeit          | Thema                                                                                           | Zoom-Benutzer | Zugangslink |
 | ------------- | ----------------------------------------------------------------------------------------------- | ------------- | ----------- |
-| TBD           | [Virtuelles Elektronikbasteln mit Raspberry Pi](#virtuelles-elektronikbasteln-mit-raspberry-pi) |               |             |
+| 13:45-15:45   | [Virtuelles Elektronikbasteln mit Raspberry Pi](#virtuelles-elektronikbasteln-mit-raspberry-pi) |               |             |
 | TBD           | [Ein Spiel mit Python](#ein-spiel-mit-python)                                                   |               |             |
 | TBD           | [Web APIs absichern und Hacker draußen halten](#web-apis-absichern-und-hacker-drauen-lassen)    |               |             |
 | TBD           | [Native Android Mobile App in Java](#native-android-mobile-app-in-java)                         |               |             |
@@ -16,11 +16,11 @@ Hinweis: Für _Zoom-Benutzer_ siehe [Erklärung](https://github.com/coderdojo-li
 
 ## Virtuelles Elektronikbasteln mit Raspberry Pi
 
-Zeit: TBD
+Zeit: 13:45-15:45
 
 ### Beschreibung
 
-TBD
+Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
 
 ### Voraussetzungen
 
