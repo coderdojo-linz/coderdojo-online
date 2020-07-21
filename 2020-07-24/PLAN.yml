@@ -1,87 +1,92 @@
 workshops:
-    - begintime: '13:45'
-      endtime: '21:00'
-      draft: false
-      title: Workshops werden noch bekanntgegeben
-      targetAudience: für Kinder zwischen 8 und 17 Jahren
-      description: >-
-        Am Workshopprogramm wird gerade gearbeitet. Es wird voraussichtlich Mittwochs veröffentlicht.
-      prerequisites: >-
-        Die Voraussetzungen je Workshop werden mit dem Programm hier veröffentlicht.
-      mentors:
-        - Mentoring-Team des CoderDojo Linz
-      zoom: ''
-    - begintime: '13:45'
-      endtime: '15:45'
-      draft: true
-      title: Virtuelles Elektronikbasteln mit Raspberry Pi
-      targetAudience: ab 10, für Anfänger und Fortgeschrittene
-      description: >- 
-        Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
-        Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
-        Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
-      prerequisites: >-
-        - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
-      mentors:
-        - Günther
-        - Micheal
-      zoom: ''
-    - begintime: '00:00'
-      endtime: '00:00'
-      draft: true
-      title: 'Ein Spiel mit Python'
-      targetAudience: ''
-      description: >- 
-        ''
-      prerequisites: >-
-        - Aktuelle Version von Python
-      mentors:
-        - Sonja
-      zoom: ''
-    - begintime: '00:00'
-      endtime: '00:00'
-      draft: true
-      title: 'Web APIs absichern und Hacker draußen halten'
-      targetAudience: ''
-      description: >- 
-        ''
-      prerequisites: >-
-        ''
-      mentors:
-        - Rainer
-      zoom: ''
-    - begintime: '00:00'
-      endtime: '00:00'
-      draft: true
-      title: 'Native Android Mobile App in Java'
-      targetAudience: ''
-      description: >- 
-        ''
-      prerequisites: >-
-        - Ein Smartphone mit Android 5.0 oder höher ([So findest du die Android Version von deinem Smartphone](https://support.google.com/android/answer/7680439?hl=de))
-        - Ein Kabel um dein Smartphone mit dem Computer zu verbinden
-        - [Android Studio](https://developer.android.com/studio/install) auf dem Computer installiert und startbar
+  - begintime: '13:45'
+    endtime: '21:00'
+    draft: false
+    title: Weitere Workshops werden noch bekanntgegeben
+    targetAudience: für Kinder zwischen 8 und 17 Jahren
+    description: >-
+      Am Workshopprogramm wird gerade gearbeitet. Das komplette wird voraussichtlich Mittwochs veröffentlicht.
+    prerequisites: >-
+      Die Voraussetzungen je Workshop werden mit dem Programm hier veröffentlicht.
+    mentors:
+      - Mentoring-Team des CoderDojo Linz
+    zoom: ''
 
-      mentors:
-        - Matthias
-        - Kathi
-      zoom: ''
-    - begintime: '19:00'
-      endtime: '21:00'
-      draft: true
-      title: 'Test Driven Development'
-      targetAudience: etwas Programmiererfahrung notwendig
-      description: >- 
-        In diesem Workshop lernst Du eine Vorgehensweise kennen, die Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. 
-        Für jede Erweiterung unserer Software erstellen wir zuerst einen neuen Test der rot wird (fehl schlägt). 
-        Im nächsten Schritt implementieren wir nur so viel um den Test grün zu bekommen. Ist der Test zufriedengestellt, 
-        geht es an das Refactoring (Entfernen von Wiederholungen im Code). So entsteht mit jedem weiteren Test unsere Software. 
-        Als Bonus bekommen wir ein Sicherheitsnetz bestehend aus unseren Tests, die uns bei künftigen Erweiterungen helfen 
-        und das Verhalten unseres Codes dokumentieren.
-        Da wir in einer großen Gruppe arbeiten werden, ist keine Vorbereitung nötig. 
-        Das im Workshop verwendete Projekt gibt es natürlich wie gewohnt nach dem Workshop auf Github zum selbst Ausprobieren.
-      prerequisites: >-
-        etwas Programmiererfahrung
-      mentors:
-        - Thomas
-      zoom: ''
+  - begintime: '13:45'
+    endtime: '15:45'
+    draft: false
+    title: Virtuelles Elektronikbasteln mit Raspberry Pi
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: >- 
+      Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
+      Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
+      Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
+    prerequisites: >-
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Günther
+      - Micheal
+    zoom: ''
+
+  - begintime: 13:45
+    endtime: 15:45
+    draft: false
+    title: Ein Spiel mit Python
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python, Erfahrung mit Scratch von Vorteil
+    description: >- 
+      Wir werden dieses Mal das Spiel "Fang mich" von letzter Woche fertigstellen. Neueinsteiger sind auch herzlich willkommen. Ihr bekommt den Code vom letzten Mal und wir wiederholen die wichtigsten Schritte.
+    prerequisites: >-
+      - Aktuelle Version von [Python](https://www.python.org/downloads/)
+    mentors:
+      - Sonja
+    zoom: ''
+
+  - begintime: '00:00'
+    endtime: '00:00'
+    draft: true
+    title: 'Web APIs absichern und Hacker draußen halten'
+    targetAudience: ''
+    description: >- 
+      ''
+    prerequisites: >-
+      ''
+    mentors:
+      - Rainer
+    zoom: ''
+
+  - begintime: '00:00'
+    endtime: '00:00'
+    draft: true
+    title: 'Native Android Mobile App in Java'
+    targetAudience: ''
+    description: >- 
+      ''
+    prerequisites: >-
+      - Ein Smartphone mit Android 5.0 oder höher ([So findest du die Android Version von deinem Smartphone](https://support.google.com/android/answer/7680439?hl=de))
+      - Ein Kabel um dein Smartphone mit dem Computer zu verbinden
+      - [Android Studio](https://developer.android.com/studio/install) auf dem Computer installiert und startbar
+
+    mentors:
+      - Matthias
+      - Kathi
+    zoom: ''
+
+  - begintime: '19:00'
+    endtime: '21:00'
+    draft: true
+    title: 'Test Driven Development'
+    targetAudience: etwas Programmiererfahrung notwendig
+    description: >- 
+      In diesem Workshop lernst Du eine Vorgehensweise kennen, die Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. 
+      Für jede Erweiterung unserer Software erstellen wir zuerst einen neuen Test der rot wird (fehl schlägt). 
+      Im nächsten Schritt implementieren wir nur so viel um den Test grün zu bekommen. Ist der Test zufriedengestellt, 
+      geht es an das Refactoring (Entfernen von Wiederholungen im Code). So entsteht mit jedem weiteren Test unsere Software. 
+      Als Bonus bekommen wir ein Sicherheitsnetz bestehend aus unseren Tests, die uns bei künftigen Erweiterungen helfen 
+      und das Verhalten unseres Codes dokumentieren.
+      Da wir in einer großen Gruppe arbeiten werden, ist keine Vorbereitung nötig. 
+      Das im Workshop verwendete Projekt gibt es natürlich wie gewohnt nach dem Workshop auf Github zum selbst Ausprobieren.
+    prerequisites: >-
+      etwas Programmiererfahrung
+    mentors:
+      - Thomas
+    zoom: ''
