@@ -1,6 +1,6 @@
 workshops:
-    - begintime: '2020-07-24T13:45:00'
-      endtime: '2020-07-24T15:45:00'
+    - begintime: '13:45'
+      endtime: '15:45'
       draft: false
       title: 'Virtuelles Elektronikbasteln mit Raspberry Pi'
       targetAudience: ''
@@ -14,8 +14,8 @@ workshops:
         - Günther
         - Micheal
       zoom: ''
-    - begintime: '2020-07-24T00:00:00'
-      endtime: '2020-07-24T00:00:00'
+    - begintime: '00:00'
+      endtime: '00:00'
       draft: false
       title: 'Ein Spiel mit Python'
       targetAudience: ''
@@ -26,8 +26,8 @@ workshops:
       mentors:
         - Sonja
       zoom: ''
-    - begintime: '2020-07-24T00:00:00'
-      endtime: '2020-07-24T00:00:00'
+    - begintime: '00:00'
+      endtime: '00:00'
       draft: false
       title: 'Web APIs absichern und Hacker draußen halten'
       targetAudience: ''
@@ -38,8 +38,8 @@ workshops:
       mentors:
         - Rainer
       zoom: ''
-    - begintime: '2020-07-24T00:00:00'
-      endtime: '2020-07-24T00:00:00'
+    - begintime: '00:00'
+      endtime: '00:00'
       draft: false
       title: 'Native Android Mobile App in Java'
       targetAudience: ''
@@ -54,8 +54,8 @@ workshops:
         - Matthias
         - Kathi
       zoom: ''
-    - begintime: '2020-07-24T19:00:00'
-      endtime: '2020-07-24T21:00:00'
+    - begintime: '19:00'
+      endtime: '21:00'
       draft: false
       title: 'Test Driven Development'
       targetAudience: ''
