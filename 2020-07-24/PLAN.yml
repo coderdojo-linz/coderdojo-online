@@ -1,4 +1,16 @@
 workshops:
+    - begintime: 13:45
+      endtime: 21:00
+      draft: false
+      title: Workshops werden noch bekanntgegeben
+      targetAudience: für Kinder zwischen 8 und 17 Jahren
+      description: >-
+        Am Workshopprogramm wird gerade gearbeitet. Es wird voraussichtlich Mittwochs veröffentlicht.
+      prerequisites: >-
+        Die Voraussetzungen je Workshop werden mit dem Programm hier veröffentlicht.
+      mentors:
+        - Mentoring-Team des CoderDojo Linz
+      zoom: ''
     - begintime: '13:45'
       endtime: '15:45'
       draft: true
