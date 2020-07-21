@@ -1,7 +1,7 @@
 workshops:
     - begintime: '13:45'
       endtime: '15:45'
-      draft: false
+      draft: true
       title: 'Virtuelles Elektronikbasteln mit Raspberry Pi'
       targetAudience: ab 10, für Anfänger und Fortgeschrittene
       description: >- 
@@ -56,7 +56,7 @@ workshops:
       zoom: ''
     - begintime: '19:00'
       endtime: '21:00'
-      draft: false
+      draft: true
       title: 'Test Driven Development'
       targetAudience: etwas Programmiererfahrung notwendig
       description: >- 
