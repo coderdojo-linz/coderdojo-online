@@ -13,7 +13,7 @@ workshops:
     mentors:
       - Günther
       - Micheal
-    shortcode: 'Raspberry Pi'
+    shortCode: 'Raspberry Pi'
 
   - begintime: 13:45
     endtime: 15:45
@@ -26,7 +26,7 @@ workshops:
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
     mentors:
       - Sonja
-    shortcode: 'Python'
+    shortCode: 'Python'
 
   - begintime: 13:45
     endtime: 15:45
@@ -40,7 +40,7 @@ workshops:
     mentors:
       - Rainer
       - Daniel
-    shortcode: 'Web APIs'
+    shortCode: 'Web APIs'
 
   - begintime: 16:00
     endtime: 18:00
@@ -60,7 +60,7 @@ workshops:
     mentors:
       - Matthias
       - Kathi
-    shortcode: 'Android'
+    shortCode: 'Android'
 
   - begintime: 19:00
     endtime: 21:00
@@ -81,4 +81,4 @@ workshops:
       etwas Programmiererfahrung
     mentors:
       - Thomas
-    shortcode: 'Thomas Github'
+    shortCode: 'Thomas Github'
