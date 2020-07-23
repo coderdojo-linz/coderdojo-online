@@ -34,9 +34,10 @@ workshops:
     title: 'Web APIs absichern und Hacker draußen halten'
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
-      Folgt so rasch wie möglich
+      Für den Discord Bot und ähnliche Projekte haben viele von euch schon Web APIs gebaut. In diesem Workshop sehen wir uns an, wie Profis solche APIs im Internet absichern. Wir analysieren, wie Microsoft, Google & Co ihre Login-Seiten bauen. Technisch gesehen geht es um das *OAuth 2* Protokoll.
     prerequisites: >-
-      Folgt so rasch wie möglich
+      - Aktueller Chrome browser
+      - Aktuelle Version von *Visual Studio 2019*
     mentors:
       - Rainer
       - Daniel
