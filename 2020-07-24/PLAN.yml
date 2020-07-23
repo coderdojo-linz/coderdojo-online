@@ -26,7 +26,7 @@ workshops:
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
     mentors:
       - Sonja
-    shortCode: 'Python'
+    shortCode: PythonFische
 
   - begintime: 13:45
     endtime: 15:45
@@ -41,7 +41,7 @@ workshops:
     mentors:
       - Rainer
       - Daniel
-    shortCode: 'Web APIs'
+    shortCode: ApiSecurity
     
   - begintime: 16:00
     endtime: 18:00
@@ -61,7 +61,7 @@ workshops:
     mentors:
       - Matthias
       - Kathi
-    shortCode: 'Android'
+    shortCode: AndroidXkcd
 
   - begintime: 19:00
     endtime: 21:00
@@ -82,4 +82,4 @@ workshops:
       etwas Programmiererfahrung
     mentors:
       - Thomas
-    shortCode: 'Thomas Github'
+    shortCode: TddJs
