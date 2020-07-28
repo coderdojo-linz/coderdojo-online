@@ -55,7 +55,7 @@ workshops:
     targetAudience: grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
     description: >- 
       Beschreibung folgt
-    prerequisites: >-
+    prerequisites: |
       - [Visual Studio Code](https://code.visualstudio.com/)
       - Alternativ kann auch eine online IDE verwendet werden, ich werde [Codesandbox](https://codesandbox.io/) verwenden
     mentors:
