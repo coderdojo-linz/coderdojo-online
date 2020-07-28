@@ -57,7 +57,7 @@ workshops:
       Beschreibung folgt
     prerequisites: >-
       - [Visual Studio Code](https://code.visualstudio.com/)
-      - Alternativ kann auch eine online IDE verwendet werden, ich werde Codesandbox(https://codesandbox.io/) verwenden
+      - Alternativ kann auch eine online IDE verwendet werden, ich werde [Codesandbox](https://codesandbox.io/) verwenden
     mentors:
       - Pia
       - Karin
