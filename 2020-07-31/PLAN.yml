@@ -1,24 +1,13 @@
 workshops:
   - begintime: 13:45
-    endtime: 21:00
+    endtime: 15:45
     draft: false
-    title: Weitere Workshops werden noch bekanntgegeben
-    targetAudience: für Kinder zwischen 8 und 17 Jahren
-    description: >-
-      Am Workshopprogramm wird gerade gearbeitet. Das komplette wird voraussichtlich Mittwochs veröffentlicht.
-    prerequisites: >-
-      Die Voraussetzungen je Workshop werden mit dem Programm hier veröffentlicht.
-    mentors:
-      - Mentoring-Team des CoderDojo Linz
-    shortCode: Placeholder
-
-  - begintime: 13:45
-    endtime: 21:00
-    draft: true
-    title: Virtuelles Elektronikbasteln mit Raspberry Pi
+    title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: >- 
-      TBD
+      Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
+      Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
+      Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
     prerequisites: >-
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
@@ -26,10 +15,10 @@ workshops:
       - Micheal
     shortCode: Elektronikbasteln
 
-  - begintime: 13:45
-    endtime: 15:45
+  - begintime: 16:00
+    endtime: 18:00
     draft: false
-    title: 'Web APIs absichern und Hacker draußen halten - Teil 2'
+    title: Web APIs absichern und Hacker draußen halten - Teil 2
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
       Für den Discord Bot und ähnliche Projekte haben viele von euch schon Web APIs gebaut. In diesem Workshop sehen wir uns an, wie Profis solche APIs im Internet absichern. Letzte Woche haben wir konzeptionell über das *OAuth2*-Protokoll gesprochen. Diese Woche machen wir ein praktisches Beispiel dazu. Wer Quereinsteigen möchte, schaut sich am besten das *Video von letzter Woche* (wird in Kürze veröffentlicht) an.
@@ -37,17 +26,17 @@ workshops:
       - Aktuelle Version von *Visual Studio 2019*
     mentors:
       - Rainer
+      - Hans-Peter
     shortCode: ApiSecurity
     
   - begintime: 16:00
     endtime: 18:00
-    draft: true
+    draft: false
     title: 'Native Android Mobile App in Java'
     targetAudience: >-
-      WorkshopteilnehmerInnen von letzter Woche; falls jemand quereinsteigen will,
-      bitte email an [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net).
+      WorkshopteilnehmerInnen von letzten Mal; falls jemand quereinsteigen will, bitte email an [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net).
     description: |
-      Wir machen diese Woche die Android App fertig, die wir letzte Woche begonnen haben. Dort kann man einen Satz eingeben kann, der dann (phonetisch auf Orte übersetzt) als Route auf einer Karte angezeigt wird. Die Idee dazu basiert auf diesem [Comic Strip](https://xkcd.com/2260/).
+      Wir machen diese Woche die Android App fertig, die wir letztes Mal begonnen haben. Dort kann man einen Satz eingeben kann, der dann (phonetisch auf Orte übersetzt) als Route auf einer Karte angezeigt wird. Die Idee dazu basiert auf diesem [Comic Strip](https://xkcd.com/2260/).
 
       Während der Implementierung der App werdet ihr lernen, wie man eine einfache Android App inklusive Navigation zwischen Screens schreibt. Außerdem werden wir über sogenannte REST Calls mit einem Server über das Internet kommunizieren, um den eingegebenen Satz in eine Route auf der Karte zu verwandeln. Zu guter letzt wird diese Route dann mithilfe von [Open Street Map](https://www.openstreetmap.org) auf einer Karte angezeigt. 
     prerequisites: |
@@ -59,23 +48,17 @@ workshops:
       - Kathi
     shortCode: AndroidXkcd
 
-  - begintime: 19:00
-    endtime: 21:00
-    draft: true
-    title: Test Driven Development
-    targetAudience: etwas Programmiererfahrung notwendig
-    description: |
-      In diesem Workshop lernst Du eine Vorgehensweise kennen, die Dir dabei hilft, Dein Programm Schritt für Schritt auf Basis von Tests zu entwickeln. 
-      Für jede Erweiterung unserer Software erstellen wir zuerst einen neuen Test der rot wird (fehl schlägt). 
-      Im nächsten Schritt implementieren wir nur so viel um den Test grün zu bekommen. Ist der Test zufriedengestellt, 
-      geht es an das Refactoring (Entfernen von Wiederholungen im Code). So entsteht mit jedem weiteren Test unsere Software. 
-      Als Bonus bekommen wir ein Sicherheitsnetz bestehend aus unseren Tests, die uns bei künftigen Erweiterungen helfen 
-      und das Verhalten unseres Codes dokumentieren.
-
-      Da wir in einer großen Gruppe arbeiten werden, ist keine Vorbereitung nötig. 
-      Das im Workshop verwendete Projekt gibt es natürlich wie gewohnt nach dem Workshop auf Github zum selbst Ausprobieren.
+  - begintime: 13:45
+    endtime: 15:45
+    draft: false
+    title: Space Invaders JS
+    targetAudience: grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
+    description: >- 
+      Beschreibung folgt
     prerequisites: >-
-      etwas Programmiererfahrung
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - Alternativ kann auch eine online IDE verwendet werden, ich werde Codesandbox(https://codesandbox.io/) verwenden
     mentors:
-      - Thomas
-    shortCode: TddJs
+      - Pia
+      - Karin
+    shortCode: SpaceInvadersJS
