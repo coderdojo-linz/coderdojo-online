@@ -9,7 +9,7 @@ workshops:
       Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
       Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
     prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang. 
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
       - Günther
       - Micheal
