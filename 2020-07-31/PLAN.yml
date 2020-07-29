@@ -21,7 +21,7 @@ workshops:
     title: Web APIs absichern und Hacker draußen halten - Teil 2
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
-      Für den Discord Bot und ähnliche Projekte haben viele von euch schon Web APIs gebaut. In diesem Workshop sehen wir uns an, wie Profis solche APIs im Internet absichern. Letzte Woche haben wir konzeptionell über das *OAuth2*-Protokoll gesprochen. Diese Woche machen wir ein praktisches Beispiel dazu. Wer Quereinsteigen möchte, schaut sich am besten das [Video von letzter Woche](https://youtu.be/MGjIF4g0lB0) an.
+      Für den Discord Bot und ähnliche Projekte haben viele von euch schon Web APIs gebaut. In diesem Workshop sehen wir uns an, wie Profis solche APIs im Internet absichern. Letzte Woche haben wir konzeptionell über das *OAuth2*-Protokoll gesprochen. Diese Woche machen wir ein praktisches Beispiel mit JavaScript dazu. Wer Quereinsteigen möchte, schaut sich am besten das [Video von letzter Woche](https://youtu.be/MGjIF4g0lB0) an.
     prerequisites: >-
       - Aktuelle Version von *Visual Studio 2019*
     mentors:
