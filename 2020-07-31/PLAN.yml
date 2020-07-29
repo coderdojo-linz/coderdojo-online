@@ -29,8 +29,8 @@ workshops:
       - Hans-Peter
     shortCode: ApiSecurity
     
-  - begintime: 16:00
-    endtime: 18:00
+  - begintime: 13:45
+    endtime: 15:45
     draft: false
     title: 'Native Android Mobile App in Java'
     targetAudience: >-
