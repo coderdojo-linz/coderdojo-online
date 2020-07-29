@@ -1,7 +1,7 @@
 workshops:
   - begintime: 13:45
     endtime: 15:45
-    draft: false
+    status: Published
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: >- 
@@ -17,7 +17,7 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    draft: false
+    status: Published
     title: Web APIs absichern und Hacker draußen halten - Teil 2
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
@@ -31,7 +31,7 @@ workshops:
     
   - begintime: 13:45
     endtime: 15:45
-    draft: false
+    status: Published
     title: 'Native Android Mobile App in Java'
     targetAudience: >-
       WorkshopteilnehmerInnen von letzten Mal; falls jemand quereinsteigen will, bitte email an [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net).
@@ -50,7 +50,7 @@ workshops:
 
   - begintime: 13:45
     endtime: 15:45
-    draft: false
+    status: Published
     title: Space Invaders JS
     targetAudience: grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
     description: >- 
