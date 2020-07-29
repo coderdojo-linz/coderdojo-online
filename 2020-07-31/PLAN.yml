@@ -17,7 +17,7 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Published
+    status: Scheduled
     title: Web APIs absichern und Hacker draußen halten - Teil 2
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
