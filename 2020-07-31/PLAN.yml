@@ -8,7 +8,7 @@ workshops:
       Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
       Mit dem Arduino steuern wir einen Servo und schauen uns an, welche coolen Sachen damit gemacht werden könnten. 
       Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
-    prerequisites: >-
+    prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
       - Günther
@@ -22,7 +22,7 @@ workshops:
     targetAudience: etwas Programmiererfahrung von Vorteil
     description: >- 
       Für den Discord Bot und ähnliche Projekte haben viele von euch schon Web APIs gebaut. In diesem Workshop sehen wir uns an, wie Profis solche APIs im Internet absichern. Letzte Woche haben wir konzeptionell über das *OAuth2*-Protokoll gesprochen. Diese Woche machen wir ein praktisches Beispiel mit JavaScript dazu. Wer Quereinsteigen möchte, schaut sich am besten das [Video von letzter Woche](https://youtu.be/MGjIF4g0lB0) an.
-    prerequisites: >-
+    prerequisites: |
       - Aktuelle Version von *Visual Studio 2019*
     mentors:
       - Rainer
