@@ -54,7 +54,7 @@ workshops:
     title: Space Invaders JS
     targetAudience: grundlegendste Vorkenntnisse in HTML/CSS von Vorteil aber nicht erforderlich
     description: >- 
-      Beschreibung folgt
+      In dieser Session machen wir wieder ein Tutorial von Ania Kubów. Diesesmal programmieren wir ein einfaches Space Invaders spiel mit HTML, JS und CSS.
     prerequisites: |
       - [Visual Studio Code](https://code.visualstudio.com/)
       - Alternativ kann auch eine online IDE verwendet werden, ich werde [Codesandbox](https://codesandbox.io/) verwenden
