@@ -34,7 +34,7 @@ workshops:
     status: Scheduled
     title: 'Native Android Mobile App in Java'
     targetAudience: >-
-      WorkshopteilnehmerInnen von letzten Mal; falls jemand quereinsteigen will, bitte email an [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net).
+      WorkshopteilnehmerInnen von letzten Mal; falls jemand quereinsteigen will, bitte Email an [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net).
     description: |
       Wir machen diese Woche die Android App fertig, die wir letztes Mal begonnen haben. Dort kann man einen Satz eingeben kann, der dann (phonetisch auf Orte übersetzt) als Route auf einer Karte angezeigt wird. Die Idee dazu basiert auf diesem [Comic Strip](https://xkcd.com/2260/).
 
@@ -68,7 +68,7 @@ workshops:
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: >- 
-      Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit Karin arbeiten könnt.
+      Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit uns arbeiten könnt.
     prerequisites: |
       - **Keine** Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
