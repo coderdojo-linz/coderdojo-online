@@ -28,13 +28,17 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Draft
-    title: Docker Basics
-    targetAudience: TBD
-    description: >- 
-      TBD
+    status: Published
+    title: Webanwendung in der Cloud
+    targetAudience: etwas Programmiererfahrung notwendig
+    description: |
+      Als Abschluss unserer Workshopserie zum Thema *dynamische Webseiten* werden wir gemeinsam die von uns erstellte FeuerwehrApp in einem *Docker*-Image verpacken und sie in der Azure Cloud als Docker-Container starten. Damit die Kommunikation sicher ist, werden wir Verschlüsselung (HTTPS) aktivieren.
+
+      Wir verwenden in diesem Workshop die *FeuerwehrApp*, es geht aber diesmal um das neue Thema Docker. Insofern ist Quereinsteigen problemlos möglich. Der Workshop ist für alle Programmiersprachen (Java, C#, JavaScript, Python, etc.) relevant.
     prerequisites: |
-      - TBD
+      - etwas Programmiererfahrung
+      -	Installierte Docker Engine (eine Installationsanleitung findest Du [hier](https://docs.docker.com/engine/install/))
+      - Installierte *FeuerwehrApp* (eine Installationsanleitung findest Du [hier](https://github.com/coderdojo-neusiedl/dynamic-webpage/tree/workshop-20200807))
     mentors:
       - Thomas
       - Rainer
