@@ -1,30 +1,34 @@
 workshops:
   - begintime: 13:45
-    endtime: 21:00
-    status: Published
-    title: Weitere Workshops werden noch bekanntgegeben
-    targetAudience: für Kinder zwischen 8 und 17 Jahren
-    description: >-
-      Am Workshopprogramm wird gerade gearbeitet. Das komplette wird voraussichtlich Mittwochs veröffentlicht.
-    prerequisites: >-
-      Die Voraussetzungen je Workshop werden mit dem Programm hier veröffentlicht.
-    mentors:
-      - Mentoring-Team des CoderDojo Linz
-    shortCode: Placeholder
-
-  - begintime: 13:45
     endtime: 15:45
-    status: Draft
+    status: Published
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
-    description: >- 
-      TBD
+    description: |
+      Dieses Mal werden wir wieder mit [Tinkercad](https://www.tinkercad.com) arbeiten. 
+      Wir kombinieren Arduino mit Sensoren zu spannenden Projekten. 
+      Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen **und** Fortgeschrittene sind daher willkommen!
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
       - Günther
       - Micheal
     shortCode: Elektronikbasteln
+
+  - begintime: 13:45
+    endtime: 15:45
+    status: Published
+    title: Webentwicklung mit Angular
+    targetAudience: grundlegende Vorkenntnisse in HTML/CSS von Vorteil
+    description: |
+      In den letzten Wochen haben wir oft etwas über HTML, JavaScript und CSS gehört. In der Praxis verwendet man für Webanwendungen meistens *Frameworks*, die einem viel Arbeit abnehmen. Dieses Mal könnt ihr mit uns einen Blick in ein solches Webentwicklungs-Framework von Google werfen: *Angular*
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: Angular
 
   - begintime: 16:00
     endtime: 18:00
@@ -46,10 +50,10 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Draft
+    status: Published
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
-    description: >- 
+    description: |
       Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit uns arbeiten könnt.
     prerequisites: |
       - **Keine** Vorkenntnisse über Programmieren notwendig
@@ -57,5 +61,5 @@ workshops:
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
       - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - TBD
+      - Matthias
     shortCode: Scratch
