@@ -1,7 +1,7 @@
 workshops:
   - begintime: 13:45
     endtime: 15:45
-    status: Published
+    status: Scheduled
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
@@ -17,7 +17,7 @@ workshops:
 
   - begintime: 13:45
     endtime: 15:45
-    status: Published
+    status: Scheduled
     title: Webentwicklung mit Angular
     targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
     description: |
@@ -32,7 +32,7 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Published
+    status: Scheduled
     title: Webanwendung in der Cloud
     targetAudience: etwas Programmiererfahrung notwendig
     description: |
@@ -50,7 +50,7 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Published
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
