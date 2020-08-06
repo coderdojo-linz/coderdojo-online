@@ -19,7 +19,7 @@ workshops:
     endtime: 15:45
     status: Published
     title: Webentwicklung mit Angular
-    targetAudience: grundlegende Vorkenntnisse in HTML/CSS von Vorteil
+    targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
     description: |
       In den letzten Wochen haben wir oft etwas über HTML, JavaScript und CSS gehört. In der Praxis verwendet man für Webanwendungen meistens *Frameworks*, die einem viel Arbeit abnehmen. Dieses Mal könnt ihr mit uns einen Blick in ein solches Webentwicklungs-Framework von Google werfen: *Angular*
     prerequisites: |
