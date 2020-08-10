@@ -1,0 +1,39 @@
+workshops:
+  - begintime: 13:45
+    endtime: 15:45
+    status: Scheduled
+    title: Virtuelles Elektronikbasteln mit Arduino
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      TBD
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - TBD
+    shortCode: Elektronikbasteln
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: HTML + JS?
+    targetAudience: TBD
+    description: |
+      TBD
+    prerequisites: |
+      - TBD
+    mentors:
+      - TBD
+    shortCode: WebHtmlJs
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      TBD
+    prerequisites: |
+      - TBD
+    mentors:
+      - TBD
+    shortCode: Scratch
