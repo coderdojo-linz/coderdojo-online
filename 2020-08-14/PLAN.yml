@@ -34,9 +34,10 @@ workshops:
     title: Ein Musicplayer mit Python
     targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python
     description: >- 
-      Nähere Informationen folgen
+      Wir programmieren einen Musicplayer in Python, mit dem du deine Lieblingslieder abspielen kannst. Dazu verwenden wir die Packages Tkinter und pygame.
     prerequisites: >-
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
+      - Ein paar von deinen Lieblingsliedern als mp3.
     mentors:
       - Sonja
     shortCode: PythonMusic
