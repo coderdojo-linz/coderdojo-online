@@ -5,11 +5,11 @@ workshops:
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
-      TBD
+      Wir machen die Serien- und Parallelschaltung von Widerständen, LEDs und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte das schon vorhanden ist entweder weiterentwickeln oder neu aufbauen. Anfänger sind willkommen.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
-      - TBD
+      - Günther und Michael
     shortCode: Elektronikbasteln
 
   - begintime: 16:00
