@@ -1,7 +1,7 @@
 workshops:
   - begintime: 13:45
     endtime: 15:45
-    status: Published
+    status: Scheduled
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
@@ -14,7 +14,7 @@ workshops:
 
   - begintime: 13:45
     endtime: 15:45
-    status: Published
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -30,7 +30,7 @@ workshops:
    
   - begintime: 16:00
     endtime: 18:00
-    status: Published
+    status: Scheduled
     title: Ein Musicplayer mit Python
     targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python
     description: >- 
