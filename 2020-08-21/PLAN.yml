@@ -5,15 +5,16 @@ workshops:
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
-      TBD
+      Wir machen die Serien- und Parallelschaltung von Widerständen, LEDs und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte das schon vorhanden ist entweder weiterentwickeln oder neu aufbauen. Anfänger sind willkommen.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
-      - TBD
+      - Günther
+      - Michael
     shortCode: Elektronikbasteln
 
-  - begintime: 13:45
-    endtime: 15:45
+  - begintime: 16:00
+    endtime: 18:00
     status: Draft
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
@@ -25,19 +26,37 @@ workshops:
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
       - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - TBD
+      - Karin
     shortCode: Scratch
    
   - begintime: 16:00
     endtime: 18:00
     status: Draft
+    title: SQL Grundlagen mit ein wenig C#
+    targetAudience: ab 10, etwas Programmiererfahrung von Vorteil aber nicht Voraussetzung
+    description: >- 
+      TBD
+    prerequisites: >-
+      - TBD
+    mentors:
+      - Rainer
+      - Jonas
+    shortCode: SqlBasics
+   
+  - begintime: 13:00
+    endtime: 15:00
+    status: Draft
     title: Ein Musicplayer mit Python
     targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python
     description: >- 
-      Wir programmieren einen Musicplayer in Python, mit dem du deine Lieblingslieder abspielen kannst. Dazu verwenden wir die Packages Tkinter und pygame.
+      Wir machen den Musicplayer in Python fertig, den wir letzte Woche begonnen haben. Mit dem Musicplayer kannst du deine Lieblingslieder abspielen. Dazu verwenden wir die Packages Tkinter und pygame. Quereinsteiger sind herzlich willkommen. Sie bekommen den Code von letzter Woche, damit ein Einstieg problemlos möglich ist.
     prerequisites: >-
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
-      - Ein paar von deinen Lieblingsliedern als mp3.
+      - Ein paar von deinen Lieblingsliedern als mp3
+      - **Achtung neu:** [Visual Studio Code](https://code.visualstudio.com/)
+      - [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) für VSCode
     mentors:
       - Sonja
+      - Alexander
+      - Wolfgang
     shortCode: PythonMusic
