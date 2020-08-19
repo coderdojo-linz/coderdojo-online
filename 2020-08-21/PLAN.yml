@@ -36,7 +36,7 @@ workshops:
     targetAudience: ab 10, etwas Programmiererfahrung von Vorteil aber nicht Voraussetzung
     description: |
       Auf mehrfachen Wunsch tauchen wir in diesem Workshop tiefer in die Datenbanksprache SQL ein. Wir designen eine Datenbank mit mehreren Tabellen, bearbeiten die darin gespeicherten Daten und schreiben verschiedene Datenbankabfragen. Unser Ziel wäre, dass wir den Workshop mit einem einfachen C#-Programm abschließen, das auf unsere Datenbank zugreift. An dieser Stelle machen wir dann nächste Woche weiter und sehen uns an, wie Profis die Arbeit mit SQL in C# erledigen.
-    prerequisites: >-
+    prerequisites: |
       - Visual Studio 2019
       - Unter Windows: [SQL Server Express 2019 LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15) (kostenlos). Um zu kontrollieren, ob die Installation geklappt hat, könnt ihr in einem Konsolenfenster den Befehl `sqllocaldb i` eingeben. Es sollte dabei kein Fehler auftreten.
       - Am Mac: Am Mac könnt ihr SQL Server unter [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac) laufen lassen. Das geht nach Installation von Docker mit folgendem Kommando: `docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourStrong(!)Password' -e 'MSSQL_PID=Express' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest`
