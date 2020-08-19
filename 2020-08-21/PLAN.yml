@@ -50,9 +50,9 @@ workshops:
     status: Scheduled
     title: Ein Musicplayer mit Python
     targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python
-    description: >- 
+    description: |
       Wir machen den Musicplayer in Python fertig, den wir letzte Woche begonnen haben. Mit dem Musicplayer kannst du deine Lieblingslieder abspielen. Dazu verwenden wir die Packages Tkinter und pygame. **Quereinsteiger sind herzlich willkommen.** Sie bekommen den Code von letzter Woche, damit ein Einstieg problemlos möglich ist.
-    prerequisites: >-
+    prerequisites: |
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
       - Ein paar von deinen Lieblingsliedern als mp3
       - **Achtung neu:** [Visual Studio Code](https://code.visualstudio.com/)
