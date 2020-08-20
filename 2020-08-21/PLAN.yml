@@ -40,6 +40,8 @@ workshops:
       - Visual Studio 2019
       - Unter Windows: [SQL Server Express 2019 LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15) (kostenlos). Um zu kontrollieren, ob die Installation geklappt hat, könnt ihr in einem Konsolenfenster den Befehl `sqllocaldb i` eingeben. Es sollte dabei kein Fehler auftreten.
       - Am Mac: Am Mac könnt ihr SQL Server unter [Docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac) laufen lassen. Das geht nach Installation von Docker mit folgendem Kommando: `docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=yourStrong(!)Password' -e 'MSSQL_PID=Express' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest`
+      - Falls ihr SQL Server bei euch nicht installieren könnt/wollt, kontaktiert *Rainer* auf [Discord](https://bit.ly/coderdojo-discord). Er kann euch einen Server in der Cloud bereitstellen.
+      - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
     mentors:
       - Rainer
       - Jonas
@@ -51,7 +53,7 @@ workshops:
     title: Ein Musicplayer mit Python
     targetAudience: ab 10, für Anfänger und Fortgeschrittene in Python
     description: |
-      Wir machen den Musicplayer in Python fertig, den wir letzte Woche begonnen haben. Mit dem Musicplayer kannst du deine Lieblingslieder abspielen. Dazu verwenden wir die Packages Tkinter und pygame. **Quereinsteiger sind herzlich willkommen.** Sie bekommen den Code von letzter Woche, damit ein Einstieg problemlos möglich ist.
+      Wir machen den Musicplayer in Python fertig, den wir letzte Woche begonnen haben. Mit dem Musicplayer kannst du deine Lieblingslieder abspielen. Dazu verwenden wir die Packages Tkinter und pygame. **Quereinsteiger sind herzlich willkommen.** Sie bekommen den [Code von letzter Woche](https://cddataexchange.blob.core.windows.net/data-exchange/Musicplayer.7z), damit ein Einstieg problemlos möglich ist.
     prerequisites: |
       - Aktuelle Version von [Python](https://www.python.org/downloads/)
       - Ein paar von deinen Lieblingsliedern als mp3
