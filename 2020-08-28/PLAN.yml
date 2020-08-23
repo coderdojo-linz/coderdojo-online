@@ -1,0 +1,31 @@
+workshops:
+  - begintime: 13:45
+    endtime: 15:45
+    status: Draft
+    title: Webentwicklung mit Angular
+    targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
+    description: |
+      Urlaubsbedingt gab es beim Angular-Workshop eine kleine Pause, diese Woche geht es aber weiter. In den letzten Wochen haben wir oft etwas über HTML, JavaScript und CSS gehört. In der Praxis verwendet man für Webanwendungen meistens *Frameworks*, die einem viel Arbeit abnehmen. Dieses Mal könnt ihr mit uns einen Blick in ein solches Webentwicklungs-Framework von Google werfen: *Angular*
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: Angular
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit uns arbeiten könnt.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
+      - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      - TBD
+    shortCode: Scratch
