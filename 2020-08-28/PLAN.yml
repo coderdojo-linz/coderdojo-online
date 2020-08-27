@@ -1,22 +1,7 @@
 workshops:
   - begintime: 13:45
     endtime: 15:45
-    status: Draft
-    title: Webentwicklung mit Angular
-    targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
-    description: |
-      Urlaubsbedingt gab es beim Angular-Workshop eine kleine Pause, diese Woche geht es aber weiter. In den letzten Wochen haben wir oft etwas über HTML, JavaScript und CSS gehört. In der Praxis verwendet man für Webanwendungen meistens *Frameworks*, die einem viel Arbeit abnehmen. Dieses Mal könnt ihr mit uns einen Blick in ein solches Webentwicklungs-Framework von Google werfen: *Angular*
-    prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com/)
-      - [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
-    mentors:
-      - Karin
-      - Rainer
-    shortCode: Angular
-
-  - begintime: 16:00
-    endtime: 18:00
-    status: Draft
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -27,5 +12,21 @@ workshops:
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
       - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - TBD
+      - Rainer
+      - Karin
     shortCode: Scratch
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: Webentwicklung mit Angular
+    targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
+    description: |
+      Urlaubsbedingt gab es beim Angular-Workshop eine kleine Pause, diese Woche geht es aber weiter. In den letzten Wochen haben wir oft etwas über HTML, JavaScript und CSS gehört. In der Praxis verwendet man für Webanwendungen meistens *Frameworks*, die einem viel Arbeit abnehmen. Dieses Mal könnt ihr mit uns einen Blick in ein solches Webentwicklungs-Framework von Google werfen: *Angular*. Wir machen dort weiter, wo wir letztes Mal aufgehört haben. Falls Quereinsteiger dabei sind, wiederholen wir kurz die Grundlagen.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: Angular
