@@ -1,0 +1,29 @@
+workshops:
+  - begintime: 13:45
+    endtime: 15:45
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit uns arbeiten könnt.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
+      - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      - TBD
+    shortCode: Scratch
+
+  - begintime: 13:45
+    endtime: 15:45
+    status: Draft
+    title: Ethical Hacking - Wir hacken einen Onlineshop
+    targetAudience: ab 10 Jahren, ein wenig Programmiererfahrung
+    description: |
+      Bei diesem Workshop hacken wir gemeinsam den Online-Shop [*Juice Shop*](https://owasp.org/www-project-juice-shop/). Es handelt sich dabei um eine Angular Web App, die zum Erlernen von [*Penetration Testing*](https://de.wikipedia.org/wiki/Penetrationstest_(Informatik)) erbaut wurde. Dabei gilt ganz klar: [*Ethical Hacking*](https://www.it-talents.de/blog/it-talents/was-ist-ethical-hacking#-was-ist-ethical-hacking-was-ist-ein-white-hat-hacker-)! Wir möchten mit diesem Wissen niemanden schaden, sondern lernen, wie wir unsere Software selbst gegen Hacker wappnen können. Lasst das Spiel beginnen...
+    prerequisites: |
+      - Grundlegende Vorkenntnisse über HTML und JavaScript sollten vorhanden sein
+    mentors:
+      - Gastmentor [@BFreakout](https://twitter.com/bfreakout) (Gregor Biswanger)
+    shortCode: Hacking
