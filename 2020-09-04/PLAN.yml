@@ -1,11 +1,11 @@
 workshops:
   - begintime: 13:45
     endtime: 15:45
-    status: Draft
+    status: Published
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Lust, ein Computerspiel mit Scratch zu programmieren? Am Beginn des Workshops suchen wir uns gemeinsam ein Spiel aus den [Übungsanleitungen des CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) aus, an dem ihr dann mit uns arbeiten könnt.
+      Letzte Woche haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und fügen die Spielkugel und deren Bewegungen hinzu. Da zwei Mentoren dabei sind, sind Quereinsteiger herzlich willkommen. Ihr könnt wenn ihr möchtet das Spiel von Grund auf bauen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -18,7 +18,7 @@ workshops:
 
   - begintime: 13:45
     endtime: 15:45
-    status: Draft
+    status: Published
     title: Ethical Hacking - Wir hacken einen Onlineshop
     targetAudience: ab 10 Jahren, ein wenig Programmiererfahrung
     description: |
@@ -31,20 +31,21 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Draft
+    status: Published
     title: Labyrinth mit JavaScript
-    targetAudience: TBD
+    targetAudience: grundlegende Vorkenntnisse in HTML/CSS und JavaScript
     description: |
-      TBD
+      Für das [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/labyrinth-mit-svg/), das ihr vielleicht in Scratch schon gemacht habt, haben wir auch eine JavaScript-Anleitung erstellt. Es passt perfekt, damit ihr eure HTML und JavaScript-Kenntnisse verbessern könnt. Anfängerinnen und Anfänger sind ebenso willkommen wie erfahrenere Coder.
     prerequisites: |
-      - TBD
+      - [Visual Studio Code](https://code.visualstudio.com/)
     mentors:
       - Pia
+      - Karin
     shortCode: JSLabyrinth
 
   - begintime: 13:45
     endtime: 15:45
-    status: Draft
+    status: Published
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
