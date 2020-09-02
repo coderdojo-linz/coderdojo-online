@@ -12,7 +12,8 @@ workshops:
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
       - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - TBD
+      - Rainer
+      - Matthias
     shortCode: Scratch
 
   - begintime: 13:45
@@ -27,3 +28,30 @@ workshops:
     mentors:
       - Gastmentor [@BFreakout](https://twitter.com/bfreakout) (Gregor Biswanger)
     shortCode: Hacking
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Draft
+    title: Labyrinth mit JavaScript
+    targetAudience: TBD
+    description: |
+      TBD
+    prerequisites: |
+      - TBD
+    mentors:
+      - Pia
+    shortCode: JSLabyrinth
+
+  - begintime: 13:45
+    endtime: 15:45
+    status: Draft
+    title: Virtuelles Elektronikbasteln mit Arduino
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Wir machen die Serien- und Parallelschaltung von Widerständen, LEDs und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte das schon vorhanden ist entweder weiterentwickeln oder neu aufbauen. Anfänger sind willkommen.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
