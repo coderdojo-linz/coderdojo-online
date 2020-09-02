@@ -5,12 +5,11 @@ workshops:
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Letzte Woche haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und fügen die Spielkugel und deren Bewegungen hinzu. Da zwei Mentoren dabei sind, sind Quereinsteiger herzlich willkommen. Ihr könnt wenn ihr möchtet das Spiel von Grund auf bauen.
+      Letzte Woche haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und fügen die Spielkugel und deren Bewegungen hinzu. Da zwei Mentoren dabei sind, sind Neueinsteiger herzlich willkommen. Ihr könnt wenn ihr möchtet das Spiel von Grund auf bauen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download))
-      - Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
       - Rainer
       - Matthias
@@ -26,7 +25,7 @@ workshops:
     prerequisites: |
       - Grundlegende Vorkenntnisse über HTML und JavaScript sollten vorhanden sein
     mentors:
-      - Gastmentor [@BFreakout](https://twitter.com/bfreakout) (Gregor Biswanger)
+      - Gastmentor @BFreakout (Gregor Biswanger)
     shortCode: Hacking
 
   - begintime: 16:00
@@ -40,7 +39,6 @@ workshops:
       - [Visual Studio Code](https://code.visualstudio.com/)
     mentors:
       - Pia
-      - Karin
     shortCode: JSLabyrinth
 
   - begintime: 13:45
