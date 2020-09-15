@@ -1,23 +1,38 @@
 workshops:
-  - begintime: 13:45
-    endtime: 15:45
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
+  - begintime: 14:00
+    endtime: 16:00
+    status: Scheduled
+    title: Scratch Labyrinth
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Letztes Mal haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und fügen die Spielkugel und deren Bewegungen hinzu. Da zwei Mentoren dabei sind, sind Neueinsteiger herzlich willkommen. Ihr könnt wenn ihr möchtet das Spiel von Grund auf bauen.
+      Letztes Mal haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und vervollständigen die Spielkugel und deren Bewegungen.
+    prerequisites: |
+      - Teilnahme an den letzten Scratch Labyrinth Übungen
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      - Rainer
+    shortCode: ScratchLabyrinth
+
+  - begintime: 14:00
+    endtime: 16:00
+    status: Scheduled
+    title: Scratch für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Gemeinsam mit Pia und Daniel baut ihr diesemal im CoderDojo unser [*Whack a Gopher*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/whack-a-gopher/) Spiel. AnfängerInnen und erfahrene Scratch-Coder sind willkommen. Es sind zwei Mentoren da, damit wir die Gruppe gegenbenenfalls teilen können.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - Rainer
-      - ?
+      - Pia
+      - Daniel
     shortCode: Scratch
 
   - begintime: 16:00
     endtime: 18:00
-    status: Draft
+    status: Scheduled
     title: Was ist Machine Learning?
     targetAudience: ab 12 Jahren, keine Programmiererfahrung notwendig
     description: |
@@ -26,15 +41,15 @@ workshops:
       - TBD
     mentors:
       - Mario
-    shortCode: JSLabyrinth
+    shortCode: MachineLearning
 
-  - begintime: 13:45
-    endtime: 15:45
-    status: Draft
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
-      Wir machen die Serien- und Parallelschaltung von Widerständen, LEDs und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte das schon vorhanden ist entweder weiterentwickeln oder neu aufbauen. Anfänger sind willkommen.
+      Mit TinkerCAD bauen wir die Serien- und Parallelschaltung von Widerständen, LEDs auf Breadboards und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte weiterentwickeln oder neu aufbauen. Anfänger sind willkommen. Den CoderDojo Classroom Elektronik lassen wir wieder aufleben. Seid gespannt wie wir das machen. 
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
     mentors:
