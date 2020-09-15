@@ -3,7 +3,7 @@ workshops:
     endtime: 16:00
     status: Scheduled
     title: Scratch Labyrinth
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    targetAudience: ab 8 Jahren, Teilnahme an den letzten Scratch Labyrinth Übungen
     description: |
       Letztes Mal haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und vervollständigen die Spielkugel und deren Bewegungen.
     prerequisites: |
