@@ -2,21 +2,6 @@ workshops:
   - begintime: 14:00
     endtime: 16:00
     status: Scheduled
-    title: Scratch Labyrinth
-    targetAudience: ab 8 Jahren, Teilnahme an den letzten Scratch Labyrinth Übungen
-    description: |
-      Letztes Mal haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und vervollständigen die Spielkugel und deren Bewegungen.
-    prerequisites: |
-      - Teilnahme an den letzten Scratch Labyrinth Übungen
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
-    mentors:
-      - Rainer
-    shortCode: ScratchLabyrinth
-
-  - begintime: 14:00
-    endtime: 16:00
-    status: Scheduled
     title: Scratch für AnfängerInnen
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -28,7 +13,22 @@ workshops:
     mentors:
       - Pia
       - Daniel
-    shortCode: Scratch
+    shortCode: BeginnerScratch
+
+  - begintime: 14:00
+    endtime: 16:00
+    status: Scheduled
+    title: Scratch Labyrinth
+    targetAudience: ab 8 Jahren, Teilnahme an den letzten Scratch Labyrinth Übungen
+    description: |
+      Letztes Mal haben wir mit dem [Labyrinth-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/labyrinth/) begonnen. Diese Woche machen wir weiter und vervollständigen die Spielkugel und deren Bewegungen.
+    prerequisites: |
+      - Teilnahme an den letzten Scratch Labyrinth Übungen
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      - Rainer
+    shortCode: ScratchLabyrinth
 
   - begintime: 16:00
     endtime: 18:00
