@@ -38,7 +38,10 @@ workshops:
     description: |
       Ihr habt sicher schon öfter von *Machine Learning* und *künstlicher Intelligenz* gehört und euch gefragt, was das eigentlich ist. Diesmal haben wir einen Gastmentor dabei, der Spezialist ist was *Machine Learning* betrifft. Er wird euch zeigen, was er in diesem Bereich macht und was man alles mit dieser Technologie anstellen kann.
     prerequisites: |
-      - TBD
+      - R installieren (Programmiersprache und Interpreter) - https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe
+      - RStudio installieren (IDE für Statistikprogrammierung) - https://rstudio.com/products/rstudio/download/#download 
+      - Excel oder eine andere Tabellenkalkulation
+      - Interesse an Daten :)
     mentors:
       - Mario
     shortCode: MachineLearning
