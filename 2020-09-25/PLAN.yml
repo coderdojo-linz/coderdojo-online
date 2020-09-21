@@ -30,7 +30,7 @@ workshops:
 
   - begintime: 16:00
     endtime: 18:00
-    status: Scheduled
+    status: Draft
     title: Virtuelles Elektronikbasteln mit Arduino
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
