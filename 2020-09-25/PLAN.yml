@@ -1,0 +1,43 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diesmal baut ihr diesemal im CoderDojo unser [*Whack a Gopher*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/whack-a-gopher/) Spiel. AnfängerInnen und erfahrene Scratch-Coder sind willkommen. Es sind zwei Mentoren da, damit wir die Gruppe gegenbenenfalls teilen können.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      - TBD
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: HTML und CSS für AnfängerInnen
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      In diesem Workshop geht es darum, HTML und CSS kennenzulernen. Er ist für alle, die noch keine oder ganz wenig Erfahrung mit textuellem Programmieren haben und neugierig sind, wie das funktioniert. Scratch-Erfahrung solltet ihr haben, ansonsten sind keine Vorkenntnisse notwendig.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+    mentors:
+      - Rainer
+      - Karin
+    shortCode: HtmlBeginner
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: Virtuelles Elektronikbasteln mit Arduino
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Mit TinkerCAD bauen wir die Serien- und Parallelschaltung von Widerständen, LEDs auf Breadboards und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte weiterentwickeln oder neu aufbauen. Anfänger sind willkommen. Den CoderDojo Classroom Elektronik lassen wir wieder aufleben. Seid gespannt wie wir das machen. 
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
