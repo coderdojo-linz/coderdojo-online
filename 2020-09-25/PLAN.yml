@@ -1,23 +1,56 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen
+    status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diesmal baut ihr diesemal im CoderDojo unser [*Whack a Gopher*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/whack-a-gopher/) Spiel. AnfängerInnen und erfahrene Scratch-Coder sind willkommen. Es sind zwei Mentoren da, damit wir die Gruppe gegenbenenfalls teilen können.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Euer Mentor Matthias wählt am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      - TBD
+      - Matthias
     shortCode: BeginnerScratch
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: HTML und CSS für AnfängerInnen
+    status: Scheduled
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Wir bauen eine **Wetterstation** mit dem *ESP8266* und dem *BME280*. Voraussetzung sind ein Breadboard, Bauteile und Drähte.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: JavaScript *Dino Run*
+    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
+    description: |
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
+      - Ihr dürft keine Angst vorm Tippen haben
+    mentors:
+      - Pia
+    shortCode: DinoJS
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: HTML/CSS/JS für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
       In diesem Workshop geht es darum, HTML und CSS kennenzulernen. Er ist für alle, die noch keine oder ganz wenig Erfahrung mit textuellem Programmieren haben und neugierig sind, wie das funktioniert. Scratch-Erfahrung solltet ihr haben, ansonsten sind keine Vorkenntnisse notwendig.
@@ -27,17 +60,3 @@ workshops:
       - Rainer
       - Karin
     shortCode: HtmlBeginner
-
-  - begintime: 16:00
-    endtime: 18:00
-    status: Draft
-    title: Virtuelles Elektronikbasteln mit Arduino
-    targetAudience: ab 10, für Anfänger und Fortgeschrittene
-    description: |
-      Mit TinkerCAD bauen wir die Serien- und Parallelschaltung von Widerständen, LEDs auf Breadboards und Messen die Schaltungen. Weiters werden wir eines der Arduionprojekte weiterentwickeln oder neu aufbauen. Anfänger sind willkommen. Den CoderDojo Classroom Elektronik lassen wir wieder aufleben. Seid gespannt wie wir das machen. 
-    prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
-    mentors:
-      - Günther
-      - Michael
-    shortCode: Elektronikbasteln
