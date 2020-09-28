@@ -1,0 +1,47 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Euer Mentor Matthias wählt am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
+    mentors:
+      TBD
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Wir bauen eine **Wetterstation** mit dem *ESP8266* und dem *BME280*. Voraussetzung sind ein Breadboard, Bauteile und Drähte.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: CSS für AnfängerInnen
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Wenn ihr schon ein wenig Ahnung von HTML habt, lernt ihr in diesem Workshop, wie man seine HTML-Seite mit CSS hübsch gestaltet. Farben, Schriftarten, Layouts und vieles mehr werdet ihr sehen. Diese Workshop ist ausdrücklich für absolute Anfänger, die erst minimales Grundwissen über HTML haben. Auch absolute Einsteiger in textuelle Programmierung sind willkommen. Es sind zwei Mentoren da und wenn der Wissensstand zu unterschiedlich ist, teilen wir uns in zwei Gruppen auf.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: HtmlBeginner
