@@ -5,13 +5,14 @@ workshops:
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Euer Mentor Matthias wählt am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
+      TBD - Memory 2. Teil, Quereinsteiger willkommen
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest https://scratch.mit.edu/create/
     mentors:
-      TBD
+      - Matthias
+      - Hans-Peter
     shortCode: BeginnerScratch
 
   - begintime: 15:00
@@ -43,5 +44,17 @@ workshops:
       - [Visual Studio Code](https://code.visualstudio.com)
     mentors:
       - Karin
-      - Rainer
     shortCode: HtmlBeginner
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: C# Schifferlversenken
+    targetAudience: TBD
+    description: |
+      TBD
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+    mentors:
+      - Rainer
+    shortCode: BattleshipCSharp
