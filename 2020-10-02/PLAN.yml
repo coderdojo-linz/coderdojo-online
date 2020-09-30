@@ -1,11 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Published
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      TBD - Memory 2. Teil, Quereinsteiger willkommen
+      Letzte Woche hat Matthias mit einer Scratch-Gruppe das [*Memory*-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/memory/) begonnen. Diese Woche wird daran weitergemacht. Quereinsteigen ist ohne weiteres möglich. Wir haben außerdem mit Hans-Peter einen zweiten Mentor dabei, der mit Kids, die letzte Woche nicht dabei waren, ein neues Projekt startet. Wer also lernen will, wie man mit Scratch Computerspiele baut, sollte unbedingt vorbei kommen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -17,11 +17,11 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Published
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
-      Wir bauen eine **Wetterstation** mit dem *ESP8266* und dem *BME280*. Voraussetzung sind ein Breadboard, Bauteile und Drähte.
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Voraussetzung sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
@@ -35,26 +35,28 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Published
     title: CSS für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
-      Wenn ihr schon ein wenig Ahnung von HTML habt, lernt ihr in diesem Workshop, wie man seine HTML-Seite mit CSS hübsch gestaltet. Farben, Schriftarten, Layouts und vieles mehr werdet ihr sehen. Diese Workshop ist ausdrücklich für absolute Anfänger, die erst minimales Grundwissen über HTML haben. Auch absolute Einsteiger in textuelle Programmierung sind willkommen. Es sind zwei Mentoren da und wenn der Wissensstand zu unterschiedlich ist, teilen wir uns in zwei Gruppen auf.
+      Wenn ihr schon ein wenig Ahnung von HTML habt, lernt ihr in diesem Workshop, wie man seine HTML-Seite mit CSS hübsch gestaltet. Farben, Schriftarten, Layouts und vieles mehr werdet ihr sehen. Diese Workshop ist ausdrücklich für absolute Anfänger, die erst minimales Grundwissen über HTML haben. Auch absolute Einsteiger in textuelle Programmierung sind willkommen.
     prerequisites: |
       - [Visual Studio Code](https://code.visualstudio.com)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
     mentors:
       - Karin
     shortCode: HtmlBeginner
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: C# Schifferlversenken
-    targetAudience: TBD
+    status: Published
+    title: C# Battleship Coding Challenge
+    targetAudience: ab 12, etwas C# Programmiererfahrung
     description: |
-      TBD
+      Lust auf eine kleine Coding Challenge zum C# Üben? Wir haben uns für euch was besonderes ausgedacht: Unser Mentor Rainer hat eine Coding Challenge-Umgebung gebaut, in der ihr Computerspieler für das klassische [*Schifferlversenken*](https://en.wikipedia.org/wiki/Battleship_(game)) bauen und gegeneinander antreten lassen könnt. Ein solche Computerspieler kann in drei Zeilen geschrieben und ganz einfach gehalten werden. Ihr könnt aber auch länger tüfteln und einen auf den sieben Weltmeeren gefürchteten Piraten bauen, den keiner besiegt.
     prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com)
+      - [Visual Studio 2019 Community Preview](https://visualstudio.microsoft.com/vs/preview/) (**Achtung**: Aktuelle Preview-Version ist Voraussetzung)
+      - Beim *Visual Studio* Installieren zumindest *.NET Core cross-platform development* und *ASP.NET and web development* anklicken
     mentors:
       - Rainer
     shortCode: BattleshipCSharp
