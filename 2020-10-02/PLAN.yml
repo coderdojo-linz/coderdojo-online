@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Published
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -17,7 +17,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Published
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
@@ -35,7 +35,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Published
+    status: Scheduled
     title: CSS für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -49,7 +49,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Published
+    status: Scheduled
     title: C# Battleship Coding Challenge
     targetAudience: ab 12, etwas C# Programmiererfahrung
     description: |
