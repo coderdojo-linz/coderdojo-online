@@ -1,0 +1,33 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      TBD
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - TBD
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Voraussetzung sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
