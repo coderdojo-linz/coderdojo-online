@@ -1,26 +1,26 @@
 workshops:
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
-    description: |
-      TBD
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - TBD
-    shortCode: BeginnerScratch
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Published
+    title: Webentwicklung für AnfängerInnen
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      In den letzten Wochen habt ihr die Grundlagen von HTML und CSS gelernt. Diesen Freitag verwenden wir beides, mischen ein klein wenig JavaScript dazu und werden so richtig kreativ. Ihr lernt, wie man mit Muster malt, dabei Farben einsetzt und Elemente auf dem Bildschirm bewegt. Eine super Übung, die Spaß macht, hübsch aussieht und bei dir wir Programmieren üben können. Die Übungen sind für AnfängerInnen geeignet, die noch sehr wenig Programmiererfahrung haben.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Karin
+    shortCode: HtmlBeginner
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Published
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene
     description: |
-      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Voraussetzung sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Es wird das Display aktiviert und die Anzeige programmiert. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
@@ -31,3 +31,17 @@ workshops:
       - Günther
       - Michael
     shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Published
+    title: C# Battleship Coding Challenge
+    targetAudience: ab 12, etwas C# Programmiererfahrung
+    description: |
+      Lust auf eine kleine Coding Challenge zum C# Üben? Wir haben uns für euch was besonderes ausgedacht: Unser Mentor Rainer hat eine Coding Challenge-Umgebung gebaut, in der ihr Computerspieler für das klassische [*Schifferlversenken*](https://en.wikipedia.org/wiki/Battleship_(game)) bauen und gegeneinander antreten lassen könnt. Ein solche Computerspieler kann in drei Zeilen geschrieben und ganz einfach gehalten werden. Ihr könnt aber auch länger tüfteln und einen auf den sieben Weltmeeren gefürchteten Piraten bauen, den keiner besiegt. Wir bauen auf dem Player von letzter Woche auf, Neueinsteigen ist aber problemlos möglich.
+    prerequisites: |
+      - [Visual Studio 2019 Community Preview](https://visualstudio.microsoft.com/vs/preview/) (**Achtung**: Aktuelle Preview-Version ist Voraussetzung)
+      - Beim *Visual Studio* Installieren zumindest *.NET Core cross-platform development* und *ASP.NET and web development* anklicken
+    mentors:
+      - Rainer
+    shortCode: BattleshipCSharp
