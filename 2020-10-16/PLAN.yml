@@ -1,24 +1,24 @@
 workshops:
-
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Webentwicklung für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
-      TBD
+      Letzten Freitag haben wir ein Zeichenprogramm mit JavaScript angefangen. Diese Woche vertiefen wir dieses Thema. Wer ganz neu in der textuellen Programmierung ist, ist auch herzlich willkommen. Wir werden die Gruppe bei Bedarf am Beginn in Neueinsteiger und Coder mit ein wenig Erfahrung beim textuellen Programmieren teilen, damit die jede und jeder entsprechend ihrer und seiner Erfahrungsstufe arbeiten kann.
     prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com)
+      - Ein Internetbrowser (idealerweise Chrome)
       - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
     mentors:
-      - TBD
+      - Karin
+      - Rainer
     shortCode: HtmlBeginner
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
-    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
       Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Es wird das Display aktiviert und die Anzeige programmiert. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
     prerequisites: |
@@ -32,17 +32,32 @@ workshops:
       - Michael
     shortCode: Elektronikbasteln
 
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Letzte Woche hat Matthias mit einer Scratch-Gruppe das [*Memory*-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/memory/) begonnen. Diese Woche wird daran weitergemacht. Quereinsteigen ist ohne weiteres möglich. Wir haben außerdem mit Hans-Peter einen zweiten Mentor dabei, der mit Kids, die letzte Woche nicht dabei waren, ein neues Projekt startet. Wer also lernen will, wie man mit Scratch Computerspiele baut, sollte unbedingt vorbei kommen.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Euer Mentor Hans-Peter wählt am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - TBD
+      - Hans-Peter
     shortCode: BeginnerScratch
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: C# Battleship Coding Challenge
+    targetAudience: ab 12, etwas C# Programmiererfahrung
+    description: |
+      In den letzten zwei Wochen haben wir mit einer Coding Challenge begonnen, bei der wir Computerspieler für das klassische [*Schifferlversenken*](https://en.wikipedia.org/wiki/Battleship_(game)) bauen. Unser Spieler war beim letzten Mal schon ziemlich schlau. In der dritten Runde diese Woche werden wir ihn noch weiter stärken, damit er fast unbesiegbar wird. Oder hast du doch noch eine Idee, wie es noch besser geht? Wir bauen auf dem Player von letzter Woche auf, Neueinsteigen ist aber problemlos möglich.
+    prerequisites: |
+      - [Visual Studio 2019 Community Preview](https://visualstudio.microsoft.com/vs/preview/) (**Achtung**: Aktuelle Preview-Version ist Voraussetzung)
+      - Beim *Visual Studio* Installieren zumindest *.NET Core cross-platform development* und *ASP.NET and web development* anklicken
+    mentors:
+      - Rainer
+      - Karin
+    shortCode: BattleshipCSharp
