@@ -5,6 +5,19 @@ workshops:
     title: Digitalferien - Mobile Computing
     targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
     description: |
+      Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App.
+    prerequisites: |
+      - Grundsätzliche Programmierkenntnisse
+    mentors:
+      - TBD
+    shortCode: MobileComputing
+
+  - begintime: 10:30
+    endtime: 14:00
+    status: Scheduled
+    title: Digitalferien - Elterncafe
+    targetAudience: Erziehungsberechtigte mit Fragen rund um IT-Ausbildung
+    description: |
       Die Informationsmöglichkeit für Eltern und Erziehungsberechtigte. Hier können Sie im entspannten
       Rahmen mit Verantwortlichen der besten Bildungsorganisationen im OÖ Zentralraum über die
       Ausbildungsmöglichkeiten im Bereich Informatik reden. Wir durften schon die interessantesten
@@ -19,20 +32,7 @@ workshops:
       ihren Beruf diskutieren. Es werden Ihnen schon sehr erfahrene InformatikerInnen, aber auch sehr junge
       und auch Quereinsteiger aus anderen Ausbildungsschienen für Gespräche zur Verfügung stehen.
     prerequisites: |
-      keine
-    mentors:
-      - TBD
-    shortCode: MobileComputing
-
-  - begintime: 10:30
-    endtime: 14:00
-    status: Scheduled
-    title: Digitalferien - Elterncafe
-    targetAudience: Erziehungsberechtigte mit Fragen rund um IT-Ausbildung
-    description: |
-      Detailbeschreibung folgt
-    prerequisites: |
-      - Wird noch bekanntgegeben
+      - Keine
     mentors:
       - TBD
     shortCode: Elterncafe
