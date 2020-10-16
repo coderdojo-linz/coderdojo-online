@@ -11,7 +11,7 @@ workshops:
       bisschen mit Sortieralgorithmen beschäftigen. Wir schlüpfen in diesem Workshop in die Rolle des
       Computers und spielen mehrere Möglichkeiten durch, wie er Dinge in die richtige Reihenfolge bringt.
     prerequisites: |
-      - Keine
+      - [JDK (Version "OpenJDK 11 - Hotspot")](https://adoptopenjdk.net)
     mentors:
-      - TBD
+      - [Markus](http://ssw.jku.at/General/Staff/Weninger/)
     shortCode: Sorting
