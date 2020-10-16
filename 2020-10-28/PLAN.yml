@@ -1,0 +1,26 @@
+workshops:
+  - begintime: 8:30
+    endtime: 14:00
+    status: Scheduled
+    title: Digitalferien - Mobile Computing
+    targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
+    description: |
+      Detailbeschreibung folgt
+    prerequisites: |
+      - Wird noch bekanntgegeben
+    mentors:
+      - TBD
+    shortCode: MobileComputing
+
+  - begintime: 10:30
+    endtime: 14:00
+    status: Scheduled
+    title: Digitalferien - Elterncafe
+    targetAudience: Erziehungsberechtigte mit Fragen rund um IT-Ausbildung
+    description: |
+      Detailbeschreibung folgt
+    prerequisites: |
+      - Wird noch bekanntgegeben
+    mentors:
+      - TBD
+    shortCode: Elterncafe
