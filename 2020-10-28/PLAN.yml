@@ -5,7 +5,7 @@ workshops:
     title: Digitalferien - Mobile Computing
     targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
     description: |
-      Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App.
+      Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App. Den genauen Zeitplan findet ihr unter [https://www.my-informatics-world.at/#das-programm](https://www.my-informatics-world.at/#das-programm).
     prerequisites: |
       - Grundsätzliche Programmierkenntnisse
     mentors:
@@ -31,6 +31,8 @@ workshops:
       Weiters können Sie und Ihre Kinder mit Informatikerinnen und Informatikern über ihre Ausbildung und
       ihren Beruf diskutieren. Es werden Ihnen schon sehr erfahrene InformatikerInnen, aber auch sehr junge
       und auch Quereinsteiger aus anderen Ausbildungsschienen für Gespräche zur Verfügung stehen.
+
+       Den genauen Zeitplan findet ihr unter [https://www.my-informatics-world.at/#das-programm](https://www.my-informatics-world.at/#das-programm).
     prerequisites: |
       - Keine
     mentors:
