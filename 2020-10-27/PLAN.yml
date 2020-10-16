@@ -10,7 +10,7 @@ workshops:
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - TBD
+      - Markus
     shortCode: BeginnerScratch
 
   - begintime: 10:30
@@ -38,5 +38,5 @@ workshops:
       - [Visual Studio Code](https://code.visualstudio.com)
       - Ein Internetbrowser (idealerweise Chrome)
     mentors:
-      - TBD
+      - Markus
     shortCode: HtmlBeginner
