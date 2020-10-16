@@ -1,0 +1,42 @@
+workshops:
+  - begintime: 8:30
+    endtime: 10:00
+    status: Scheduled
+    title: Digitalferien - Scratch
+    targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Am Beginn des Workshops teilen wir uns nach vorhandenen Programmiererfahrungen in Gruppen auf. In den Gruppen werden unterschiedlich herausfordernde Spiele entwickelt. Die CoderDojo-Mentorinnen und Mentoren helfen euch dabei, eure Ideen umzusetzen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - TBD
+    shortCode: BeginnerScratch
+
+  - begintime: 10:30
+    endtime: 12:00
+    status: Scheduled
+    title: Digitalferien - Virtuelles Elektronikbasteln
+    targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
+    description: |
+      Dieses basteln virtuell mit [Tinkercad](https://www.tinkercad.com) und bauen damit interessante Schaltungen. 
+      Die Elektronik Grundlagen kommen auch nicht zu kurz. AnfängerInnen und Fortgeschrittene sind daher willkommen!
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - TBD
+    shortCode: Elektronikbasteln
+
+  - begintime: 12:30
+    endtime: 14:00
+    status: Scheduled
+    title: Digitalferien - Webentwicklung
+    targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
+    description: |
+      Habt ihr euch schon oft gefragt, wie Webseiten eigentlich funktionieren? Möchtet ihr eure eigene Webseite bauen? In diesem Workshop lernt ihr Grundlagen von HTML, CSS und JavaScript. Am Beginn des Workshops teilen wir uns nach vorhandenen Programmiererfahrungen in Gruppen auf. In den Gruppen werden unterschiedlich herausfordernde Übungen gemacht. Die CoderDojo-Mentorinnen und Mentoren helfen euch dabei, eure Ideen umzusetzen.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - TBD
+    shortCode: HtmlBeginner
