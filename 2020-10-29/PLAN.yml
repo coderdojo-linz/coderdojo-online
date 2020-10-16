@@ -1,0 +1,13 @@
+workshops:
+  - begintime: 8:30
+    endtime: 10:00
+    status: Scheduled
+    title: Digitalferien - Sorting is Fun
+    targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
+    description: |
+      Detailbeschreibung folgt
+    prerequisites: |
+      - Wird noch bekanntgegeben
+    mentors:
+      - TBD
+    shortCode: Sorting
