@@ -1,0 +1,46 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Webentwicklung für AnfängerInnen
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Es geht weiter mit JavaScript. Diesmal programmieren wir mit euch eine einfache Version des Spieleklassikers [*Snake*](https://de.wikipedia.org/wiki/Snake_(Computerspiel)). Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Neueinsteiger sind ebenfalls herzlich willkommen. Es sind zwei Mentorinnen und Mentoren dabei. Wenn sich das euer Vorwissen zu sehr unterscheidet, teilen wir uns einfach in zwei Gruppen auf.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: HtmlBeginner
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
+    description: |
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Es wird das Display aktiviert und die Anzeige programmiert. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: C#, TypeScript, Node.js, Cloud Computing, Datenbanken - Ask me Anything
+    targetAudience: ab 12, etwas Programmiererfahrung
+    description: |
+      Diese Woche probieren wir etwas. Im *Ask me Anything* könnt ihr die anwesenden Mentorinnen und Mentoren fragen was immer ihr wollt. Habt ihr ein konkretes Programmierproblem? Wolltet ihr immer schon mal wissen, was sich hinter einem bestimmten Begriff versteckt? Interessiert euch ein Konzept, von dem ihr gehört habt? Bringt eure Themen und Fragen rund um C#, TypeScript, Node.js, Cloud Computing oder Datenbanken mit. Wir schauen, wo es uns thematisch hinverschlägt.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com) ist immer gut
+    mentors:
+      - Rainer
+    shortCode: AmaRainer
