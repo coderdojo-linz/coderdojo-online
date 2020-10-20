@@ -5,7 +5,7 @@ workshops:
     title: Webentwicklung für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
-      Es geht weiter mit JavaScript. Diesmal programmieren wir mit euch eine einfache Version des Spieleklassikers [*Snake*](https://de.wikipedia.org/wiki/Snake_(Computerspiel)). Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Neueinsteiger sind ebenfalls herzlich willkommen. Es sind zwei Mentorinnen und Mentoren dabei. Wenn sich das euer Vorwissen zu sehr unterscheidet, teilen wir uns einfach in zwei Gruppen auf.
+      Es geht weiter mit JavaScript. Diesmal programmieren wir mit euch eine einfache Version des Spieleklassikers [*Snake*](https://de.wikipedia.org/wiki/Snake_(Computerspiel)). Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Neueinsteiger sind ebenfalls herzlich willkommen. Es sind zwei Mentorinnen dabei. Wenn sich euer Vorwissen zu sehr unterscheidet, teilen wir uns einfach in zwei Gruppen auf.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
@@ -20,7 +20,7 @@ workshops:
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
-      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Das Display ist jetzt aktiviert und wir werden dessen Möglichkeiten jetzt austesten. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Das Display ist jetzt aktiviert und wir werden dessen Möglichkeiten austesten. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
