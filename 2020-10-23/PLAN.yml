@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Webentwicklung für AnfängerInnen
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -16,11 +16,11 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
-      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Es wird das Display aktiviert und die Anzeige programmiert. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Das Display ist jetzt aktiviert und wir werden dessen Möglichkeiten jetzt austesten. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
@@ -34,20 +34,22 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: C#, TypeScript, Node.js, Cloud Computing, Datenbanken - Ask me Anything
-    targetAudience: ab 12, etwas Programmiererfahrung
+    status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Diese Woche probieren wir etwas. Im *Ask me Anything* könnt ihr die anwesenden Mentorinnen und Mentoren fragen was immer ihr wollt. Habt ihr ein konkretes Programmierproblem? Wolltet ihr immer schon mal wissen, was sich hinter einem bestimmten Begriff versteckt? Interessiert euch ein Konzept, von dem ihr gehört habt? Bringt eure Themen und Fragen rund um C#, TypeScript, Node.js, Cloud Computing oder Datenbanken mit. Wir schauen, wo es uns thematisch hinverschlägt.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Eure Mentorin Pia wählt am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
     prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com) ist immer gut
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Rainer
-    shortCode: AmaRainer
+      - Pia
+    shortCode: BeginnerScratch
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Linux Basics
     targetAudience: ab 12, etwas Programmiererfahrung
     description: |
@@ -60,7 +62,7 @@ workshops:
       Wenn Du die vorgezeigten Aktivitäten mitmachen möchtest, dann benötigst Du bei Dir eine virtuelle Maschine in der Ubuntu installiert ist. Du kannst aber auch einfach nur zuhören und mitreden, wenn Dir die Installation zu aufwendig ist. Hier die Links zu den benötigten Komponenten:
       - [Ubuntu](https://ubuntu.com/download/desktop)
       - [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-      Damit Windows und Linux die Daten über die Zwischenablage austauschen können, muss man die "VirtualBox Guest Additions" installieren. Wie das geht findest du [https://www.tecmint.com/install-virtualbox-guest-additions-in-ubuntu/](hier).
+      Damit Windows und Linux die Daten über die Zwischenablage austauschen können, muss man die "VirtualBox Guest Additions" installieren. Wie das geht findest du [hier](https://www.tecmint.com/install-virtualbox-guest-additions-in-ubuntu/).
     mentors:
       - Thomas
     shortCode: LinuxBasics
