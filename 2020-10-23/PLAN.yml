@@ -44,3 +44,23 @@ workshops:
     mentors:
       - Rainer
     shortCode: AmaRainer
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Linux Basics
+    targetAudience: ab 12, etwas Programmiererfahrung
+    description: |
+      In diesem Workshop 
+		  - schauen wir uns das Betriebssystem Linux anhand der Distribution Ubuntu an
+		  - lernen die Unterschiede zu Windows kennen
+		  - probieren einige der Command Line Tools aus
+		  - erstellen ein erstes Shell Script
+    prerequisites: |
+	   Wenn Du die vorgezeigten Aktivitäten mitmachen möchtest, dann benötigst Du bei Dir eine virtuelle Maschine in der Ubuntu installiert ist. Du kannst aber auch einfach nur zuhören und mitreden, wenn Dir die Installation zu aufwendig ist. Hier die Links zu den benötigten Komponenten:
+      - [Ubuntu](https://ubuntu.com/download/desktop)
+		- [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+		Damit Windows und Linux die Daten über die Zwischenablage austauschen können, muss man die "VirtualBox Guest Additions" installieren. Wie das geht findest du [https://www.tecmint.com/install-virtualbox-guest-additions-in-ubuntu/](hier).
+    mentors:
+      - Thomas
+    shortCode: LinuxBasics
