@@ -2,9 +2,11 @@ workshops:
   - begintime: 8:30
     endtime: 10:00
     status: Scheduled
-    title: Digitalferien - Sorting is Fun
+    title: Digitalferien - Sorting is Fun (Gastworkshop)
     targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
     description: |
+      Hinweis: Dieser Workshop wird nicht vom CoderDojo abgewickelt. CoderDojo stellt nur die Plattform für das Onlinemeeting zur Verfügung.
+
       Wenn Du schon ein bisschen programmiert hast, bist Du sicherlich schon auf das Problem gestoßen,
       Dinge in die richtige Reihenfolge zu bringen. Seien wir ehrlich: Eine Hall of Fame macht einfach
       keinen Spaß, wenn der Gewinner nicht ganz oben steht. Damit das funktioniert muss man sich ein

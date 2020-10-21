@@ -2,9 +2,11 @@ workshops:
   - begintime: 8:30
     endtime: 14:00
     status: Scheduled
-    title: Digitalferien - Mobile Computing
+    title: Digitalferien - Mobile Computing (Gastworkshop)
     targetAudience: ab 10, für AnfängerInnen und Fortgeschrittene
     description: |
+      Hinweis: Dieser Workshop wird nicht vom CoderDojo abgewickelt. CoderDojo stellt nur die Plattform für das Onlinemeeting zur Verfügung.
+
       Programmieren von Handys und Tablets ist eine der vielen und auch oft benötigten Tätigkeiten eines Informatikers / einer Informatikerin. Und das Schöne ist, dass es gar nicht so schwer ist. In diesem Workshop lernst Du erste Schritte im Programmieren einer App. Den genauen Zeitplan findet ihr unter [https://www.my-informatics-world.at/#das-programm](https://www.my-informatics-world.at/#das-programm).
     prerequisites: |
       - Grundsätzliche Programmierkenntnisse
