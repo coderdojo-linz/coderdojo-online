@@ -1,7 +1,51 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Published
+    title: Webentwicklung für AnfängerInnen - Space Shooter
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Es geht weiter mit JavaScript. Diesmal programmieren wir einen unserer Scratch-Klassiker, aber jetzt mit JavaScript: Den *Space Shooter*. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den gleichzeitig stattfindenden *Snake*-Workshop.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Karin
+    shortCode: HtmlSpaceShooter
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Published
+    title: Elektronikbasteln - Grundlagen mit Tinkercad
+    targetAudience: ab 10, für Anfänger geeignet
+    description: |
+      Mit Tinkercad erkunden wir die Grundlagen von Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: ElektronikGrundlagen
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Published
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
+    description: |
+      Es geht weiter mit der **Wetterstation** auf Basis *ESP8266* und *BME280*. Das Display ist jetzt aktiviert und wir werden dessen Möglichkeiten austesten. Voraussetzung zum Mitmachen sind ein Breadboard, Bauteile (siehe Voraussetzungen) und Drähte. Ihr wart beim letzten Mal nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Published
     title: Webentwicklung für AnfängerInnen - Snake
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -13,23 +57,9 @@ workshops:
       - Rainer
     shortCode: HtmlSnake
 
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Webentwicklung für AnfängerInnen - Space Shooter
-    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
-    description: |
-      Es geht weiter mit JavaScript. Diesmal programmieren wir einen unserer Scratch-Klassiker, aber jetzt mit JavaScript: Den *Space Shooter*. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den gleichzeitig stattfindenden *Snake*-Workshop.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
-    mentors:
-      - Karin
-    shortCode: HtmlSpaceShooter
-    
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Published
     title: Einführung in die Programmiersprache Go
     targetAudience: ab 12 Jahren, etwas Programmiererfahrung
     description: |
@@ -40,3 +70,19 @@ workshops:
     mentors:
       - Thomas
     shortCode: GoLang
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Published
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Eure Mentorinnen und Mentoren wählen am Anfang etwas Passendes mit euch aus und hilft euch, das Scratch-Spiel zu bauen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+      - Rigerta
+    shortCode: BeginnerScratch
