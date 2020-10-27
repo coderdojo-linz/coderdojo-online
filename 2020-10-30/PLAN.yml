@@ -12,3 +12,16 @@ workshops:
     mentors:
       - Karin
     shortCode: HtmlSpaceShooter
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Elektronikbasteln - Grundlagen mit Tinkercad
+    targetAudience: ab 10, für Anfänger geeignet
+    description: |
+      Mit Tinkercad erkunden wir die Grundlagen von Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: ElektronikGrundlagen
