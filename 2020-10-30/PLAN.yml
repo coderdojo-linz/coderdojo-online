@@ -56,3 +56,17 @@ workshops:
     mentors:
       - Rainer
     shortCode: HtmlSnake
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Einführung in die Programmiersprache Go
+    targetAudience: ab 12 Jahren, etwas Programmiererfahrung
+    description: |
+      In diesem Workshop werden wir die Programmiersprache [Go][https://golang.org) kennenlernen.
+    prerequisites: |
+      - Einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org), [Visual Studio Code](https://code.visualstudio.com), ...)
+      - [Go](https://golang.org/dl/)
+    mentors:
+      - Thomas
+    shortCode: GoLang
