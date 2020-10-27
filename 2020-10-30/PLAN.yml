@@ -13,6 +13,20 @@ workshops:
       - Rainer
     shortCode: HtmlSnake
 
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Webentwicklung für AnfängerInnen - Space Shooter
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Es geht weiter mit JavaScript. Diesmal programmieren wir einen unserer Scratch-Klassiker, aber jetzt mit JavaScript: Den *Space Shooter*. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den gleichzeitig stattfindenden *Snake*-Workshop.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Karin
+    shortCode: HtmlSpaceShooter
+    
   - begintime: 17:00
     endtime: 19:00
     status: Draft
