@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Published
+    status: Scheduled
     title: Webentwicklung für AnfängerInnen - Space Shooter
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -15,7 +15,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Published
+    status: Scheduled
     title: Elektronikbasteln - Grundlagen mit Tinkercad
     targetAudience: ab 10, für Anfänger geeignet
     description: |
@@ -28,7 +28,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Published
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
@@ -45,7 +45,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Published
+    status: Scheduled
     title: Webentwicklung für AnfängerInnen - Snake
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -59,7 +59,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Published
+    status: Scheduled
     title: Einführung in die Programmiersprache Go
     targetAudience: ab 12 Jahren, etwas Programmiererfahrung
     description: |
@@ -73,7 +73,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Published
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
