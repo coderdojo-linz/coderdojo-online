@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
@@ -19,7 +19,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Webentwicklung für AnfängerInnen - Snake
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -33,7 +33,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Webentwicklung für leicht fortgeschrittene Coder - Space Shooter
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
@@ -47,7 +47,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Minecraft - Redstone - Basics
     targetAudience: ab 10, keine Redstone-Vorkenntnisse notwendig 
     description: |
@@ -62,7 +62,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
