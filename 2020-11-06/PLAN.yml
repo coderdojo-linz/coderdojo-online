@@ -48,12 +48,13 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Minecraft
-    targetAudience: ...
+    title: Minecraft - Redstone - Basics
+    targetAudience: ab 10, keine Redstone-Vorkenntnisse notwendig 
     description: |
-      ...
+      Minecraft ist ein tolles Spiel, vorallem weil man in Minecraft mit Redstone eine Turing-Complete "Programmiersprache" hat! Turing-Complete bedeutet dass wir mit Redstone jedes beliebige Programm schreiben können das wir wollen!
+      In dieser Session werden wir von vorne beginnen, was ist Redstone und wie kann ich es verwenden, was kann ich damit machen?
     prerequisites: |
-      - ...
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
       - Matthias
       - Jan
