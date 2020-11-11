@@ -34,20 +34,6 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Webentwicklung für leicht fortgeschrittene Coder - Space Shooter
-    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
-    description: |
-      Es geht weiter mit JavaScript. Wir programmieren den letzte Woche begonnenen Scratch-Klassiker *Space Shooter* fertig. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Wer letzte Woche nicht dabei war, kann trotzdem einsteigen. Ihr bekommt den Code von letzter Woche von eurer Mentorin Karin. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den *Snake*-Workshop.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
-    mentors:
-      - Karin
-    shortCode: HtmlSpaceShooter
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Scheduled
     title: Minecraft - Redstone - Basics
     targetAudience: ab 10, keine Redstone-Vorkenntnisse notwendig 
     description: |
@@ -59,6 +45,20 @@ workshops:
       - Matthias
       - Jan
     shortCode: Minecraft
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Webentwicklung für leicht fortgeschrittene Coder - Space Shooter
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Es geht weiter mit JavaScript. Wir programmieren den letzte Woche begonnenen Scratch-Klassiker *Space Shooter* fertig. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Wer letzte Woche nicht dabei war, kann trotzdem einsteigen. Ihr bekommt den Code von letzter Woche von eurer Mentorin Karin. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den *Snake*-Workshop.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Karin
+    shortCode: HtmlSpaceShooter
 
   - begintime: 17:00
     endtime: 19:00
