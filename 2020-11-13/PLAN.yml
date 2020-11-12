@@ -46,13 +46,15 @@ workshops:
       - Jan
     shortCode: Minecraft
 
-  - begintime: 17:00
+  - begintime: 15:00
     endtime: 19:00
     status: Scheduled
     title: Webentwicklung für leicht fortgeschrittene Coder - Space Shooter
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
       Es geht weiter mit JavaScript. Wir programmieren den letzte Woche begonnenen Scratch-Klassiker *Space Shooter* fertig. Wer die letzten Wochen bei JavaScript dabei war, ist perfekt vorbereitet. Wer letzte Woche nicht dabei war, kann trotzdem einsteigen. Ihr bekommt den Code von letzter Woche von eurer Mentorin Karin. Ihr solltet schon ein wenig tippen können. Wer noch keine oder nur ganz wenig Erfahrung mit textueller Programmierung hat, dem empfehlen wir den *Snake*-Workshop.
+      
+      **Wir starten um 15:00 Uhr und werden wie üblich 1,5h - 2h brauchen. Falls jemand um 15:00 am Minecraft Workshop teilnehmen und trotzdem den Space Shooter fertig machen möchten, starten wir um 17:15 nochmal. Kommt einfach nach Minecraft in dieses Zoom Meeting.**
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
