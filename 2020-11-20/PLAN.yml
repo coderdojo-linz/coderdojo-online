@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
     description: |
@@ -15,25 +15,12 @@ workshops:
     mentors:
       - Günther
       - Hans-Peter
+      - Michael
     shortCode: Elektronikbasteln
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Webentwicklung für AnfängerInnen - ???
-    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
-    description: |
-      TBD
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
-    mentors:
-      - TBD
-    shortCode: HtmlSnake
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Minecraft - Redstone - Basics
     targetAudience: ab 10, keine Redstone-Vorkenntnisse notwendig 
     description: |
@@ -46,23 +33,38 @@ workshops:
       - Jan
     shortCode: Minecraft
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Webentwicklung für leicht fortgeschrittene Coder - TBD
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Webentwicklung für leicht fortgeschrittene Coder
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
-      TBD
+      Wird noch bekanntgegeben
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
     mentors:
-      - TBD
+      - Karin
     shortCode: HtmlSpaceShooter
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
+    title: Webentwicklung für AnfängerInnen
+    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    description: |
+      Wird noch bekanntgegeben
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+    mentors:
+      - Rainer
+      - Daniel
+    shortCode: JavaScriptBeginner
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -72,5 +74,19 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - TBD
+      - Pia
     shortCode: BeginnerScratch
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Minecraft Plugins mit Java
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      Wird noch bekanntgegeben
+    prerequisites: |
+      - Wird noch bekanntgegeben
+    mentors:
+      - Kathi
+      - Matthias
+    shortCode: Minecraft
