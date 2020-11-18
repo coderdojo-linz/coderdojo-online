@@ -36,13 +36,13 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Webentwicklung für leicht fortgeschrittene Coder
-    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
+    title: Webentwicklung für leicht fortgeschrittene Coder - Weihnachts-Yeti
+    targetAudience: ab 10 Jahren, Erfahrung mit textueller Programmierung
     description: |
-      Wird noch bekanntgegeben
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal entwickeln wir ein eigenes Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Coder, die schon Erfahrung mit textueller Programmierung haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
-      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
+      - Etwas Erfahrung mit HTML, Python oder JavaScript
     mentors:
       - Karin
     shortCode: HtmlSpaceShooter
@@ -50,10 +50,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Webentwicklung für AnfängerInnen
+    title: Webentwicklung für AnfängerInnen - Weihnachts-Yeti
     targetAudience: ab 8 Jahren, Erfahrung mit Scratch
     description: |
-      Wird noch bekanntgegeben
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
