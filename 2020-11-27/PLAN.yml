@@ -92,3 +92,16 @@ workshops:
       - Kathi
       - Matthias
     shortCode: MinecraftPlugins
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Snap! kennenlernen
+    targetAudience: ab 10
+    description: |
+      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir möchten gemeinsam mit Euch Snap! kennenlernen und damit unsere ersten Programme erstellen.
+    prerequisites: |
+      - einen aktuellen Webbrowser (z.B. Firefox)
+    mentors:
+      - Thomas
+    shortCode: Snap
