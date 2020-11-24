@@ -1,11 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
-    targetAudience: ab 10, für Anfänger und Fortgeschrittene, ein wenig Erfahrung mit Arduino
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
-      Wir programmieren einen Webserver für unsere Wetterstation. Ihr wart die letzten Male nicht dabei, möchtet aber noch in das Wetterstation-Projekt einsteigen? Schickt uns [eine Email](mailto:info@linz.coderdojo.net), dann können wir besprechen, wie ihr mitmachen könnt.
+      Diesmal schreiben wir uns unseren eigenen Telegram-Bot, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
@@ -15,17 +15,15 @@ workshops:
     mentors:
       - Günther
       - Hans-Peter
-      - Michael
     shortCode: Elektronikbasteln
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Minecraft - Redstone - Basics
-    targetAudience: ab 10, keine Redstone-Vorkenntnisse notwendig 
+    status: Scheduled
+    title: Minecraft TBD
+    targetAudience: TBD
     description: |
-      Minecraft ist ein tolles Spiel, vorallem weil man in Minecraft mit Redstone eine Turing-Complete "Programmiersprache" hat! Turing-Complete bedeutet dass wir mit Redstone jedes beliebige Programm schreiben können das wir wollen!
-      Dieses mal steht alles im Zeichen von Flugmaschinen. Wie funktionieren sie? Was kann man damit alles anstellen?
+      TBD
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
@@ -35,53 +33,55 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Webentwicklung für leicht fortgeschrittene Coder - Weihnachts-Yeti
-    targetAudience: ab 10 Jahren, Erfahrung mit textueller Programmierung
+    status: Scheduled
+    title: Webentwicklung *Weihnachts-Yeti*
+    targetAudience: ab 10 Jahren
     description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal entwickeln wir ein eigenes Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Coder, die schon Erfahrung mit textueller Programmierung haben.
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Wir bauen weiter an unserem eigenen Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Falls die Vorkenntnisse der TeilnehmerInnen sehr unterschiedlich sind, teilen wir uns in zwei Gruppen auf. Daher sind AnfängerInnen und fortgeschrittene Coder herzlich willkommen. Wer letzte Woche nicht dabei war, kann gerne einsteigen. Ihr bekommt den Code von letzer Woche zum Starten.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Etwas Erfahrung mit HTML, Python oder JavaScript
     mentors:
       - Karin
-    shortCode: HtmlSpaceShooter
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Webentwicklung für AnfängerInnen - Weihnachts-Yeti
-    targetAudience: ab 8 Jahren, Erfahrung mit Scratch
-    description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Minimale Erfahrung mit HTML, Python oder JavaScript von Vorteil
-    mentors:
       - Rainer
-      - Daniel
-    shortCode: JavaScriptBeginner
+    shortCode: HtmlWeihnachtsYeti
 
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Minecraft Plugins mit Java (für Fortgeschrittene)
+    targetAudience: ab 12, Erfahrung mit textueller Programmierung notwendig
+    description: |
+      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
+    mentors:
+      - Kathi
+    shortCode: MinecraftPlugins
+    
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    status: Scheduled
+    title: JavaScript *Dino Run*
+    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Eure Mentorinnen und Mentoren wählen am Anfang etwas Passendes mit euch aus und helfen euch, das Scratch-Spiel zu bauen.
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch.
     prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
+      - Ihr dürft keine Angst vorm Tippen haben
     mentors:
       - Pia
-    shortCode: BeginnerScratch
+      - Hans-Peter
+    shortCode: DinoJS
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Minecraft Plugins mit Java
-    targetAudience: ab 10, etwas Programmiererfahrung
+    status: Scheduled
+    title: Minecraft Plugins mit Java (für AnfängerInnen)
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
       Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist.
     prerequisites: |
@@ -95,13 +95,13 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Snap! kennenlernen
-    targetAudience: ab 10
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
       Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir möchten gemeinsam mit Euch Snap! kennenlernen und damit unsere ersten Programme erstellen.
     prerequisites: |
       - einen aktuellen Webbrowser (z.B. Firefox)
     mentors:
       - Thomas
-    shortCode: Snap
+    shortCode: SnapIntro
