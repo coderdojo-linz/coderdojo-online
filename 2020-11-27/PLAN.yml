@@ -57,6 +57,7 @@ workshops:
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
       - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
       - Java 11
+      - Du solltest [den Code vom letzten mal](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector) ausführen können
     mentors:
       - Kathi
     shortCode: MinecraftPlugins
@@ -88,6 +89,7 @@ workshops:
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
       - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
       - Java 11
+      - Du solltest [den Code vom letzten mal](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector) ausführen können
     mentors:
       - Kathi
       - Matthias
