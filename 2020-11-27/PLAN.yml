@@ -20,10 +20,10 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Minecraft TBD
-    targetAudience: TBD
+    title: Minecraft - Project Computer Assembly - Teil 1 Planung
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
-      TBD
+      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. In Teil 1 fangen wir mal mit einer kleinen Planung an, was unser Computer am Schluss alles können sollte. Wenn genug Zeit bleibt machen wir gleich mit Teil 2: Addierer weiter.
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
