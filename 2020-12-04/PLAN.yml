@@ -65,15 +65,15 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Snap! kennenlernen
+    title: eigene Blöcke mit Snap! bauen
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir möchten gemeinsam mit Euch Snap! kennenlernen und damit unsere ersten Programme erstellen.
+      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir werden unsere Erkundungstour fortsetzen und uns ansehen, wie man eigene Blöcker erstellt und damit die unterschiedlichsten Motive auf den Bildschirm zaubern kann.
     prerequisites: |
       - einen aktuellen Webbrowser (z.B. Firefox)
     mentors:
       - Thomas
-    shortCode: SnapIntro
+    shortCode: SnapBloecke
 
   - begintime: 17:00
     endtime: 19:00
