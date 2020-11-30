@@ -1,0 +1,89 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    description: |
+      Diesmal schreiben wir uns unseren eigenen Telegram-Bot, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Hans-Peter
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft - Project Computer Assembly - Teil 2 TBD
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. TBD
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+    mentors:
+      - Matthias
+      - Jan
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Webentwicklung *Weihnachts-Yeti*
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Wir bauen weiter an unserem eigenen Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Falls die Vorkenntnisse der TeilnehmerInnen sehr unterschiedlich sind, teilen wir uns in zwei Gruppen auf. Daher sind AnfängerInnen und fortgeschrittene Coder herzlich willkommen. Wer letzte Woche nicht dabei war, kann gerne einsteigen. Ihr bekommt den Code von letzer Woche zum Starten.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Etwas Erfahrung mit HTML, Python oder JavaScript
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: HtmlWeihnachtsYeti
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: JavaScript *Dino Run*
+    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
+    description: |
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
+      - Ihr dürft keine Angst vorm Tippen haben
+    mentors:
+      - Pia
+      - Hans-Peter
+    shortCode: DinoJS
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Snap! kennenlernen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir möchten gemeinsam mit Euch Snap! kennenlernen und damit unsere ersten Programme erstellen.
+    prerequisites: |
+      - einen aktuellen Webbrowser (z.B. Firefox)
+    mentors:
+      - Thomas
+    shortCode: SnapIntro
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Advent of Code
+    targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
+    description: |
+      Dieses Jahr möchten wir mit euch zu einen Adventkalender der besonderen Art einladen! 🎅🎄✨ Advent of Code ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen. Wir werden uns am 1.Dezember um 18:30 online treffen um gemeinsam das erste Rätsel zu lösen. 👩‍💻👨‍💻
+    prerequisites: |
+      - Eine Entwicklungsumgebung (z.B. Visual Studio Code) für die ausgewählte Programmiersprache
+    mentors:
+      - Verschiedene Mentorinnen und Mentoren
+    shortCode: AdventOfCode
