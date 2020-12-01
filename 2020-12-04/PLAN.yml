@@ -5,7 +5,8 @@ workshops:
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
-      Diesmal schreiben wir uns unseren eigenen Telegram-Bot, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert.
+      Letztes Mal haben wir uns unseren eigenen Telegram-Bot geschrieben, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert. 
+      Nun schauen wir uns den Code etwas genauer an und fügen das OLED Display dazu.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
