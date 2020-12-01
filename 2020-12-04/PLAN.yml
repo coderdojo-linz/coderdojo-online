@@ -47,8 +47,8 @@ workshops:
       - Rainer
     shortCode: HtmlWeihnachtsYeti
     
-  - begintime: 17:00
-    endtime: 19:00
+  - begintime: 15:00
+    endtime: 17:00
     status: Draft
     title: JavaScript *Dino Run*
     targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
