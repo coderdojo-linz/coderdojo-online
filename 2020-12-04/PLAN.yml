@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
@@ -20,7 +20,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Minecraft - Project Computer Assembly - Teil 2 TBD
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
@@ -34,38 +34,50 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Webentwicklung *Weihnachts-Yeti*
+    status: Scheduled
+    title: Webentwicklung *Weihnachts-Yeti* (Fortgeschrittene)
     targetAudience: ab 10 Jahren
     description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Wir bauen weiter an unserem eigenen Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Falls die Vorkenntnisse der TeilnehmerInnen sehr unterschiedlich sind, teilen wir uns in zwei Gruppen auf. Daher sind AnfängerInnen und fortgeschrittene Coder herzlich willkommen. Wer letzte Woche nicht dabei war, kann gerne einsteigen. Ihr bekommt den Code von letzer Woche zum Starten.
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal entwickeln wir ein eigenes Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Coder, die schon Erfahrung mit textueller Programmierung haben. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Etwas Erfahrung mit HTML, Python oder JavaScript
     mentors:
       - Karin
-      - Rainer
-    shortCode: HtmlWeihnachtsYeti
+    shortCode: YetiAdvanced
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript *Dino Run*
     targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
     description: |
-      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch.
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
     prerequisites: |
       - [Visual Studio Code](https://code.visualstudio.com)
       - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
       - Ihr dürft keine Angst vorm Tippen haben
     mentors:
       - Pia
-      - Hans-Peter
     shortCode: DinoJS
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
+    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen)
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Etwas Erfahrung mit HTML, Python oder JavaScript
+    mentors:
+      - Rainer
+    shortCode: YetiRookies
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: eigene Blöcke mit Snap! bauen
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -76,9 +88,9 @@ workshops:
       - Thomas
     shortCode: SnapBloecke
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+  - begintime: 19:00
+    endtime: 20:00
+    status: Scheduled
     title: Advent of Code
     targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
     description: |
