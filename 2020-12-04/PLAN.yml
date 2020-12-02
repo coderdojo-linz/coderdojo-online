@@ -67,7 +67,7 @@ workshops:
     title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen)
     targetAudience: ab 10 Jahren
     description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Etwas Erfahrung mit HTML, Python oder JavaScript
