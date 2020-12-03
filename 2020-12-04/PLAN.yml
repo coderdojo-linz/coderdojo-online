@@ -21,10 +21,10 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Minecraft - Project Computer Assembly - Teil 2 TBD
+    title: Minecraft - Project Computer Assembly - Teil 2 Addierer
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
-      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. TBD
+      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. Letztes mal haben wir uns beschlossen dass wir ein kleines "Warmup" machen: Einen Taschenrechner mit 2 Inputs die Zusammengerechnet werden und schließlich auf einer 7-Segment-Anzeige angezeigt werden. Wir werden heute mit dem Addierer weitermachen und uns anschließend der 7-Segment-Anzeige widmen, falls Zeit bleibt.
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
