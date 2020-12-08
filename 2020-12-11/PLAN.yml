@@ -78,3 +78,28 @@ workshops:
       - Matthias
     shortCode: McPluginsBeginner
 
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Dynamische Webseite
+    targetAudience: TBD
+    description: |
+      TBD
+    prerequisites: |
+      - TBD
+    mentors:
+      - Thomas
+    shortCode: DynWebseite
+
+  - begintime: 19:00
+    endtime: 20:00
+    status: Scheduled
+    title: Advent of Code
+    targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
+    description: |
+      Dieses Jahr möchten wir mit euch zu einen Adventkalender der besonderen Art einladen! 🎅🎄✨ Advent of Code ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen. Wir werden uns am 1.Dezember um 18:30 online treffen um gemeinsam das erste Rätsel zu lösen. 👩‍💻👨‍💻
+    prerequisites: |
+      - Eine Entwicklungsumgebung (z.B. Visual Studio Code) für die ausgewählte Programmiersprache
+    mentors:
+      - Verschiedene Mentorinnen und Mentoren
+    shortCode: AdventOfCode
