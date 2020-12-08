@@ -73,6 +73,7 @@ workshops:
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
       - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
       - Java 11
+      - Du solltest das Plugin, das wir letztes mal geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector) verfügbar.
     mentors:
       - Kathi
       - Matthias
