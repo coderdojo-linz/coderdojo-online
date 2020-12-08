@@ -1,0 +1,102 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    description: |
+      Letztes Mal haben wir uns unseren eigenen Telegram-Bot geschrieben, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert. 
+      Nun schauen wir uns den Code etwas genauer an und fügen das OLED Display dazu.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Hans-Peter
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft - Project Computer Assembly - Teil 2 Addierer
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. Letztes mal haben wir uns beschlossen dass wir ein kleines "Warmup" machen: Einen Taschenrechner mit 2 Inputs die Zusammengerechnet werden und schließlich auf einer 7-Segment-Anzeige angezeigt werden. Wir werden heute mit dem Addierer weitermachen und uns anschließend der 7-Segment-Anzeige widmen, falls Zeit bleibt.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+    mentors:
+      - Matthias
+      - Jan
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Webentwicklung *Weihnachts-Yeti* (Fortgeschrittene)
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal entwickeln wir ein eigenes Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Coder, die schon Erfahrung mit textueller Programmierung haben. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Etwas Erfahrung mit HTML, Python oder JavaScript
+    mentors:
+      - Karin
+    shortCode: YetiAdvanced
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript *Dino Run*
+    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
+    description: |
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
+      - Ihr dürft keine Angst vorm Tippen haben
+    mentors:
+      - Pia
+    shortCode: DinoJS
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen)
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Etwas Erfahrung mit HTML, Python oder JavaScript
+    mentors:
+      - Rainer
+    shortCode: YetiRookies
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: eigene Blöcke mit Snap! bauen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir werden unsere Erkundungstour fortsetzen und uns ansehen, wie man eigene Blöcker erstellt und damit die unterschiedlichsten Motive auf den Bildschirm zaubern kann.
+    prerequisites: |
+      - einen aktuellen Webbrowser (z.B. Firefox)
+    mentors:
+      - Thomas
+    shortCode: SnapBloecke
+
+  - begintime: 19:00
+    endtime: 20:00
+    status: Draft
+    title: Advent of Code
+    targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
+    description: |
+      Dieses Jahr möchten wir mit euch zu einen Adventkalender der besonderen Art einladen! 🎅🎄✨ Advent of Code ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen. Wir werden uns am 1.Dezember um 18:30 online treffen um gemeinsam das erste Rätsel zu lösen. 👩‍💻👨‍💻
+    prerequisites: |
+      - Eine Entwicklungsumgebung (z.B. Visual Studio Code) für die ausgewählte Programmiersprache
+    mentors:
+      - Verschiedene Mentorinnen und Mentoren
+    shortCode: AdventOfCode
