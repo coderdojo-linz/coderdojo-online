@@ -1,0 +1,17 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Minecraft Plugins mit Java für *Fortgeschrittene*
+    targetAudience: ab 12, etwas Programmiererfahrung
+    description: |
+      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
+      - Programmiererfahrung mit einer textuellen Programmiersprache
+    mentors:
+      - Kathi
+      - Matthias
+    shortCode: McPluginsAdvanced

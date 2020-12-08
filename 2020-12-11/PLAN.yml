@@ -1,12 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
-      Letztes Mal haben wir uns unseren eigenen Telegram-Bot geschrieben, der uns die Sensordaten aus der Wetterstation auf unser Handy liefert. 
-      Nun schauen wir uns den Code etwas genauer an und fügen das OLED Display dazu.
+      Diese Woche wiederholen wir den AsyncWebServer für den ESP8266 und ESP32 mit der Wetterstation. Wir schauen uns die Funktionen nochmals genauer an.
     prerequisites: |
       - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
       - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
@@ -20,11 +19,11 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Minecraft - Project Computer Assembly - Teil 2 Addierer
+    status: Scheduled
+    title: Minecraft - Project Computer Assembly - Teil 3 - 7-Segmentanzeige
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
-      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. Letztes mal haben wir uns beschlossen dass wir ein kleines "Warmup" machen: Einen Taschenrechner mit 2 Inputs die Zusammengerechnet werden und schließlich auf einer 7-Segment-Anzeige angezeigt werden. Wir werden heute mit dem Addierer weitermachen und uns anschließend der 7-Segment-Anzeige widmen, falls Zeit bleibt.
+      TBD
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
@@ -34,21 +33,23 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Webentwicklung *Weihnachts-Yeti* (Fortgeschrittene)
+    status: Scheduled
+    title: Webentwicklung *Weihnachts-Yeti* (Anfänger und Fortgeschrittene)
     targetAudience: ab 10 Jahren
     description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal entwickeln wir ein eigenes Jump and Run. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Coder, die schon Erfahrung mit textueller Programmierung haben. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal machen wir bei unserem eigenen Jump and Run weiter. Ein Weihnachts-Yeti läuft herum und kann hüpfen. Dieser Workshop ist **für AnfängerInnen und Fortgeschrittene**. Es sind zwei Mentoren dabei und wir teilen und am Anfang auf. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
-      - Etwas Erfahrung mit HTML, Python oder JavaScript
+      - Fortgeschrittene: JavaScript-Erfahrung
+      - Anfänger: Keine Angst vorm Tippen
     mentors:
       - Karin
-    shortCode: YetiAdvanced
+      - Rainer
+    shortCode: ChristmasYeti
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript *Dino Run*
     targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
     description: |
@@ -63,34 +64,36 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen)
-    targetAudience: ab 10 Jahren
+    status: Scheduled
+    title: Minecraft Plugins mit Java für *AnfängerInnen*
+    targetAudience: ab 10, etwas Programmiererfahrung
     description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal starten wir damit, ein eigenes Jump and Run zu programmieren. Ein Weihnachts-Yeti wird herumlaufen und hüpfen. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
+      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Etwas Erfahrung mit HTML, Python oder JavaScript
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
     mentors:
-      - Rainer
-    shortCode: YetiRookies
+      - Kathi
+      - Matthias
+    shortCode: McPluginsBeginner
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: eigene Blöcke mit Snap! bauen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    status: Scheduled
+    title: Dynamische Webseite
+    targetAudience: TBD
     description: |
-      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir werden unsere Erkundungstour fortsetzen und uns ansehen, wie man eigene Blöcker erstellt und damit die unterschiedlichsten Motive auf den Bildschirm zaubern kann.
+      TBD
     prerequisites: |
-      - einen aktuellen Webbrowser (z.B. Firefox)
+      - TBD
     mentors:
       - Thomas
-    shortCode: SnapBloecke
+    shortCode: DynWebseite
 
   - begintime: 19:00
     endtime: 20:00
-    status: Draft
+    status: Scheduled
     title: Advent of Code
     targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
     description: |
