@@ -82,12 +82,12 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Dynamische Webseite
-    targetAudience: TBD
+    title: Dynamische Webseite (Bau eines Adapters für MongoDB-Datenbanken)
+    targetAudience: etwas Programmiererfahrung mit JavaScript
     description: |
-      Inhaltsbeschreibung folgt
+      Um unsere FeuerwehrApp über Weihnachten testen zu können, benötigt die App noch eine Möglichkeit ihre Daten in einer Datenbank dauerhaft abzulegen. In diesem Workshop werden wir uns ansehen, wie eine solche Datenbankanbindung umgesetzt werden kann. 
     prerequisites: |
-      - TBD
+      - etwas Programmiererfahrung mit JavaScript
     mentors:
       - Thomas
     shortCode: DynWebseite
