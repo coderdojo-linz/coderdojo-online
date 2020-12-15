@@ -80,16 +80,16 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Dynamische Webseite (Bau eines Adapters für MongoDB-Datenbanken)
-    targetAudience: etwas Programmiererfahrung mit JavaScript
+    status: Scheduled
+    title: eigene Blöcke mit Snap! bauen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Um unsere FeuerwehrApp über Weihnachten testen zu können, benötigt die App noch eine Möglichkeit ihre Daten in einer Datenbank dauerhaft abzulegen. In diesem Workshop werden wir uns ansehen, wie eine solche Datenbankanbindung umgesetzt werden kann. 
+      Mit [Snap!](https://snap.berkeley.edu) kann man, ganz ähnlich wie in [Scratch](https://scratch.mit.edu) Animation, Spiele und interaktive Geschichten erstellen und es geht noch einiges mehr, das es zu erkunden gilt. Wir werden unsere Erkundungstour fortsetzen und uns ansehen, wie man eigene Blöcker erstellt und damit die unterschiedlichsten Motive auf den Bildschirm zaubern kann.
     prerequisites: |
-      - etwas Programmiererfahrung mit JavaScript
+      - einen aktuellen Webbrowser (z.B. Firefox)
     mentors:
       - Thomas
-    shortCode: DynWebseite
+    shortCode: Snap
 
   - begintime: 19:00
     endtime: 20:00
