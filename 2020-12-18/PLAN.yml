@@ -1,0 +1,106 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    description: |
+      Diese Woche wiederholen wir den AsyncWebServer für den ESP8266 und ESP32 mit der Wetterstation. Wir schauen uns die Funktionen nochmals genauer an.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Hans-Peter
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft - Project Computer Assembly - Teil 3 - 7-Segmentanzeige
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. Letztes mal haben wir uns beschlossen dass wir ein kleines "Warmup" machen: Einen Taschenrechner mit 2 Inputs die Zusammengerechnet werden und schließlich auf einer 7-Segment-Anzeige angezeigt werden. Heute werden wir mit der 7-Segmentanzeige anfangen.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+    mentors:
+      - Matthias
+      - Jan
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen und Fortgeschrittene)
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal machen wir bei unserem eigenen Jump and Run weiter. Ein Weihnachts-Yeti läuft herum und kann hüpfen. Dieser Workshop ist **für AnfängerInnen und Fortgeschrittene**. Es sind zwei Mentoren dabei und wir teilen und am Anfang auf. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript-Erfahrung
+      - Anfänger: Keine Angst vorm Tippen
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: ChristmasYeti
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript *Dino Run*
+    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
+    description: |
+      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
+      - Ihr dürft keine Angst vorm Tippen haben
+    mentors:
+      - Pia
+    shortCode: DinoJS
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Minecraft Plugins mit Java für *AnfängerInnen*
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
+      - Du solltest das Plugin, das wir letztes mal geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector) verfügbar.
+    mentors:
+      - Kathi
+      - Matthias
+    shortCode: McPluginsBeginner
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Dynamische Webseite (Bau eines Adapters für MongoDB-Datenbanken)
+    targetAudience: etwas Programmiererfahrung mit JavaScript
+    description: |
+      Um unsere FeuerwehrApp über Weihnachten testen zu können, benötigt die App noch eine Möglichkeit ihre Daten in einer Datenbank dauerhaft abzulegen. In diesem Workshop werden wir uns ansehen, wie eine solche Datenbankanbindung umgesetzt werden kann. 
+    prerequisites: |
+      - etwas Programmiererfahrung mit JavaScript
+    mentors:
+      - Thomas
+    shortCode: DynWebseite
+
+  - begintime: 19:00
+    endtime: 20:00
+    status: Draft
+    title: Advent of Code
+    targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
+    description: |
+      Dieses Jahr möchten wir mit euch zu einen Adventkalender der besonderen Art einladen! 🎅🎄✨ Advent of Code ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen. Wir werden uns am 1.Dezember um 18:30 online treffen um gemeinsam das erste Rätsel zu lösen. 👩‍💻👨‍💻
+    prerequisites: |
+      - Eine Entwicklungsumgebung (z.B. Visual Studio Code) für die ausgewählte Programmiersprache
+    mentors:
+      - Verschiedene Mentorinnen und Mentoren
+    shortCode: AdventOfCode
