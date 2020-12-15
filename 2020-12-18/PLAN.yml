@@ -2,20 +2,16 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
-    title: Elektronikbasteln - wir bauen eine Wetterstation
-    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    title: Git Workshop
+    targetAudience: ab 10, für Anfänger
     description: |
-      Diese Woche wiederholen wir den AsyncWebServer für den ESP8266 und ESP32 mit der Wetterstation. Wir schauen uns die Funktionen nochmals genauer an.
+      TBD
     prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
-      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
-      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
-      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
-      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+      - TBD
     mentors:
-      - Günther
       - Hans-Peter
-    shortCode: Elektronikbasteln
+      - Günther
+    shortCode: Git
 
   - begintime: 15:00
     endtime: 17:00
@@ -46,6 +42,24 @@ workshops:
       - Karin
       - Rainer
     shortCode: ChristmasYeti
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln - wir bauen eine Wetterstation
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    description: |
+      Diese Woche wiederholen wir den AsyncWebServer für den ESP8266 und ESP32 mit der Wetterstation. Wir schauen uns die Funktionen nochmals genauer an.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - Günther
+      - Hans-Peter
+    shortCode: Elektronikbasteln
     
   - begintime: 17:00
     endtime: 19:00
