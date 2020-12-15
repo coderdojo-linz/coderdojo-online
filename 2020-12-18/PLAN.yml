@@ -47,21 +47,6 @@ workshops:
       - Rainer
     shortCode: ChristmasYeti
     
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: JavaScript *Dino Run*
-    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
-    description: |
-      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
-    prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com)
-      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
-      - Ihr dürft keine Angst vorm Tippen haben
-    mentors:
-      - Pia
-    shortCode: DinoJS
-
   - begintime: 17:00
     endtime: 19:00
     status: Draft
