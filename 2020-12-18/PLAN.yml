@@ -61,8 +61,8 @@ workshops:
       - Hans-Peter
     shortCode: Elektronikbasteln
     
-  - begintime: 17:00
-    endtime: 19:00
+  - begintime: 15:00
+    endtime: 17:00
     status: Draft
     title: Minecraft Plugins mit Java für *AnfängerInnen*
     targetAudience: ab 10, etwas Programmiererfahrung
