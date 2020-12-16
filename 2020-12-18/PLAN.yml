@@ -80,10 +80,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Snap
+    title: TikTakToe in Snap!
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      TBD
+      In diesem Workshop werden wir beginnen das Spiel [TikTakToe](https://de.wikipedia.org/wiki/Tic-Tac-Toe) in [Snap!](https://snap.berkeley.edu) nachzubauen.
     prerequisites: |
       - einen aktuellen Webbrowser (z.B. Firefox)
     mentors:
