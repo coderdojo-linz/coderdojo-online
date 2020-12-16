@@ -5,9 +5,11 @@ workshops:
     title: Git Workshop
     targetAudience: ab 10, für Anfänger
     description: |
-      TBD
+      Workshop zur Verwendung von Github für Anfänger.
     prerequisites: |
-      - TBD
+      - Bitte bereits vor dem Workshop [einen Github account anlegen](https://github.com/join)
+      - Command-Line Git - Client ( [download link](https://git-scm.com/downloads) )
+      - GUI-Client für Git - z.B. [Git Extensions](http://gitextensions.github.io/)
     mentors:
       - Hans-Peter
       - Günther
