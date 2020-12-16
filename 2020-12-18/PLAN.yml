@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Git Workshop
     targetAudience: ab 10, für Anfänger
     description: |
@@ -17,7 +17,7 @@ workshops:
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Minecraft Plugins mit Java für *AnfängerInnen*
     targetAudience: ab 10, etwas Programmiererfahrung
     description: |
@@ -33,7 +33,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Minecraft - Project Computer Assembly - Teil 3 - 7-Segmentanzeige
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
@@ -47,7 +47,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen und Fortgeschrittene)
     targetAudience: ab 10 Jahren
     description: |
@@ -63,7 +63,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
@@ -94,7 +94,7 @@ workshops:
 
   - begintime: 19:00
     endtime: 20:00
-    status: Draft
+    status: Scheduled
     title: Advent of Code
     targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
     description: |
