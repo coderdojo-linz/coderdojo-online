@@ -1,0 +1,13 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: TikTakToe in Snap! (Fortsetzung)
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Da wir vergangene Woche mit [TikTakToe](https://de.wikipedia.org/wiki/Tic-Tac-Toe) nicht ganz fertig geworden sind, werden wir die noch fehlenden Teile der Gewinnerermittlung gemeinsam einbauen.
+    prerequisites: |
+      - einen aktuellen Webbrowser (z.B. Firefox)
+    mentors:
+      - Thomas
+    shortCode: Snap
