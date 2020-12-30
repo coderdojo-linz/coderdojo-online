@@ -1,7 +1,69 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
+    title: Git Workshop
+    targetAudience: ab 10, für Anfänger
+    description: |
+      Workshop zur Verwendung von Github für Anfänger.
+    prerequisites: |
+      - Bitte bereits vor dem Workshop [einen Github account anlegen](https://github.com/join)
+      - Command-Line Git - Client ( [download link](https://git-scm.com/downloads) )
+      - GUI-Client für Git - z.B. [Git Extensions](http://gitextensions.github.io/)
+    mentors:
+      - Hans-Peter
+      - Günther
+    shortCode: Git
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Minecraft Plugins mit Java für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
+      - Du musst das Plugin, das wir im ersten Teil des Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector/tree/2020-11-20_first-workshop) verfügbar.
+    mentors:
+      - Kathi
+    shortCode: McPluginsBeginner
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Minecraft - Project Computer Assembly - Teil 4 - Input-Devices
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      Wir haben für unser Warmup-Projekt Taschenrechner bereits einen Addierer und eine Anzeige. Das letzte was wir jetzt noch brauchen sind 2 Eingabegeräte, mit denen wir Zahlen in unseren Rechner eingeben können.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+    mentors:
+      - Matthias
+      - Jan
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen und Fortgeschrittene)
+    targetAudience: ab 10 Jahren
+    description: |
+      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Wir bauen noch einmal an unserem eigenen Jump and Run weiter. Ein Weihnachts-Yeti läuft herum und kann hüpfen. Dieser Workshop ist **für AnfängerInnen und Fortgeschrittene**. Es sind zwei Mentoren dabei und wir teilen und am Anfang auf. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript-Erfahrung
+      - Anfänger: Keine Angst vorm Tippen
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: ChristmasYeti
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: Elektronikbasteln - wir bauen eine Wetterstation
     targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
     description: |
@@ -16,91 +78,16 @@ workshops:
       - Günther
       - Hans-Peter
     shortCode: Elektronikbasteln
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Minecraft - Project Computer Assembly - Teil 3 - 7-Segmentanzeige
-    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
-    description: |
-      Project Computer Assembly bedeutet wir bauen unseren eigenen kleinen Computer in Minecraft. Letztes mal haben wir uns beschlossen dass wir ein kleines "Warmup" machen: Einen Taschenrechner mit 2 Inputs die Zusammengerechnet werden und schließlich auf einer 7-Segment-Anzeige angezeigt werden. Heute werden wir mit der 7-Segmentanzeige anfangen.
-    prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
-    mentors:
-      - Matthias
-      - Jan
-    shortCode: Minecraft
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Webentwicklung *Weihnachts-Yeti* (AnfängerInnen und Fortgeschrittene)
-    targetAudience: ab 10 Jahren
-    description: |
-      Spielt ihr auch gerne *Jump and Run*-Spiele wie z.B. *Super Mario Bros.*? Diesmal machen wir bei unserem eigenen Jump and Run weiter. Ein Weihnachts-Yeti läuft herum und kann hüpfen. Dieser Workshop ist **für AnfängerInnen und Fortgeschrittene**. Es sind zwei Mentoren dabei und wir teilen und am Anfang auf. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript-Erfahrung
-      - Anfänger: Keine Angst vorm Tippen
-    mentors:
-      - Karin
-      - Rainer
-    shortCode: ChristmasYeti
     
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: JavaScript *Dino Run*
-    targetAudience: ab 10 Jahren, ein wenig Erfahrung mit textueller Programmierung
-    description: |
-      Kennt ihr das [*Dino Run* Spiel](https://www.blog.google/products/chrome/chrome-dino/), das erscheint, wenn man im Chrome Browser surft und das Internet weg ist? Lust, so etwas selbst in JavaScript zu bauen? In dieser Session probiert Pia das gemeinsam mit euch. **Wer neu einsteigen will soll bitte 15 Minuten früher da sein!**
-    prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com)
-      - Grundlegendes HTML/CSS/JS Wissen. Ihr müsst aber **keine Profis** in dem Bereich sein!
-      - Ihr dürft keine Angst vorm Tippen haben
-    mentors:
-      - Pia
-    shortCode: DinoJS
-
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Minecraft Plugins mit Java für *AnfängerInnen*
-    targetAudience: ab 10, etwas Programmiererfahrung
+    status: Scheduled
+    title: TikTakToe in Snap!
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Wir programmieren ein Java Plugin für Minecraft. Dabei starten wir ganz einfach damit, den Spieler auf Kommando zu begrüßen und werden in weiterer Folge einen "Material-Detektor" bauen. Dieser soll ähnlich wie ein Metalldetektor funktionieren und einen Ton abspielen, wenn ein bestimmter Block (z.B. ein Diamant) in der Nähe ist. Dieser Workshop ist für Angängerinnen und Anfänger, die noch keine oder wenig Erfahrung beim textuellen Programmieren haben.
+      In diesem Workshop werden wir beginnen das Spiel [TikTakToe](https://de.wikipedia.org/wiki/Tic-Tac-Toe) in [Snap!](https://snap.berkeley.edu) nachzubauen.
     prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
-      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
-      - Java 11
-      - Du solltest das Plugin, das wir letztes mal geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector) verfügbar.
-    mentors:
-      - Kathi
-      - Matthias
-    shortCode: McPluginsBeginner
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Dynamische Webseite (Bau eines Adapters für MongoDB-Datenbanken)
-    targetAudience: etwas Programmiererfahrung mit JavaScript
-    description: |
-      Um unsere FeuerwehrApp über Weihnachten testen zu können, benötigt die App noch eine Möglichkeit ihre Daten in einer Datenbank dauerhaft abzulegen. In diesem Workshop werden wir uns ansehen, wie eine solche Datenbankanbindung umgesetzt werden kann. 
-    prerequisites: |
-      - etwas Programmiererfahrung mit JavaScript
+      - einen aktuellen Webbrowser (z.B. Firefox)
     mentors:
       - Thomas
-    shortCode: DynWebseite
-
-  - begintime: 19:00
-    endtime: 20:00
-    status: Draft
-    title: Advent of Code
-    targetAudience: ab 13, für Fortgeschrittene, etwas Erfahrung mit textueller Programmierung
-    description: |
-      Dieses Jahr möchten wir mit euch zu einen Adventkalender der besonderen Art einladen! 🎅🎄✨ Advent of Code ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen. Wir werden uns am 1.Dezember um 18:30 online treffen um gemeinsam das erste Rätsel zu lösen. 👩‍💻👨‍💻
-    prerequisites: |
-      - Eine Entwicklungsumgebung (z.B. Visual Studio Code) für die ausgewählte Programmiersprache
-    mentors:
-      - Verschiedene Mentorinnen und Mentoren
-    shortCode: AdventOfCode
+    shortCode: Snap
