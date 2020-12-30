@@ -2,7 +2,7 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
-    title: JavaScript Feuerwerk 🎆🎇
+    title: JavaScript Feuerwerk
     targetAudience: ab 10 Jahren, AnfängerInnen und Fortgeschrittene
     description: |
       Habt ihr Lust mit etwas Programmieren ins neue Jahr zu starten? Passend zum Datum programmieren wir gemeinsam einen **Feuerwerk-Simulator** mit der Programmiersprache *JavaScript*. Beim Workshop werden zwei Mentoren dabei sein, Karin und Rainer. Am Beginn des Workshops teilen wir uns in zwei Gruppen auf. In der ersten Gruppe (Karin) sind die Kinder und Jugendlichen, die schon Programmiererfahrung haben. In die zweite Gruppen (Rainer) sind alle AnfängerInnen eingeladen, die noch nichts oder erst wenig textuell programmiert haben. Das Thema *Feuerwerk* wird in beiden Gruppen das gleiche sein.
