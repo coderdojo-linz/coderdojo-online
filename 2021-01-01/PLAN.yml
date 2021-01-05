@@ -14,3 +14,16 @@ workshops:
       - Karin
       - Rainer
     shortCode: JavaScriptFeuerwerk
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Snap! Feuerwerk 🎆🎇
+    targetAudience: ab 8 Jahren, AnfängerInnen und Fortgeschrittene
+    description: |
+      Habt ihr Lust mit etwas Programmieren ins neue Jahr zu starten? Passend zum Datum programmieren wir gemeinsam einen **Feuerwerk-Simulator** mit der blockbasierten Programmiersprache [Snap!](https://snap.berkeley.edu).
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - Thomas
+    shortCode: SnapFeuerwerk
