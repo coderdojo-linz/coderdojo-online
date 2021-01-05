@@ -1,0 +1,74 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft Plugins TBD
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      TBD
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
+      - Java 11
+      - Du musst das Plugin, das wir im ersten Teil des Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector/tree/2020-11-20_first-workshop) verfügbar.
+    mentors:
+      - TBD
+    shortCode: McPluginsBeginner
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft - Project Computer Assembly - TBD
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      TBD
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
+    mentors:
+      - TBD
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript TBD
+    targetAudience: ab 10 Jahren
+    description: |
+      TBD
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript-Erfahrung
+      - Anfänger: Keine Angst vorm Tippen
+    mentors:
+      - TBD
+    shortCode: ChristmasYeti
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln - TBD
+    targetAudience: ab 10, für Fortgeschrittene, Erfahrung mit Arduino
+    description: |
+      TBD
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - [Breadboard](https://az-delivery.de/products/mini-breadboard?_pos=3&_sid=5146117fb&_ss=r)
+      - [*ESP8266 D1 mini*](https://az-delivery.de/products/d1-mini?_pos=1&_sid=19399978d&_ss=r)
+      - Sensor [*BME280*](https://az-delivery.de/products/gy-bme280?_pos=2&_sid=dcc4acbac&_ss=r)
+      - [*OLED 0,96" Display*](https://az-delivery.de/products/0-96zolldisplay?_pos=2&_sid=025347839&_ss=r)
+    mentors:
+      - TBD
+    shortCode: Elektronikbasteln
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Snap! TBD
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      TBD
+    prerequisites: |
+      - einen aktuellen Webbrowser (z.B. Firefox)
+    mentors:
+      - TBD
+    shortCode: Snap
