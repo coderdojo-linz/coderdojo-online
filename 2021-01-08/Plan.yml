@@ -50,12 +50,12 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Snap! Vokabeltrainer
+    title: Snap! - Bau eines Vokabeltrainers
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      TBD - Details folgen noch
+      Dieses Mal lernen wir die Listen von [Snap!](https://snap.berkeley.edu/) kennen, mit deren Hilfe wir uns einen einfachen Vokabeltrainer bauen.
     prerequisites: |
-      - einen aktuellen Webbrowser (z.B. Firefox)
+      - einen aktuellen Webbrowser (z.B. [Crome](https://www.google.com/intl/de/chrome/))
     mentors:
       - Thomas
     shortCode: Snap
