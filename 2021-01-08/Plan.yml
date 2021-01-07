@@ -31,8 +31,8 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: JavaScript - Vier gewinnt (AnfängerInnen)
-    targetAudience: ab 10 Jahren
+    title: JavaScript - Vier gewinnt für AnfängerInnen
+    targetAudience: ab 10 Jahren, keine Programmiererfahrung notwendig
     description: |
       Wir starten mit einem neuen JavaScript-Projekt: Diesmal steht *vier gewinnt* am Programm. Dieser Workshop ist **für AnfängerInnen**, die noch nie oder erst wenig textuell programmiert haben. Wir nehmen uns Zeit, den Code Schritt für Schritt aufzubauen.
     prerequisites: |
