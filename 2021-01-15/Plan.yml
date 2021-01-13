@@ -28,10 +28,10 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Minecraft - Project Computer Assembly - Rechner zusammenstellen
+    title: Minecraft - Project Computer Assembly - Nächste Schritte
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
-      Wir haben inzwischen alle Teile beisammen die wir für unseren Taschenrechner benötigen. Jetzt müssen wir sie nur noch zusammenstecken und ausprobieren! Danach werden wir uns erste Gedanken darüber machen wie unser Computer aussehen sollte.
+      Nachdem wir unseren Taschenrechner fertiggestellt haben müssen wir uns diesesmal Gedanken machen was unser nächster Schritt sein sollte. 
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
     mentors:
