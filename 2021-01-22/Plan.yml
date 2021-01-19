@@ -58,13 +58,14 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Webseitenentwicklung für AnfängerInnen
     targetAudience: ab 10 Jahren, keine Programmiererfahrung notwendig
     description: |
-      TBD
+      Informationen werden, egal ob am Handy oder am Computer, meist in Form von Webseiten bereitgestellt. In diesem Workshop schauen wir uns gemeinsam an, wie Webseiten aufgebaut sind und wie wir diese selbst erstellen können.
     prerequisites: |
-      - TBD
+      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
+      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
     mentors:
       - Thomas
     shortCode: HtmlBasics
