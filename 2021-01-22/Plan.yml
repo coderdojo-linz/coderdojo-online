@@ -45,7 +45,7 @@ workshops:
     endtime: 17:00
     status: Scheduled
     title: JavaScript - Vier gewinnt (AnfängerInnen und Fortgeschrittene)
-    targetAudience: Ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
       Wir machen weiter mit unserem JavaScript-Projekt *Vier gewinnt*. Dieser Workshop ist **AnfängerInnen** ohne Programmiererfahrung **und fortgeschrittene Coder**, die schon etwas Erfahrung mit textueller Programmierung z.B. aus früheren CoderDojo-Workshops haben. Neueinsteigen ist möglich. Ihr bekommt am Beginn des Workshops den Code, den wir beim letzten Mal geschrieben haben. Am Beginn des Workshops teilen wir uns in zwei Gruppen. Die AnfängerInnen arbeiten mit Rainer, die Fortgeschrittenen programmieren mit Karin.
     prerequisites: |
