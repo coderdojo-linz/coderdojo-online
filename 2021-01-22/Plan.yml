@@ -33,7 +33,7 @@ workshops:
     title: Minecraft - Project Computer Assembly - 8-Bit - 7 Segment Anzeige
     targetAudience: ab 12 Jahren, Redstone-Kenntnisse
     description: |
-      Letztes mal haben wir beschlossen dass wir unseren Taschenrechner erweitern wollen um zwei Schritte: 1) Subtrahieren 2) Minusrechnen 3) von 4 auf 8 Bit. Schritt 1 und 2 sind beinahe fertig, jetzt müssen wir unseren Rechner + unsere 7-Segment Anzeige so erweitern dass sie mit 8-Bit umgehen können.
+      Letztes mal haben wir beschlossen dass wir unseren Taschenrechner erweitern wollen um: 1) Subtrahieren 2) Negative Zahlen 3) von 4 auf 8 Bit. Schritt 1 und 2 sind beinahe fertig, jetzt müssen wir unseren Rechner + unsere 7-Segment Anzeige so erweitern dass sie mit 8-Bit umgehen können.
     prerequisites: |
       - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.5
     mentors:
