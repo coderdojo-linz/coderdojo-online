@@ -1,0 +1,71 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln für AnfängerInnen
+    targetAudience: ab 10, keine Vorkenntnisse notwendig
+    description: |
+      Es wird wieder ein neues Projekt begonnen. Wir entwickeln für den WLAN Chip ESP8266 eine Batterie-Stromversorgung und die entsprechende Software dazu. Es wird wieder ein Display und ein Sensor für Temperatur/Luftfeuchte/Luftdruck angeschlossen und ausgelesen. Anfänger mit Grundlagenwissen zum Arduino sind sehr willkommen. Bauteile sind am Start nicht notwendig.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Eure Mentorinnen und Mentoren wählen am Anfang etwas Passendes mit euch aus und helfen euch, das Scratch-Spiel zu bauen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Minecraft - Project Computer Assembly - 8-Bit - 7 Segment Anzeige
+    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
+    description: |
+      Letztes mal haben wir beschlossen dass wir unseren Taschenrechner erweitern wollen um: 1) Subtrahieren 2) Negative Zahlen 3) von 4 auf 8 Bit. Schritt 1 und 2 sind beinahe fertig, jetzt müssen wir unseren Rechner + unsere 7-Segment Anzeige so erweitern dass sie mit 8-Bit umgehen können.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.5
+    mentors:
+      - Matthias
+      - Jan
+    shortCode: Minecraft
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript - Vier gewinnt (AnfängerInnen und Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      Wir machen weiter mit unserem JavaScript-Projekt *Vier gewinnt*. Dieser Workshop ist **AnfängerInnen** ohne Programmiererfahrung **und fortgeschrittene Coder**, die schon etwas Erfahrung mit textueller Programmierung z.B. aus früheren CoderDojo-Workshops haben. Neueinsteigen ist möglich. Ihr bekommt am Beginn des Workshops den Code, den wir beim letzten Mal geschrieben haben. Am Beginn des Workshops teilen wir uns in zwei Gruppen. Die AnfängerInnen arbeiten mit Rainer, die Fortgeschrittenen programmieren mit Karin.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: JSVierGewinnt
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Webseitenentwicklung für AnfängerInnen
+    targetAudience: ab 10 Jahren, keine Programmiererfahrung notwendig
+    description: |
+      Informationen werden, egal ob am Handy oder am Computer, meist in Form von Webseiten bereitgestellt. In diesem Workshop schauen wir uns gemeinsam an, wie Webseiten aufgebaut sind und wie wir diese selbst erstellen können.
+    prerequisites: |
+      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
+      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
+    mentors:
+      - Thomas
+    shortCode: HtmlBasics
