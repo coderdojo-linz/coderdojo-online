@@ -55,17 +55,17 @@ workshops:
       - Karin
       - Rainer
     shortCode: JSVierGewinnt
-
+    
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Webseitenentwicklung für AnfängerInnen
-    targetAudience: ab 10 Jahren, keine Programmiererfahrung notwendig
+    title: Cascading Style Sheets (CSS) für AnfängerInnen
+    targetAudience: ab 10 Jahren, HTML-Grundwissen erforderlich (z.B. aus unserem Workshop von voriger Woche)
     description: |
-      Informationen werden, egal ob am Handy oder am Computer, meist in Form von Webseiten bereitgestellt. In diesem Workshop schauen wir uns gemeinsam an, wie Webseiten aufgebaut sind und wie wir diese selbst erstellen können.
+      In diesem Workshop lernen wir die Cascading Style Sheets (CSS) kennen, mit deren Hilfe wir das Aussehen (z.B. Farbe, Schriftart, Hintergrund, Textausrichtung, ...) unserer Webseite an unsere Wünsche anpassen können.
     prerequisites: |
       - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
       - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
     mentors:
       - Thomas
-    shortCode: HtmlBasics
+    shortCode: CssBasics
