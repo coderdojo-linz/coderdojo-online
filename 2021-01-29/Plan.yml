@@ -85,3 +85,18 @@ workshops:
     mentors:
       - Thomas
     shortCode: CssBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Wir werden diesmal am Virus-Buster Spiel, das wir letztes mal begonnen haben, weiterprogrammieren. Falls du neu dazu kommen möchtest ist das auch kein Problem. Du kannst dir einfach das [Ergebnis vom letzten mal hier runterladen](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/virus-buster/).
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
