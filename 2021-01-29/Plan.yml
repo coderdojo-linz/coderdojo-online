@@ -1,78 +1,35 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, keine Vorkenntnisse notwendig
     description: |
-      Es wird wieder ein neues Projekt begonnen. Wir entwickeln für den WLAN Chip ESP8266 eine Batterie-Stromversorgung und die entsprechende Software dazu. Es wird wieder ein Display und ein Sensor für Temperatur/Luftfeuchte/Luftdruck angeschlossen und ausgelesen. Anfänger mit Grundlagenwissen zum Arduino sind sehr willkommen. Bauteile sind am Start nicht notwendig.
+      Wir sehen uns die Schaltung für eine Batterie-Stromversorgung mit Solarzelle an und programmieren den analogen Eingang des WLAN Chip ESP8266 (Wemos D1 mini) zum Messen der Batteriespannung. Anfänger mit Grundlagenwissen zum Arduino sind sehr willkommen. Bauteile sind am Start nicht notwendig.
     prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - Installation der Arduinio Software oder vom notepad++ ([www.arduino.cc/en/software](www.arduino.cc/en/software))
     mentors:
       - Günther
     shortCode: Elektronikbasteln
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
-    description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Wir haben [viele, vorbereitete Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/), bei denen auf jeden Fall für jede Erfahrungsstufe etwas dabei ist. Eure Mentorinnen und Mentoren wählen am Anfang etwas Passendes mit euch aus und helfen euch, das Scratch-Spiel zu bauen.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Hans-Peter
-    shortCode: BeginnerScratch
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Minecraft - Project Computer Assembly - 8-Bit - 7 Segment Anzeige
-    targetAudience: ab 12 Jahren, Redstone-Kenntnisse
-    description: |
-      Letztes mal haben wir beschlossen dass wir unseren Taschenrechner erweitern wollen um: 1) Subtrahieren 2) Negative Zahlen 3) von 4 auf 8 Bit. Schritt 1 und 2 sind beinahe fertig, jetzt müssen wir unseren Rechner + unsere 7-Segment Anzeige so erweitern dass sie mit 8-Bit umgehen können.
-    prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.5
-    mentors:
-      - Matthias
-      - Jan
-    shortCode: Minecraft
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: JavaScript - Vier gewinnt (AnfängerInnen und Fortgeschrittene)
+    status: Scheduled
+    title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      Wir machen weiter mit unserem JavaScript-Projekt *Vier gewinnt*. Dieser Workshop ist **AnfängerInnen** ohne Programmiererfahrung **und fortgeschrittene Coder**, die schon etwas Erfahrung mit textueller Programmierung z.B. aus früheren CoderDojo-Workshops haben. Neueinsteigen ist möglich. Ihr bekommt am Beginn des Workshops den Code, den wir beim letzten Mal geschrieben haben. Am Beginn des Workshops teilen wir uns in zwei Gruppen. Die AnfängerInnen arbeiten mit Rainer, die Fortgeschrittenen programmieren mit Karin.
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** verfeinern mit Karin das *Vier Gewinnt*-Spiel. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, starten mit Rainer ein neues Projekt, den *Space Shooter*. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Karin
       - Rainer
-    shortCode: JSVierGewinnt
-    
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Cascading Style Sheets (CSS) für AnfängerInnen
-    targetAudience: ab 10 Jahren, HTML-Grundwissen erforderlich (z.B. aus unserem Workshop von voriger Woche)
-    description: |
-      In diesem Workshop lernen wir die Cascading Style Sheets (CSS) kennen, mit deren Hilfe wir das Aussehen (z.B. Farbe, Schriftart, Hintergrund, Textausrichtung, ...) unserer Webseite an unsere Wünsche anpassen können.
-    prerequisites: |
-      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
-      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
-    mentors:
-      - Thomas
-    shortCode: CssBasics
+    shortCode: TypeScriptWorkshop
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Minecraft Plugins mit Java
     targetAudience: ab 10, etwas Programmiererfahrung
     description: |
@@ -85,3 +42,46 @@ workshops:
     mentors:
       - Kathi
     shortCode: McPlugins
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Wiederbelebung unseres Discord Bots
+    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in C# notwendig
+    description: |
+      Unser Discord Bot hat im Moment ein paar Bugs. Die werden wir in der Session gemeinsam beheben. Wer Lust auf gemeinsames C# coden hat, ist herzlich willkommen.
+    prerequisites: |
+      - Visual Studio 2019 mit C#
+    mentors:
+      - Jonas
+    shortCode: DiscordCSharp
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Tryhackme - erste Schritte im Hacking
+    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
+    description: |
+      In diesem Workshop versuchen wir gemeinsam erste Aufgaben vom Einsteiger Tutorial von [TryHackMe](https://tryhackme.com/) zu lösen. Wir werden viel im Terminal arbeiten, lernen ein VPN aufzubauen und mit [Kali Linux](https://www.kali.org/) versuchen unsere erste Maschine zu knacken. Je nach Fortschritt lernen wir zu erkennen welche Ports und Services auf einem Rechner öffentlich zugängig sind und einige Tools um Passwörter zu cracken und Sicherheitslücken zu finden.
+    prerequisites: |
+      - Account bei [TryHackMe](https://tryhackme.com/)
+      - [VirtualBox](https://www.virtualbox.org/) installiert
+      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
+    mentors:
+      - Matthias
+      - Pia
+    shortCode: TryHackMe
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Cascading Style Sheets (CSS) für AnfängerInnen
+    targetAudience: ab 10 Jahren, HTML-Grundwissen erforderlich (z.B. aus unserem Workshop von voriger Woche)
+    description: |
+      In diesem Workshop lernen wir die Cascading Style Sheets (CSS) kennen, mit deren Hilfe wir das Aussehen (z.B. Farbe, Schriftart, Hintergrund, Textausrichtung, ...) unserer Webseite an unsere Wünsche anpassen können.
+    prerequisites: |
+      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
+      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
+    mentors:
+      - Thomas
+    shortCode: CssBasics
