@@ -44,7 +44,7 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Tryhackme -
+    title: Tryhackme - erste Schritte im Hacking
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
       In diesem Workshop versuchen wir gemeinsam erste Aufgaben vom Einsteiger Tutorial von [TryHackMe](https://tryhackme.com/) zu lösen. Wir werden viel im Terminal arbeiten, lernen ein VPN aufzubauen und mit [Kali Linux](https://www.kali.org/) versuchen unsere erste Maschine zu knacken. Je nach Fortschritt lernen wir zu erkennen welche Ports und Services auf einem Rechner öffentlich zugängig sind und einige Tools um Passwörter zu cracken und Sicherheitslücken zu finden.  
