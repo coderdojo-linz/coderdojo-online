@@ -43,3 +43,18 @@ workshops:
       - Matthias
       - Pia
     shortCode: TryHackMe
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Wir werden uns am Anfang ein Spiel aussuchen das wir dann gemeinsam in 2 Stunden auf den Bildschirm bringen. Vorkenntnisse sind nicht notwendig. Du kannst vorab schon in den [Übungsanleitungen](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) schmökern was du gerne mal ausprogrammieren möchtest.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
