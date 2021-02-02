@@ -1,24 +1,25 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, keine Vorkenntnisse notwendig
     description: |
-      Wir sehen uns die Schaltung für eine Batterie-Stromversorgung mit Solarzelle an und programmieren den analogen Eingang des WLAN Chip ESP8266 (Wemos D1 mini) zum Messen der Batteriespannung. Anfänger mit Grundlagenwissen zum Arduino sind sehr willkommen. Bauteile sind am Start nicht notwendig.
+      Wir werden mit dem ESP8266 einen MQTT Broker installieren. MQTT steht für *Message Queuing Telemetry Transport* und ist ein Nachrichtenprotokoll zur Kommunikation zwischen verschiedenen Geräten im Netzwerk. Wir tauschen die gemessenen Temperaturwerte unserer Sensoren zwischen den Geräten aus. Anfänger können auch gerne einsteigen. 
     prerequisites: |
-      - Installation der Arduinio Software oder vom notepad++ ([www.arduino.cc/en/software](www.arduino.cc/en/software))
+      - Etwas Erfahrung mit der Arduino IDE
+      - Hardware: 2 Stück ESP8266 (Wemos D1 mini). Bei Fragen zu der Hardware [kommt bitte auf uns zu](mailto:info@linz.coderdojo.net).
     mentors:
       - Günther
     shortCode: Elektronikbasteln
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** verfeinern mit Karin das *Vier Gewinnt*-Spiel. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, starten mit Rainer ein neues Projekt, den *Space Shooter*. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** starten mit Karin mit einem neuen Projekt in Anlehnung an [*agar.io*](https://agar.io). Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, machen mit Rainer beim *Space Shooter* weiter. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
@@ -26,39 +27,10 @@ workshops:
       - Karin
       - Rainer
     shortCode: TypeScriptWorkshop
-    
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Minecraft Plugins mit Java
-    targetAudience: ab 10, etwas Programmiererfahrung
-    description: |
-      Wir erweitern unseren Materialdetektor so, dass man mit einer externen Konfigurationsdatei ganz leicht verschiedene Detektoren erstellen kann.
-    prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4
-      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3
-      - Java 11
-      - Du musst das Plugin, das wir im ersten Teil des Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector/tree/2020-11-20_first-workshop) verfügbar.
-    mentors:
-      - Kathi
-    shortCode: McPlugins
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Wiederbelebung unseres Discord Bots
-    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in C# notwendig
-    description: |
-      Unser Discord Bot hat im Moment ein paar Bugs. Die werden wir in der Session gemeinsam beheben. Wer Lust auf gemeinsames C# coden hat, ist herzlich willkommen.
-    prerequisites: |
-      - Visual Studio 2019 mit C#
-    mentors:
-      - Jonas
-    shortCode: DiscordCSharp
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Tryhackme - erste Schritte im Hacking
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
@@ -71,32 +43,3 @@ workshops:
       - Matthias
       - Pia
     shortCode: TryHackMe
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Cascading Style Sheets (CSS) für AnfängerInnen
-    targetAudience: ab 10 Jahren, HTML-Grundwissen erforderlich (z.B. aus unserem Workshop von voriger Woche)
-    description: |
-      In diesem Workshop lernen wir die Cascading Style Sheets (CSS) kennen, mit deren Hilfe wir das Aussehen (z.B. Farbe, Schriftart, Hintergrund, Textausrichtung, ...) unserer Webseite an unsere Wünsche anpassen können.
-    prerequisites: |
-      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/))
-      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
-    mentors:
-      - Thomas
-    shortCode: CssBasics
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
-    description: |
-      Wir werden diesmal am Virus-Buster Spiel, das wir letztes mal begonnen haben, weiterprogrammieren. Falls du neu dazu kommen möchtest ist das auch kein Problem. Du kannst dir einfach das [Ergebnis vom letzten mal hier runterladen](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/virus-buster/).
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Hans-Peter
-    shortCode: BeginnerScratch
