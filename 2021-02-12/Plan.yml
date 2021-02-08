@@ -1,0 +1,60 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln für AnfängerInnen
+    targetAudience: ab 10, keine Vorkenntnisse notwendig
+    description: |
+      Wir werden mit dem ESP8266 einen MQTT Broker installieren. MQTT steht für *Message Queuing Telemetry Transport* und ist ein Nachrichtenprotokoll zur Kommunikation zwischen verschiedenen Geräten im Netzwerk. Wir tauschen die gemessenen Temperaturwerte unserer Sensoren zwischen den Geräten aus. Anfänger können auch gerne einsteigen. 
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Hardware: 2 Stück ESP8266 (Wemos D1 mini). Bei Fragen zu der Hardware [kommt bitte auf uns zu](mailto:info@linz.coderdojo.net).
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** starten mit Karin mit einem neuen Projekt in Anlehnung an [*agar.io*](https://agar.io). Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, machen mit Rainer beim *Space Shooter* weiter. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: TypeScriptWorkshop
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Tryhackme - erste Schritte im Hacking
+    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
+    description: |
+      In diesem Workshop versuchen wir gemeinsam erste Aufgaben vom Einsteiger Tutorial von [TryHackMe](https://tryhackme.com/) zu lösen. Wir werden viel im Terminal arbeiten, lernen ein VPN aufzubauen und mit [Kali Linux](https://www.kali.org/) versuchen unsere erste Maschine zu knacken. Je nach Fortschritt lernen wir zu erkennen welche Ports und Services auf einem Rechner öffentlich zugängig sind und einige Tools um Passwörter zu cracken und Sicherheitslücken zu finden.
+    prerequisites: |
+      - Account bei [TryHackMe](https://tryhackme.com/)
+      - [VirtualBox](https://www.virtualbox.org/) installiert
+      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
+    mentors:
+      - Matthias
+      - Pia
+    shortCode: TryHackMe
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Wir werden uns am Anfang ein Spiel aussuchen das wir dann gemeinsam in 2 Stunden auf den Bildschirm bringen. Vorkenntnisse sind nicht notwendig. Du kannst vorab schon in den [Übungsanleitungen](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/) schmökern was du gerne mal ausprogrammieren möchtest.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
