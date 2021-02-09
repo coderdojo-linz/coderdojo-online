@@ -3,7 +3,7 @@ workshops:
     endtime: 17:00
     status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
-    targetAudience: ab 10, keine Vorkenntnisse notwendig
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
       Wir programmieren wieder mit der Arduino IDE unsere WLAN - ESP8266 Chips. Wir beschalten Sensoren und lesen diese aus. Für Anfänger zum Einsteigen geeignet. Voraussetzung ist die Installation der Arduino IDE und etwas Programmier-Erfahrung.
     prerequisites: |
