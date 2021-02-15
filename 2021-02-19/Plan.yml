@@ -31,20 +31,6 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
-    title: Java für Einsteiger - AOC
-    targetAudience: ab ca. 10 Jahren, Vorkenntnisse im Programmieren willkommen aber nicht notwendig, Englisch von Vorteil
-    description: |
-      In diesem Workshop versuchen wir die Grundlagen der Java Programmierung zu lernen. Wir beginnen damit, die Advent of Code Beispiele des letzten Jahres zu machen und lernen dabei Java kennen.
-    prerequisites: |
-      - [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=windows) installiert 
-      - [JDK (Java Development Kit)](https://jdk.java.net/15/) heruntergeladen
-    mentors:
-      - Pia
-    shortCode: Java
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -60,16 +46,17 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Tryhackme - erste Schritte im Hacking
+    title: Tryhackme - Advent of Cyber Tag 4, 5
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
-      In diesem Workshop versuchen wir gemeinsam erste Aufgaben vom Einsteiger Tutorial von [TryHackMe](https://tryhackme.com/) zu lösen. Wir werden viel im Terminal arbeiten, lernen ein VPN aufzubauen und mit [Kali Linux](https://www.kali.org/) versuchen unsere erste Maschine zu knacken. Je nach Fortschritt lernen wir zu erkennen welche Ports und Services auf einem Rechner öffentlich zugängig sind und einige Tools um Passwörter zu cracken und Sicherheitslücken zu finden.
+      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Im Tag 4 beschäftigen wir uns mit Scannern wie gobuster und im Tag 5 experimentieren wir mit SQL Injections.
     prerequisites: |
       - Account bei [TryHackMe](https://tryhackme.com/)
       - [VirtualBox](https://www.virtualbox.org/) installiert
       - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
     mentors:
       - Pia
+      - Matthias?
     shortCode: TryHackMe
     
   - begintime: 17:00
