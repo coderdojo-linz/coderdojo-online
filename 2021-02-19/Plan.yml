@@ -1,0 +1,89 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln für AnfängerInnen
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren für den ESP8266 einen WebSocket Server und zeigen unsere Sensor-Messwerte an. Auch für Neueinsteiger mit etwas Programmiererfahrung  möglich.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** machen mit Karin beim *Monster*-Projekt weiter. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, machen mit Rainer beim *Space Shooter* weiter. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: TypeScriptWorkshop
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Java für Einsteiger - AOC
+    targetAudience: ab ca. 10 Jahren, Vorkenntnisse im Programmieren willkommen aber nicht notwendig, Englisch von Vorteil
+    description: |
+      In diesem Workshop versuchen wir die Grundlagen der Java Programmierung zu lernen. Wir beginnen damit, die Advent of Code Beispiele des letzten Jahres zu machen und lernen dabei Java kennen.
+    prerequisites: |
+      - [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=windows) installiert 
+      - [JDK (Java Development Kit)](https://jdk.java.net/15/) heruntergeladen
+    mentors:
+      - Pia
+    shortCode: Java
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Diesmal baut ihr mit Hans-Peter am *Space Shooter* weiter. Neueinsteigen ist ohne weiteres möglich. Hans-Peter teilt am Beginn das Programm vom letzten Mal aus.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Tryhackme - erste Schritte im Hacking
+    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
+    description: |
+      In diesem Workshop versuchen wir gemeinsam erste Aufgaben vom Einsteiger Tutorial von [TryHackMe](https://tryhackme.com/) zu lösen. Wir werden viel im Terminal arbeiten, lernen ein VPN aufzubauen und mit [Kali Linux](https://www.kali.org/) versuchen unsere erste Maschine zu knacken. Je nach Fortschritt lernen wir zu erkennen welche Ports und Services auf einem Rechner öffentlich zugängig sind und einige Tools um Passwörter zu cracken und Sicherheitslücken zu finden.
+    prerequisites: |
+      - Account bei [TryHackMe](https://tryhackme.com/)
+      - [VirtualBox](https://www.virtualbox.org/) installiert
+      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
+    mentors:
+      - Pia
+    shortCode: TryHackMe
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Minecraft Plugins mit Java
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      Wir erweitern unseren Materialdetektor so, dass man mit einer externen Konfigurationsdatei ganz leicht verschiedene Detektoren erstellen kann.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4 oder höher
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3 oder höher
+      - Java
+      - Du musst das Plugin, das wir im letzten Teil Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector#anleitung-plugin-ausf%C3%BChren) verfügbar.
+    mentors:
+      - Kathi
+    shortCode: McPlugins
