@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -15,7 +15,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
@@ -34,13 +34,13 @@ workshops:
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Diesmal baut ihr mit Hans-Peter am *Space Shooter* weiter. Neueinsteigen ist ohne weiteres möglich. Hans-Peter teilt am Beginn das Programm vom letzten Mal aus.
+      TBD
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Hans-Peter
+      - Pia
     shortCode: BeginnerScratch
 
   - begintime: 17:00
@@ -61,23 +61,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Minecraft Plugins mit Java
-    targetAudience: ab 10, etwas Programmiererfahrung
-    description: |
-      Wir erweitern unseren Materialdetektor so, dass man mit einer externen Konfigurationsdatei ganz leicht verschiedene Detektoren erstellen kann.
-    prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4 oder höher
-      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3 oder höher
-      - Java
-      - Du musst das Plugin, das wir im letzten Teil Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector#anleitung-plugin-ausf%C3%BChren) verfügbar.
-    mentors:
-      - Kathi
-    shortCode: McPlugins
-    
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Cascading Style Sheets (Fortsetzung) und responsive Design
     targetAudience: ab 10, etwas Erfahrung mit HTML und CSS
     description: |
