@@ -55,6 +55,7 @@ workshops:
       - [VirtualBox](https://www.virtualbox.org/) installiert
       - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
     mentors:
+      - Matthias
       - Pia
     shortCode: TryHackMe
     
