@@ -1,0 +1,15 @@
+workshops:
+  - begintime: 09:30
+    endtime: 11:30
+    status: Scheduled
+    title: TypeScript Workshop für Fortgeschrittene
+    targetAudience: ab ca. 13 Jahren, TypeScript oder JavaScript Erfahrung notwendig
+    description: |
+      In diesem Workshop werden wir unser Multiplayer-Monster-Spiel, das wir in den letzten Wochen in [Stackblitz](https://stackblitz.com/) entwickelt haben, in Visual Studio Code übersiedeln und mit Hilfe von [Webpack](https://webpack.js.org/) aus TypeScript ein JavaScript Bundle bauen. Außerdem werden wir den für das Spiel benötigten Server mit [Node.js](https://nodejs.org/en/) bauen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - JavaScript- und/oder TypeScript-Erfahrung
+      - [Visual Studio Code](https://code.visualstudio.com/)
+    mentors:
+      - Karin
+    shortCode: TypeScriptWebpackWorkshop
