@@ -46,10 +46,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Tryhackme - Advent of Cyber Tag 4, 5
+    title: Tryhackme - Advent of Cyber Tag 6 - XSS
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
-      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Im Tag 4 beschäftigen wir uns mit Scannern wie gobuster und im Tag 5 experimentieren wir mit SQL Injections.
+      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Im Tag 6 beschäftigen wir uns mit Cross Site Scripting.
     prerequisites: |
       - Account bei [TryHackMe](https://tryhackme.com/)
       - [VirtualBox](https://www.virtualbox.org/) installiert
