@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -15,7 +15,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
@@ -30,7 +30,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: Scratch für AnfängerInnen und Fortgeschrittene
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -45,7 +45,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Scheduled
+    status: Draft
     title: Tryhackme - Advent of Cyber Tag 4, 5
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
@@ -61,7 +61,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Scheduled
+    status: Draft
     title: Cascading Style Sheets (Fortsetzung) und responsive Design
     targetAudience: ab 10, etwas Erfahrung mit HTML und CSS
     description: |
