@@ -65,7 +65,7 @@ workshops:
     title: Responsive Web Design mit Bootstrap
     targetAudience: ab 10, etwas Erfahrung mit HTML und CSS
     description: |
-	  Da bei unserem Workshop in der vergangenen Woche keine Zeit für [Bootstrap](https://getbootstrap.com) blieb, werden wir das Thema "Responsive Design" diese Woche nachholen. Dabei geht es darum, unsere Webseite auch für kleine Geräte (z.B. Handy) gut lesbar zu gestalten. Wenn Du mitmachen möchtest, aber keine Erfahrung mit HTML und CSS hast, kannst Du als Einstieg die Tutorials von [selfhtml](https://wiki.selfhtml.org) durchmachen.
+      - Da bei unserem Workshop in der vergangenen Woche keine Zeit für [Bootstrap](https://getbootstrap.com) blieb, werden wir das Thema "Responsive Design" diese Woche nachholen. Dabei geht es darum, unsere Webseite auch für kleine Geräte (z.B. Handy) gut lesbar zu gestalten. Wenn Du mitmachen möchtest, aber keine Erfahrung mit HTML und CSS hast, kannst Du als Einstieg die Tutorials von [selfhtml](https://wiki.selfhtml.org) durchmachen.
     prerequisites: |
       - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com))
       - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
