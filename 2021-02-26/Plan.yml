@@ -62,13 +62,13 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Cascading Style Sheets (Fortsetzung) und responsive Design
+    title: Responsive Web Design mit Bootstrap
     targetAudience: ab 10, etwas Erfahrung mit HTML und CSS
     description: |
-      Dieses Mal werden wir noch einige weitere Möglichkeiten kennenlernen, mit deren Hilfe wir unsere Webseite hübscher gestalten und sie auch auf kleinen Geräten (z.B. Handy) gut lesbar machen können. Wenn Du mitmachen möchtest, aber keine Erfahrung mit HTML und CSS hast, kannst Du als Einstieg die Tutorials von [selfhtml](https://wiki.selfhtml.org) durchmachen.
+	  Da bei unserem Workshop in der vergangenen Woche keine Zeit für [Bootstrap](https://getbootstrap.com) blieb, werden wir das Thema "Responsive Design" diese Woche nachholen. Dabei geht es darum, unsere Webseite auch für kleine Geräte (z.B. Handy) gut lesbar zu gestalten. Wenn Du mitmachen möchtest, aber keine Erfahrung mit HTML und CSS hast, kannst Du als Einstieg die Tutorials von [selfhtml](https://wiki.selfhtml.org) durchmachen.
     prerequisites: |
       - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com))
       - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
     mentors:
       - Thomas
-    shortCode: Css
+    shortCode: Bootstrap
