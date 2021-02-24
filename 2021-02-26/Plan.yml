@@ -5,7 +5,7 @@ workshops:
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Wir programmieren für den ESP8266 einen WebSocket Server und zeigen unsere Sensor-Messwerte an. Auch für Neueinsteiger mit etwas Programmiererfahrung  möglich.
+      Wir programmieren für den ESP8266 einen WebSocket Server und zeigen unsere Sensor-Messwerte an. Auch für Neueinsteiger mit etwas Arduino-Erfahrung möglich.
     prerequisites: |
       - Etwas Erfahrung mit der Arduino IDE
       - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
