@@ -71,3 +71,19 @@ workshops:
     mentors:
       - Thomas
     shortCode: Bootstrap
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Minecraft Plugins mit Java
+    targetAudience: ab 10, etwas Programmiererfahrung
+    description: |
+      Wir erweitern unseren Materialdetektor so, dass man mit einer externen Konfigurationsdatei ganz leicht verschiedene Detektoren erstellen kann.
+    prerequisites: |
+      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4 oder höher
+      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3 oder höher
+      - Java
+      - Du musst das Plugin, das wir im letzten Teil Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector#anleitung-plugin-ausf%C3%BChren) verfügbar.
+    mentors:
+      - Kathi
+    shortCode: McPlugins
