@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -15,26 +15,27 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
-    targetAudience: ab ca. 10 Jahren, keine Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** machen mit Karin beim *Monster*-Projekt weiter. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, machen mit Rainer beim *Space Shooter* weiter. Neueinsteigen ist in beiden Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** machen mit Karin beim *Monster*-Projekt weiter. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, können wählen, ob sie mit Pia den berühmten **Dino-Run** starten möchten oder mit Rainer am *Space Shooter* weiter basteln wollen. Neueinsteigen ist in allen Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Karin
       - Rainer
+      - Pia
     shortCode: TypeScriptWorkshop
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
+    status: Scheduled
+    title: Jump 'n' Run in Scratch
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Wir werden uns zu Beginn gemeinsam ein Spiel aussuchen und dieses entwickeln. NeueinsteigerInnen sind ebenso willkommen wie erfahrene ScratcherInnen. 
+      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -42,48 +43,17 @@ workshops:
     mentors:
       - Hans-Peter
     shortCode: BeginnerScratch
-
+    
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Tryhackme - Advent of Cyber Tag 6 - XSS
-    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
+    title: Linux Workshop
+    targetAudience: TBD
     description: |
-      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Im Tag 6 beschäftigen wir uns mit Cross Site Scripting.
+      TBD
     prerequisites: |
-      - Account bei [TryHackMe](https://tryhackme.com/)
-      - [VirtualBox](https://www.virtualbox.org/) installiert
-      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
+      - TBD
     mentors:
+      - Jonas
       - Pia
-    shortCode: TryHackMe
-    
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Responsive Web Design mit Bootstrap
-    targetAudience: ab 10, etwas Erfahrung mit HTML und CSS
-    description: |
-      - Da bei unserem Workshop in der vergangenen Woche keine Zeit für [Bootstrap](https://getbootstrap.com) blieb, werden wir das Thema "Responsive Design" diese Woche nachholen. Dabei geht es darum, unsere Webseite auch für kleine Geräte (z.B. Handy) gut lesbar zu gestalten. Wenn Du mitmachen möchtest, aber keine Erfahrung mit HTML und CSS hast, kannst Du als Einstieg die Tutorials von [selfhtml](https://wiki.selfhtml.org) durchmachen.
-    prerequisites: |
-      - einen Texteditor (z.B. [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio Code](https://code.visualstudio.com))
-      - einen aktuellen Webbrowser (z.B. [Firefox](https://www.mozilla.org/de/firefox/new/), [Chrome](https://www.google.com/intl/de/chrome/))
-    mentors:
-      - Thomas
-    shortCode: Bootstrap
-    
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Minecraft Plugins mit Java
-    targetAudience: ab 10, etwas Programmiererfahrung
-    description: |
-      Wir erweitern unseren Materialdetektor so, dass man mit einer externen Konfigurationsdatei ganz leicht verschiedene Detektoren erstellen kann.
-    prerequisites: |
-      - Eine offizielle Installation von Minecraft (Java Version) mit Version 1.16.4 oder höher
-      - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) mit Version 2020.2.3 oder höher
-      - Java
-      - Du musst das Plugin, das wir im letzten Teil Workshops geschrieben haben, ausführen können. Der Code und eine kurze Anleitung dazu sind [hier](https://github.com/KatharinaSick/coderdojo-minecraft-material-detector#anleitung-plugin-ausf%C3%BChren) verfügbar.
-    mentors:
-      - Kathi
-    shortCode: McPlugins
+    shortCode: LinuxBasics
