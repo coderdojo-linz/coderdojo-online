@@ -1,0 +1,61 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln für AnfängerInnen
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren für den ESP8266 einen WebSocket Server und zeigen unsere Sensor-Messwerte an. Auch für Neueinsteiger mit etwas Arduino-Erfahrung möglich.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** machen mit Karin beim *Monster*-Projekt weiter. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, können wählen, ob sie mit Pia den berühmten **Dino-Run** starten möchten oder mit Rainer am *Space Shooter* weiter basteln wollen. Neueinsteigen ist in allen Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+      - Rainer
+      - Pia
+    shortCode: TypeScriptWorkshop
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Jump 'n' Run in Scratch
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Docker Workshop
+    targetAudience: ab 14 Jahren, Programmiererfahrung notwendig 
+    description: |
+      In diesem Workshop, setzen wir eine Web-API und einen Reverse Proxy auf. Nachdem wir das ganze händisch einmal probiert haben, werden wir das gleiche mit Docker aufsetzen um zu sehen wie sehr uns das Arbeiten mit Containern das Leben leichter machen kann. Außerdem werden wir uns eine Domäne registrieren und Zertifikate mit Let's encrypt erstellen.
+    prerequisites: |
+      - Vorkenntnisse über Programmieren notwendig
+      - Putty oder ein gleichwertiges Tool für SSH Verbindungen
+    mentors:
+      - Jonas
+      - Pia
+    shortCode: LinuxBasics
