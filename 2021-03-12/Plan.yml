@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -16,27 +16,39 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: TypeScript Workshop (für AnfängerInnen UND Fortgeschrittene)
+    status: Scheduled
+    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
+    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop startet ihr mit Karin das *Risiko*-Spiel-Projekt. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+    shortCode: RisikoTS
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Dino-Spiel in TypeScript (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      In diesem Workshop teilen wir uns am Beginn wie schon in den letzten Wochen auf. Die **fortgeschrittenen Coder** machen mit Karin beim *Monster*-Projekt weiter. Die AnfängerInnen, die noch **keine oder erst ganz wenig Programmiererfahrung** haben, können wählen, ob sie mit Pia den berühmten **Dino-Run** starten möchten oder mit Rainer am *Space Shooter* weiter basteln wollen. Neueinsteigen ist in allen Gruppen jede Woche möglich. Bei aufbauenden Projekten bekommt Ihr am Beginn des Workshops den Code, der bisher geschrieben wurde.
+      Rainer macht mit euch in dieser Woche beim *Dino Run*-Spiel weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops den Code, der bisher geschrieben wurde.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
-      - Karin
       - Rainer
-      - Pia
-    shortCode: TypeScriptWorkshop
+    shortCode: DinoTS
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Jump 'n' Run in Scratch
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut.
+      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut. Hans-Peter macht beim Spiel, das letzte Woche begonnen wurde, weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops ein Beispielprojekt, von dem wir dieses mal alle ausgehen werden.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -57,5 +69,4 @@ workshops:
       - Putty oder ein gleichwertiges Tool für SSH Verbindungen
     mentors:
       - Jonas
-      - Pia
     shortCode: LinuxBasics
