@@ -25,6 +25,20 @@ workshops:
     mentors:
       - Michael
     shortCode: ElektronikbastelnBeginner
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
+    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop startet ihr mit Karin das *Risiko*-Spiel-Projekt. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+    shortCode: RisikoTS
 
   - begintime: 15:00
     endtime: 17:00
@@ -40,20 +54,6 @@ workshops:
     mentors:
       - Hans-Peter
     shortCode: BeginnerScratch
-    
-  - begintime: 15:00
-    endtime: 17:00
-    status: Scheduled
-    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
-    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
-    description: |
-      In diesem Workshop startet ihr mit Karin das *Risiko*-Spiel-Projekt. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - JavaScript- und/oder TypeScript-Erfahrung
-    mentors:
-      - Karin
-    shortCode: RisikoTS
     
   - begintime: 17:00
     endtime: 19:00
