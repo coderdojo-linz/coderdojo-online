@@ -13,7 +13,7 @@ workshops:
       - Günther
     shortCode: Elektronikbasteln
     
-    - begintime: 15:00
+  - begintime: 15:00
     endtime: 17:00
     status: Scheduled
     title: Elektronikbasteln für AnfängerInnen
@@ -43,20 +43,6 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Dino-Spiel in TypeScript (für AnfängerInnen UND Fortgeschrittene)
-    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
-    description: |
-      Rainer macht mit euch in dieser Woche beim *Dino Run*-Spiel weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops den Code, der bisher geschrieben wurde.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
-    mentors:
-      - Rainer
-    shortCode: DinoTS
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Scheduled
     title: Jump 'n' Run in Scratch
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -82,3 +68,17 @@ workshops:
     mentors:
       - Jonas
     shortCode: LinuxBasics
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Dino-Spiel in TypeScript (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      Rainer macht mit euch in dieser Woche beim *Dino Run*-Spiel weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops den Code, der bisher geschrieben wurde.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Rainer
+    shortCode: DinoTS
