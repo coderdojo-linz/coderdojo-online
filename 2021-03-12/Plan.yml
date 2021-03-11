@@ -11,8 +11,20 @@ workshops:
       - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
     mentors:
       - Günther
-      - Michael
     shortCode: Elektronikbasteln
+    
+    - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Elektronikbasteln für AnfängerInnen
+    targetAudience: ab 10, kein vorwissen notwendig
+    description: |
+      Wir schauen und an was ist Strom, Spannung, Widerstand. Was ist Elektronik den überhaupt
+    prerequisites: |
+      - keine
+    mentors:
+      - Michael
+    shortCode: ElektronikbastelnBeginner
 
   - begintime: 15:00
     endtime: 17:00
