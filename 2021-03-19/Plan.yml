@@ -21,7 +21,7 @@ workshops:
     description: |
       Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktive mitmachen und alles gleich ausprobieren
     prerequisites: |
-      Wer mitmacen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
+      Wer mitmacen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile, einen Seitenschneider und eine ruhige Hand.
     mentors:
       - Michael
     shortCode: ElektronikbastelnBeginner
