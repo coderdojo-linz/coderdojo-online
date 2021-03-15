@@ -2,7 +2,7 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
-    title: Elektronikbasteln für AnfängerInnen
+    title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
       Wir programmieren für den ESP8266 einen WebSocket Server und zeigen unsere Sensor-Messwerte an. Auch für Neueinsteiger mit etwas Arduino-Erfahrung möglich.
@@ -19,9 +19,9 @@ workshops:
     title: Elektronikbasteln für AnfängerInnen
     targetAudience: ab 10, kein vorwissen notwendig
     description: |
-      Wir schauen und an was ist Strom, Spannung, Widerstand. Was ist Elektronik den überhaupt
+      Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktive mitmachen und alles gleich ausprobieren
     prerequisites: |
-      - keine
+      Wer mitmacen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
     mentors:
       - Michael
     shortCode: ElektronikbastelnBeginner
