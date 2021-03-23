@@ -1,5 +1,22 @@
 workshops:
-  - begintime: 15:00
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln für Anfänger
+    targetAudience: ab 7
+    description: |
+       Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktiv mitmachen und alles gleich ausprobieren
+    prerequisites: |
+      Wer mitmachen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
+    mentors:
+      - Michael
+    shortCode: ElektronikbastelnBeginner
+
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+    
+     - begintime: 15:00
     endtime: 17:00
     status: Draft
     title: Elektronikbasteln
