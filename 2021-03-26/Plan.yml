@@ -1,24 +1,7 @@
 workshops:
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln für Anfänger
-    targetAudience: ab 7
-    description: |
-       Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktiv mitmachen und alles gleich ausprobieren
-    prerequisites: |
-      Wer mitmachen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
-    mentors:
-      - Michael
-    shortCode: ElektronikbastelnBeginner
-
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-    
-     - begintime: 15:00
+  - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -34,7 +17,7 @@ workshops:
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
     targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
     description: |
@@ -48,7 +31,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Jump 'n' Run in Scratch
     targetAudience: ab 10 Jahren, Scratch Basiswissen notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
@@ -63,7 +46,7 @@ workshops:
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Docker Workshop
     targetAudience: ab 14 Jahren, Programmiererfahrung notwendig 
     description: |
@@ -74,18 +57,31 @@ workshops:
     mentors:
       - Jonas
       - Matthias
-    shortCode: LinuxBasics
+    shortCode: DockerBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln für Anfänger
+    targetAudience: ab 7
+    description: |
+       Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktiv mitmachen und alles gleich ausprobieren
+    prerequisites: |
+      Wer mitmachen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
+    mentors:
+      - Michael
+    shortCode: ElektronikbastelnBeginner
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Dino-Spiel in TypeScript (für AnfängerInnen UND Fortgeschrittene)
+    status: Scheduled
+    title: Etwas in TypeScript 😉 (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      Rainer macht mit euch in dieser Woche beim *Dino Run*-Spiel weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops den Code, der bisher geschrieben wurde.
+      Rainer muss sich erst was überlegen 😅
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Rainer
-    shortCode: DinoTS
+    shortCode: SomethingInTypeScript
