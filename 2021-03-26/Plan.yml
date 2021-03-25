@@ -54,7 +54,6 @@ workshops:
     prerequisites: |
       - Vorkenntnisse über Programmieren notwendig
       - Putty oder ein gleichwertiges Tool für SSH Verbindungen
-      - Gute Laune
     mentors:
       - Jonas
       - Matthias
