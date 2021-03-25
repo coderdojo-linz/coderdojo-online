@@ -75,10 +75,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Etwas in TypeScript 😉 (für AnfängerInnen UND Fortgeschrittene)
+    title: TypeScript Sokoban 📦 (für AnfängerInnen UND Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      Rainer muss sich erst was überlegen 😅
+      Rainer startet mit euch ein neues Spiel-Projekt. Wir bauen den Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban). *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
