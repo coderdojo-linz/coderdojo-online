@@ -86,15 +86,3 @@ workshops:
       - Rainer
     shortCode: SomethingInTypeScript
     
-  - begintime: 18:10
-    endtime: 19:00
-    status: Scheduled
-    title: Test
-    targetAudience: Keiner, bitte nicht kommen
-    description: |
-      Dies ist eine beschreibung. Komplett uninteressant
-    prerequisites: |
-      - abc
-    mentors:
-      - Jonas
-    shortCode: TestMe04
