@@ -85,3 +85,16 @@ workshops:
     mentors:
       - Rainer
     shortCode: SomethingInTypeScript
+    
+  - begintime: 17:45
+    endtime: 18:00
+    status: Scheduled
+    title: Test
+    targetAudience: Keiner, bitte nicht kommen
+    description: |
+      Dies ist eine beschreibung
+    prerequisites: |
+      - abc
+    mentors:
+      - Jonas
+    shortCode: TestMe01
