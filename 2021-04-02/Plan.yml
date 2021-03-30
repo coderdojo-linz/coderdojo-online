@@ -1,0 +1,88 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den ESP8266 D1 mini mit der Arduino IDE Software. Es werden die Sensordaten einfach über das WLAN und das Internet austauschen.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
+    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+    shortCode: RisikoTS
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Jump 'n' Run in Scratch
+    targetAudience: ab 10 Jahren, Scratch Basiswissen notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut. Hans-Peter macht beim Spiel, das letzte Woche begonnen wurde, weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops ein Beispielprojekt, von dem wir dieses mal alle ausgehen werden.
+    prerequisites: |
+      - Basiswissen über Scratch notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: ScratchJump
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Docker Workshop
+    targetAudience: ab 14 Jahren, Programmiererfahrung notwendig 
+    description: |
+      In diesem Workshop, setzen wir eine Web-API und einen Reverse Proxy auf. Nachdem wir das ganze händisch einmal probiert haben, werden wir das gleiche mit Docker aufsetzen um zu sehen wie sehr uns das Arbeiten mit Containern das Leben leichter machen kann. Außerdem werden wir uns eine Domäne registrieren und Zertifikate mit Let's encrypt erstellen. :)
+    prerequisites: |
+      - Vorkenntnisse über Programmieren notwendig
+      - Putty oder ein gleichwertiges Tool für SSH Verbindungen
+    mentors:
+      - Jonas
+      - Matthias
+    shortCode: DockerBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln für Anfänger
+    targetAudience: ab 7
+    description: |
+       Wir lernen Löten. Was ist löten, was braucht man, wie geht das. Welche Fehler können passieren. Ihr könnt einfach nur zuhören und zuschauen, aber auch aktiv mitmachen und alles gleich ausprobieren
+    prerequisites: |
+      Wer mitmachen möchte braucht einen Lötkolben oder eine Lötstation, Lötzinn, etwas dünnen Kupferdraht oder irgendwelche Bauteile und eine ruhige Hand.
+    mentors:
+      - Michael
+    shortCode: ElektronikbastelnBeginner
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: TypeScript Sokoban 📦 (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      Rainer startet mit euch ein neues Spiel-Projekt. Wir bauen den Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban). *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Rainer
+    shortCode: SomethingInTypeScript
+    
