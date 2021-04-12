@@ -1,0 +1,121 @@
+workshops:
+  - begintime: 14:00
+    endtime: 14:45
+    status: Draft
+    title: |
+      Ein Blick hinter die Kulissen der Microsoft Cloud: Wie sieht so eine Cloud denn tatsächlich aus?
+    targetAudience: ab 8
+    description: |
+      Jeder redet von der Cloud, aber möchtet ihr wissen was tatsächlich dahinter steckt?
+
+      - Wie sieht so ein Rechenzentrum eigentlich aus?
+      - Wie sind die miteinander verbunden?
+      - Welche coolen Technologien stecken dahinter? (Wusstet ihr, dass wir z.B. auch an Unterwasser-Rechenzentren forschen, oder Microsoft mit riesigen Schiffen Netzwerkkabel quer durch die Ozeane verlegt?)
+      - Wie kann man Rechenzentren bauen, die auch für die Umwelt verträglich sind? (Co2-Ausstoß, Energieverbrauch)
+      - Und bald werden wir auch eigene Microsoft Rechenzentren in Österreich haben. Wozu eigentlich?
+    prerequisites: 
+    mentors:
+      - Thomas Vater
+    shortCode: Cloud
+
+  - begintime: 15:00
+    endtime: 15:45
+    status: Draft
+    title: |
+      Was Brawl Stars so über dich weiß
+    targetAudience: ab 8
+    description: |
+      Du hast vielleicht schon mal gehört, dass wir alle "Spuren im Internet" hinterlassen. Seit ein paar Jahren hat jeder das Recht, die Daten die über ihn von einem Unternehmen gesammelt werden, zugesandt zu bekommen. Mein Sohn hat das für Brawl Star gemacht - und genau diese Daten werden wir (natürlich mit seiner Erlaubnis) analysieren.
+
+      Meistens, so auch in diesem Fall, werden die Daten als JSON-Dateien zur Verfügung gestellt. Diese Dateien sind sowohl vom Computer als auch von uns Menschen lesbar. Die Vielzahl der darin enthaltenen Informationen lässt sich aber schwer durch einfaches Durchlesen auswerten. Daher werden wir ein kostenloses Werkzeug (Power BI) verwenden um die Informationen auch begreifbar zu machen.
+
+      Dinge, die wir also besprechen werden:
+
+      - Das Recht auf die eigenen Daten
+      - Datenformat JSON
+      - Microsoft Power BI (kostenlos)
+    prerequisites: 
+    mentors:
+      - Markus Ehrenmüller-Jensen
+    shortCode: BrawlStars
+
+  - begintime: 16:00
+    endtime: 16:45
+    status: Draft
+    title: |
+      RESTful Web Services mit Spring Boot
+    targetAudience: ab 8
+    description: |
+      Die Kommunikation zwischen Front- und Backend einer App erfolgt oft über eine sogenannte REST API. Dabei stellt das Backend bestimmte Methoden zur Verfügung, die Clients benutzen können. Doch wie funktioniert so eine REST API eigentlich und was sollte man dabei beachten?
+
+      In diesem Workshop werden wir einen einfachen Web Service mit Spring Boot implementieren.
+
+      Um an diesem Workshop teilzunehmen, solltest du folgendes auf deinem Computer installieren:
+
+      - Java mit Version 1.8 oder höher
+      - Eine Enwicklungsumgebung wie Intellij IDEA (bevorzugt) oder Eclipse (wenn du schon Erfahrung damit hast)
+    prerequisites: 
+      - Java mit Version 1.8 oder höher
+      - Eine Enwicklungsumgebung wie Intellij IDEA (bevorzugt) oder Eclipse (wenn du schon Erfahrung damit hast)
+    mentors:
+      - Katharina Sick
+    shortCode: SpringBoot
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Elektronikbasteln
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
+    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Karin
+    shortCode: RisikoTS
+   
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Thomas baut mit euch unser berühmtes [*Fische*-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/fang-mich/). Am Ende werdet ihr euer erstes, eigenes Computerspiel programmiert haben.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Thomas
+    shortCode: BeginnerScratch
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: TypeScript Sokoban 📦 (für AnfängerInnen UND Fortgeschrittene)
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    description: |
+      Rainer macht weiter mit dem Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban). *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Rainer
+    shortCode: SomethingInTypeScript
