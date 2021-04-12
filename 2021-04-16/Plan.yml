@@ -44,7 +44,7 @@ workshops:
     status: Draft
     title: |
       RESTful Web Services mit Spring Boot
-    targetAudience: ab 8
+    targetAudience: ab 12, etwas Programmiererfahrung notwendig
     description: |
       Die Kommunikation zwischen Front- und Backend einer App erfolgt oft über eine sogenannte REST API. Dabei stellt das Backend bestimmte Methoden zur Verfügung, die Clients benutzen können. Doch wie funktioniert so eine REST API eigentlich und was sollte man dabei beachten?
 
