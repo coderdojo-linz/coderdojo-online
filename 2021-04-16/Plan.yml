@@ -13,7 +13,7 @@ workshops:
       - Welche coolen Technologien stecken dahinter? (Wusstet ihr, dass wir z.B. auch an Unterwasser-Rechenzentren forschen, oder Microsoft mit riesigen Schiffen Netzwerkkabel quer durch die Ozeane verlegt?)
       - Wie kann man Rechenzentren bauen, die auch für die Umwelt verträglich sind? (Co2-Ausstoß, Energieverbrauch)
       - Und bald werden wir auch eigene Microsoft Rechenzentren in Österreich haben. Wozu eigentlich?
-    prerequisites: 
+    prerequisites: |
       - Keine (Vortrag)
     mentors:
       - Thomas Vater
@@ -35,7 +35,7 @@ workshops:
       - Das Recht auf die eigenen Daten
       - Datenformat JSON
       - Microsoft Power BI (kostenlos)
-    prerequisites: 
+    prerequisites: |
       - Keine (Vortrag)
     mentors:
       - Markus
@@ -56,7 +56,7 @@ workshops:
 
       - Java mit Version 1.8 oder höher
       - Eine Enwicklungsumgebung wie Intellij IDEA (bevorzugt) oder Eclipse (wenn du schon Erfahrung damit hast)
-    prerequisites: 
+    prerequisites: |
       - Java mit Version 1.8 oder höher
       - Eine Enwicklungsumgebung wie Intellij IDEA (bevorzugt) oder Eclipse (wenn du schon Erfahrung damit hast)
     mentors:
