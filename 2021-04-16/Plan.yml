@@ -38,7 +38,7 @@ workshops:
     prerequisites: 
       - Keine (Vortrag)
     mentors:
-      - Markus Ehrenmüller-Jensen
+      - Markus
     shortCode: BrawlStars
 
   - begintime: 16:00
@@ -60,7 +60,7 @@ workshops:
       - Java mit Version 1.8 oder höher
       - Eine Enwicklungsumgebung wie Intellij IDEA (bevorzugt) oder Eclipse (wenn du schon Erfahrung damit hast)
     mentors:
-      - Katharina Sick
+      - Kathi
     shortCode: SpringBoot
 
   - begintime: 15:00
