@@ -94,18 +94,17 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, erfahrene ScratcherInnen sind auch willkommen
+    title: "Malen nach Zahlen" im Browser
+    targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Thomas baut mit euch unser berühmtes [*Fische*-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/fang-mich/). Am Ende werdet ihr euer erstes, eigenes Computerspiel programmiert haben.
+      Wir sehen uns gemeinsam an, wie SVG-Grafiken (Scalable Vector Graphics) aufgebaut sind und wie man sie in einer Webseite benutzen kann. Dieser Workshop schafft die Grundlagen, um beim nächsten Mal ein Grafik in einer Webseite einzubauen, deren Inhalt (z.B. Füllfarbe) verändert werden kann. So können wir mit recht wenig Aufwand ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen.
     prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
     mentors:
       - Thomas
-    shortCode: BeginnerScratch
-    
+    shortCode: MalenNachZahlen
+
   - begintime: 17:00
     endtime: 19:00
     status: Draft
