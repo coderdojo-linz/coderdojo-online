@@ -1,10 +1,10 @@
 workshops:
   - begintime: 14:00
     endtime: 14:45
-    status: Draft
+    status: Scheduled
     title: |
       Ein Blick hinter die Kulissen der Microsoft Cloud: Wie sieht so eine Cloud denn tatsächlich aus?
-    targetAudience: ab 8
+    targetAudience: ab 13 Jahren
     description: |
       Jeder redet von der Cloud, aber möchtet ihr wissen was tatsächlich dahinter steckt?
 
@@ -14,16 +14,17 @@ workshops:
       - Wie kann man Rechenzentren bauen, die auch für die Umwelt verträglich sind? (Co2-Ausstoß, Energieverbrauch)
       - Und bald werden wir auch eigene Microsoft Rechenzentren in Österreich haben. Wozu eigentlich?
     prerequisites: 
+      - Keine (Vortrag)
     mentors:
       - Thomas Vater
     shortCode: Cloud
 
   - begintime: 15:00
     endtime: 15:45
-    status: Draft
+    status: Scheduled
     title: |
       Was Brawl Stars so über dich weiß
-    targetAudience: ab 8
+    targetAudience: ab 13 Jahren
     description: |
       Du hast vielleicht schon mal gehört, dass wir alle "Spuren im Internet" hinterlassen. Seit ein paar Jahren hat jeder das Recht, die Daten die über ihn von einem Unternehmen gesammelt werden, zugesandt zu bekommen. Mein Sohn hat das für Brawl Star gemacht - und genau diese Daten werden wir (natürlich mit seiner Erlaubnis) analysieren.
 
@@ -35,13 +36,14 @@ workshops:
       - Datenformat JSON
       - Microsoft Power BI (kostenlos)
     prerequisites: 
+      - Keine (Vortrag)
     mentors:
       - Markus Ehrenmüller-Jensen
     shortCode: BrawlStars
 
   - begintime: 16:00
     endtime: 16:45
-    status: Draft
+    status: Scheduled
     title: |
       RESTful Web Services mit Spring Boot
     targetAudience: ab 12, etwas Programmiererfahrung notwendig
@@ -63,7 +65,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -79,22 +81,23 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
-    targetAudience: ab ca. 11 Jahren, etwas Programmiererfahrung notwendig
+    status: Scheduled
+    title: Jump 'n' Run in Scratch
+    targetAudience: ab 10 Jahren, Scratch Basiswissen notwendig, erfahrene ScratcherInnen sind auch willkommen
     description: |
-      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+      Spielst du gerne Spiele wie Super Mario? Dann ist dieser Workshop richtig für dich. Lerne, wie man in Scratch sogenannte Jump 'n' Run Spiele baut. Hans-Peter macht beim Spiel, das letzte Woche begonnen wurde, weiter. Neueinsteigen ist ohne weiteres möglich. Ihr bekommt am Beginn des Workshops ein Beispielprojekt, von dem wir dieses mal alle ausgehen werden.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - JavaScript- und/oder TypeScript-Erfahrung
+      - Basiswissen über Scratch notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Karin
-    shortCode: RisikoTS
+      - Hans-Peter
+    shortCode: ScratchJump
    
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: "Malen nach Zahlen" im Browser
+    status: Scheduled
+    title: \"Malen nach Zahlen\" im Browser
     targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
     description: |
       Wir sehen uns gemeinsam an, wie SVG-Grafiken (Scalable Vector Graphics) aufgebaut sind und wie man sie in einer Webseite benutzen kann. Dieser Workshop schafft die Grundlagen, um beim nächsten Mal ein Grafik in einer Webseite einzubauen, deren Inhalt (z.B. Füllfarbe) verändert werden kann. So können wir mit recht wenig Aufwand ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen.
@@ -104,17 +107,3 @@ workshops:
     mentors:
       - Thomas
     shortCode: MalenNachZahlen
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: TypeScript Sokoban 📦 (für AnfängerInnen UND Fortgeschrittene)
-    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
-    description: |
-      Rainer macht weiter mit dem Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban). *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
-    mentors:
-      - Rainer
-    shortCode: SomethingInTypeScript
