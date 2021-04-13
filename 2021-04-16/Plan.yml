@@ -100,7 +100,7 @@ workshops:
     title: \"Malen nach Zahlen\" im Browser
     targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
     description: |
-      Wir sehen uns gemeinsam an, wie SVG-Grafiken (Scalable Vector Graphics) aufgebaut sind und wie man sie in einer Webseite benutzen kann. Dieser Workshop schafft die Grundlagen, um beim nächsten Mal ein Grafik in einer Webseite einzubauen, deren Inhalt (z.B. Füllfarbe) verändert werden kann. So können wir mit recht wenig Aufwand ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen.
+      Wir sehen uns gemeinsam an , wie SVG-Grafiken (Scalable Vector Graphics) aufgebaut sind und wie man sie in einer Webseite benutzen kann. Dieser Workshop schafft die Grundlagen, um beim nächsten Mal ein Grafik in einer Webseite einzubauen, deren Inhalt (z.B. Füllfarbe) verändert werden kann. So können wir mit recht wenig Aufwand ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen.
     prerequisites: |
       - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
       - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
