@@ -65,9 +65,11 @@ workshops:
     title: Tryhackme
     targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
     description: |
-      TBD
+      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Diesesmal starten wir mit Network Sniffing mit Wireshark!
     prerequisites: |
-      - TBD
+      - Account bei [TryHackMe](https://tryhackme.com/)
+      - [VirtualBox](https://www.virtualbox.org/) installiert
+      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
     mentors:
       - Pia
       - Matthias
