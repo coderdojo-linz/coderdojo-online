@@ -1,20 +1,4 @@
 workshops:
-  - begintime: 17:00
-    endtime: 19:00
-    status: Scheduled
-    title: 'Fortsetzung von "Malen nach Zahlen" im Browser'
-    targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
-    description: |
-      Dieses Mal sehen wir uns an, wie wir ein Vektor-Grafik (SVG) in einer Webseite verändert können und damit unser ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) umsetzen können.
-      Ein Einstieg in den Workshop ist auch möglich, wenn Du vergangene Woche nicht dabei warst!
-    prerequisites: |
-      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox oder Chrome)
-      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
-      - optional: [Inkscape](https://inkscape.org)
-    mentors:
-      - Thomas
-    shortCode: MalenNachZahlen
-
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
@@ -34,6 +18,21 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
     title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
@@ -44,6 +43,22 @@ workshops:
     mentors:
       - Karin
     shortCode: RisikoTS
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: 'Fortsetzung von "Malen nach Zahlen" im Browser'
+    targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
+    description: |
+      Dieses Mal sehen wir uns an, wie wir ein Vektor-Grafik (SVG) in einer Webseite verändert können und damit unser ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) umsetzen können.
+      Ein Einstieg in den Workshop ist auch möglich, wenn Du vergangene Woche nicht dabei warst!
+    prerequisites: |
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox oder Chrome)
+      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
+      - optional: [Inkscape](https://inkscape.org)
+    mentors:
+      - Thomas
+    shortCode: MalenNachZahlen
     
   - begintime: 17:00
     endtime: 19:00
