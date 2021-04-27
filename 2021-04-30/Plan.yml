@@ -33,7 +33,7 @@ workshops:
     endtime: 19:00
     status: Scheduled
     title: TypeScript Sokoban 📦 (für AnfängerInnen und Fortgeschrittene)
-    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
     description: |
       Rainer macht diesmal unseren Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban) fertig. *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
     prerequisites: |
@@ -42,3 +42,16 @@ workshops:
     mentors:
       - Rainer
     shortCode: Sokoban
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Scratch: animierte Grußkarte
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Thomas baut mit Euch gemeinsam eine animierte Grußkarte in [Scratch](https://scratch.mit.edu). Diese Karte könnt Ihr dann ganz einfach für den Muttertag umbauen ;-)
+    prerequisites: |
+      - einen aktuellen Internetbrowser (Firefox oder Chrome)
+    mentors:
+      - Thomas
+    shortCode: scratchAnimation
