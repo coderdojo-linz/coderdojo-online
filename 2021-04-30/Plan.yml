@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -17,75 +17,28 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Hans-Peter
-    shortCode: BeginnerScratch
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
+    status: Scheduled
+    title: CodinGame (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
+      In diesem Workshop lösen wir gemeinsam Programmierrätsel von [*codingame.com*](https://www.codingame.com/start) in TypeScript.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Karin
-    shortCode: RisikoTS
+    shortCode: CodinGame
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Fortsetzung von "Malen nach Zahlen" im Browser'
-    targetAudience: ab ca. 10 Jahren, etwas Erfahrung mit HTML notwendig
-    description: |
-      Dieses Mal sehen wir uns an, wie wir ein Vektor-Grafik (SVG) in einer Webseite verändert können und damit unser ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) umsetzen können.
-      Ein Einstieg in den Workshop ist auch möglich, wenn Du vergangene Woche nicht dabei warst!
-    prerequisites: |
-      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox oder Chrome)
-      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
-      - optional: [Inkscape](https://inkscape.org)
-    mentors:
-      - Thomas
-    shortCode: MalenNachZahlen
-    
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Sokoban 📦 (für AnfängerInnen und Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkomenn
     description: |
-      Rainer macht weiter mit dem Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban). *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
+      Rainer macht diesmal unseren Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban) fertig. *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Rainer
-    shortCode: SomethingInTypeScript
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Tryhackme
-    targetAudience: ab ca. 13 Jahren, Vorkenntnisse in Programmieren & Linux willkommen aber nicht notwendig, Englisch von Vorteil
-    description: |
-      In diesem Workshop versuchen wir gemeinsam Aufgaben vom Advent of Cyber von [TryHackMe](https://tryhackme.com/) zu lösen. Die Advent of Cyber Aufgaben sind nicht aufbauend, aber oft ist das Wissen der vorigen Tage hilfreich beim Lösen der Aufgaben. Diesesmal starten wir mit Network Sniffing mit Wireshark!
-    prerequisites: |
-      - Account bei [TryHackMe](https://tryhackme.com/)
-      - [VirtualBox](https://www.virtualbox.org/) installiert
-      - [Kali Linux Image](https://images.kali.org/virtual-images/kali-linux-2020.4-vbox-amd64.ova) heruntergeladen
-    mentors:
-      - Pia
-      - Matthias
-    shortCode: TryHackMe
+    shortCode: Sokoban
