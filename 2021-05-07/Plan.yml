@@ -1,7 +1,20 @@
 workshops:
+  - begintime: 14:15
+    endtime: 14:45
+    status: Scheduled
+    title: CodinGame - Shadows of the Knight 🦇 Episode 1 (für Fortgeschrittene)
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Habt ihr Lust knifflige Programmierrätsel zu lösen? Dann ist [*SHADOWS OF THE KNIGHT - EPISODE 1*](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) genau richtig für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr Hilfe beim Starten braucht oder eure gefundene Lösung herzeigen möchtet.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - Karin
+    shortCode: CodinGame
+
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -17,41 +30,29 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: CodinGame (für Fortgeschrittene)
+    status: Scheduled
+    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      In diesem Workshop lösen wir gemeinsam Programmierrätsel von [*codingame.com*](https://www.codingame.com/start) in TypeScript.
+      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Karin
-    shortCode: CodinGame
-
+    shortCode: RisikoTS
+   
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: TypeScript Sokoban 📦 (für AnfängerInnen und Fortgeschrittene)
+    status: Scheduled
+    title: \"Malen nach Zahlen\" 🎨 im Browser
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
     description: |
-      Rainer macht diesmal unseren Klassiker [*Sokoban*](https://de.wikipedia.org/wiki/Sokoban) fertig. *Sokoban* ist ein Rätselspiel, bei dem eine kleine Comikfigur Kisten in einem Lager an die richtige Stelle schieben muss. Das klingt jetzt einfacher als es ist 😅. Wenn wir fertig programmiert haben, könnt ihr eure Freundinnen und Freunde einladen, die Rätsel in eurem Sokoban-Spiel zu knacken. Einsteigen ist ohne weiteres möglich.
+      In diesem Workshop lernen wir mehr über HTML und eingebettete Grafiken (SVG, *Scalable Vector Graphics*). Wir kombinieren das mit *TypeScript*, um ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen. Beim Workshop sind zwei Mentoren, Thomas und Rainer, anwesend. Wir teilen uns am Beginn je nach vorhandener Programmiererfahrung in zwei Gruppen auf.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
-    mentors:
-      - Rainer
-    shortCode: Sokoban
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: animierte Grußkarte (Scratch)
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Thomas baut mit Euch gemeinsam eine animierte Grußkarte in [Scratch](https://scratch.mit.edu). Diese Karte könnt Ihr dann ganz einfach für den Muttertag umbauen!
-    prerequisites: |
-      - einen aktuellen Internetbrowser (Firefox oder Chrome)
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
     mentors:
       - Thomas
-    shortCode: scratchAnimation
+      - Rainer
+    shortCode: MalenNachZahlen
