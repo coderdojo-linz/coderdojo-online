@@ -45,7 +45,7 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: \"Malen nach Zahlen\" 🎨 im Browser
+    title: Malen nach Zahlen 🎨🔢 im Browser
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
     description: |
       In diesem Workshop lernen wir mehr über HTML und eingebettete Grafiken (SVG, *Scalable Vector Graphics*). Wir kombinieren das mit *TypeScript*, um ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen. Beim Workshop sind zwei Mentoren, Thomas und Rainer, anwesend. Wir teilen uns am Beginn je nach vorhandener Programmiererfahrung in zwei Gruppen auf.
