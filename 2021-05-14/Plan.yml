@@ -42,6 +42,22 @@ workshops:
     mentors:
       - Pia
     shortCode: BeginnerScratch
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Machine Learning in JavaScript
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Du hast schon etwas Erfahrung mit HTML, CSS und JavaScript und interessierst dich für maschinelles Lernen/künstliche Intelligenz? In diesem Workshop zeigen dir Mentorinnen (ml5JS)[https://ml5js.org/], eine JavaScript Bibliothek in der es einige Modelle zur Bilderkennung oder Textanalyse gibt. Wir werden ein bisschen erkunden, welche Möglichkeiten uns die Bibliothek bietet und ein paar konkrete Beispiele ausprogrammieren.
+    prerequisites: |
+      - JavaScript- und/oder TypeScript-Erfahrung
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+    mentors:
+      - Rigerta
+      - Pia
+    shortCode: ML5JS
 
   - begintime: 15:00
     endtime: 17:00
@@ -56,7 +72,21 @@ workshops:
     mentors:
       - Karin
     shortCode: RisikoTS
-   
+  
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 2D Spieleprogrammierung mit Java
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop verwenden wir eine Bibliothek um in Java ein 2D-Spiel zu programmieren. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
+    prerequisites: |
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - Java-Erfahrung
+    mentors:
+      - Pia
+    shortCode: Java
+  
   - begintime: 17:00
     endtime: 19:00
     status: Draft
