@@ -45,20 +45,6 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 2D Spieleprogrammierung mit Java
-    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
-    description: |
-      In diesem Workshop verwenden wir eine Bibliothek um in Java ein 2D-Spiel zu programmieren. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
-    prerequisites: |
-      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
-      - Java-Erfahrung
-    mentors:
-      - Pia
-    shortCode: Java
-
-  - begintime: 17:00
-    endtime: 19:00
     status: Scheduled
     title: TypeScript Missile 🚀 Command (für AnfängerInnen und Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
@@ -71,3 +57,17 @@ workshops:
       - Rainer
       - Thomas
     shortCode: MissileCommand
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: 2D Spieleprogrammierung mit Java
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop verwenden wir eine Bibliothek um in Java ein 2D-Spiel zu programmieren. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
+    prerequisites: |
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - Java-Erfahrung
+    mentors:
+      - Pia
+    shortCode: Java
