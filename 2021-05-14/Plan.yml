@@ -1,13 +1,14 @@
 workshops:
-  - begintime: 14:15
+  - begintime: 14:00
     endtime: 14:45
     status: Draft
-    title: CodinGame - Shadows of the Knight 🦇 Episode 1 (für Fortgeschrittene)
+    title: CodinGame - Rock Paper Scissors Lizard Spock 🖖 (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Habt ihr Lust knifflige Programmierrätsel zu lösen? Dann ist [*SHADOWS OF THE KNIGHT - EPISODE 1*](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) genau richtig für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr Hilfe beim Starten braucht oder eure gefundene Lösung herzeigen möchtet.
+      Diese Wochen haben wir das Programmierrätsel [*
+ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr nicht wisst wie ihr beginnen sollt, mittendrinnen auf Probleme stoßt oder eure gefundene Lösung herzeigen möchtet.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
+      - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
     mentors:
       - Karin
     shortCode: CodinGame
@@ -59,20 +60,6 @@ workshops:
       - Pia
     shortCode: ML5JS
 
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
-    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
-    description: |
-      In diesem Workshop macht ihr mit Karin das *Risiko*-Spiel-Projekt weiter. Um hier teilzunehmen, solltet ihr schon etwas Erfahrung mit HTML, TypeScript und CSS haben und etwas tippen können.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - JavaScript- und/oder TypeScript-Erfahrung
-    mentors:
-      - Karin
-    shortCode: RisikoTS
-  
   - begintime: 17:00
     endtime: 19:00
     status: Draft
