@@ -1,52 +1,20 @@
 workshops:
   - begintime: 14:00
     endtime: 14:45
-    status: Draft
+    status: Scheduled
     title: CodinGame - Rock Paper Scissors Lizard Spock 🖖 (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Diese Wochen haben wir das Programmierrätsel [*
-ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr nicht wisst wie ihr beginnen sollt, mittendrinnen auf Probleme stoßt oder eure gefundene Lösung herzeigen möchtet.
+      Diese Wochen haben wir das Programmierrätsel [*ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr nicht wisst wie ihr beginnen sollt, mittendrinnen auf Probleme stoßt oder eure gefundene Lösung herzeigen möchtet.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
     mentors:
       - Karin
     shortCode: CodinGame
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Elektronikbasteln
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen und Fortgeschrittene
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Pia
-    shortCode: BeginnerScratch
     
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Machine Learning in JavaScript
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
@@ -59,6 +27,21 @@ ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-
       - Rigerta
       - Pia
     shortCode: ML5JS
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Scratch für AnfängerInnen und Fortgeschrittene
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: BeginnerScratch
 
   - begintime: 17:00
     endtime: 19:00
@@ -73,19 +56,18 @@ ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-
     mentors:
       - Pia
     shortCode: Java
-  
+
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Malen 🎨 nach Zahlen 🔢 im Browser
+    status: Scheduled
+    title: TypeScript Missile 🚀 Command (für AnfängerInnen und Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
     description: |
-      In diesem Workshop lernen wir mehr über HTML und eingebettete Grafiken (SVG, *Scalable Vector Graphics*).  Wir kombinieren das mit *JavaScript* bzw. *TypeScript*, um ["Malen nach Zahlen"](https://www.ravensburger.de/entdecken/ravensburger-marken/malen-nach-zahlen/index.html) im Browser nachbauen. Beim Workshop sind zwei Mentoren, Thomas und Rainer, anwesend. Wir teilen uns am Beginn je nach vorhandener Programmiererfahrung in zwei Gruppen auf.
+      Wir starten mit einem neuen Projekt und wagen uns an den Klassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command). Wir müssen Städte vor Raketeneinschlägen beschützen.
     prerequisites: |
-      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
-      - einen Texteditor (z.B. Notepad++, Visual Studio Code, ...)
-      - optional: [Inkscape](https://inkscape.org)
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
-      - Thomas
       - Rainer
-    shortCode: MalenNachZahlen
+      - Thomas
+    shortCode: MissileCommand
