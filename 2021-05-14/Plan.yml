@@ -67,6 +67,7 @@ workshops:
       In diesem Workshop verwenden wir eine Bibliothek um in Java ein 2D-Spiel zu programmieren. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
     prerequisites: |
       - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download) (Community ist ausreichend)
       - Java-Erfahrung
     mentors:
       - Pia
