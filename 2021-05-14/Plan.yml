@@ -49,7 +49,7 @@ workshops:
     title: TypeScript Missile 🚀 Command (für AnfängerInnen und Fortgeschrittene)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig, Fortgeschrittene willkommen
     description: |
-      Wir starten mit einem neuen Projekt und wagen uns an den Klassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command). Wir müssen Städte vor Raketeneinschlägen beschützen.
+      Wir starten mit einem neuen Projekt und wagen uns an den Klassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command). Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Heute starten wir mit dem Zeichnen unserer Raketenabwehrgeschütze.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
