@@ -2,10 +2,10 @@ workshops:
   - begintime: 14:00
     endtime: 14:45
     status: Draft
-    title: CodinGame - Rock Paper Scissors Lizard Spock 🖖 (für Fortgeschrittene)
+    title: CodinGame - Brackets, Extreme Edition ({[]}) (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Diese Wochen haben wir das Programmierrätsel [*ROCK PAPER SCISSORS LIZARD SPOCK*](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr nicht wisst wie ihr beginnen sollt, mittendrinnen auf Probleme stoßt oder eure gefundene Lösung herzeigen möchtet.
+      Diese Wochen haben wir das Programmierrätsel [*BRACKETS, EXTREME EDITION*](https://www.codingame.com/ide/puzzle/brackets-extreme-edition) für euch. Probiert aus, ob ihr es alleine lösen könnt. Karin hilft euch am Freitag, wenn ihr nicht wisst wie ihr beginnen sollt, mittendrinnen auf Probleme stoßt oder eure gefundene Lösung herzeigen möchtet.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
     mentors:
