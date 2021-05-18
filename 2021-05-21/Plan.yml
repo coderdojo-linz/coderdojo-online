@@ -15,10 +15,10 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
-    title: Machine Learning in JavaScript
+    title: Gesten-gesteuertes Spiel in JavaScript
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      Du hast schon etwas Erfahrung mit HTML, CSS und JavaScript und interessierst dich für maschinelles Lernen/künstliche Intelligenz? In diesem Workshop zeigen dir Mentorinnen (ml5JS)[https://ml5js.org/], eine JavaScript Bibliothek in der es einige Modelle zur Bilderkennung oder Textanalyse gibt. Wir werden ein bisschen erkunden, welche Möglichkeiten uns die Bibliothek bietet und ein paar konkrete Beispiele ausprogrammieren.
+      Nachdem wir letzte Woche die Biblitohek (ml5JS)[https://ml5js.org/] kennengelernt haben, werden wir diese Woche versuchen ein kleine Spiel mit Gestensteuerung zu bauen. Dabei werden wir vortrainierte Modelle von ml5JS verwenden. Du kannst auch mitmachen wenn du letzte Woche beim ml5JS Einstieg nicht dabei warst!
     prerequisites: |
       - JavaScript- und/oder TypeScript-Erfahrung
       - Ein Internetbrowser (idealerweise Chrome)
@@ -75,10 +75,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: 2D Spieleprogrammierung mit Java
+    title: 2D Spieleprogrammierung mit Java - Flappy Bird
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      In diesem Workshop verwenden wir eine Bibliothek um in Java ein 2D-Spiel zu programmieren. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
+      Nachdem wir letzte Woche unser erstes 2D Spiel in Java mit [LibGDX](https://libgdx.com/dev/simple-game/) programmiert haben, starten wir diese Woche ein etwas größeres Projekt. Wir versuchen das bekannte Flappy Bird Spiel nachzubauen. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
     prerequisites: |
       - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
       - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download) (Community ist ausreichend)
