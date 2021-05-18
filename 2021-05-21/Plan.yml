@@ -45,7 +45,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: Risiko-Spiel in TypeScript (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
