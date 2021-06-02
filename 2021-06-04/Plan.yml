@@ -29,10 +29,10 @@ workshops:
   - begintime: 15:00
     endtime: 16:30
     status: Scheduled
-    title: TypeScript Missile 🚀 Command (für AnfängerInnen)
+    title: Wie Programmieren ein Feuerwerk 🎆🎇 (für AnfängerInnen)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig
     description: |
-      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
+      In diesem Workshop starten wir mit den Grundlagen der textuellen Programmierung, indem wir ein digitales Feuerwerk programmieren. Der Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
     mentors:
@@ -45,7 +45,7 @@ workshops:
     title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
     description: |
-      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript gesammelt habt.
+      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript (z.B. in mehreren Workshops mit Thomas oder Rainer) gesammelt habt.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
