@@ -1,0 +1,56 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Pia
+    shortCode: BeginnerScratch
+
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: Wie Programmieren ein Feuerwerk 🎆🎇 (für AnfängerInnen)
+    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig
+    description: |
+      In diesem Workshop starten wir mit den Grundlagen der textuellen Programmierung, indem wir ein digitales Feuerwerk programmieren. Der Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - Rainer
+    shortCode: MissileCommandBasic
+
+  - begintime: 16:00
+    endtime: 16:45
+    status: Draft
+    title: CodinGame - THERE IS NO SPOON (für Fortgeschrittene)
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Zion wird von überall attackiert. Die letzten freien Menschen hoffen, dass du den Start-Mechanismus der APUs (Armored Personal Unit) verbessern kannst, um der Menschheit einen taktischen Vorteil zu verschaffen. Phase 1 - implmentiere den Initialisierungsmechanismus der APU: [There is no spoon](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1).
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
+    mentors:
+      - Karin
+    shortCode: CodinGame
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
+    targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
+    description: |
+      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript (z.B. in mehreren Workshops mit Thomas oder Rainer) gesammelt habt.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+    mentors:
+      - Thomas
+      - Rainer
+    shortCode: MissileCommandAdvcd
