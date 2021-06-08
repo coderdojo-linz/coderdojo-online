@@ -1,35 +1,51 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    status: Scheduled
+    title: Elektronikbasteln
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
     prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Flappy Bird 🐥 in Java (für Fortgeschrittene)
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      In dieser Session lernt ihr die Grundlagen von Java kennen, indem ihr mit Pia das berühmte Spiel *Flappy Bird* programmiert.
+    prerequisites: |
+      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
+      - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download) (Community ist ausreichend)
+      - Java-Erfahrung
     mentors:
       - Pia
-    shortCode: BeginnerScratch
+    shortCode: FlappyBirdJava
 
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
-    title: Wie Programmieren ein Feuerwerk 🎆🎇 (für AnfängerInnen)
+    status: Scheduled
+    title: Wie Programmieren einen Space Shooter 🚀 (für AnfängerInnen)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig
     description: |
-      In diesem Workshop starten wir mit den Grundlagen der textuellen Programmierung, indem wir ein digitales Feuerwerk programmieren. Der Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
+      In diesem Workshop starten wir mit den Grundlagen der textuellen Programmierung, indem wir einen Space Shooter programmieren. Der Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
     mentors:
       - Rainer
-    shortCode: MissileCommandBasic
+    shortCode: SpaceShooterBasic
 
   - begintime: 16:00
     endtime: 16:45
-    status: Draft
+    status: Scheduled
     title: CodinGame - THERE IS NO SPOON (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
@@ -42,7 +58,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
     description: |
