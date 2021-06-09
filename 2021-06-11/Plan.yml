@@ -18,17 +18,17 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Flappy Bird 🐥 in Java (für Fortgeschrittene)
-    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    title: Scratch für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      In dieser Session lernt ihr die Grundlagen von Java kennen, indem ihr mit Pia das berühmte Spiel *Flappy Bird* programmiert.
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
     prerequisites: |
-      - ein möglichst aktuellen Internetbrowser (idealerweise Firefox, Chrome)
-      - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download) (Community ist ausreichend)
-      - Java-Erfahrung
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
       - Pia
-    shortCode: FlappyBirdJava
+    shortCode: BeginnerScratch
 
   - begintime: 15:00
     endtime: 16:30
