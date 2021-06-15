@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -16,23 +16,8 @@ workshops:
     shortCode: Elektronikbasteln
 
   - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Pia
-    shortCode: BeginnerScratch
-
-  - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: Wie Programmieren einen Space Shooter 🚀 (für AnfängerInnen)
     targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig
     description: |
@@ -43,22 +28,22 @@ workshops:
       - Rainer
     shortCode: SpaceShooterBasic
 
-  - begintime: 16:00
-    endtime: 16:45
-    status: Draft
-    title: CodinGame - THERE IS NO SPOON (für Fortgeschrittene)
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Erste Schritte mit three.js (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Zion wird von überall attackiert. Die letzten freien Menschen hoffen, dass du den Start-Mechanismus der APUs (Armored Personal Unit) verbessern kannst, um der Menschheit einen taktischen Vorteil zu verschaffen. Phase 1 - implmentiere den Initialisierungsmechanismus der APU: [There is no spoon](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1).
+        Wir bauen ein erstes einfaches Beispiel mit der 3D Library [three.js](https://threejs.org/).
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
     mentors:
       - Karin
-    shortCode: CodinGame
-    
+    shortCode: ThreeJS
+  
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
     targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
     description: |
