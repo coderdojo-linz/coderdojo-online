@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -14,36 +14,24 @@ workshops:
     mentors:
       - Günther
     shortCode: Elektronikbasteln
-
+  
   - begintime: 15:00
-    endtime: 16:30
-    status: Draft
-    title: Wie Programmieren einen Space Shooter 🚀 (für AnfängerInnen)
-    targetAudience: ab ca. 10 Jahren, **keine** Programmiererfahrung notwendig
+    endtime: 17:00
+    status: Scheduled
+    title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
+    targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
     description: |
-      In diesem Workshop starten wir mit den Grundlagen der textuellen Programmierung, indem wir einen Space Shooter programmieren. Der Workshop ist **für AnfängerInnen**. Ihr seid richtig, wenn ihr noch Zeit zum Suchen der Tasten auf der Tastatur braucht oder erst einsteigt in die textuelle Programmierung.
+      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript (z.B. in mehreren Workshops mit Thomas oder Rainer) gesammelt habt.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
+      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
     mentors:
       - Rainer
-    shortCode: SpaceShooterBasic
+    shortCode: MissileCommandAdvcd
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Erste Schritte mit three.js (für Fortgeschrittene)
-    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
-    description: |
-        Wir bauen ein erstes einfaches Beispiel mit der 3D Library [three.js](https://threejs.org/).
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome, Edge oder Firefox)
-    mentors:
-      - Karin
-    shortCode: ThreeJS
-    
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Wir programmieren Flappy Bird (Java)
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
@@ -55,18 +43,16 @@ workshops:
     mentors:
       - Pia
     shortCode: Java
-  
+
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
-    targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
+    status: Scheduled
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
-      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript (z.B. in mehreren Workshops mit Thomas oder Rainer) gesammelt habt.
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+      - Was immer für euer Projekt notwendig ist
     mentors:
-      - Thomas
-      - Rainer
-    shortCode: MissileCommandAdvcd
+      - Karin
+    shortCode: WebOfficeHours
