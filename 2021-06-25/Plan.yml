@@ -40,6 +40,21 @@ workshops:
     mentors:
       - Karin
     shortCode: ThreeJS
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Wir programmieren Flappy Bird (Java)
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Mit der Bibliothek [LibGDX](https://libgdx.com/dev/simple-game/) kann man Cross-Platform Spiele für den Computer, Android, iOS und den Browser programmieren. Wir versuchen das bekannte Flappy Bird Spiel nachzubauen. Du solltest schon etwas Erfahrung in Java mitbringen und keine Angst vorm Tippen haben.
+    prerequisites: |
+      - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/download) (Community ist ausreichend)
+      - [LibGDX Project setup tool](https://libgdx.com/assets/downloads/legacy_setup/gdx-setup_latest.jar)
+      - Java-Erfahrung
+    mentors:
+      - Pia
+    shortCode: Java
   
   - begintime: 17:00
     endtime: 19:00
