@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -17,22 +17,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch für AnfängerInnen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Pia
-    shortCode: BeginnerScratch
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript/HTML/CSS Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -45,14 +30,14 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: TypeScript Missile 🚀 Command (für Fortgeschrittene)
-    targetAudience: ab ca. 12 Jahren, **Programmiererfahrung** notwendig, Fortgeschrittene willkommen
+    status: Scheduled
+    title: Schleifen, Schleifen, Schleifen
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen mit dem Spieleklassiker [*Missile Command*](https://de.wikipedia.org/wiki/Missile_Command) weiter. Wir müssen Städte vor Raketeneinschlägen beschützen. Das Projekt wird uns einige Wochen begleiten. Dieser Workshop ist **für fortgeschrittene Coder**. Ihr seid richtig, wenn ihr schon gut tippen könnt und Erfahrung mit JavaScript und/oder TypeScript (z.B. in mehreren Workshops mit Thomas oder Rainer) gesammelt habt.
+      In den Spieleprojekten der letzten Wochen haben wir gesehen, dass noch nicht alle das Prinzip von Schleifen verstanden haben. Also üben wir das diese Woche. Wir machen ein *Creative Coding*-Projekt, in dem wir mit verschiedenen Schleifen kleine, visuelle "Kunstwerke" generieren. Eingeladen sind alle, die Lust auf textuelle Programmierung haben. Wenn ihr Programmiererfahrung habt, ist das super. Wenn nicht, ist das auch kein Problem. Dieser Workshop wird ein guter Einstieg.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
-      - Fortgeschrittene: JavaScript- und/oder TypeScript-Erfahrung
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: MissileCommandAdvcd
+    shortCode: Schleifen
