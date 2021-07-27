@@ -1,52 +1,37 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Elektronikbasteln
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    status: Scheduled
+    title: Raus aus Stackblitz - TypeScript in Visual Studio Code mit Parcel
+    targetAudience: ab ca. 12 Jahren, etwas Stackblitz- und TypeScript-Erfahrung
     description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+      In vielen Workshops wurden von euch in den letzten Wochen kleine Browser-Games mit TypeScript und Stackblitz programmiert. Der nächste Schritt ist, Stackblitz zu verlassen und mit einem Profi-Entwicklungstool am eigenen Computer zu programmieren. Karin zeigt euch in diesem Workshop, wie ihr mit [Parcel](https://parceljs.org) ein einfaches Spiel aus Stackblitz in [Visual Studio Code](https://code.visualstudio.com) übernehmt.
     prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: JavaScript/TypeScript/HTML/CSS Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
-    description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
-    prerequisites: |
-      - Was immer für euer Projekt notwendig ist
+      - [Visual Studio Code](https://code.visualstudio.com)
+      - [Node.js](https://nodejs.org)
     mentors:
       - Karin
-    shortCode: WebOfficeHours
+    shortCode: Parcel
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Schleifen, Schleifen, Schleifen
+    status: Scheduled
+    title: Funktionen, Funktionen, Funktionen
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      In den Spieleprojekten der letzten Wochen haben wir gesehen, dass noch nicht alle das Prinzip von Schleifen verstanden haben. Also üben wir das diese Woche. Wir machen ein *Creative Coding*-Projekt, in dem wir mit verschiedenen Schleifen kleine, visuelle "Kunstwerke" generieren. Eingeladen sind alle, die Lust auf textuelle Programmierung haben. Wenn ihr Programmiererfahrung habt, ist das super. Wenn nicht, ist das auch kein Problem. Dieser Workshop wird ein guter Einstieg.
+      In den Spieleprojekten der letzten Wochen haben wir gesehen, dass noch nicht alle das Prinzip von Funktionen und Parametern verstanden haben. Also üben wir das diese Woche. Wir machen ein *Creative Coding*-Projekt, in dem wir mit verschiedenen Funktionen kleine, visuelle "Kunstwerke" generieren. Eingeladen sind alle, die Lust auf textuelle Programmierung haben. Wenn ihr Programmiererfahrung habt, ist das super. Wenn nicht, ist das auch kein Problem. Dieser Workshop wird ein guter Einstieg.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: Schleifen
+    shortCode: Funktionen
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Microcontroller-Emulator (Teil 1)
-    targetAudience: ab ca. 10 Jahren
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
       In dieser Workshopserie sehen wir uns an, wie [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller) funktionieren und wie sie mit der [Assemblersprache](https://de.wikipedia.org/wiki/Assemblersprache) programmiert werden. Als konkretes Beispiel bauen wir im Browser einen Emulator für den [ULP (Ultra Low Power) Coprozessor](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp.html) des [ESP32](https://www.espressif.com/en/products/socs/esp32). Dieser Coprozessor eignet sich ideal für den Einstieg in die Welt der Assemblerprogrammierung, weil er sehr einfach aufgebaut ist und einen stark reduzierten [Befehlssatz](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp_instruction_set.html) besitzt.
 
