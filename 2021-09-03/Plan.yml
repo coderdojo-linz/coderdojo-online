@@ -1,43 +1,63 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Funktionen Teil 2 - wir zeichnen einen Baum
-    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
-    description: |
-      Weiter geht es in der Serie über Grundlagen von textueller Programmierung. Diesmal zeichnen wir einen Baum mit Hilfe von sogenannten *rekursiven Funktionen*. Noch nie gehört? Dann passt der Workshop gut. Eingeladen sind alle, die Lust auf textuelle Programmierung haben. Wenn ihr Programmiererfahrung habt, ist das super. Wenn nicht, ist das auch kein Problem. Dieser Workshop wird ein guter Einstieg.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Zugriff auf [Stackblitz](https://stackblitz.com)
-    mentors:
-      - Rainer
-    shortCode: RecursiveTree
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Scratch für AnfängerInnen
+    status: Scheduled
+    title: Scratch 😸 für AnfängerInnen
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Pia baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
+      - Hans-Peter
     shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Coding Game - Unique Prefixes 🔡
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Lust auf ein kleines Coding-Rätsel? Karin und Eugen machen mit euch das Coding Game 
+      [*Unique Prefixes*](https://www.codingame.com/ide/puzzle/unique-prefixes). Ihr könnt wählen,
+      welche Programmiersprache ihr verwenden möchtet.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - Karin
+      - Eugen
+    shortCode: CodingGame
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Scratch für erfahrene Coder
-    targetAudience: ab 10 Jahren, Scratch-Erfahrung notwendig
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Vor zwei Wochen hat Karin mit euch PacMan in Scratch begonnen und diese Woche geht es weiter. Wer das letzte Mal dabei war, ist wieder herzlich willkommen. Quereinsteigen ist möglich, da ihr am Beginn bei Bedarf den Code von Karin bekommt, der beim letzten Mal entwickelt wurde.
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
     prerequisites: |
-      - Scratch-Erfahrung notwendig
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
     mentors:
-      - Karin
-    shortCode: ScratchPacMan
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Figuren klonen in Scratch und TypeScript
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wer schon einmal ein Spiel mit Scratch programmiert hat, kennt das Problem: Man braucht viele Exemplare einer Figur (z.B. Laser-Schüsse im Space Shooter 🚀, Karten bei Memory, Viren 🦠 beim Virus Buster etc.). Genau dafür gibt es die Funktion des Klonens. In diesem Workshop zeigt euch Markus im Detail wie Klonen funktioniert. Erst erarbeiten wir sie in Scratch und danach übersetzen wir sie in TypeScript (textuelle Programmierung).
+
+      Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Markus
+    shortCode: FigurenKlonen
