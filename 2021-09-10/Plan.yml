@@ -1,38 +1,36 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch 😸 für AnfängerInnen
+    status: Scheduled
+    title: Scratch Street Jump (aka Frogger) 🐸 für AnfängerInnen
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch eine vereinfachte Version des Spieleklassikers *Frogger* nach.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
       - Hans-Peter
+      - Rigerta
     shortCode: ScratchBasics
 
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Coding Game - Unique Prefixes 🔡
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Browser Memory - Daten im Browser speichern
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      Lust auf ein kleines Coding-Rätsel? Karin und Eugen machen mit euch das Coding Game 
-      [*Unique Prefixes*](https://www.codingame.com/ide/puzzle/unique-prefixes). Ihr könnt wählen,
-      welche Programmiersprache ihr verwenden möchtet.
+      Manchmal möchte man beim Entwickeln einer Webseite oder eines Browser-Spiels Kleinigkeiten abspeichern (z.B. Spielstand). Karin zeigt euch in diesem Workshop, wie das geht. Ihr lernt *Local Storage* und ein wenig *IndexedDb* kennen. Wer mitmachen möchte, sollte schon ein wenig Ahnung von HTML und TypeScript haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
     mentors:
       - Karin
-      - Eugen
-    shortCode: CodingGame
+    shortCode: BrowserMemory
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -48,16 +46,17 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Figuren klonen in Scratch und TypeScript
+    status: Scheduled
+    title: Spaß mit Bezier-Kurven
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wer schon einmal ein Spiel mit Scratch programmiert hat, kennt das Problem: Man braucht viele Exemplare einer Figur (z.B. Laser-Schüsse im Space Shooter 🚀, Karten bei Memory, Viren 🦠 beim Virus Buster etc.). Genau dafür gibt es die Funktion des Klonens. In diesem Workshop zeigt euch Markus im Detail wie Klonen funktioniert. Erst erarbeiten wir sie in Scratch und danach übersetzen wir sie in TypeScript (textuelle Programmierung).
+      Kaum jemand von euch wird schon einmal etwas von Bezier-Kurven gehört haben. Unsere Welt ist aber voll davon. Sie werden beim Design von physischen Dingen wie Autos genauso eingesetzt wie bei Computerspielen. In diesem Workshop schauen wir uns an, was Bezier-Kurven sind und experimentieren mit ihnen in p5js und TypeScript.
 
       Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
+      - [Inkscape](https://inkscape.org/)
     mentors:
-      - Markus
-    shortCode: FigurenKlonen
+      - Rainer
+    shortCode: Bezier
