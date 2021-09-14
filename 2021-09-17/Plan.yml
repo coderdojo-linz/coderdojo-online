@@ -47,16 +47,15 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Spaß mit Bezier-Kurven
+    title: Spaziergang mit Monstern 👹👻 - Sprites in p5js
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Kaum jemand von euch wird schon einmal etwas von Bezier-Kurven gehört haben. Unsere Welt ist aber voll davon. Sie werden beim Design von physischen Dingen wie Autos genauso eingesetzt wie bei Computerspielen. In diesem Workshop schauen wir uns an, was Bezier-Kurven sind und experimentieren mit ihnen in p5js und TypeScript.
+      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang".
 
       Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
-      - [Inkscape](https://inkscape.org/)
     mentors:
       - Rainer
-    shortCode: Bezier
+    shortCode: MonsterWalk
