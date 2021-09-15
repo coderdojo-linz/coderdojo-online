@@ -47,7 +47,7 @@ workshops:
       - Rainer
     shortCode: MonsterWalk
 
- - begintime: 17:00
+  - begintime: 17:00
     endtime: 19:00
     status: Scheduled
     title: Virtuelles Elektronikbasteln
