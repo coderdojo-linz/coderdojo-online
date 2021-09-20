@@ -1,0 +1,62 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch 😸 für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! 
+      Pia und Frank bauen mit euch eine Spiel in Scratch.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Pia
+      - Frank
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Browser Memory - Daten im Browser speichern 🌞
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Manchmal möchte man beim Entwickeln einer Webseite oder eines Browser-Spiels Kleinigkeiten abspeichern (z.B. Spielstand). Karin zeigt euch in diesem Workshop, wie das geht. Ihr lernt *Local Storage* und ein wenig *IndexedDb* kennen. 
+      Wer mitmachen möchte, sollte schon ein wenig Ahnung von HTML und TypeScript haben. Wir bauen dazu weiter an unserem Wetter-Dashboard ⛅ und speichern diesmal bereits geladene Daten in der IndexedDB. 
+      Neueinsteiger sind gerne willkommen, ihr bekommt von Karin am Beginn des Workshops den aktuellen Stand des Programms.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+    mentors:
+      - Karin
+    shortCode: BrowserMemory
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Spaziergang mit Monstern 👹👻 - Sprites in p5js
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang".
+
+      Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MonsterWalk
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Virtuelles Elektronikbasteln
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Wir starten mit den Elektronik Grundlagen und simulieren die Schaltungen mit TinkerCad. Für Anfänger ab 10 Jahren super geeignet. Die Fortgeschrittenen können gleich auf den Boards die Schaltung selbst zusammen bauen und testen. Wir sehen uns an warum das Ohmsche Gesetz so wichtig ist. Voraussetzung ist die Registrierung bei [Tinkercad](https://www.tinkercad.com) mit Hilfe deiner Eltern.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: Elektronikbasteln
+
