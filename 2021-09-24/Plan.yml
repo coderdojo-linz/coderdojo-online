@@ -48,14 +48,17 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Virtuelles Elektronikbasteln
-    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Wir starten mit den Elektronik Grundlagen und simulieren die Schaltungen mit TinkerCad. Für Anfänger ab 10 Jahren super geeignet. Die Fortgeschrittenen können gleich auf den Boards die Schaltung selbst zusammen bauen und testen. Wir sehen uns an warum das Ohmsche Gesetz so wichtig ist. Voraussetzung ist die Registrierung bei [Tinkercad](https://www.tinkercad.com) mit Hilfe deiner Eltern.
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
     prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
     mentors:
-      - Michael
+      - Günther
     shortCode: Elektronikbasteln
 
