@@ -30,3 +30,16 @@ workshops:
     mentors:
       - Rainer
     shortCode: MonsterWalk
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Virtuelles Elektronikbasteln ⚡
+    targetAudience: ab 10, für Anfänger und Fortgeschrittene
+    description: |
+      Wir starten mit den Elektronik Grundlagen und simulieren die Schaltungen mit TinkerCad. Für Anfänger ab 10 Jahren super geeignet. Die Fortgeschrittenen können gleich auf den Boards die Schaltung selbst zusammen bauen und testen. Wir sehen uns an warum das Ohmsche Gesetz so wichtig ist. Voraussetzung ist die Registrierung bei [Tinkercad](https://www.tinkercad.com) mit Hilfe deiner Eltern.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: Elektronikbasteln
