@@ -1,23 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Scratch 😸 für AnfängerInnen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
-    description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! 
-      Pia baut mit euch eine Spiel in Scratch.
-    prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
-    mentors:
-      - Pia
-    shortCode: ScratchBasics
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: Game-Entwicklung mit Phaser.io 🎮
     targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
@@ -29,16 +13,15 @@ workshops:
       - oder [Stackblitz](https://stackblitz.com/)
     mentors:
       - Karin
-      - Frank
     shortCode: PhaserGame
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Spaziergang mit Monstern 👹👻 - Sprites in p5js
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang". Letzte Woche haben wir einen Gegner in unser Spiel eingefügt. Diesmal wollen wir einen Kampf zwischen den Monstern programmieren.
+      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang". Diese Woche bringen wir unserem Monster das Springen bei.
 
       Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen.
     prerequisites: |
@@ -47,19 +30,3 @@ workshops:
     mentors:
       - Rainer
     shortCode: MonsterWalk
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
