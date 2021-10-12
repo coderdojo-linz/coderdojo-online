@@ -3,7 +3,7 @@ workshops:
     endtime: 17:00
     status: Scheduled
     title: Game-Entwicklung mit Phaser.io 🎮
-    targetAudience: ab ca. 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
     description: |
       Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Diesmal fügen wir Plattformen für unsere Figur hinzu damit die Figur im Spielfeld laufen und hüpfen kann. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
       
@@ -49,7 +49,7 @@ workshops:
     endtime: 19:00
     status: Scheduled
     title: Spaziergang mit Monstern 👹👻 - Sprites in p5js
-    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    targetAudience: ab 10 Jahren, keine Angst vor der Tastatur
     description: |
       Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang". Diese Woche machen wir den Monster-Kampf fertig.
 
