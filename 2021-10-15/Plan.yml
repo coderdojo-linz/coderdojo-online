@@ -2,19 +2,19 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Game-Entwicklung mit Phaser.io 🎮
-    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig 
+    title: Scratch 😸 für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Diesmal fügen wir Plattformen für unsere Figur hinzu damit die Figur im Spielfeld laufen und hüpfen kann. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
-      
-      Karin wird mit euch nicht mehr im Browser programmieren. Ihr werdet lernen, wie man die Entwicklungsumgebung *Visual Studio Code* bei euch einrichtet und zum Spieleprogrammieren verwendet. Alternativ dazu könnt ihr auch [Stackblitz](https://stackblitz.com/) im Browser verwenden.
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! 
+      Eugen baut mit euch diesmal das Spiel [*Snake*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/snake/).
     prerequisites: |
-      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
-      - oder [Stackblitz](https://stackblitz.com/)
+      - Keine Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Karin
-    shortCode: PhaserGame
-
+      - Eugen
+    shortCode: ScratchBasics
+    
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
@@ -28,22 +28,22 @@ workshops:
       - Michael
       - Frank
     shortCode: Elektronikbasteln
-
+    
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: Scratch 😸 für AnfängerInnen
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    title: Game-Entwicklung mit Phaser.io 🎮
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! 
-      Eugen baut mit euch diesmal das Spiel [*Snake*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/snake/).
+      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Diesmal fügen wir Plattformen für unsere Figur hinzu damit die Figur im Spielfeld laufen und hüpfen kann. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
+      
+      Karin wird mit euch nicht mehr im Browser programmieren. Ihr werdet lernen, wie man die Entwicklungsumgebung *Visual Studio Code* bei euch einrichtet und zum Spieleprogrammieren verwendet. Alternativ dazu könnt ihr auch [Stackblitz](https://stackblitz.com/) im Browser verwenden.
     prerequisites: |
-      - Keine Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
+      - oder [Stackblitz](https://stackblitz.com/)
     mentors:
-      - Eugen
-    shortCode: ScratchBasics
+      - Karin
+    shortCode: PhaserGame
 
   - begintime: 17:00
     endtime: 19:00
