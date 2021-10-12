@@ -3,7 +3,7 @@ workshops:
     endtime: 17:00
     status: Scheduled
     title: Game-Entwicklung mit Phaser.io 🎮
-    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    targetAudience: ab ca. 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
     description: |
       Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Diesmal fügen wir Plattformen für unsere Figur hinzu damit die Figur im Spielfeld laufen und hüpfen kann. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
       
@@ -42,7 +42,7 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Hans-Peter
+      - Eugen
     shortCode: ScratchBasics
 
   - begintime: 17:00
