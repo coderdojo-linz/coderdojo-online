@@ -1,59 +1,17 @@
 workshops:
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: Hacktoberfest 🎃 - GitHub und Open Source für EinsteigerInnen
-    targetAudience: ab 10 Jahren, etwas Programmiererfahrung notwendig
+  - begintime: 08:00
+    endtime: 12:30
+    status: Scheduled
+    title: Digitalferien - Spaziergang mit Monstern 👹👻 Halloween Edition 🎃
+    targetAudience: ab 10 Jahren, keine Programmiererfahrung notwendig
     description: |
-      Oktober ist [_Hacktoberfest_](https://hacktoberfest.digitalocean.com/). Das _Hacktoberfest_ ist eine weltweite Initiative, um Open Source Software zu fördern. Open Source funktioniert nämlich nur, wenn viele Freiwillige etwas zu den spannenden Projekten beitragen. In diesem Workshop zeigt euch Pia, wie das in der Praxis läuft. Ihr lernt Grundlagen von GitHub kennen und seht, wie ihr _Open Source Contributors_ werdet, also etwas zu einem Open Source Projekt beitragen könnt.
-    prerequisites: |
-      - [GitHub](https://github.com/)-Konto
-    mentors:
-      - Pia
-    shortCode: Hacktoberfest
+      Diese Woche sind Herbstferien. Damit euch nicht langweilig wird, bieten wir euch am Freitag einen ganzen Vormittag einen Coding-Workshop an. Viele Schülerinnen und Schüler werden von ihren Schulen aus teilnehmen. Ihr könnt aber auch von zu Hause aus mitmachen.
 
-  - begintime: 17:00
-    endtime: 18:00
-    status: Draft
-    title: JavaScript/TypeScript/HTML/CSS Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
-    description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+      Fürs Mitmachen müsst ihr nur grundlegende Computerkenntnisse mitbringen. Es macht nichts, wenn ihr noch nie programmiert habt. Wir gehen Schritt für Schritt vor. Wem manche Teile zu schnell sind, der kann da oder dort zusehen und jederzeit später wieder beim Mitmachen einsteigen.
     prerequisites: |
-      - Was immer für euer Projekt notwendig ist
-    mentors:
-      - Karin
-    shortCode: WebOfficeHours
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Spaziergang mit Monstern 👹👻 - Halloween Edition 🎃
-    targetAudience: ab 10 Jahren, keine Angst vor der Tastatur
-    description: |
-      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang". Diese Woche bauen wir eine Halloween-Variante unseres Spiels.
-
-      Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen. Quereinsteigen ist ohne weiteres möglich.
-    prerequisites: |
+      - *Microsoft Teams* für das Webmeeting.
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
     shortCode: MonsterWalk
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-      - Frank
-    shortCode: Elektronikbasteln
