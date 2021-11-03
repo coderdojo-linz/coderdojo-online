@@ -1,38 +1,28 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: Hacktoberfest 🎃 - GitHub und Open Source für EinsteigerInnen
-    targetAudience: ab 10 Jahren, etwas Programmiererfahrung notwendig
+    status: Scheduled
+    title: Game-Entwicklung mit Phaser.io 🎮
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
     description: |
-      Oktober ist [_Hacktoberfest_](https://hacktoberfest.digitalocean.com/). Das _Hacktoberfest_ ist eine weltweite Initiative, um Open Source Software zu fördern. Open Source funktioniert nämlich nur, wenn viele Freiwillige etwas zu den spannenden Projekten beitragen. In diesem Workshop zeigt euch Pia, wie das in der Praxis läuft. Ihr lernt Grundlagen von GitHub kennen und seht, wie ihr _Open Source Contributors_ werdet, also etwas zu einem Open Source Projekt beitragen könnt.
+      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
+      
+      Karin wird mit euch nicht mehr im Browser programmieren. Ihr werdet lernen, wie man die Entwicklungsumgebung *Visual Studio Code* bei euch einrichtet und zum Spieleprogrammieren verwendet. Alternativ dazu könnt ihr auch [Stackblitz](https://stackblitz.com/) im Browser verwenden.
     prerequisites: |
-      - [GitHub](https://github.com/)-Konto
-    mentors:
-      - Pia
-    shortCode: Hacktoberfest
-
-  - begintime: 17:00
-    endtime: 18:00
-    status: Draft
-    title: JavaScript/TypeScript/HTML/CSS Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
-    description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
-    prerequisites: |
-      - Was immer für euer Projekt notwendig ist
+      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
+      - oder [Stackblitz](https://stackblitz.com/)
     mentors:
       - Karin
-    shortCode: WebOfficeHours
+    shortCode: PhaserGame
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Spaziergang mit Monstern 👹👻 - Halloween Edition 🎃
+    status: Scheduled
+    title: Spaziergang mit Monstern 👹👻 - Tipps und Tricks für 3D-Effekte
     targetAudience: ab 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wisst ihr was ein *Jump 'n' Run*-Spiel ist? Man steuert als Spielerin oder Spieler eine kleine Figur und läuft mir ihr durch ein Labyrinth. Meistens muss sich dabei gegen verschiedene Gegner behaupten. In diesem Workshop zeigt euch Rainer Grundlagen, die man zum Programmieren eines Jump 'n' Run in p5js braucht. Er baut mich euch einen "Monsterspaziergang". Diese Woche bauen wir eine Halloween-Variante unseres Spiels.
-
+      Wir bauen jetzt schon ein paar Wochen an unserem *Jump 'n' Run*-Spiel namens *Monster Run*. Unser freundliches Monster kann schon eine ganze Menge. Jetzt ist es Zeit, die Hintergrundgrafik aufzumotzen. Ihr lernt diesmal einen Trick kennen, mit dem man Spielehintergründe dreidimensional erscheinen lassen kann: Den [*Prallax*-Effekt](https://youtu.be/2z4OTRFuLP8).
+      
       Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen. Quereinsteigen ist ohne weiteres möglich.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
@@ -43,7 +33,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -55,5 +45,4 @@ workshops:
       - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
     mentors:
       - Günther
-      - Frank
     shortCode: Elektronikbasteln
