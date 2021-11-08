@@ -1,0 +1,48 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Game-Entwicklung mit Phaser.io 🎮
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    description: |
+      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
+      
+      Karin wird mit euch nicht mehr im Browser programmieren. Ihr werdet lernen, wie man die Entwicklungsumgebung *Visual Studio Code* bei euch einrichtet und zum Spieleprogrammieren verwendet. Alternativ dazu könnt ihr auch [Stackblitz](https://stackblitz.com/) im Browser verwenden.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
+      - oder [Stackblitz](https://stackblitz.com/)
+    mentors:
+      - Karin
+    shortCode: PhaserGame
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Spaziergang mit Monstern 👹👻 - Tipps und Tricks für 3D-Effekte
+    targetAudience: ab 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wir bauen jetzt schon ein paar Wochen an unserem *Jump 'n' Run*-Spiel namens *Monster Run*. Unser freundliches Monster kann schon eine ganze Menge. Jetzt ist es Zeit, die Hintergrundgrafik aufzumotzen. Ihr lernt diesmal einen Trick kennen, mit dem man Spielehintergründe dreidimensional erscheinen lassen kann: Den [*Prallax*-Effekt](https://youtu.be/2z4OTRFuLP8).
+      
+      Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen. Quereinsteigen ist ohne weiteres möglich.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MonsterWalk
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
