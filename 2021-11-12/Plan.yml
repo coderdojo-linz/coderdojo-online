@@ -61,3 +61,16 @@ workshops:
     mentors:
       - Günther
     shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Retro AdventOfCode
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    description: |
+      Wir werden gemeinsam AdventOfCode Challenges in einer Programmiersprache lösen (Vorzugsweise C# :P)
+    prerequisites: |
+      - Ein wenig Programmiererfahrung (Vorzugsweise C#)
+    mentors:
+      - Jonas
+    shortCode: RetroAoC
