@@ -74,11 +74,11 @@ workshops:
     mentors:
       - Jonas
     shortCode: RetroAoC
-    
+
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Silvester-Special: Feuerwerke in Minecraft
+    title: "Silvester-Special: Feuerwerke in Minecraft"
     targetAudience: ab 10 Jahren
     description: |
       Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft und Redstone zusammenbekommt!
