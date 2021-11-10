@@ -68,11 +68,12 @@ workshops:
     title: Retro AdventOfCode
     targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
     description: |
-      Wir werden gemeinsam AdventOfCode Challenges in einer Programmiersprache lösen (Vorzugsweise C# :P)
+      Wir werden gemeinsam AdventOfCode Challenges der vergangenen Jahre in einer Programmiersprache lösen (Vorzugsweise C# :P)
     prerequisites: |
       - Ein wenig Programmiererfahrung (Vorzugsweise C#)
     mentors:
       - Jonas
+      - Rainer
     shortCode: RetroAoC
 
   - begintime: 17:00
