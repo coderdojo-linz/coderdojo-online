@@ -47,12 +47,15 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: Retro AdventOfCode
-    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    title: AdventOfCode 🎄🎅 - mit Programmierrätseln durch den Advent
+    targetAudience: ab 12 Jahren, etwas Programmiererfahrung notwendig
     description: |
-      Wir werden gemeinsam AdventOfCode Challenges der vergangenen Jahre in einer Programmiersprache lösen (Vorzugsweise C# :P)
+      Im Dezember gibt es für Coder einen ganz besonderen Adventkalender: [Advent of Code](https://adventofcode.com/) (kurz *AoC*). Jeden Tag bekommt man ein Programmierrätsel und wenn man es löst erhält man ein bis zwei Sternchen ⭐. Die ganz guten Coder sammeln 50 Sternchen bis zum 25.12.
+
+      In diesem Workshop zeigen euch Jonas und Rainer, wie AoC funktioniert, damit ihr wisst, ob das etwas für euch ist. Zum Ausprobieren und Einstimmen werden wir gemeinsam AoC-Rätsel der vergangenen Jahre lösen (in C#, TypeScript oder auch gerne einer anderen Sprache, die ihr probieren wollt).
     prerequisites: |
-      - Ein wenig Programmiererfahrung (Vorzugsweise C#)
+      - Ein wenig Programmiererfahrung (vorzugsweise C# oder TypeScript)
+      - Etwas Englisch-Kenntnisse
     mentors:
       - Jonas
       - Rainer
