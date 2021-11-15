@@ -1,0 +1,75 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch 😸 für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Hans-Peter baut mit euch euer erstes, eigenes Computerspiel. Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Game-Entwicklung mit Phaser.io 🎮
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    description: |
+      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
+      - oder [Stackblitz](https://stackblitz.com/)
+    mentors:
+      - Karin
+    shortCode: PhaserGame
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: AdventOfCode 🎄🎅 - mit Programmierrätseln durch den Advent
+    targetAudience: ab 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Im Dezember gibt es für Coder einen ganz besonderen Adventkalender: [Advent of Code](https://adventofcode.com/) (kurz *AoC*). Jeden Tag bekommt man ein Programmierrätsel und wenn man es löst erhält man ein bis zwei Sternchen ⭐. Die ganz guten Coder sammeln 50 Sternchen bis zum 25.12.
+
+      In diesem Workshop zeigen euch Jonas und Rainer, wie AoC funktioniert, damit ihr wisst, ob das etwas für euch ist. Zum Ausprobieren und Einstimmen werden wir gemeinsam AoC-Rätsel der vergangenen Jahre lösen (in C#, TypeScript oder auch gerne einer anderen Sprache, die ihr probieren wollt).
+    prerequisites: |
+      - Ein wenig Programmiererfahrung (vorzugsweise C# oder TypeScript)
+      - Etwas Englisch-Kenntnisse
+    mentors:
+      - Jonas
+      - Rainer
+    shortCode: RetroAoC
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Silvester-Special: Feuerwerke in Minecraft"
+    targetAudience: ab 10 Jahren
+    description: |
+      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft und Redstone zusammenbekommt!
+    prerequisites: |
+      - Eine Installierte Version von Minecraft
+    mentors:
+      - Abl
+    shortCode: SilvesterMinecraft
