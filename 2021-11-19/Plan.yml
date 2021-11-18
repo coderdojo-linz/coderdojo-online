@@ -73,6 +73,8 @@ workshops:
     prerequisites: |
       - Ein wenig Programmiererfahrung (vorzugsweise C# oder TypeScript)
       - Etwas Englisch-Kenntnisse
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - [C# SDK](https://dot.net/)
     mentors:
       - Jonas
       - Karin
