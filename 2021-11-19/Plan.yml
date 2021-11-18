@@ -74,7 +74,7 @@ workshops:
       - Ein wenig Programmiererfahrung (vorzugsweise C# oder TypeScript)
       - Etwas Englisch-Kenntnisse
       - [Visual Studio Code](https://code.visualstudio.com/)
-      - [C# SDK](https://dot.net/)
+      - [.NET 6.0 SDK x64](https://dot.net/)
     mentors:
       - Jonas
       - Karin
