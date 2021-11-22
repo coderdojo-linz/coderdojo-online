@@ -1,0 +1,94 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Scratch 😸 für AnfängerInnen
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Eugen baut mit euch das [*Hau den Gopher*-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/whack-a-gopher/). Die Schwierigkeitsstufe wird an die Vorkenntnisse der TeilnehmerInnen angepasst.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Eugen
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Game-Entwicklung mit Phaser.io 🎮
+    targetAudience: ab 12 Jahren, für Fortgeschrittene, Programmiererfahrung notwendig
+    description: |
+      Karin baut mit euch weiter ein Jump & Run Spiel mit dem [Phaser.io](https://phaser.io/)-Framework. Der Workshop ist gedacht für Jugendliche, die schon Erfahrung mit textueller Programmierung (z.B. bei Rainer in den p5js-Workshops) gesammelt haben. Alle die in diesen Workshop neu einsteigen, bekommen zu Beginn den aktuellen Stand des Spiels.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/) mit [Node.js](https://nodejs.org/)
+      - oder [Stackblitz](https://stackblitz.com/)
+    mentors:
+      - Karin
+    shortCode: PhaserGame
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: Wir programmieren ein Sylvester-Feuerwerk 🎆🎇 mit TypeScript
+    targetAudience: ab 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Sylvester kommt mit großen Schritten auf uns zu. Daher programmieren wir diesmal ein Feuerwerk mit TypeScript. Ihr lernt Funktionen, Variablen und Schleifen kennen, indem wir schöne Muster mit virtuellen Raketen auf den Bildschirm zaubern.
+      
+      Wer mitmachen möchte sollte schon einmal ein Scratch-Spiel programmiert haben (z.B. [Fang mich](https://meet.coderdojo.net/scratch-fang-mich)). Ansonsten braucht man keine Voraussetzungen. AnfängerInnen sind herzlich willkommen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: TypeScriptFeuerwerk
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+      - Michael
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: AdventOfCode 🎄🎅 - mit Programmierrätseln durch den Advent
+    targetAudience: ab 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Im Dezember gibt es für Coder einen ganz besonderen Adventkalender: [Advent of Code](https://adventofcode.com/) (kurz *AoC*). Jeden Tag bekommt man ein Programmierrätsel und wenn man es löst erhält man ein bis zwei Sternchen ⭐. Die ganz guten Coder sammeln 50 Sternchen bis zum 25.12.
+
+      In diesem Workshop zeigt euch Karin, wie AoC funktioniert, damit ihr wisst, ob das etwas für euch ist. Wir werden hauptsächlich in *TypeScript* arbeiten (mit *Deno* 🐱‍🐉). Wir erstellen ein Projekt, in der ihr im Advent die AoC-Rätsel programmieren könnt. Der Workshop ist also die perfekte Vorbereitung für die Programmier-Vorweihnachtszeit.
+    prerequisites: |
+      - Ein wenig Programmiererfahrung (vorzugsweise TypeScript)
+      - Etwas Englisch-Kenntnisse
+      - [Visual Studio Code](https://code.visualstudio.com/)
+    mentors:
+      - Karin
+    shortCode: RetroAoC
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Silvester-Special: Feuerwerke in Minecraft mit ScriptCraft"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
+    prerequisites: |
+      - Eine Installierte Version von Minecraft Java Edition 1.17.1
+      - [Java 16](https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.msi)
+      - [Visual Studio Code](https://code.visualstudio.com/)
+    mentors:
+      - Abl
+    shortCode: SilvesterMinecraftScriptCraft
