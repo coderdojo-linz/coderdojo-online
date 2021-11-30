@@ -58,15 +58,3 @@ workshops:
       - Abl
       - Rainer
     shortCode: SilvesterMinecraftScriptCraft
-
-  - begintime: 19:00
-    endtime: 20:00
-    status: Scheduled
-    title: "Advent of Code - Programmierrätsel im Advent"
-    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
-    description: |
-      Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Code](https://adventofcode.com) ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen.  Wir werden uns ab dem 1.Dezember täglich um 18:30 online treffen um gemeinsam das Rätsel des Tages zu lösen. 👩‍💻👨‍💻
-    prerequisites: 
-    mentors:
-      - Verschiedene Mentorinnen und Mentoren
-    shortCode: AdventOfCode
