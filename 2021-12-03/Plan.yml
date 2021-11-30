@@ -1,0 +1,50 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: "Silvester-Special: Feuerwerk 🎆🎇 mit Scratch 😸"
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Silvester kommt auf uns zu und deshalb haben wir uns gedacht, wie programmieren mit euch ein Feuerwerk in Scratch.
+      
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: ScratchBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
+
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+    prerequisites: |
+      - Eine Installierte Version von Minecraft Java Edition 1.17.1
+      - [Java 16](https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.msi)
+      - [Visual Studio Code](https://code.visualstudio.com/)
+    mentors:
+      - Abl
+    shortCode: SilvesterMinecraftScriptCraft
