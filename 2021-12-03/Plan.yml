@@ -21,7 +21,7 @@ workshops:
     targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
     description: |
       Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Cyber](https://tryhackme.com/christmas) ist ein Adventkalender mit kleinen Rätseln zum Thema Hacking.
-    prerequisites: -
+    prerequisites: 
     mentors:
       - Pia
     shortCode: AdventOfCyber
