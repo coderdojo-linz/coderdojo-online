@@ -1,13 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: "Silvester-Special: Feuerwerk 🎆🎇 mit Scratch 😸"
+    status: Scheduled
+    title: "Scratch 😸 für AnfängerInnen"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Silvester kommt auf uns zu und deshalb haben wir uns gedacht, wie programmieren mit euch ein Feuerwerk in Scratch.
-      
-      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -18,7 +16,19 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
+    title: "Advent of Cyber"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Cyber](https://tryhackme.com/christmas) ist ein Adventkalender mit kleinen Rätseln zum Thema Hacking.
+    prerequisites: -
+    mentors:
+      - Pia
+    shortCode: AdventOfCyber
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -34,7 +44,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
     targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
     description: |
@@ -43,8 +53,19 @@ workshops:
       **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
     prerequisites: |
       - Eine Installierte Version von Minecraft Java Edition 1.17.1
-      - [Java 16](https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.msi)
-      - [Visual Studio Code](https://code.visualstudio.com/)
     mentors:
       - Abl
+      - Rainer
     shortCode: SilvesterMinecraftScriptCraft
+
+  - begintime: 19:00
+    endtime: 20:00
+    status: Scheduled
+    title: "Advent of Code - Programmierrätsel im Advent"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Code](https://adventofcode.com) ist ein Adventkalender mit kleinen Programmierrätseln. Täglich gibt es eine neue Aufgabe zu lösen.  Wir werden uns ab dem 1.Dezember täglich um 18:30 online treffen um gemeinsam das Rätsel des Tages zu lösen. 👩‍💻👨‍💻
+    prerequisites: 
+    mentors:
+      - Verschiedene Mentorinnen und Mentoren
+    shortCode: AdventOfCode
