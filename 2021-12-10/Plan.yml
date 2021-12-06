@@ -1,0 +1,61 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: "Scratch 😸 für AnfängerInnen"
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+      - Florian
+    shortCode: ScratchBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Advent of Cyber"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Cyber](https://tryhackme.com/christmas) ist ein Adventkalender mit kleinen Rätseln zum Thema Hacking.
+    prerequisites: |
+      - Keine
+    mentors:
+      - Pia
+    shortCode: AdventOfCyber
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
+
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+    prerequisites: |
+      - Eine Installierte Version von Minecraft Java Edition 1.17.1
+    mentors:
+      - Abl
+      - Rainer
+    shortCode: SilvesterMinecraftScriptCraft
