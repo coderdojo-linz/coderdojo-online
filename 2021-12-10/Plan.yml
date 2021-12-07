@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: "Scratch 😸 für AnfängerInnen"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
@@ -11,42 +11,43 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Hans-Peter
-      - Florian
+      - Pia
     shortCode: ScratchBasics
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: "Advent of Cyber"
-    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: "GearsBot 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
+    targetAudience: ab 10 Jahren, etwas Erfahrung mit Scratch oder Programmiersprachen
     description: |
-      Dieses Jahr möchten wir mit euch zu einem Adventkalender der besonderen Art einladen! 🎅🎄✨ [Advent of Cyber](https://tryhackme.com/christmas) ist ein Adventkalender mit kleinen Rätseln zum Thema Hacking.
-    prerequisites: |
-      - Keine
-    mentors:
-      - Pia
-    shortCode: AdventOfCyber
+      Hast du dich schon mal gefragt, wie Autos selbständig fahren können? Dahinter steckt etwas, das sich *künstliche Intelligenz* nennt. In diesem Workshop kannst du spielerisch lernen, einem virtuellen Roboter das Herumfahren beizubringen. Die Programmierung erfolgt mit einer Scratch-ähnlichen Blockprogrammiersprache ([GearsBot](https://gears.aposteriori.com.sg/)). Zum Mitmachen brauchst du nur einen Internetbrowser (idealerweise Chrome).
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+      **Dieser Workshop findet in Kooperation mit der [österreichischen Computergesellschaft (OCG)](https://www.ocg.at/) statt** und wird von Gastmentoren durchgeführt.
+    prerequisites: |
+      - Etwas Erfahrung mit Scratch oder Programmiersprachen
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+    mentors:
+      - Wilfried
+      - Martin
+    shortCode: GearsBot
+    
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Advent of Code - ⭐⭐⭐ Aufholjagd
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+      Arbeitest du im Advent an *Advent of Code* mit und fehlen dir noch ein paar Sterne der vergangenen Tage? Karin steht in diesem Workshop für Fragen zu deinen Advent of Code-Beispielen zur Verfügung.
     prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+      - Programmiererfahrung notwendig
+      - Teilnahme an den Advent of Code-Meetings der letzten Tage ist Voraussetzung
     mentors:
-      - Günther
-    shortCode: Elektronikbasteln
+      - Karin
+    shortCode: AoCAufholjagd
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
     targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
     description: |
@@ -54,7 +55,7 @@ workshops:
 
       **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
     prerequisites: |
-      - Eine Installierte Version von Minecraft Java Edition 1.17.1
+      - Eine Installierte **Version von Minecraft Java Edition 1.17.1**❗❗❗
     mentors:
       - Abl
       - Rainer
@@ -62,7 +63,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Microcontroller-Emulator (Teil 1)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
