@@ -1,0 +1,65 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: "Scratch 😸 für AnfängerInnen"
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Pia
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: "GearsBot 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
+    targetAudience: ab 10 Jahren, etwas Erfahrung mit Scratch oder Programmiersprachen
+    description: |
+      Hast du dich schon mal gefragt, wie Autos selbständig fahren können? Dahinter steckt etwas, das sich *künstliche Intelligenz* nennt. In diesem Workshop kannst du spielerisch lernen, einem virtuellen Roboter das Herumfahren beizubringen. Die Programmierung erfolgt mit einer Scratch-ähnlichen Blockprogrammiersprache ([GearsBot](https://gears.aposteriori.com.sg/)). Zum Mitmachen brauchst du nur einen Internetbrowser (idealerweise Chrome).
+
+      **Dieser Workshop findet in Kooperation mit der [österreichischen Computergesellschaft (OCG)](https://www.ocg.at/) statt** und wird von Gastmentoren durchgeführt.
+    prerequisites: |
+      - Etwas Erfahrung mit Scratch oder Programmiersprachen
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+    mentors:
+      - Wilfried
+      - Martin
+    shortCode: GearsBot
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
+
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+    prerequisites: |
+      - Eine Installierte **Version von Minecraft Java Edition 1.17.1**❗❗❗
+    mentors:
+      - Abl
+      - Rainer
+    shortCode: SilvesterMinecraftScriptCraft
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Microcontroller-Emulator (Teil 1)
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      In dieser Workshopserie sehen wir uns an, wie [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller) funktionieren und wie sie mit der [Assemblersprache](https://de.wikipedia.org/wiki/Assemblersprache) programmiert werden. Als konkretes Beispiel bauen wir im Browser einen Emulator für den [ULP (Ultra Low Power) Coprozessor](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp.html) des [ESP32](https://www.espressif.com/en/products/socs/esp32). Dieser Coprozessor eignet sich ideal für den Einstieg in die Welt der Assemblerprogrammierung, weil er sehr einfach aufgebaut ist und einen stark reduzierten [Befehlssatz](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp_instruction_set.html) besitzt.
+      Dieses Mal werden wir ...
+      - uns ansehen wie Microcontroller aufgebaut sind
+      - eine grafische Benutzeroberfläche für den Emulator bauen
+    prerequisites: |
+      - etwas Programmiererfahrung mit HTML, CSS und JavaScript
+      - Interesse an Computerhardware
+    mentors:
+      - Thomas
+    shortCode: microcontrollerEmulator
