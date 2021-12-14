@@ -46,6 +46,23 @@ workshops:
       - Abl
       - Rainer
     shortCode: SilvesterMinecraftScriptCraft
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Wir bauen unsere eigene Weihnachtskarte mit p5js"
+    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    description: |
+      Diesesmal bauen wir uns eine kleine animierte Weihnachtskarte mit [p5js](https://p5js.org/). 
+      Wir werden kreativ werden und ein Schneegestöber programmieren in dem ein Schneemann tanzt. 
+    prerequisites: |
+      - Du musst noch nicht unbedingt Programmieren können
+      - Es wird einiges zu tippen geben!
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - einen modernen Webbrowser (z.B. Chrome oder Edge)
+    mentors:
+      - Pia
+    shortCode: WeihnachtsKarteP5Js
     
   - begintime: 17:00
     endtime: 19:00
