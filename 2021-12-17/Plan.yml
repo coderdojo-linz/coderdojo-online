@@ -16,7 +16,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: "GearsBot 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
     targetAudience: ab 10 Jahren, etwas Erfahrung mit Scratch oder Programmiersprachen
     description: |
@@ -33,7 +33,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Scheduled
+    status: Draft
     title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
     targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
     description: |
