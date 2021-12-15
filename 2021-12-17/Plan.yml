@@ -1,8 +1,8 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: "Scratch 😸 für AnfängerInnen"
+    status: Scheduled
+    title: "Scratch 😸 für AnfängerInnen - ein Weihnachtsspiel 🎄"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
       Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen.
@@ -11,47 +11,29 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
+      - Hans-Peter
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: "GearsBot 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
-    targetAudience: ab 10 Jahren, etwas Erfahrung mit Scratch oder Programmiersprachen
+    status: Scheduled
+    title: "Wie macht man Screen Videos? Dein Minecraft-Feuerwerk 🎇🎆 auf YouTube bringen"
+    targetAudience: ab 12 Jahren, keine Programmierkenntnisse notwendig
     description: |
-      Hast du dich schon mal gefragt, wie Autos selbständig fahren können? Dahinter steckt etwas, das sich *künstliche Intelligenz* nennt. In diesem Workshop kannst du spielerisch lernen, einem virtuellen Roboter das Herumfahren beizubringen. Die Programmierung erfolgt mit einer Scratch-ähnlichen Blockprogrammiersprache ([GearsBot](https://gears.aposteriori.com.sg/)). Zum Mitmachen brauchst du nur einen Internetbrowser (idealerweise Chrome).
-
-      **Dieser Workshop findet in Kooperation mit der [österreichischen Computergesellschaft (OCG)](https://www.ocg.at/) statt** und wird von Gastmentoren durchgeführt.
-    prerequisites: |
-      - Etwas Erfahrung mit Scratch oder Programmiersprachen
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-    mentors:
-      - Wilfried
-      - Martin
-    shortCode: GearsBot
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: "Silvester-Special: Feuerwerke 🎇🎆 in Minecraft mit JavaScript"
-    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
-    description: |
-      Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
+      TBD
 
       **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
     prerequisites: |
-      - Eine Installierte **Version von Minecraft Java Edition 1.17.1**❗❗❗
+      - Keine
     mentors:
       - Abl
-      - Rainer
-    shortCode: SilvesterMinecraftScriptCraft
+    shortCode: ScreenVideos
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: "Wir bauen unsere eigene Weihnachtskarte mit p5js"
-    targetAudience: ab 12 Jahren, etwas Programmierkenntnisse von Nutzen
+    status: Scheduled
+    title: "Wir bauen unsere eigene Weihnachtskarte 🎅 mit p5 und Stackblitz"
+    targetAudience: ab 11 Jahren, etwas Programmierkenntnisse von Nutzen
     description: |
       Diesesmal bauen wir uns eine kleine animierte Weihnachtskarte mit [p5js](https://p5js.org/). 
       Wir werden kreativ werden und ein Schneegestöber programmieren in dem ein Schneemann tanzt. 
@@ -62,11 +44,12 @@ workshops:
       - einen modernen Webbrowser (z.B. Chrome oder Edge)
     mentors:
       - Pia
+      - Rainer
     shortCode: WeihnachtsKarteP5Js
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Microcontroller-Emulator (Teil 2)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
@@ -81,3 +64,18 @@ workshops:
       - Thomas
     shortCode: microcontrollerEmulator
 
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
