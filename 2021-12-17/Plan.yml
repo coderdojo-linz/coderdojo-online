@@ -20,11 +20,11 @@ workshops:
     title: "Wie macht man Screen Videos? Dein Minecraft-Feuerwerk 🎇🎆 auf YouTube bringen"
     targetAudience: ab 12 Jahren, keine Programmierkenntnisse notwendig
     description: |
-      TBD
+      Wenn du schon immer wissen wolltest wie du deine Spiele Aufnehmen oder Streamen könntest dann bist du hier genau richtig. Wir werden uns die bekannte OpenSource Software OBS ansehen und wie man damit Videos aufnimmt.
 
       **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
     prerequisites: |
-      - Keine
+      - OBS runtergeladen und installiert: https://obsproject.com/welcome
     mentors:
       - Abl
     shortCode: ScreenVideos
