@@ -1,0 +1,14 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: "Feuerwerke in Minecraft Machen und Feuerwerke Aufnehmen"
+    targetAudience: ab 12 Jahren, keine Programmierkenntnisse notwendig
+    description: |
+      Falls ihr noch Fragen habt oder noch etwas Zeit braucht um eurer Feuerwerk fertigzustellen, aufzunehmen oder an den Innovationshauptplatz Linz zu schicken, dann kommt zu diesem Workshop! Wir werden versuchen möglichst viele Videos fertig zu machen, damit wir im neuen Jahr unser Feuerwerk im Ars Electronica DeepSpace bewundern können!
+
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+    prerequisites:
+    mentors:
+      - Abl
+    shortCode: SilvesterMinecraft
