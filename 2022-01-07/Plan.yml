@@ -17,7 +17,7 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: "Die Fische 🐟🐠 von Hanoi 🍳🍚 - ein Rätsel-Spiel TypeScript"
+    title: "Die Fische 🐟🐠 von Hanoi - ein Rätsel-Spiel TypeScript"
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
       Schon mal von den *Türmen von Hanoi* gehört? Das ist ein klassisches Programmierrätsel und Karin macht diesmal eine lustige, grafische Variante mit HTML, CSS und TypeScript. Dieser Workshop passt gut für alle, die schon Programmiererfahrung gesammelt haben (z.B. in den TypeScript-Workshops vom CoderDojo Linz).
