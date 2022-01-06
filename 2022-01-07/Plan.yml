@@ -17,6 +17,19 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
+    title: Elektronikbasteln - Grundlagen der Elektronik
+    targetAudience: ab 10, für Anfänger geeignet
+    description: |
+      Wir erkunden die Grundlagen der Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: ElektronikGrundlagen
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
     title: "Die Fische 🐟🐠 von Hanoi - ein Rätsel-Spiel TypeScript"
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
@@ -58,16 +71,3 @@ workshops:
     mentors:
       - Thomas
     shortCode: microcontrollerEmulator
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Scheduled
-    title: Elektronikbasteln - Grundlagen der Elektronik
-    targetAudience: ab 10, für Anfänger geeignet
-    description: |
-      Wir erkunden die Grundlagen der Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
-    prerequisites: |
-      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
-    mentors:
-      - Michael
-    shortCode: ElektronikGrundlagen
