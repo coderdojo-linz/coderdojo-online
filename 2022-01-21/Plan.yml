@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: "Scratch 😸 für AnfängerInnen"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
@@ -11,12 +11,13 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
+      - Hans-Peter
       - Pia
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: "Die Fische 🐟🐠 von Hanoi - ein Rätsel-Spiel TypeScript"
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
@@ -30,7 +31,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: "Turbocook 🍳🍚 - ein Spiel mit p5js und TypeScript"
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
@@ -46,7 +47,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -62,7 +63,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Microcontroller-Emulator (Teil 3 - Einstieg jederzeit möglich)
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
@@ -73,3 +74,16 @@ workshops:
     mentors:
       - Thomas
     shortCode: microcontrollerEmulator
+
+  - begintime: 17:30
+    endtime: 19:30
+    status: Scheduled
+    title: Elektronikbasteln ⚡ - Grundlagen der Elektronik
+    targetAudience: ab 10, für Anfänger geeignet
+    description: |
+      Wir erkunden die Grundlagen der Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: ElektronikGrundlagen
