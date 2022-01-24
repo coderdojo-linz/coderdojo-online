@@ -1,0 +1,89 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: "Scratch 😸 für AnfängerInnen"
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen. Am Beginn des Workshops macht sich Pia mit euch aus, welches Spiel gebaut wird. Dabei nimmt sie Rücksicht darauf, wie viel Erfahrung ihr schon habt.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+      - Pia
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: "Die Fische 🐟🐠 von Hanoi - ein Rätsel-Spiel TypeScript"
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Schon mal von den *Türmen von Hanoi* gehört? Das ist ein klassisches Programmierrätsel und Karin macht diesmal eine lustige, grafische Variante mit HTML, CSS und TypeScript. Dieser Workshop passt gut für alle, die schon Programmiererfahrung gesammelt haben (z.B. in den TypeScript-Workshops vom CoderDojo Linz).
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Karin
+    shortCode: FischeHanoi
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: "Turbocook 🍳🍚 - ein Spiel mit p5js und TypeScript"
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Es geht weiter mit unserem neuen Game-Projekt. Gemeinsam bauen wir ein Computerspiel mit TypeScript und p5js. Letzte Woche haben wir unser Restaurant aufgebaut und *Penny* platziert. Diesmal kümmern wir uns um die Tische und die Gäste.
+      
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: Turbocook
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Microcontroller-Emulator (Teil 3 - Einstieg jederzeit möglich)
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      In dieser Workshopserie sehen wir uns an, wie [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller) funktionieren und wie sie mit der [Assemblersprache](https://de.wikipedia.org/wiki/Assemblersprache) programmiert werden. Als konkretes Beispiel bauen wir im Browser einen Emulator für den [ULP (Ultra Low Power) Coprozessor](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp.html) des [ESP32](https://www.espressif.com/en/products/socs/esp32). Dieser Coprozessor eignet sich ideal für den Einstieg in die Welt der Assemblerprogrammierung, weil er sehr einfach aufgebaut ist und einen stark reduzierten [Befehlssatz](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp_instruction_set.html) besitzt.
+    prerequisites: |
+      - etwas Programmiererfahrung mit HTML, CSS und JavaScript
+      - Interesse an Computerhardware
+    mentors:
+      - Thomas
+    shortCode: microcontrollerEmulator
+
+  - begintime: 17:30
+    endtime: 19:30
+    status: Draft
+    title: Elektronikbasteln ⚡ - Grundlagen der Elektronik
+    targetAudience: ab 10, für Anfänger geeignet
+    description: |
+      Wir erkunden die Grundlagen der Elektronik. Themen sind Widerstände, Spannung, Strom, Parallel- und Serienschaltung etc.
+    prerequisites: |
+      - Ein Computer mit [Tinkercad](https://www.tinkercad.com) Zugang.
+    mentors:
+      - Michael
+    shortCode: ElektronikGrundlagen
