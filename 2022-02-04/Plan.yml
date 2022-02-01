@@ -1,41 +1,40 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: "Scratch 😸 für AnfängerInnen"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen. Am Beginn des Workshops macht sich Pia mit euch aus, welches Spiel gebaut wird. Dabei nimmt sie Rücksicht darauf, wie viel Erfahrung ihr schon habt.
+      Du hast noch nie etwas programmiert, bist aber neugierig, wie das funktioniert? Dann ist das der richtige Workshop für dich! Fortgeschrittene ScratcherInnen sind auch willkommen. Am Beginn des Workshops macht sich Hans-Peter mit euch aus, welches Spiel gebaut wird. Dabei nimmt sie Rücksicht darauf, wie viel Erfahrung ihr schon habt.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
       - Hans-Peter
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: "Die Fische 🐟🐠 von Hanoi - ein Rätsel-Spiel TypeScript"
+    status: Scheduled
+    title: "Etwas mit TypeScript..."
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Schon mal von den *Türmen von Hanoi* gehört? Das ist ein klassisches Programmierrätsel und Karin macht diesmal eine lustige, grafische Variante mit HTML, CSS und TypeScript. Dieser Workshop passt gut für alle, die schon Programmiererfahrung gesammelt haben (z.B. in den TypeScript-Workshops vom CoderDojo Linz).
+      Karin denkt gerade noch über eine Spielidee nach... 🤔 Details folgen in den nächsten Tagen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Karin
-    shortCode: FischeHanoi
+    shortCode: SomeTypeScript
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: "Turbocook 🍳🍚 - ein Spiel mit p5js und TypeScript"
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Es geht weiter mit unserem neuen Game-Projekt. Gemeinsam bauen wir ein Computerspiel mit TypeScript und p5js. Letzte Woche haben wir die ersten Essen serviert. Diesmal bauen wir einen Punktezähler ein.
+      Diesmal machen wir unser Game-Projekt *Turbocook* fertig. Gemeinsam bauen wir ein Computerspiel mit TypeScript und p5js. Letzte Woche haben wir die ersten Essen serviert. Diesmal bauen wir einen Punktezähler ein.
       
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
@@ -47,7 +46,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
