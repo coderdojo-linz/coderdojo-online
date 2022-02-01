@@ -31,7 +31,7 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: "Turbocook 🍳🍚 - ein Spiel mit p5js und TypeScript"
+    title: "Turbocoook 🍳🍚 - ein Spiel mit p5js und TypeScript"
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
       Diesmal machen wir unser Game-Projekt *Turbocook* fertig. Gemeinsam bauen wir ein Computerspiel mit TypeScript und p5js. Letzte Woche haben wir die ersten Essen serviert. Diesmal bauen wir einen Punktezähler ein.
