@@ -17,10 +17,10 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: "Etwas mit TypeScript..."
+    title: "Minesweeper 💣 für Fortgeschrittene"
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Karin denkt gerade noch über eine Spielidee nach... 🤔 Details folgen in den nächsten Tagen.
+      Karin baut mit euch heute das Spiel [Minesweeper](https://minesweeper.online/) mit HTML, CSS und TypeScript.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
