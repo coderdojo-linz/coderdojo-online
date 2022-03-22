@@ -1,28 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: "Wordle Solver 🤔, Wordle Hacking"
-    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
-    description: |
-      Das Mini-Spiel *Wordle* hat die Welt im Sturm erobert. Viele Menschen versuchen sich an dem täglich neuen Wörter-Rätsel. In diesem Workshop macht ihr mit Pia und Karin den *Wordle Solver* fertig, den ihr in den letzten Wochen begonnen habt. Der Solver ist ein Programm, mit dem man jedes *Wordle* knacken kann. Zum krönenden Abschluss versuchen wir, Wordle zu "hacken" und jedes Rätsel mit einem Versuch zu lösen.
-
-      Das besondere an diesem Workshop ist, dass das Programm in zwei Programmiersprachen gemacht wird, obwohl der Algorithmus der gleiche ist. Pia macht Python, Karin macht TypeScript und ihr habt die Wahl. Indem beide Sprachen an einem Beispiel gezeigt werden, lernt ihr die Unterschiede und Gemeinsamkeiten kennen.
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Zugriff auf [Stackblitz](https://stackblitz.com)
-    mentors:
-      - Pia
-      - Karin
-    shortCode: WordleSolver
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: "Scratch 😸 für AnfängerInnen"
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Pia mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Hans-Peter mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -30,16 +13,30 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
+      - Hans-Peter
     shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: "Pong 🎾, der Klassiker - diesmal mit HTML Canvas"
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Eines der ersten, erfolgreichen Computerspiele überhaupt war *Pong*. Das werden wir diesmal in Angriff nehmen. Dabei verwenden wir den *HTML Canvas*.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Karin
+    shortCode: Pong
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: "Hidden Words - ein Spiel in TypeScript"
+    status: Scheduled
+    title: "Stuchbabensalat 🥗 - ein Spiel in TypeScript"
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Diese Woche starten wir mit einem neuen Projekt. Wir bauen *Hidden Words*, ein Quiz, bei dem mehrere SpielerInnen um die Wette Wörter im Buchstabensalat suchen.
+      Wir machen weiter mit dem *Stuchbabensalat*, ein Quiz, bei dem mehrere SpielerInnen um die Wette Wörter im Buchstabensalat suchen. Ihr bekommt am Anfang den Startercode vom letzten Mal, damit auch Quereinsteigen problemlos möglich ist.
       
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
@@ -47,11 +44,11 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: HiddenWords
+    shortCode: Stuchbabensalat
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
