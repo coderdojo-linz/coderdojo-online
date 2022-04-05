@@ -1,13 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: 'Scratch 😸 für AnfängerInnen'
+    status: Scheduled
+    title: 'Scratch 😸 für AnfängerInnen - Helidrop 🚁'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Pia mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
-
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch *Helidrop*, ein Geschicklichkeitsspiel. Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -18,25 +16,25 @@ workshops:
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: 3D Modellierung mit OpenSCAD
-    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    status: Scheduled
+    title: "Pong 🎾, der Klassiker - diesmal mit HTML Canvas"
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Wollt ihr wissen, wie man für 3D Druck Objekte designen kann? Abl baut mit euch eine kleine Figur mit [OpenSCAD](https://openscad.org/).
+      Eines der ersten, erfolgreichen Computerspiele überhaupt war *Pong*. Das werden wir diesmal in Angriff nehmen. Dabei verwenden wir den *HTML Canvas*.
     prerequisites: |
-      - [OpenSCAD](https://openscad.org/downloads.html)
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
-      - Abl
       - Karin
-    shortCode: OpenSCAD
+    shortCode: Pong
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Stuchbabensalat 🥗 - ein Spiel in TypeScript'
+    status: Scheduled
+    title: 'Memory 🧠 - ein Spiel in TypeScript'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen weiter mit dem *Stuchbabensalat*, ein Quiz, bei dem mehrere SpielerInnen um die Wette Wörter im Buchstabensalat suchen. Ihr bekommt am Anfang den Startercode vom letzten Mal, damit auch Quereinsteigen problemlos möglich ist.
+      Wir starten mit einem neuen Projekt und versuchen uns am klassischen *Memory*-Spiel. Rainer zeigt euch, wie der TypeScript-Code funktioniert und ihr könnt das Spiel dann mit eigenen Bildern ausstatten.
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
@@ -44,11 +42,11 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: Stuchbabensalat
+    shortCode: MemoryTypeScript
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
