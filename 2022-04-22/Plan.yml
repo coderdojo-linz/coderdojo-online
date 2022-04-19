@@ -1,0 +1,58 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 'Scratch 😸 für AnfängerInnen - Helidrop 🚁'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche macht Hans-Peter mit euch *Helidrop* fertig, ein Geschicklichkeitsspiel. Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: "Pong 🎾, der Klassiker - diesmal mit HTML Canvas"
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Eines der ersten, erfolgreichen Computerspiele überhaupt war *Pong*. Das werden wir diesmal in Angriff nehmen. Dabei verwenden wir den *HTML Canvas*.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Karin
+    shortCode: Pong
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Memory 🧠 - ein Spiel in TypeScript'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wir machen beim Projekt *Memory*-Spiel weiter. Rainer zeigt euch, wie der TypeScript-Code funktioniert und ihr könnt das Spiel dann mit eigenen Bildern ausstatten.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MemoryTypeScript
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 3D Modellierung mit OpenSCAD
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wollt ihr wissen, wie man für 3D Druck Objekte designen kann? Abl baut mit euch eine kleine Figur mit [OpenSCAD](https://openscad.org/).
+    prerequisites: |
+      - [OpenSCAD](https://openscad.org/downloads.html)
+    mentors:
+      - Abl
+    shortCode: OpenSCAD
