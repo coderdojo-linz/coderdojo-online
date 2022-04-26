@@ -17,12 +17,12 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: 'Node.js mit TypeScript - 🃏 Memory am Server'
+    title: 'Node.js mit TypeScript - 🔐 Less Hackable Wordle'
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Letzte Woche haben wir mit dem Grundgerüst für eine Web-Anwendung mit Node.js und TypeScript begonnen. Diese Woche geht es weiter. Wir fügen Programmfunktionen hinzu und erkunden, was am Server und was im Browser läuft. Quereinsteigen ist für alle, die letzte Woche nicht dabei waren, problemlos möglich.
+      Letzte Woche hat Rainer mit euch mit dem Grundgerüst für eine Web-Anwendung mit Node.js und TypeScript begonnen. Diese Woche geht es weiter. Karin zeigt euch, wie man die Spiellogik für Wordle (habt ihr mit Karin vor ein paar Wochen gebaut) auf den Server übersiedelt, damit man nicht so leicht cheaten kann.
 
-      Um an diesem Workshop teilzunehmen, solltet ihr auf jeden Fall schon etwas Erfahrung mit HTML, JavaScript, TypeScript und Visual Studio Code haben.
+      Quereinsteigen ist für alle, die letzte Woche bei Rainer nicht dabei waren, problemlos möglich. Um an diesem Workshop teilzunehmen, solltet ihr auf jeden Fall schon etwas Erfahrung mit HTML, JavaScript, TypeScript und Visual Studio Code haben.
     prerequisites: |
       - Visual Studio Code
       - [Node.js](https://nodejs.org/en/)
