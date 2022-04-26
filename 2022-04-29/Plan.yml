@@ -1,40 +1,43 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: 'Scratch 😸 für AnfängerInnen - Helidrop 🚁'
+    status: Scheduled
+    title: 'Scratch 😸 für AnfängerInnen - 🚔🚗 Racer'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche macht Pia mit euch *Helidrop* fertig, ein Geschicklichkeitsspiel. Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche steht bei Patrick ein spannendes Racing-Spiel, das ihr zu zweit mit Freudinnen und Freunden spielen könnt. Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
       - *Keine* Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
+      - Patrick
     shortCode: ScratchBasics
 
   - begintime: 15:00
-    endtime: 16:30
-    status: Draft
-    title: 'Node.js mit TypeScript - eine Einleitung'
+    endtime: 17:00
+    status: Scheduled
+    title: 'Node.js mit TypeScript - 🃏 Memory am Server'
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
-      Viele von euch wollen hin und wieder eine kleine Webseite, eine Web API oder ähnliches Programmieren. Das macht man oft mit Node.js und TypeScript. In diesem Workshop schauen wir uns an, wie man von Grund auf so ein Projekt aufsetzt und die ersten Schritte geht. Um an diesem Workshop teilzunehmen, solltet ihr auf jeden Fall schon etwas Erfahrung mit HTML, JavaScript, TypeScript und Visual Studio Code haben.
+      Letzte Woche haben wir mit dem Grundgerüst für eine Web-Anwendung mit Node.js und TypeScript begonnen. Diese Woche geht es weiter. Wir fügen Programmfunktionen hinzu und erkunden, was am Server und was im Browser läuft. Quereinsteigen ist für alle, die letzte Woche nicht dabei waren, problemlos möglich.
+
+      Um an diesem Workshop teilzunehmen, solltet ihr auf jeden Fall schon etwas Erfahrung mit HTML, JavaScript, TypeScript und Visual Studio Code haben.
     prerequisites: |
       - Visual Studio Code
       - [Node.js](https://nodejs.org/en/)
     mentors:
+      - Karin
       - Rainer
     shortCode: NodeGrundlagen
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: 'Memory 🧠 - ein Spiel in TypeScript'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen das Projekt *Memory*-Spiel fertig. Rainer zeigt euch, wie der TypeScript-Code funktioniert und ihr könnt das Spiel dann mit eigenen Bildern ausstatten.
+      Letzte Woche wurden wir mit Memory fertig. Ihr habt euch aber gewünscht, dass zwei Spieler über Internet miteinander spielen werden. Diese Funktion fügen wir diesmal hinzu.
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
@@ -46,7 +49,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
