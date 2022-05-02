@@ -17,6 +17,21 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Draft
+    title: 'Netflix Analyse 📊📺'
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Habt ihr euch schonmal gefragt, wieviel Zeit in der letzten Woche oder dem letzten Monat vor dem Fernseher verbracht habt? In dieser Session analysieren wir die Netflix Daten von Pia und Rigerta und bauen daraus schöne Diagramme. Wenn ihr mit euren eigenen Daten oder denen eurer Eltern arbeiten möchtet könnt ihr diese unter https://www.netflix.com/account/getmyinfo beantragen. Normalerweise dauert das zirka einen Tag, ihr könnt aber auch ohne eigene Daten mitmachen, dann bekommt ihr die Daten von Pia zur Verfügung gestellt und könnt mit ihren Daten arbeiten.
+    prerequisites: |
+      - Ein Google Konto um Colab (colab.research.google) zu verwenden oder einen Editor und Python installiert (https://www.python.org/)
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+    mentors:
+      - Rigerta
+      - Pia 
+    shortCode: DatenAnalyse
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
     title: 'Node.js mit TypeScript - 🔐 Less Hackable Wordle'
     targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
     description: |
