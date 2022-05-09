@@ -1,0 +1,65 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 'Scratch 😸 für AnfängerInnen - 🚔🚗 Racer'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche steht bei Patrick ein spannendes Racing-Spiel, das ihr zu zweit mit Freudinnen und Freunden spielen könnt. Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Patrick
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 'Node.js mit TypeScript - 🔐 Less Hackable Wordle'
+    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    description: |
+      Letzte Woche hat Rainer mit euch mit dem Grundgerüst für eine Web-Anwendung mit Node.js und TypeScript begonnen. Diese Woche geht es weiter. Karin zeigt euch, wie man die Spiellogik für Wordle (habt ihr mit Karin vor ein paar Wochen gebaut) auf den Server übersiedelt, damit man nicht so leicht cheaten kann.
+
+      Quereinsteigen ist für alle, die letzte Woche bei Rainer nicht dabei waren, problemlos möglich. Um an diesem Workshop teilzunehmen, solltet ihr auf jeden Fall schon etwas Erfahrung mit HTML, JavaScript, TypeScript und Visual Studio Code haben.
+    prerequisites: |
+      - Visual Studio Code
+      - [Node.js](https://nodejs.org/en/)
+    mentors:
+      - Karin
+      - Rainer
+    shortCode: NodeGrundlagen
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Memory 🧠 - ein Spiel in TypeScript'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Letzte Woche wurden wir mit Memory fertig. Ihr habt euch aber gewünscht, dass zwei Spieler über Internet miteinander spielen werden. Diese Funktion fügen wir diesmal hinzu.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts. Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MemoryTypeScript
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. 
+      Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
