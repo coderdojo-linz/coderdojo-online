@@ -2,14 +2,12 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: 'Zwickeltag'
-    targetAudience: keine
+    title: 'Zwickeltag 😎🌴'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Diese Woche finden aufgrund des Zwickeltags keine Workshops statt 😎🌴. Wir freuen uns nächste Woche wieder auf euch!
+      Diese Woche finden aufgrund des Zwickeltags keine Workshops statt. Wir freuen uns nächste Woche wieder auf euch!
     prerequisites: |
-      - keine
+      - *Keine* Vorkenntnisse über Programmieren notwendig
     mentors:
-      - keine
+      - Pia
     shortCode: Zwickeltag
-
-  
