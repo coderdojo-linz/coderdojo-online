@@ -1,0 +1,13 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: 'Zwickeltag'
+    targetAudience: 
+    description: |
+      Diese Woche finden aufgrund des Zwickeltags keine Workshops statt 😎🌴. Wir freuen uns nächste Woche wieder auf euch!
+    prerequisites: 
+    mentors:
+    shortCode: Zwickeltag
+
+  
