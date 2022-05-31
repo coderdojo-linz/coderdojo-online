@@ -11,7 +11,7 @@ workshops:
 
       Dieser Workshop ist für Kinder geeignet, die Scratch noch überhaupt nicht oder nur sehr wenig kennen.
     prerequisites: |
-      - *Keine* Vorkenntnisse über Programmieren notwendig
+      - Keine Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
