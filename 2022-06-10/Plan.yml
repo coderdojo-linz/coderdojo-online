@@ -1,0 +1,89 @@
+workshops:
+  - begintime: 14:30
+    endtime: 16:30
+    status: Draft
+    title: 'Scratch 😸 CoderDojo at School'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
+    description: |
+      Wir wurden von einer Schule eingeladen, eine Scratch-Runde mit SchülerInnen zu machen. Das findet diesen Freitag statt.
+      Die Vorort-Teilnahme ist **nicht** öffentlich, sondern auf die SchülerInnen der Schule beschränkt. Ihr könnt aber ohne weiteres 
+      über Webmeeting teilnehmen wenn ihr von zu Hause aus mitmachen möchtet. Ihr seid dann über Internet beim Workshop live dabei.
+
+      Dieser Workshop ist für Kinder geeignet, die Scratch noch überhaupt nicht oder nur sehr wenig kennen.
+    prerequisites: |
+      - Keine Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Karin
+      - Irene
+      - Rainer
+    shortCode: ScratchBasics
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Draft
+    title: CoderDojo Wien
+    targetAudience: Siehe [https://wien.coderdojo.net/](https://wien.coderdojo.net/)
+    description: |
+      Das CoderDojo in Wien startet wieder mit Präsenzveranstaltungen. Näheres findet ihr unter
+      [https://wien.coderdojo.net/](https://wien.coderdojo.net/#events).
+    prerequisites: |
+      - Siehe [https://wien.coderdojo.net/](https://wien.coderdojo.net/)
+      - Das Tragen einer FFP2 Maske ist während des gesamten Aufenthalts im Gebäude mit Ausnahme im Veranstaltungssaal erforderlich!
+      - Es für alle Teilnehmer ist ein gültiger Antigen-Test (nicht älter als 24 Stunden) erforderlich.
+      - Es kann sein, dass die obigen Corona Bestimmungen an unserem Veranstaltungsort bis zum 3. Juni noch gelockert werden.
+      - Es ist nur EINE Begleitperson pro teilnehmenden Kind zugelassen.
+      - Im Übrigen gelten alle zurzeit in Wien gültigen Corona-Verordnungen für den Besuch von öffentlichen Gebäuden.
+    mentors:
+      - CoderDojo Wien
+    shortCode: CoderDojoWien
+
+  - begintime: 17:30
+    endtime: 19:00
+    status: Draft
+    title: 'Trap the Cat 😺 - ein Spiel in TypeScript'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      **Achtung! Wegen _CoderDojo@School_ starten wir um 30 Minuten später, also erst um 17:30 Uhr.**
+
+      Wir machen mit unserem *Trap the Cat*-Spiel weiter. Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: TrapTheCatTypeScript
+
+  - begintime: 17:30
+    endtime: 19:00
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
+      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
+      vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. 
+      Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
