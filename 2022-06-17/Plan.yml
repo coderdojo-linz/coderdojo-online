@@ -1,27 +1,27 @@
 workshops:
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Trap the Cat 😺 - ein Spiel in TypeScript'
+    status: Scheduled
+    title: 'Breakout - ein Spiel in TypeScript'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen diesmal unser Spiel *Trap the Cat*-Spiel fertig. Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Es ist Zeit für ein neues Projekt: Wir starten mit dem Projekt [*Breakout*](https://de.wikipedia.org/wiki/Breakout_(Computerspiel)), einem weiteren Spiele-Klassiker.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: TrapTheCatTypeScript
+    shortCode: BreakoutTypeScript
 
-  - begintime: 15:30
-    endtime: 17:00
-    status: Draft
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
-      **Achtung**: Workshop startet um 30 Minuten später, also um 15:30 Uhr.
-
       Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
       Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
       vor denen ihr momentan steht.
@@ -30,20 +30,3 @@ workshops:
     mentors:
       - Karin
     shortCode: WebOfficeHours
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren den WLAN Prozessor ESP8266 D1 mini mit der Arduino IDE Software. Es werden Sensoren und Display angeschlossen. Coole Effekte können erzeugt werden. 
-      Der Schwierigkeitsgrad richtet sich nach den Interessen der Teilnehmer. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
