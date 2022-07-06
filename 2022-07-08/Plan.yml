@@ -1,11 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Patrick mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Patrick mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein neues Scratch-Projekt: *Pixactly*, ein Ratespiel.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -13,12 +13,12 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Patrick
+      - Hans-Peter
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,11 +33,11 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Breakout - ein Spiel in TypeScript'
+    status: Scheduled
+    title: 'Pixactly 📏 - ein Ratespiel in TypeScript'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen unser Projekt [*Breakout*](https://de.wikipedia.org/wiki/Breakout_(Computerspiel)) fertig, einem echten Spiele-Klassiker. Diesmal geht es darum, Spezialblöcke einzufügen, die Power-Ups liefern. Ihr bekommt am Beginn den Startercode von Rainer. Wer die letzten Wochen einen Workshop verpasst hat, kann also gerne Quereinsteigen.
+      Wir starten mit einem neuen Projekt: *Pixactly*. Wie ihr seht, machen wir diesmal das gleiche Projekt in Scratch und TypeScript. Dadurch könnt ihr - wenn ihr Lust und Zeit habt - das Spiel in beiden Technologien programmieren und dadurch noch besser verstehen, wie sich Blockprogrammieren und textuelles Programmieren unterscheiden.
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
