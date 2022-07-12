@@ -1,0 +1,49 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 'Scratch 😸 für AnfängerInnen'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein neues Scratch-Projekt: *Pixactly*, ein Ratespiel.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - Keine Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - Hans-Peter
+    shortCode: ScratchBasics
+
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
+      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
+      vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Pixactly 📏 - ein Ratespiel in TypeScript'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wir starten mit einem neuen Projekt: *Pixactly*. Wie ihr seht, machen wir diesmal das gleiche Projekt in Scratch und TypeScript. Dadurch könnt ihr - wenn ihr Lust und Zeit habt - das Spiel in beiden Technologien programmieren und dadurch noch besser verstehen, wie sich Blockprogrammieren und textuelles Programmieren unterscheiden.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: BreakoutTypeScript
