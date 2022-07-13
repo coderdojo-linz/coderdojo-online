@@ -16,8 +16,8 @@ workshops:
       - Pia
     shortCode: ScratchBasics
 
-  - begintime: 17:00
-    endtime: 19:00
+  - begintime: 15:00
+    endtime: 17:00
     status: Scheduled
     title: 'Pixactly 📏 - ein Ratespiel in TypeScript'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
@@ -26,6 +26,8 @@ workshops:
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+
+      **Achtung:** Der Workshop startet diesmal schon um 15:00 Uhr, nicht wie sonst um 17:00 Uhr!
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
