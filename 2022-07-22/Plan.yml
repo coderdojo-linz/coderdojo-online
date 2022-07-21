@@ -26,8 +26,6 @@ workshops:
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
-
-      **Achtung:** Der Workshop startet diesmal schon um 15:00 Uhr, nicht wie sonst um 17:00 Uhr!
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
