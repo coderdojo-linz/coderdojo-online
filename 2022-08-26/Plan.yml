@@ -1,0 +1,13 @@
+workshops:
+  - begintime: 15:00
+    endtime: 19:00
+    status: Scheduled
+    title: 'Coding Camp - daher diese Woche keine Workshops'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
+    description: |
+      Diese Woche finden **keine** Onlineworkshops statt, da wir in Linz ein Coding-Camp mitveranstalten. Nächste Woche sind wir mit Onlineworkshops wieder für euch da.
+    prerequisites: |
+      - Keine Vorkenntnisse über Programmieren notwendig
+    mentors:
+      - Verschiedene
+    shortCode: CodingCamp
