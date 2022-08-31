@@ -1,11 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Pia mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Hans-Peter mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -13,12 +13,12 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Pia
+      - Hans-Peter
     shortCode: ScratchBasics
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,11 +33,11 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Vier gewinnt 🤔
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir starten mit einem neuen Projekt: Das klassische Spiel *Vier gewinnt*. Wir haben das Spiel schon vor längerer Zeit einmal gebaut. Die neue Version wird aber viel hübscher. Wer die letzten Wochen im TypeScript-Kurs war, wird einiges vom Gelernten gleich anwenden können. Falls ihr nicht dabei gewesen seid, kein Problem!
+      Wir machen weiter mit dem klassische Spiel *Vier gewinnt*. Wir haben das Spiel schon vor längerer Zeit einmal gebaut. Die neue Version wird aber viel hübscher. Wer die letzten Wochen im TypeScript-Kurs war, wird einiges vom Gelernten gleich anwenden können. Falls ihr nicht dabei gewesen seid, kein Problem!
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
@@ -46,12 +46,12 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: JumpRunAnimation
+    shortCode: ConnectFour
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Minecraft Redstone - Basics
+    status: Scheduled
+    title: Minecraft ⛏️ Redstone - Basics
     targetAudience: ab ca. 12 Jahren, keine Redstone Kenntnisse nötig
     description: |
       Nach langer Pause fangen wir wieder an mit Minecraft Redstone! Um unsere Kenntnisse aufzufrischen werden wir diesesmal wieder ganz am Anfang anfangen:
