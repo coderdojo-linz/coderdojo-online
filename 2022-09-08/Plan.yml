@@ -1,0 +1,33 @@
+workshops:
+  - begintime: 10:00
+    endtime: 19:00
+    status: Scheduled
+    title: 'CoderDojo Linz @ Ars Electronica Festival'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
+    description: |
+      Von 7. bis 11. September sind wir vorort beim **Ars Electronica Festival** im Bereich [*Create Your World*](https://ars.electronica.art/planetb/en/create-your-world/) am Campus der *Johannes Kepler Universität Linz*. Dieser Bereich ist speziell für Kinder und Jugendliche bis 19 Jahren. **Der Eintritt ist frei ([detaillierte Ticket-Informationen](https://arselectronica.kupfticket.at/ticket-information/))**. Unser Stand ist im *Keplergebäude*.
+
+      Bei uns könnt ihr lernen, wie man eigene Computerspiele programmiert und eigene, elektronische Schaltungen baut. Wir haben Übungsbeispiele für AnfängerInnen dabei, die noch nicht programmiert haben und auch welche für Kinder und Jugendliche mit vorhandener Programmier- und Elektronikerfahrung. Ihr könnt auch eure eigenen Programmier- oder Elektronikprojekte mitbringen und sie uns zeigen. Wir versuchen dann, nützliche Tipps zu geben und Fragen zu beantworten. Bei uns am Stand sind Elektronik- und Programmierprofis, die euch bei ersten Schritten helfen und denen ihr Löcher in den Bauch fragen könnt.
+    prerequisites: |
+      - Keine Vorkenntnisse notwendig
+      - Leihlaptops, Lötkolben, Übungsbeispiele, Elektronik-Verbrauchsmaterial haben wir alles mit. Ihr braucht nur Neugier und Begeisterung mitzubringen, um alles weitere kümmern wir uns.
+    mentors:
+      - Verschiedene
+    shortCode: ArsElectronica
+
+  - begintime: 13:00
+    endtime: 16:00
+    status: Scheduled
+    title: 'Introduction To Rust For Artists'
+    targetAudience: Programmierkenntnisse und English sind Voraussetzung, ideal für SchülerInnen/Studierende aus HTLs, FHs oder andere Schulen mit IT-Schwerpunkt
+    description: |
+      We have great news 🤩: Lisa Passing (https://speakerinnen.org/de/profiles/lisa-passing) will come to Linz and she agreed to give a **free workshop** about **Rust for Artists.
+
+      This workshop happens in cooperation with the [**Ars Electronica Festival** in Linz](https://ars.electronica.art/news/en/). If you can come to Linz, you can participate in the workshop **in person** (limited spaces; first come, first serve). Send an email to [info@linz.coderdojo.net](mailto:info@linz.coderdojo.net) if you would like to attend in person. If you cannot come to Linz, you can watch the workshop online ((https://youtu.be/VIkMkG8R5P4)[https://youtu.be/VIkMkG8R5P4]).
+
+      **Abstract:** Rust is a great programming language for creative coding, building games, implementing interactive sculptures, etc. It has been the most loved programming language in the famous Stack Overflow Survey for many years in a row. This workshop offers an introduction to Rust for artists who want to use it in their digital art. You will learn language fundamentals and discover (Nannou)[https://nannou.cc/], a framework for creative-coding in Rust.
+    prerequisites: |
+      - Attendees should already have programming skills in other programming languages (e.g. C, C++, Java, JavaScript, C#, etc.) as this is not a general introduction in programming but an introduction to the Rust language for people who already have some coding skills.
+    mentors:
+      - Lisa
+    shortCode: RustForArtists

@@ -1,0 +1,16 @@
+workshops:
+  - begintime: 13:00
+    endtime: 19:00
+    status: Scheduled
+    title: 'CoderDojo Linz @ Ars Electronica Festival'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
+    description: |
+      Von 7. bis 11. September sind wir vorort beim **Ars Electronica Festival** im Bereich [*Create Your World*](https://ars.electronica.art/planetb/en/create-your-world/) am Campus der *Johannes Kepler Universität Linz*. Dieser Bereich ist speziell für Kinder und Jugendliche bis 19 Jahren. **Der Eintritt ist frei ([detaillierte Ticket-Informationen](https://arselectronica.kupfticket.at/ticket-information/))**. Unser Stand ist im *Keplergebäude*.
+
+      Bei uns könnt ihr lernen, wie man eigene Computerspiele programmiert und eigene, elektronische Schaltungen baut. Wir haben Übungsbeispiele für AnfängerInnen dabei, die noch nicht programmiert haben und auch welche für Kinder und Jugendliche mit vorhandener Programmier- und Elektronikerfahrung. Ihr könnt auch eure eigenen Programmier- oder Elektronikprojekte mitbringen und sie uns zeigen. Wir versuchen dann, nützliche Tipps zu geben und Fragen zu beantworten. Bei uns am Stand sind Elektronik- und Programmierprofis, die euch bei ersten Schritten helfen und denen ihr Löcher in den Bauch fragen könnt.
+    prerequisites: |
+      - Keine Vorkenntnisse notwendig
+      - Leihlaptops, Lötkolben, Übungsbeispiele, Elektronik-Verbrauchsmaterial haben wir alles mit. Ihr braucht nur Neugier und Begeisterung mitzubringen, um alles weitere kümmern wir uns.
+    mentors:
+      - Verschiedene
+    shortCode: ArsElectronica
