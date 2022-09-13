@@ -51,13 +51,11 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: Minecraft ⛏️ Redstone - Basics
+    title: Minecraft ⛏️ Redstone - Pistons
     targetAudience: ab ca. 12 Jahren, keine Redstone Kenntnisse nötig
     description: |
-      Nach langer Pause fangen wir wieder an mit Minecraft Redstone! Um unsere Kenntnisse aufzufrischen werden wir diesesmal wieder ganz am Anfang anfangen:
-      * Was ist Redstone?
-      * Was kann man damit machen?
-      * Wie kann man einfache Logikschaltungen damit bauen?
+      Nachdem wir letztes mal unseren Basics wieder aufgefrischt haben geht es heute um einen besonders vielseitigen Block: den Kolben, oder Piston wie er im Englischen heißt.
+      Mit Kolben lassen sich nicht nur Blöcke verschieben, man kann ihn auch dazu verwenden um Logik-Schaltungen zu bauen, Blockupdates zu erkennen oder Signale ohne Verzögerung zu versenden!
     prerequisites: |
       - Minecraft Java Version 1.19.2 installiert + offiziellen Account
     mentors:
