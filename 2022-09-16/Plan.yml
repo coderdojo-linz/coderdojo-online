@@ -1,24 +1,24 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Hans-Peter mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Eugen mit euch das [*Breakout*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/breakout/)-Projekt, ein klassisches Computerspiel.
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+      Für diesen Workshop wäre es ideal, wenn du schon einmal ein einfaches Scratch-Spiel (z.B. in der Schule, bei einem CoderDojo, zu Hause) gemacht hast. Du könntest als Vorbereitung z.B. unser [Fische-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/fang-mich/) probieren.
     prerequisites: |
       - Keine Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Hans-Peter
+      - Eugen
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,11 +33,11 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Vier gewinnt 🤔
+    status: Scheduled
+    title: Morse Code
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir machen weiter mit dem klassische Spiel *Vier gewinnt*. Wir haben das Spiel schon vor längerer Zeit einmal gebaut. Die neue Version wird aber viel hübscher. Wer die letzten Wochen im TypeScript-Kurs war, wird einiges vom Gelernten gleich anwenden können. Falls ihr nicht dabei gewesen seid, kein Problem!
+      Diese Woche tauchen wir in einen Code ein, der nicht nur im Computer, sondern auch im realen Leben eine Rolle spielt: Den *Morse Code*. Wahrscheinlich haben viele von euch schon davon gehört, aber wisst ihr, was dahinter steckt und wie der Morse Code aufgebaut ist? Wir werden gemeinsam einen Übersetzer programmieren, der Text in Morse Code und umgekehrt übersetzen kann.
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
@@ -46,11 +46,11 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: ConnectFour
+    shortCode: MorseCode
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Minecraft ⛏️ Redstone - Pistons
     targetAudience: ab ca. 12 Jahren, keine Redstone Kenntnisse nötig
     description: |
@@ -61,3 +61,19 @@ workshops:
     mentors:
       - Abl
     shortCode: MinecraftRedstone
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
