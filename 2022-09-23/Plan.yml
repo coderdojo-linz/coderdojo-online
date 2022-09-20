@@ -1,39 +1,24 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Eugen mit euch das [*Breakout*](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/breakout/)-Projekt, ein klassisches Computerspiel.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Eugen mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Eugen mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
 
-      Für diesen Workshop wäre es ideal, wenn du schon einmal ein einfaches Scratch-Spiel (z.B. in der Schule, bei einem CoderDojo, zu Hause) gemacht hast. Du könntest als Vorbereitung z.B. unser [Fische-Spiel](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/fang-mich/) probieren.
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
       - Keine Vorkenntnisse über Programmieren notwendig
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Eugen
+      - TBD
     shortCode: ScratchBasics
-
-  - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: JavaScript/TypeScript Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
-    description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
-      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
-      vor denen ihr momentan steht.
-    prerequisites: |
-      - Was immer für euer Projekt notwendig ist
-    mentors:
-      - Karin
-    shortCode: WebOfficeHours
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Morse Code
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
@@ -50,21 +35,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: Minecraft ⛏️ Redstone - Pistons
-    targetAudience: ab ca. 12 Jahren, keine Redstone Kenntnisse nötig
-    description: |
-      Nachdem wir letztes mal unseren Basics wieder aufgefrischt haben geht es heute um einen besonders vielseitigen Block: den Kolben, oder Piston wie er im Englischen heißt.
-      Mit Kolben lassen sich nicht nur Blöcke verschieben, man kann ihn auch dazu verwenden um Logik-Schaltungen zu bauen, Blockupdates zu erkennen oder Signale ohne Verzögerung zu versenden!
-    prerequisites: |
-      - Minecraft Java Version 1.19.2 installiert + offiziellen Account
-    mentors:
-      - Abl
-    shortCode: MinecraftRedstone
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -77,3 +48,16 @@ workshops:
     mentors:
       - Günther
     shortCode: Elektronikbasteln
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: CoderDojo Steyr
+    targetAudience: Technikbegeisterte Kinder und Jugendliche
+    description: |
+      Am 23.09.2022 findet vom CoderDojo in Steyr ein Treffen statt. Näheres findet ihr unter [https://tic-steyr.at/coderdojo-steyr](https://tic-steyr.at/coderdojo-steyr).
+    prerequisites: |
+      - Siehe Webseite vom CoderDojo Steyr
+    mentors:
+      - Verschiedene
+    shortCode: CoderDojoSteyr
