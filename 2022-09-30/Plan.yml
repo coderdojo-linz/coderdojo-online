@@ -1,0 +1,63 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: 'Scratch 😸 für AnfängerInnen'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    description: |
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Eugen mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Eugen mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - Keine Vorkenntnisse über Programmieren notwendig
+      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
+      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+    mentors:
+      - TBD
+    shortCode: ScratchBasics
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Morse Code
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Diese Woche tauchen wir in einen Code ein, der nicht nur im Computer, sondern auch im realen Leben eine Rolle spielt: Den *Morse Code*. Wahrscheinlich haben viele von euch schon davon gehört, aber wisst ihr, was dahinter steckt und wie der Morse Code aufgebaut ist? Wir werden gemeinsam einen Übersetzer programmieren, der Text in Morse Code und umgekehrt übersetzen kann.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MorseCode
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+
+  - begintime: 16:00
+    endtime: 18:00
+    status: Draft
+    title: CoderDojo Steyr
+    targetAudience: Technikbegeisterte Kinder und Jugendliche
+    description: |
+      Am 23.09.2022 findet vom CoderDojo in Steyr ein Treffen statt. Näheres findet ihr unter [https://tic-steyr.at/coderdojo-steyr](https://tic-steyr.at/coderdojo-steyr).
+    prerequisites: |
+      - Siehe Webseite vom CoderDojo Steyr
+    mentors:
+      - Verschiedene
+    shortCode: CoderDojoSteyr
