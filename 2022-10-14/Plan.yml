@@ -65,3 +65,16 @@ workshops:
     mentors:
       - Günther
     shortCode: Elektronikbasteln
+    
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Minecraft ⛏️ Redstone - Command Blöcke
+    targetAudience: ab ca. 12 Jahren, keine Redstone oder Commandblock-kenntnisse nötig
+    description: |
+      Diesesmal werden wir uns etwas neues anschauen und uns mit Commandblöcken auseindanersetzen. Was kann man damit alles machen, wie funktionieren sie?
+    prerequisites: |
+      - Minecraft Java Version 1.19.2 installiert + offiziellen Account
+    mentors:
+      - Abl
+    shortCode: MinecraftRedstone
