@@ -1,0 +1,32 @@
+workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
+      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
+      vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Halloween Puzzle 👻🎃
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Halloween kommt näher, deshalb machen wir unser *Halloween Puzzle* fertig. Ihr bekommt wie immer am Beginn den Startercode. Quereinsteigen ist dadurch kein Problem!
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: HalloweenPuzzle
