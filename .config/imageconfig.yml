@@ -1,0 +1,38 @@
+keywords:
+  -
+    keyword: "scratch"
+    Thumbnail: "https://de.scratch-wiki.info/w/images/e/ed/Scratch_cat_large.png"
+  -
+    keyword: "c#"
+    alias:
+      - "csharp"
+      - "dotnet"
+    Thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1280px-C_Sharp_wordmark.svg.png"
+  -
+    keyword: "docker"
+    Thumbnail: "https://oneclick-cloud.com/wp-content/uploads/2019/09/Bigstock_-139961875-Docker-Emblem.-A-Blue-Whale-With-Several-Containers.-e1574090673987-768x426.jpg"
+  -
+    keyword: "typescript"
+    Thumbnail: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"
+  -
+    keyword: "elektronikbasteln"
+    alias:
+      - "elektronik"
+      - "elektronik basteln"
+      - "ESP32"
+      - "Microcontroller"
+    Thumbnail: "https://www.ingenieur.de/wp-content/uploads/2020/12/panthermedia_B24073749_1000x667-313x156.jpg"
+  -
+    keyword: "css"
+    Thumbnail: "https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png"
+  -
+    keyword: Minecraft
+    Thumbnail: "https://m.media-amazon.com/images/I/512dVKB22QL.png"
+shortCodes:
+  -
+    shortCode: ScratchBasics
+    alias: 
+      - "Scratch Basics"
+      - ScratchyScratch
+      - GearsBot
+    Thumbnail: "https://de.scratch-wiki.info/w/images/e/ed/Scratch_cat_large.png"
