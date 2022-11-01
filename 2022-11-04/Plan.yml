@@ -23,7 +23,8 @@ workshops:
       Letzte Woche haben wir erste Schritte mit isometrischen Spielewelten gemacht. Diesmal gehen wir einen Schritt weiter und bauen uns eine echte Spielewelt mit Grafik-Bausteinen. Solltet ihr letzte Woche nicht dabei gewesen sein, kein Problem. Quereinsteigen ist ohne weiteres möglich!
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
-      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. 
+      Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
