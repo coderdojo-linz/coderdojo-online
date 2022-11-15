@@ -1,11 +1,11 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Hans-Peter mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Hans-Peter mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Pia mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -13,12 +13,12 @@ workshops:
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
       - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
     mentors:
-      - Hans-Peter
+      - Pia
     shortCode: ScratchBasics
 
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -30,16 +30,27 @@ workshops:
     mentors:
       - Karin
     shortCode: WebOfficeHours
+  
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Minecraft ⛏️ Redstone - Command Blöcke
+    targetAudience: ab ca. 12 Jahren, keine Redstone oder Commandblock-kenntnisse nötig
+    description: |
+      Diesesmal werden wir uns etwas neues anschauen und uns mit Commandblöcken auseindanersetzen. Was kann man damit alles machen, wie funktionieren sie?
+    prerequisites: |
+      - Minecraft Java Version 1.19.2 installiert + offiziellen Account
+    mentors:
+      - Abl
+    shortCode: MinecraftRedstone
 
-  - begintime: 17:30
+  - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Ghost Parkour 👻 - Spielereien mit Isometrie
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      **⚠️ Achtung ⚠️:** Diesmal aus beruflichen Gründen Start eine halbe Stunde später als üblich!
-
-      Hast du schon einmal von "isometrischer Darstellung" gehört? Das Spiel Minecraft stellt Welten zum Beispiel so dar. Wir bauen ein Spiel nach dem gleichen Prinzip. In den letzten beiden Wochen haben wir begonnen und diese Woche machen wir weiter. Quereinsteigen ist aber kein Problem, ihr könnt den bisherigen Code zum Starten haben.
+      Hast du schon einmal von "isometrischer Darstellung" gehört? Das Spiel Minecraft stellt Welten zum Beispiel so dar. Wir bauen ein Spiel nach dem gleichen Prinzip. In den letzten Wochen haben wir begonnen und diese Woche machen wir weiter. Wir fügen Monster ein, die uns durch den Pakour jagen. Quereinsteigen ist kein Problem, ihr könnt den bisherigen Code zum Starten haben.
 
       Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
@@ -52,7 +63,7 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
@@ -65,3 +76,4 @@ workshops:
     mentors:
       - Günther
     shortCode: Elektronikbasteln
+  
