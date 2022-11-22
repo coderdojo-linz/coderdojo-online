@@ -1,0 +1,17 @@
+workshops:
+  - begintime: 17:30
+    endtime: 19:00
+    status: Scheduled
+    title: Code a Carol 🎶🎄 - Wir programmieren ein Weihnachtslied mit Sonic Pi
+    targetAudience: ab 12, keine Programmiererfahrung, keine Angst vorm Tippen
+    description: |
+      Wusstet ihr, dass man mit Code auch musizieren kann? Drums, Base, Melodie, Soundeffekt - alles ist möglich. In diesem Workshop programmieren wir mit euch ein Weihnachtslied. Die dafür notwendige Software *Sonic Pi* ist kostenlos. Ihr müsst sie **vor dem Workshop** bei euch installieren. Dann geht es auch schon los, eurem persönlichen Weihnachts-Hit 2022 steht nichts mehr im Weg.
+    prerequisites: |
+      - Bitte installiert euch schon vor dem Workshop [Sonic Pi](https://sonic-pi.net/).
+    mentors:
+      - Pia
+      - Karin
+    shortCode: CodeACarol
+  
+
+  
