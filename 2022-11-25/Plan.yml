@@ -1,4 +1,16 @@
 workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Minecraft ⛏️ Redstone - Command Blöcke - Text formatieren
+    targetAudience: ab ca. 12 Jahren, keine Redstone oder Commandblock-kenntnisse nötig
+    description: |
+      Diesesmal werden wir uns ansehen wie sogenannte "Raw JSON Strings" in Minecraft funktionieren. Damit kann man zum Beispiel Text farbig machen oder durch einen Klick auf einen Text ein Event auslösen!
+    prerequisites: |
+      - Minecraft Java Version 1.19.2 installiert + offiziellen Account
+    mentors:
+      - Abl
+    shortCode: MinecraftRedstone
   - begintime: 16:00
     endtime: 17:00
     status: Scheduled
