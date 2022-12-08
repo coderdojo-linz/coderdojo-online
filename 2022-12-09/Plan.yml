@@ -1,11 +1,11 @@
 workshops:
   - begintime: 16:00
-    endtime: 18:00
+    endtime: 17:30
     status: Scheduled
-    title: Advent of Code 🎄 - Tage 1 und 2 für AnfängerInnen
+    title: Advent of Code 🎄 - Tag 6 für AnfängerInnen
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Am 1. Dezember ging nicht nur die erste Türe am Adventkalender auf, es startete auch wieder [*Advent of Code*](https://adventofcode.com), ein digitaler Adventkalender, bei dem Coder jeden Tag ein Programmierrätsel lösen können. In diesem Workshop nehmen wir uns Zeit, die Rätsel von Tag 1 und Tag 2 durchzuarbeiten und uns die vier Sterne ⭐ zu holen.
+      Am 1. Dezember ging nicht nur die erste Türe am Adventkalender auf, es startete auch wieder [*Advent of Code*](https://adventofcode.com), ein digitaler Adventkalender, bei dem Coder jeden Tag ein Programmierrätsel lösen können. In diesem Workshop nehmen wir uns Zeit, die Rätsel von Tag 6 durchzuarbeiten und uns die Sterne ⭐ zu holen.
 
       Am Beginn des Workshops teilen wir uns in zwei Gruppen auf. Karin macht TypeScript, Rainer macht C#. Die ersten Tage von *Advent of Code* sind üblicherweise noch leicht und gut für ProgrammieranfängerInnen geeignet. Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
       Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben. Schaut vorbei und tüftelt mit uns.
@@ -17,19 +17,19 @@ workshops:
       - Karin
     shortCode: AdventOfCodeBeginner
 
-  - begintime: 17:00
+  - begintime: 17:30
     endtime: 19:00
     status: Scheduled
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    title: Hexagon - ein Spiel mit TypeScript
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
-      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+      Es ist Zeit, ein neues Game-Projekt im TypeScript-Workshop zu starten. Wir bauen das klassische Brettspiel [*Hex*](https://en.wikipedia.org/wiki/Hex_%28board_game%29) als Computerspiel nach.
 
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
     prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-  
+      - Rainer
+    shortCode: HexGame
