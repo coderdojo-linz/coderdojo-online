@@ -1,0 +1,35 @@
+workshops:
+  - begintime: 16:00
+    endtime: 17:30
+    status: Draft
+    title: Advent of Code 🎄 - Tag 6 für AnfängerInnen
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Am 1. Dezember ging nicht nur die erste Türe am Adventkalender auf, es startete auch wieder [*Advent of Code*](https://adventofcode.com), ein digitaler Adventkalender, bei dem Coder jeden Tag ein Programmierrätsel lösen können. In diesem Workshop nehmen wir uns Zeit, die Rätsel von Tag 6 durchzuarbeiten und uns die Sterne ⭐ zu holen.
+
+      Am Beginn des Workshops teilen wir uns in zwei Gruppen auf. Karin macht TypeScript, Rainer macht C#. Die ersten Tage von *Advent of Code* sind üblicherweise noch leicht und gut für ProgrammieranfängerInnen geeignet. Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben. Schaut vorbei und tüftelt mit uns.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+      - Karin
+    shortCode: AdventOfCodeBeginner
+
+  - begintime: 17:30
+    endtime: 19:00
+    status: Draft
+    title: Hexagon - ein Spiel mit TypeScript
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Es ist Zeit, ein neues Game-Projekt im TypeScript-Workshop zu starten. Wir bauen das klassische Brettspiel [*Hex*](https://en.wikipedia.org/wiki/Hex_%28board_game%29) als Computerspiel nach.
+
+      Wenn ihr noch nie etwas textuell programmiert habt, macht das nichts.
+      Dieser Workshop ist eine gute Gelegenheit zum Starten. Ihr solltet nur schon ein paar Scratch-Spiele programmiert haben.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: HexGame
