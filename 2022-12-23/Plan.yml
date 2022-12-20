@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Scheduled
+    status: Draft
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
@@ -18,7 +18,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 16:30
-    status: Scheduled
+    status: Draft
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,7 +33,7 @@ workshops:
 
   - begintime: 17:30
     endtime: 19:00
-    status: Scheduled
+    status: Draft
     title: Hexagon - ein Spiel mit TypeScript
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
     description: |
