@@ -3,7 +3,7 @@ workshops:
     endtime: 19:00
     status: Scheduled
     title: 'Methoden, Methoden, Methoden'
-    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
       Willkommen im neuen Jahr! Wir starten mit einem wichtigen Thema fürs Programmieren: Methoden. Methoden gibt es in Scratch und praktisch jeder textuellen Programmiersprache. In diesem Workshop erkunden wir anhand von Beispielen in Scratch, TypeScript und C#, was Methoden sind und wie man sie verwendet.
 
