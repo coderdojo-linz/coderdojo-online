@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
@@ -18,7 +18,7 @@ workshops:
 
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,11 +33,11 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Arrays, Arrays, Arrays'
+    status: Scheduled
+    title: 'Klassen, Klassen, Klassen'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Letzte Woche waren Methoden dran, diese Woche schauen wir uns im Detail an, was es zu *Arrays* zu sagen gibt. Arrays gibt es in Scratch (dort heißen sie *Listen*) und praktisch jeder textuellen Programmiersprache. In diesem Workshop erkunden wir anhand von Beispielen in Scratch und TypeScript, was Arrays sind und wie man sie verwendet.
+      Vor zwei Wochen haben wir uns Methoden im Detail angesehen, letzte Woche waren Arrays dran. Diese Woche sind Klassen dran. Wir schauen uns Schritt für Schritt an, was man mit Klassen anstellen kann und wo sie beim Creative Coding interessant sein könnten.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -46,21 +46,5 @@ workshops:
       - Zugriff auf [Scratch](https://scratch.mit.edu.com)
     mentors:
       - Rainer
-    shortCode: Arrays
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
+    shortCode: Klassen
   
