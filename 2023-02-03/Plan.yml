@@ -1,24 +1,25 @@
 workshops:
   - begintime: 15:00
     endtime: 17:00
-    status: Draft
-    title: 'Scratch 😸 für AnfängerInnen'
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
+    status: Scheduled
+    title: 'Blockprogrammieren mit micro:bit für AnfängerInnen'
+    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
     description: |
-      Hast du Lust zu lernen, wie man mit Scratch ein Computerspiel programmiert? Diese Woche baut Pia mit euch ein Scratch-Projekt. Abhängig von den Vorkenntnissen der TeilnehmerInnen sucht Pia mit euch am Beginn ein passendes Scratch-Spiel aus und dann legt ihr los.
+      Wenn ihr noch nie etwas programmiert habt oder noch relativ wenig Erfahrung mit Blockprogrammieren z.B. mit Scratch habt, dann seid ihr bei diesem Workshop richtig. Gemeinsam bauen wir mit der Plattform [*MakeCode*](https://makecode.microbit.org/) ein kleines Spaceshooter-Game für den [micro:bit](https://microbit.org/). Ihr braucht zum Mitmachen keinen eigenen micro:bit, wir können alles im Browser machen.
+
+      Wer mag und aus der Gegend um Linz ist, kommt dann nächste Woche ins Präsenz-CoderDojo. Dann erweitern wir das Spiel zu einem Multiplayer-Game und probieren es auf echten micro:bits aus.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
       - Keine Vorkenntnisse über Programmieren notwendig
-      - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
-      - Installierte Version von Scratch 3 ([Download](https://scratch.mit.edu/download)) oder Online-Version von Scratch - dafür brauchst du nur einen Browser und öffnest [https://scratch.mit.edu/create/](https://scratch.mit.edu/create/)
+      - Zugriff auf [*MakeCode*](https://makecode.microbit.org/)
     mentors:
-      - Pia
-    shortCode: ScratchBasics
+      - Matthias
+    shortCode: Microbit
 
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -32,12 +33,12 @@ workshops:
     shortCode: WebOfficeHours
 
   - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: 'Klassen, Klassen, Klassen'
+    endtime: 18:30
+    status: Scheduled
+    title: 'Loops, Loops, Loops'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Vor zwei Wochen haben wir uns Methoden im Detail angesehen, letzte Woche waren Arrays dran. Diese Woche sind Klassen dran. Wir schauen uns Schritt für Schritt an, was man mit Klassen anstellen kann und wo sie beim Creative Coding interessant sein könnten.
+      Es ist Zeit für einen weiteren Grundlagen-Workshop. Methoden haben wir uns schon angesehen, danach Arrays und letztens Klassen. Diese Woche sind Schleifen dran. Wir schauen uns Schritt für Schritt an, welche Schleifen es in TypeScript gibt und wo sie beim Creative Coding interessant sein könnten.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -46,11 +47,11 @@ workshops:
       - Zugriff auf [Scratch](https://scratch.mit.edu.com)
     mentors:
       - Rainer
-    shortCode: Klassen
+    shortCode: Loops
   
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
