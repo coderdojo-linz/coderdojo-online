@@ -1,25 +1,7 @@
 workshops:
   - begintime: 15:00
-    endtime: 17:00
-    status: Draft
-    title: 'Blockprogrammieren mit micro:bit für AnfängerInnen'
-    targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig
-    description: |
-      Wenn ihr noch nie etwas programmiert habt oder noch relativ wenig Erfahrung mit Blockprogrammieren z.B. mit Scratch habt, dann seid ihr bei diesem Workshop richtig. Gemeinsam bauen wir mit der Plattform [*MakeCode*](https://makecode.microbit.org/) ein kleines Spaceshooter-Game für den [micro:bit](https://microbit.org/). Ihr braucht zum Mitmachen keinen eigenen micro:bit, wir können alles im Browser machen.
-
-      Wer mag und aus der Gegend um Linz ist, kommt dann nächste Woche ins Präsenz-CoderDojo. Dann erweitern wir das Spiel zu einem Multiplayer-Game und probieren es auf echten micro:bits aus.
-
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
-    prerequisites: |
-      - Keine Vorkenntnisse über Programmieren notwendig
-      - Zugriff auf [*MakeCode*](https://makecode.microbit.org/)
-    mentors:
-      - Matthias
-    shortCode: Microbit
-
-  - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -33,25 +15,24 @@ workshops:
     shortCode: WebOfficeHours
 
   - begintime: 17:00
-    endtime: 18:30
-    status: Draft
-    title: 'Loops, Loops, Loops'
+    endtime: 19:00
+    status: Scheduled
+    title: 'Wir bauen eine Uhr ⏱️ - Vektorgrafiken im Web mit SVG'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Es ist Zeit für einen weiteren Grundlagen-Workshop. Methoden haben wir uns schon angesehen, danach Arrays und letztens Klassen. Diese Woche sind Schleifen dran. Wir schauen uns Schritt für Schritt an, welche Schleifen es in TypeScript gibt und wo sie beim Creative Coding interessant sein könnten.
+      Webbrowser sind faszinierende Software. Sie können Texte und Bilder anzeigen, Videos darstellen und Musik abspielen. Webbrowser sind auch besonders gut darin, Grafiken anzuzeigen. Hinter ihnen steckt in vielen Fällen etwas, das sich *Vektorgrafik* nennt. In diesem Workshop erkunden wir Vektorgrafiken (SVGs) und verwenden Sie, um eine Analoguhr zu bauen. Das Verständnis für SVG wird euch beim Bauen eigener Webseiten und Browser Games oft hilfreich sein.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
-      - Zugriff auf [Scratch](https://scratch.mit.edu.com)
     mentors:
       - Rainer
-    shortCode: Loops
+    shortCode: SVG
   
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
