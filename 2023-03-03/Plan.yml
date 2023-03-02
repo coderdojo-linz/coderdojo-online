@@ -17,10 +17,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
-    title: 'Wir bauen eine Uhr ⏱️ - Vektorgrafiken im Web mit SVG'
+    title: 'Monster Builder 👹'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Webbrowser sind faszinierende Software. Sie können Texte und Bilder anzeigen, Videos darstellen und Musik abspielen. Webbrowser sind auch besonders gut darin, Grafiken anzuzeigen. Hinter ihnen steckt in vielen Fällen etwas, das sich *Vektorgrafik* nennt. Letzte Woche haben wir die Grundlagen von Vektorgrafiken (SVGs) erarbeitet. Diese Woche bringen wir TypeScript und SVG zusammen, um die Uhr zu stellen und vielleicht sogar eine Stopp-Funktion hinzuzufügen.
+      Wir bauen am *Monster Builder* mit HTML, CSS und TypeScript weiter. Mit eurem Programm können eure Freunde sich ihre eigenen Monster zusammenstellen.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
