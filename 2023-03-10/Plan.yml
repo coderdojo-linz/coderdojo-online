@@ -17,10 +17,10 @@ workshops:
   - begintime: 17:00
     endtime: 19:00
     status: Draft
-    title: 'Monster Builder 👹'
+    title: 'Khz nlolptl Whzzdvya pza thzalyjvkly'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Wir bauen am *Monster Builder* mit HTML, CSS und TypeScript weiter. Mit eurem Programm können eure Freunde sich ihre eigenen Monster zusammenstellen.
+      Habt ihr euch immer schon gefragt, wie man eigentlich Daten verschlüsselt? In diesem Workshop bauen wir mit HTML, TypeScript und React ein Web-Tool zum Verschlüsseln und Entschlüsseln von geheimen Botschaften. Am Freitag starten wir ganz einfach mit der *Caesar-Cipher*. Nächste Woche verbessern wir unser Programm dann, damit unsere Verschlüsselung schwerer zu knacken sein wird.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
@@ -28,7 +28,7 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: SVG
+    shortCode: CaesarCipher
   
   - begintime: 17:00
     endtime: 19:00
