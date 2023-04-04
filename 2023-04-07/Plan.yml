@@ -1,0 +1,47 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
+      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
+      vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Da kummt die Sunn ⛅'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Es ist schon faszinierend, was man mit CSS alles anstellen kann. Letzte Woche haben wir erste Wolken und eine Sonne mit CSS-Effekten gemalt. Diese Woche arbeiten uns vor zu fotorealistischen Wolken. Ihr werdet überrascht sein, welche Ergebnisse man mit ein paar Zeilen CSS und einigen Tricks erreichen kann.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: DaKummtDieSunn
+  
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
