@@ -1,0 +1,32 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem 
+      Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, 
+      vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Bees 🐝 vs. Birds 🐦'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Es ist wieder einmal an der Zeit, ein kleines Spiel zu programmieren. Wir schnuppern in die Game-Entwicklung mit TypeScript und _Excalibur_ hinein und basteln ein Geschicklichkeitsspiel.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: BeesVsBirds
+  
