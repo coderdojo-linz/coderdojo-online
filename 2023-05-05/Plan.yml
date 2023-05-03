@@ -1,46 +1,35 @@
 workshops:
-  - begintime: 15:00
-    endtime: 16:30
-    status: Draft
-    title: JavaScript/TypeScript Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+  - begintime: 16:00
+    endtime: 18:00
+    status: Scheduled
+    title: 'WAFF-Workshop: Monster Builder 👹'
+    targetAudience: ab ca. 14 Jahren, keine Angst vor der Tastatur 
     description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+      **Coding-Workshop in Kooperation mit CoderDojo Wien und [WAFF](https://www.waff.at/e/jetzt-programmieren-lernen-wiener-wochen-2023/)**
+
+      Wir bauen einen *Monster Builder* mit HTML, CSS und TypeScript. Mit eurem Programm können eure Freunde sich ihre eigenen Monster zusammenstellen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
     prerequisites: |
-      - Was immer für euer Projekt notwendig ist
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Karin
-    shortCode: WebOfficeHours
+    shortCode: MonsterBuilder
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Bees 🐝 vs. Birds 🐦 - die Powerups 💪'
+    status: Scheduled
+    title: 'Von TypeScript nach Python 🐍'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Letzte Woche haben wir unser Spiel mit Bienen und Vögel fertig gemacht. Ihr habt euch Powerups 💪 für die Biene gewünscht. Das gehen wir diese Woche an.
-
+      Diese Woche haben wir wieder mal unseren Mentor Patrick zu Gast. Daher pausieren wir unsere TypeScript-Workshopserie und schnuppern mit Patrick und Rainer in die Programmiersprache Python rein. Anhand eines kleinen Beispiels lernen wir die Unterschiede der Sprachen kennen.
+      
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: BeesVsBirds
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-  
+      - Patrick
+    shortCode: TypescriptPython
