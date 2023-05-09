@@ -1,0 +1,35 @@
+workshops:
+  - begintime: 16:00
+    endtime: 18:00
+    status: Draft
+    title: 'WAFF-Workshop: Monster Builder 👹'
+    targetAudience: ab ca. 14 Jahren, keine Angst vor der Tastatur 
+    description: |
+      **Coding-Workshop in Kooperation mit CoderDojo Wien und [WAFF](https://www.waff.at/e/jetzt-programmieren-lernen-wiener-wochen-2023/)**
+
+      Wir bauen einen *Monster Builder* mit HTML, CSS und TypeScript. Mit eurem Programm können eure Freunde sich ihre eigenen Monster zusammenstellen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie programmiert haben, sind herzlich willkommen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Karin
+    shortCode: MonsterBuilder
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: 'Von TypeScript nach Python 🐍'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Diese Woche haben wir wieder mal unseren Mentor Patrick zu Gast. Daher pausieren wir unsere TypeScript-Workshopserie und schnuppern mit Patrick und Rainer in die Programmiersprache Python rein. Anhand eines kleinen Beispiels lernen wir die Unterschiede der Sprachen kennen.
+      
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+      - Patrick
+    shortCode: TypescriptPython
