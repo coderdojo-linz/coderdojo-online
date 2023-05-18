@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -14,23 +14,23 @@ workshops:
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
-    title: 'Bees 🐝 vs. Birds 🐦 - die Powerups 💪'
+    status: Scheduled
+    title: 'Lasst uns über KI reden und damit programmieren'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Letzte Woche haben wir unser Spiel mit Bienen und Vögel fertig gemacht. Ihr habt euch Powerups 💪 für die Biene gewünscht. Das gehen wir diese Woche an.
+      Es wird gerade viel über *künstliche Intelligenz* geredet und geschrieben. Habt ihr ChatGPT, Midjourney & Co schon mal gesehen oder vielleicht sogar damit experimentiert? Wir diskutieren über KI, reden darüber, was KI eigentlich ist und dann programmieren wir eine kleine Webseite mit Hilfe einer KI.
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. **Achtung:** Einige der KIs, die wir beim Workshop probieren, dürfen von Kindern nur nach Erlaubnis bzw. unter Aufsicht der Erziehungsberechtigten genutzt werden. Rainer wird beim Workshop KI-Systeme herzeigen und euch die Ergebnisse fürs Programmieren zur Verfügung stellen. Falls ihr selbst Dinge mit KI probieren wollt, müsst ihr die Zustimmung eurer Erziehungsberechtigten einholen bzw. sollten diese beim Workshop mit euch dabei sein.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: BeesVsBirds
+    shortCode: KiKiKi
 
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
