@@ -1,0 +1,46 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Draft
+    title: 'Lasst uns über KI reden und damit programmieren'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Es wird gerade viel über *künstliche Intelligenz* geredet und geschrieben. Habt ihr ChatGPT, Midjourney & Co schon mal gesehen oder vielleicht sogar damit experimentiert? Wir diskutieren über KI, reden darüber, was KI eigentlich ist und dann programmieren wir eine kleine Webseite mit Hilfe einer KI.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. **Achtung:** Einige der KIs, die wir beim Workshop probieren, dürfen von Kindern nur nach Erlaubnis bzw. unter Aufsicht der Erziehungsberechtigten genutzt werden. Rainer wird beim Workshop KI-Systeme herzeigen und euch die Ergebnisse fürs Programmieren zur Verfügung stellen. Falls ihr selbst Dinge mit KI probieren wollt, müsst ihr die Zustimmung eurer Erziehungsberechtigten einholen bzw. sollten diese beim Workshop mit euch dabei sein.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: KiKiKi
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Draft
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
+  
