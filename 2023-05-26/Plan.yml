@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -12,35 +12,20 @@ workshops:
       - Karin
     shortCode: WebOfficeHours
 
-  - begintime: 17:00 
-    endtime: 19:00
-    status: Draft
-    title: 'Lasst uns über KI reden und damit programmieren'
+  - begintime: 16:00 
+    endtime: 18:00
+    status: Scheduled
+    title: 'APIs? Was sind APIs?'
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Es wird gerade viel über *künstliche Intelligenz* geredet und geschrieben. Habt ihr ChatGPT, Midjourney & Co schon mal gesehen oder vielleicht sogar damit experimentiert? Wir diskutieren über KI, reden darüber, was KI eigentlich ist und dann programmieren wir eine kleine Webseite mit Hilfe einer KI.
+      **Achtung:** Geänderte Beginnzeit des Workshops mit Rainer. **Wir starten diesmal um 16:00 Uhr**!
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. **Achtung:** Einige der KIs, die wir beim Workshop probieren, dürfen von Kindern nur nach Erlaubnis bzw. unter Aufsicht der Erziehungsberechtigten genutzt werden. Rainer wird beim Workshop KI-Systeme herzeigen und euch die Ergebnisse fürs Programmieren zur Verfügung stellen. Falls ihr selbst Dinge mit KI probieren wollt, müsst ihr die Zustimmung eurer Erziehungsberechtigten einholen bzw. sollten diese beim Workshop mit euch dabei sein.
+      Als Menschen verwenden wir üblicherweise Web Browser zum Interagieren mit Webservern. Sie stellen Daten übersichtlich dar und ermöglichen uns, Anfragen an Server im Internet zu stellen. Doch es gibt eine Welt dahinter. Viele der Web-Dienste, die ihr täglich nutzt, bieten ihre Dienste auch über Programmierschnittstellen, sogenannte *Application Programming Interfaces* (kurz APIs) an. Wenn man programmieren kann, kann man mit diesen APIs spannende Dinge machen. Genau das wollen wir uns in diesem Workshop ansehen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Rainer wird euch am Beginn des Workshops einige Dinge zeigen und anschließend schreiben wir ein wenig TypeScript-Code, um selbst einmal eine API aufzurufen und etwas mit dem Ergebnis zu machen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: KiKiKi
-
-  - begintime: 17:00
-    endtime: 19:00
-    status: Draft
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-  
+    shortCode: ApisApisApis
