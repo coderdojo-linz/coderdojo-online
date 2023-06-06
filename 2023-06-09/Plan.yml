@@ -1,0 +1,31 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 16:00 
+    endtime: 18:00
+    status: Draft
+    title: 'APIs? Was sind APIs?'
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      **Achtung:** Geänderte Beginnzeit des Workshops mit Rainer. **Wir starten diesmal um 16:00 Uhr**!
+
+      Als Menschen verwenden wir üblicherweise Web Browser zum Interagieren mit Webservern. Sie stellen Daten übersichtlich dar und ermöglichen uns, Anfragen an Server im Internet zu stellen. Doch es gibt eine Welt dahinter. Viele der Web-Dienste, die ihr täglich nutzt, bieten ihre Dienste auch über Programmierschnittstellen, sogenannte *Application Programming Interfaces* (kurz APIs) an. Wenn man programmieren kann, kann man mit diesen APIs spannende Dinge machen. Genau das wollen wir uns in diesem Workshop ansehen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Rainer wird euch am Beginn des Workshops einige Dinge zeigen und anschließend schreiben wir ein wenig TypeScript-Code, um selbst einmal eine API aufzurufen und etwas mit dem Ergebnis zu machen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: ApisApisApis
