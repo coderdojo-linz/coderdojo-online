@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -12,20 +12,18 @@ workshops:
       - Karin
     shortCode: WebOfficeHours
 
-  - begintime: 16:00 
-    endtime: 18:00
-    status: Draft
-    title: 'APIs? Was sind APIs?'
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Scheduled
+    title: Ein Domino-Spiel mit TypeScript 🁷🁠
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      **Achtung:** Geänderte Beginnzeit des Workshops mit Rainer. **Wir starten diesmal um 16:00 Uhr**!
+      Wir starten ein neues, kleines Projekt. Unser Ziel ist es, in den nächsten Wochen ein einfaches Domino-Spiel zu programmieren. Diese Woche beginnen wir mit der Spielfläche und positionieren erste Domino-Steine. In den nächsten Wochen fügen wir dann die Spiellogik hinzu.
 
-      Als Menschen verwenden wir üblicherweise Web Browser zum Interagieren mit Webservern. Sie stellen Daten übersichtlich dar und ermöglichen uns, Anfragen an Server im Internet zu stellen. Doch es gibt eine Welt dahinter. Viele der Web-Dienste, die ihr täglich nutzt, bieten ihre Dienste auch über Programmierschnittstellen, sogenannte *Application Programming Interfaces* (kurz APIs) an. Wenn man programmieren kann, kann man mit diesen APIs spannende Dinge machen. Genau das wollen wir uns in diesem Workshop ansehen.
-
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Rainer wird euch am Beginn des Workshops einige Dinge zeigen und anschließend schreiben wir ein wenig TypeScript-Code, um selbst einmal eine API aufzurufen und etwas mit dem Ergebnis zu machen.
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: ApisApisApis
+    shortCode: Domino
