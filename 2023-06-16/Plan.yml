@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -14,11 +14,11 @@ workshops:
 
   - begintime: 17:00 
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Ein Domino-Spiel mit TypeScript 🁷🁠
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Wir starten ein neues, kleines Projekt. Unser Ziel ist es, in den nächsten Wochen ein einfaches Domino-Spiel zu programmieren. Diese Woche beginnen wir mit der Spielfläche und positionieren erste Domino-Steine. In den nächsten Wochen fügen wir dann die Spiellogik hinzu.
+      Wir bauen weiter an unserem Domino Spiel. Unser Ziel ist es, in den nächsten Wochen ein einfaches Domino-Spiel zu programmieren. Diese Woche positionieren wir die Domino-Steine und starten dann mit der Spiellogik.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
     prerequisites: |
