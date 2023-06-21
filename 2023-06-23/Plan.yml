@@ -1,36 +1,7 @@
 workshops:
   - begintime: 15:00
-    endtime: 16:30
-    status: Draft
-    title: JavaScript/TypeScript Fragestunde
-    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
-    description: |
-      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
-    prerequisites: |
-      - Was immer für euer Projekt notwendig ist
-    mentors:
-      - Karin
-    shortCode: WebOfficeHours
-
-  - begintime: 17:00 
-    endtime: 19:00
-    status: Draft
-    title: Ein Domino-Spiel mit TypeScript 🁷🁠
-    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
-    description: |
-      Wir bauen weiter an unserem Domino Spiel. Unser Ziel ist es, in den nächsten Wochen ein einfaches Domino-Spiel zu programmieren. Diese Woche positionieren wir die Domino-Steine und starten dann mit der Spiellogik.
-
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
-    prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
-      - Zugriff auf [Stackblitz](https://stackblitz.com)
-    mentors:
-      - Rainer
-    shortCode: Domino
-
-  - begintime: 15:00
     endtime: 17:00
-    status: Draft
+    status: Scheduled
     title: 'Scratch 😸 für AnfängerInnen'
     targetAudience: ab 8 Jahren, keine Vorkenntnisse notwendig, fortgeschrittene ScratcherInnen sind auch willkommen
     description: |
@@ -45,3 +16,31 @@ workshops:
       - Hans-Peter
     shortCode: ScratchBasics
 
+  - begintime: 15:00
+    endtime: 16:30
+    status: Scheduled
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Scheduled
+    title: Babylonjs - wir bauen eine 3D-Welt im Browser 🏠
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Habt ihr euch schon mal gefragt, wie 3D-Umgebungen in Computerspielen gemacht werden? Aus welchen Elementen bestehen sie? Wie kann man mit ihnen programmieren? Genau das sehen wir uns in diesem Workshop einmal an. Wir verwenden TypeScript, um mit einem Werkzeug namens Babylonjs 3D-Häuser zu bauen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: Babylonjs
