@@ -31,15 +31,18 @@ workshops:
   - begintime: 17:00 
     endtime: 19:00
     status: Scheduled
-    title: TypeScript
+    title: Wir bauen Steve ⛏️
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      Rainer hat sich noch nicht entschieden, was er am Freitag mit euch programmieren wird 😉
+      In den letzten Wochen haben wir mit Babylonjs probiert, erste Ansätze einer Minecraft-ähnlichen Blockwelt zu bauen.
+      Heute bauen wir Steve, den klassischen Minecraft-Helden und bringen ihm bei, Arme und Beine zu bewegen.
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben,
+      sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
     shortCode: TypeScript
+    
