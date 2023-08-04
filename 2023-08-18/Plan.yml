@@ -12,30 +12,15 @@ workshops:
       - Karin
     shortCode: WebOfficeHours
 
-  - begintime: 17:00
-    endtime: 19:00
-    status: Scheduled
-    title: Elektronikbasteln ⚡
-    targetAudience: ab 10, etwas Programmiererfahrung notwendig
-    description: |
-      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
-
-      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
-    prerequisites: |
-      - Etwas Erfahrung mit der Arduino IDE
-      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
-    mentors:
-      - Günther
-    shortCode: Elektronikbasteln
-
   - begintime: 17:00 
     endtime: 19:00
     status: Scheduled
-    title: Wir bauen Steve ⛏️
+    title: 🎥 Kamera-Experimente 📹 in 3D
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
       In den letzten Wochen haben wir mit Babylonjs probiert, erste Ansätze einer Minecraft-ähnlichen Blockwelt zu bauen.
-      Heute bauen wir Steve, den klassischen Minecraft-Helden und bringen ihm bei, Arme und Beine zu bewegen.
+      Wir haben Häuser gebaut und Steve herumgehen lassen. Diesmal experimentieren wir mit Kameras. Welche Kamera-Arten gibt es?
+      Wie können wir die Kamera bewegen?
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben,
       sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
@@ -45,4 +30,3 @@ workshops:
     mentors:
       - Rainer
     shortCode: TypeScript
-    
