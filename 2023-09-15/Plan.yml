@@ -22,7 +22,7 @@ workshops:
 
       Wir beschäftigen uns diesmal mit dem Malen eines *Mandalas*. Ein Mandala ist eine Zeichnung oder Malerei aus geometrischen Mustern. Mandalas sind in vielen Teilen der Welt bekannt und berühmt. Das Beispiel ist ideal, um grundlegende Zeichenoperationen, Schleifen und den Umgang mit Koordinaten zu üben.
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.      
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
