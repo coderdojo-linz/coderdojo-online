@@ -1,0 +1,32 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Draft
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 15:00 
+    endtime: 16:30
+    status: Draft
+    title: Wir Malen ein Mandala mit Code 🖌️🎨
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      **Achtung: Geänderte Zeit!** Aufgrund einer CoderDojo-internen Veranstaltung startet dieser Workshop von Rainer diesmal um 15:00 Uhr und dauert 1,5 Stunden.
+
+      Wir beschäftigen uns diesmal mit dem Malen eines *Mandalas*. Ein Mandala ist eine Zeichnung oder Malerei aus geometrischen Mustern. Mandalas sind in vielen Teilen der Welt bekannt und berühmt. Das Beispiel ist ideal, um grundlegende Zeichenoperationen, Schleifen und den Umgang mit Koordinaten zu üben.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: MandalaMalen
+    
