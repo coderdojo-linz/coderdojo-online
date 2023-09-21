@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -12,15 +12,17 @@ workshops:
       - Karin
     shortCode: WebOfficeHours
 
-  - begintime: 15:00 
-    endtime: 16:30
-    status: Draft
-    title: Wir Malen ein Mandala mit Code 🖌️🎨
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Scheduled
+    title: Moorhuhnjagd 🐔 - wir bauen ein Spiel mit TypeScript
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
-      **Achtung: Geänderte Zeit!** Aufgrund einer CoderDojo-internen Veranstaltung startet dieser Workshop von Rainer diesmal um 15:00 Uhr und dauert 1,5 Stunden.
-
-      Wir beschäftigen uns diesmal mit dem Malen eines *Mandalas*. Ein Mandala ist eine Zeichnung oder Malerei aus geometrischen Mustern. Mandalas sind in vielen Teilen der Welt bekannt und berühmt. Das Beispiel ist ideal, um grundlegende Zeichenoperationen, Schleifen und den Umgang mit Koordinaten zu üben.
+      Es ist an der Zeit, wieder mal ein Spiel mit TypeScript zu programmieren. Wir bauen eine vereinfachte Form des
+      Klassikers [*Moorhuhjagd*](https://moorhuhn.fandom.com/de/wiki/Die_Original_Moorhuhnjagd_(PC)) nach. Dieses Spiel wird uns
+      einige Wochen beschäftigen, da wir alles von Grund auf selbst bauen. Wir starten mit einem Prototyp in Scratch, um
+      die Anforderungen an unser Spiel besser zu verstehen. Danach beginnen wir mit den ersten Schritten für Hintergrundgrafik
+      und Hühner.
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
     prerequisites: |
@@ -28,5 +30,20 @@ workshops:
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
-    shortCode: MandalaMalen
+    shortCode: Moorhuhnjagd
     
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
