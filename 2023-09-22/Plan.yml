@@ -26,7 +26,7 @@ workshops:
 
       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
     prerequisites: |
-      - Ein Internetbrowser (idealerweise Chrome)
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
     mentors:
       - Rainer
