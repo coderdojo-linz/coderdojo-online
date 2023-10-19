@@ -1,7 +1,7 @@
 workshops:
   - begintime: 15:00
     endtime: 16:30
-    status: Draft
+    status: Scheduled
     title: JavaScript/TypeScript Fragestunde
     targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
     description: |
@@ -14,17 +14,15 @@ workshops:
 
   - begintime: 17:00 
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Moorhuhnjagd 🐔 - wir bauen ein Spiel mit TypeScript
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
       Diese Woche arbeiten wir an unseren TypeScript Projekt weiter. Wir bauen eine vereinfachte Form des
       Klassikers [*Moorhuhjagd*](https://moorhuhn.fandom.com/de/wiki/Die_Original_Moorhuhnjagd_(PC)) nach. Dieses Spiel wird uns
-      einige Wochen beschäftigen, da wir alles von Grund auf selbst bauen. Wir starten mit einem Prototyp in Scratch, um
-      die Anforderungen an unser Spiel besser zu verstehen. Danach beginnen wir mit den ersten Schritten für Hintergrundgrafik
-      und Hühner.
+      einige Wochen beschäftigen, da wir alles von Grund auf selbst bauen.
 
-      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen. Wer bisher noch nicht bei dem Projekt dabei war, bekommt am Beginn des Workshops den Starter-Code, damit man problemlos Quereinsteigen kann.
     prerequisites: |
       - Ein Internetbrowser (idealerweise Chrome oder Edge)
       - Zugriff auf [Stackblitz](https://stackblitz.com)
@@ -34,7 +32,7 @@ workshops:
     
   - begintime: 17:00
     endtime: 19:00
-    status: Draft
+    status: Scheduled
     title: Elektronikbasteln ⚡
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
