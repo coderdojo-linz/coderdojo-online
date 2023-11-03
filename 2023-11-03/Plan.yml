@@ -16,6 +16,7 @@ workshops:
     endtime: 19:00
     status: Scheduled
     title: Catch the Sweets 👻
+    thumbnail: https://www.helenabrantschen.com/wp-content/uploads/2020/12/p5logo.png
     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
     description: |
       Letzte Woche haben wir kurzfristig das Programm geändert und mit [_Catch the Sweets_](https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/catch-the-treat/) angefangen. Das machen wir diese Woche fertig.
