@@ -7,7 +7,7 @@ workshops:
     description: |
       Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
     prerequisites: |
-      - Was immer für euer Projekt notwendig ist.
+      - Was immer für euer Projekt notwendig ist
     mentors:
       - Karin
     shortCode: WebOfficeHours
