@@ -1,0 +1,63 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Scheduled
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist.
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00 
+    endtime: 18:00
+    status: Scheduled
+    title: UNO 🎴🃏 - wir bauen ein Spiel mit TypeScript
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Wir machen mit unserem UNO-Spiel weiter. **Achtung**, dieser Workshop ist diesmal nur eine Stunde, da wir danach noch [Advent of Code](https://adventofcode.com) machen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen. Wer bisher noch nicht bei dem Projekt dabei war, bekommt am Beginn des Workshops den Starter-Code, damit man problemlos Quereinsteigen kann.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+    shortCode: UnoSpiel
+       
+  - begintime: 18:30 
+    endtime: 19:30
+    status: Scheduled
+    title: AdventOfCode 🎄🎅🤶
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      [Advent of Code](https://adventofcode.com) ist ein "Adventkalender" für ProgrammiererInnen. Jeden Tag zwischen 1.12. und 25.12. gibt es zwei Programmierrätsel. Wenn man sie löst, gibt es bis zu zwei, goldene Sterne ⭐. An den ersten Tagen sind die Rätsel noch recht einfach. Daher bieten wir zwischen 1.12. und 3.12. tägliche Workshops an, in denen wir die Rätsel des Tages in TypeScript und C# gemeinsam lösen. Diese Workshops eignen sich für Jugendliche, die schon etwas Programmiererfahrung z.B. aus anderen CoderDojo-Workshops haben.
+      
+      Ab 4.12. gibt es weiterhin tägliche Meetings. **In diesen Meetings werden die Lösungen aber nicht mehr gemeinsam erarbeitet**, da die Rätsel dann schon deutlich mehr Programmiererfahrung brauchen. Die Meetings ab 4.12. sind zum Erfahrungsaustausch für jene MentorInnen und Jugendliche gedacht, die selbständig an den Rätseln arbeiten wollen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+      - Karin
+    shortCode: UnoSpiel
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+      - Marc
+    shortCode: Elektronikbasteln
