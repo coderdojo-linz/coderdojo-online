@@ -1,0 +1,16 @@
+workshops:
+  - begintime: 18:30 
+    endtime: 19:30
+    status: Scheduled
+    title: AdventOfCode 🎄🎅🤶
+    targetAudience: ab ca. 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      [Advent of Code](https://adventofcode.com) ist ein "Adventkalender" für ProgrammiererInnen. Jeden Tag zwischen 1.12. und 25.12. gibt es zwei Programmierrätsel. Wenn man sie löst, gibt es bis zu zwei, goldene Sterne ⭐. An den ersten Tagen sind die Rätsel noch recht einfach. Daher bieten wir zwischen 1.12. und 4.12. tägliche Workshops an, in denen wir die Rätsel des Tages in TypeScript und C# gemeinsam lösen. Diese Workshops eignen sich für Jugendliche, die schon etwas Programmiererfahrung z.B. aus anderen CoderDojo-Workshops haben.
+      
+      Ab 5.12. gibt es weiterhin tägliche Meetings. **In diesen Meetings werden die Lösungen aber nicht mehr gemeinsam erarbeitet**, da die Rätsel dann schon deutlich mehr Programmiererfahrung brauchen. Die Meetings ab 4.12. sind zum Erfahrungsaustausch für jene MentorInnen und Jugendliche gedacht, die selbständig an den Rätseln arbeiten wollen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Karin
+    shortCode: AoC
