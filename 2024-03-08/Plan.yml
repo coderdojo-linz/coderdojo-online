@@ -1,0 +1,32 @@
+workshops:
+  - begintime: 14:30
+    endtime: 16:00
+    status: Scheduled
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      **Achtung:** Diesmal geändert Startzeit!
+
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Scheduled
+    title: Pixelate - wer errät das Bild als erstes
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Diesmal beschäftigen wir uns mit dem Aufbau von Pixelgrafiken und programmieren ein Spiel, bei dem es darum geht, dass Spielerinnen und Spieler verpixelte Grafiken möglichst schnell erraten müssen. Unser Programm wird am Anfang die Grafiken stark verpixeln und danach die Grafiken schrittweise klarer darstellen.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen. Wer bisher noch nicht bei dem Projekt dabei war, bekommt am Beginn des Workshops den Starter-Code, damit man problemlos Quereinsteigen kann.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+      - Luisa
+    shortCode: Pixelate
