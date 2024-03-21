@@ -1,0 +1,34 @@
+workshops:
+  - begintime: 17:00 
+    endtime: 19:00
+    status: Scheduled
+    title: Pixelate - wer errät das Bild als erstes
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      Diesmal machen wir unser Pixelate-Spiel fertig. Es fehlt noch die Auswertung der Benutzerauswahl
+      und die Punktevergabe.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen. Wer bisher noch nicht bei dem Projekt dabei war, bekommt am Beginn des Workshops den Starter-Code, damit man problemlos Quereinsteigen kann.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+      - Zugriff auf [Stackblitz](https://stackblitz.com)
+    mentors:
+      - Rainer
+      - Luisa
+    shortCode: Pixelate
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
