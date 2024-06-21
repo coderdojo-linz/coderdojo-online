@@ -1,0 +1,30 @@
+workshops:
+  - begintime: 15:00
+    endtime: 16:30
+    status: Scheduled
+    title: JavaScript/TypeScript Fragestunde
+    targetAudience: Alle, die Fragen rund um JavaScript, TypeScript, HTML oder CSS haben
+    description: |
+      Viele von euch arbeiten an eigenen Projekten wie Webseiten, kleine Browser-Spiele, Coding Challenges etc. In diesem Workshop nimmt sich Karin Zeit für eure Fragen. Kommt mit eurem Projekt und arbeitet mit Karin am Überwinden von Hürden, vor denen ihr momentan steht.
+    prerequisites: |
+      - Was immer für euer Projekt notwendig ist
+    mentors:
+      - Karin
+    shortCode: WebOfficeHours
+
+  - begintime: 16:00 
+    endtime: 18:00
+    status: Scheduled
+    title: Line Swirls - p5 von Anfang an
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur 
+    description: |
+      **Achtung:** Wir starten diesmal schon um 16:00 Uhr.
+
+      Auf mehrfachen Wunsch zeigt euch Rainer heute, wie man mit p5.js Linienmuster erstellt. Das besondere ist aber, dass wir ganz von vorne beginnen, ohne Startercode. So lernt ihr, wie ihr selbständig neue p5-Projekte starten könnt.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen. 
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+    mentors:
+      - Rainer
+    shortCode: :LineSwirls
