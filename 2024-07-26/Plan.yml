@@ -1,0 +1,16 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Sokoban - Spielprogrammierung mit HTML und JavaScript
+    targetAudience: ab 10, keine Programmiererfahrung notwendig
+    description: |
+      Vor längerer Zeit haben wir schon einmal das Spiel _Sokoban_ programmiert. In diesen Ferien wollen wir das Spiel noch einmal neu programmieren. Diesmal mit HTML und JavaScript. Wir verwenden in diesem Kurs _Visual Studio Code_ als Editor. **Bitte diese Software unbedingt vorher installieren.**
+
+      Um mitzumachen braucht man keine Erfahrung beim textuellen Programmieren. Man sollte allerdings schon Erfahrung mit Blockprogrammierung (z.B. Scratch, Microbit) haben.
+    prerequisites: |
+      - [Visual Studio Code](https://code.visualstudio.com/) installiert
+      - Erfahrung mit Scratch oder Microbit
+    mentors:
+      - Rainer
+    shortCode: Sokoban
