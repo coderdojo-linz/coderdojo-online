@@ -1,0 +1,31 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Grundlagen für TypeScript Game-Entwicklung
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Wir machen bei unserem Level-Designer weiter. Letztes Mal haben wir gelernt, wie man konfigurierbare Game Levels baut. Diesmal generieren wir unser Level automatisch.
+
+      Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur  Scratch-Erfahrung mitbringen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+    mentors:
+      - Rainer
+    shortCode: TypeScriptGame
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
