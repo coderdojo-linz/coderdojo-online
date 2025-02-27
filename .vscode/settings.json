@@ -8,5 +8,13 @@
         "latex",
         "plaintext"
     ],
-    "peacock.color": "#954195"
+    "peacock.color": "#954195",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#954195",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#b554b5",
+        "sash.hoverBorder": "#b554b5",
+        "statusBarItem.remoteBackground": "#954195",
+        "statusBarItem.remoteForeground": "#e7e7e7"
+    }
 }
