@@ -14,3 +14,18 @@ workshops:
      mentors:
        - Günther
      shortCode: Elektronikbasteln
+
+   - begintime: 17:00
+     endtime: 18:30
+     status: Scheduled
+     title: Programmieren mit Landkarten im Browser 🗺️
+     targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+     description: |
+       Im heutigen Workshop programmieren wir mit Landkarten im Browser. Dafür verwenden wir HTML und JavaScript.
+ 
+       Für diesen Workshop braucht ihr keine Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur Scratch-Erfahrung mitbringen.
+     prerequisites: |
+       - Ihr müsst **vor dem Workshop** [Visual Studio Code](https://code.visualstudio.com/) installieren.
+     mentors:
+       - Rainer
+     shortCode: MapsInBrowser
