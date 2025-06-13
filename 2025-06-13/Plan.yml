@@ -1,0 +1,17 @@
+workshops:
+   - begintime: 17:00
+     endtime: 18:30
+     status: Scheduled
+     title: Besuche Rainer in der Werkstatt
+     targetAudience: Für alle
+     description: |
+       Unser Mentor Rainer ist begeisterter 3D-Drucker und CNC-Fan. Heute Nachmittag ist er damit beschäftigt, etwas für einen Schul-Workshop vorzubereiten.
+
+       Wer mag, kann Rainer virtuell in der Werkstatt besuchen. Wir können über CAD, 3D-Druck, CNC-Fräsen etc. reden. Rainer kann euch auch Dinge zeigen, die ihr zu Hause ausprobieren könnt. Falls ihr eigene Projekte habt, könnt ihr diese auch gerne mitbringen und Rainer um Rat fragen.
+
+       Es handelt sich um keinen geführten Programmierworkshop, sondern um ein informelles Treffen, bei dem die oben genannten Themen im Mittelpunkt stehen.
+     prerequisites: |
+       - Keine
+     mentors:
+       - Rainer
+     shortCode: RainersWerkstatt
