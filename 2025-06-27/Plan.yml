@@ -1,0 +1,32 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Mastermind im Browser 🧠
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Heute programmiert Benjamin mit euch das klassische Logikspiel Mastermind - als Browser-Spiel mit TypeScript.
+
+      Ihr erratet einen geheimen Farbcode und bekommt Tipps, welche Farben richtig liegen.
+
+      Der Workshop ist für EinsteigerInnen gedacht - Scratch-Erfahrung reicht völlig aus!
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Benjamin
+    shortCode: TypeScript
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      **Elektronikbasteln entfällt diese Woche! Günther wird im Juli wird für euch da sein.**
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
