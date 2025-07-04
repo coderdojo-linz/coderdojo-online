@@ -1,0 +1,34 @@
+workshops:
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Mastermind im Browser mit TypeScript - Zweiter Teil 🧠
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Heute programmiert Benjamin mit euch den zweiten Teil, **die Logik** des klassischen Logikspiels Mastermind – als Browser-Spiel mit TypeScript.
+
+      Ihr erratet einen geheimen Farbcode und bekommt Tipps, welche Farben richtig liegen.
+
+      Der Workshop ist für EinsteigerInnen gedacht – Scratch-Erfahrung reicht völlig aus! Auch wenn du letzte Woche nicht dabei warst, bist du hier willkommen!
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Benjamin
+    shortCode: TypeScript
+
+  - begintime: 17:00
+    endtime: 19:00
+    status: Scheduled
+    title: Elektronikbasteln ⚡
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Wir programmieren und basteln **Smarthome** und **Internet-of-Things**. Der Inhalt und Schwierigkeitsgrad dieses Kurses richtet sich nach den Interessen der TeilnehmerInnen. Somit keine Angst vor dem Neueinstieg.
+
+      Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
