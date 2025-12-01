@@ -1,0 +1,17 @@
+workshops:
+  - begintime: 16:00
+    endtime: 17:30
+    status: Scheduled
+    title: AdventOfCode 🎄🎅 - mit Programmierrätseln durch den Advent
+    targetAudience: ab 12 Jahren, etwas Programmiererfahrung notwendig
+    description: |
+      Im Dezember gibt es für Coder einen ganz besonderen Adventkalender: [Advent of Code](https://adventofcode.com/) (kurz *AoC*). Jeden Tag bekommt man ein Programmierrätsel und wenn man es löst erhält man ein bis zwei Sternchen ⭐.
+
+      In diesem Workshop helfen euch Pia und Rainer, Sterne der ersten Woche AoC zu sammeln. Um mitzumachen müsst ihr schon mal etwas textbasiert programmiert haben (z.B. in Python, JavaScript, Java, C#, Ruby, ...). Wir zeigen euch, wie ihr die Aufgaben lösen könnt und geben Tipps für die Programmierung.
+    prerequisites: |
+      - Ein wenig Programmiererfahrung
+      - Etwas Englisch-Kenntnisse
+    mentors:
+      - Pia
+      - Rainer
+    shortCode: RetroAoC
