@@ -1,4 +1,19 @@
 workshops:
+  - begintime: 15:00
+    endtime: 17:00
+    status: Scheduled
+    title: Katzen-Puzzle-Spiel mit TypeScript
+    targetAudience: ab ca. 10 Jahren, keine Angst vor der Tastatur
+    description: |
+      Die Schule hat wieder angefangen, und damit auch die CoderDojo-Zeit! Zum Start programmieren wir gemeinsam ein kleines Puzzle-Spiel mit Katzen in TypeScript.
+
+      Für diesen Workshop braucht ihr keine TypeScript-Vorkenntnisse. Auch NeueinsteigerInnen, die noch nie textuell programmiert haben, sind herzlich willkommen. Ihr solltet nur etwas Scratch-Erfahrung mitbringen.
+    prerequisites: |
+      - Ein Internetbrowser (idealerweise Chrome oder Edge)
+    mentors:
+      - Benjamin
+    shortCode: TypescriptGame
+
   - begintime: 17:00
     endtime: 19:00
     status: Scheduled
