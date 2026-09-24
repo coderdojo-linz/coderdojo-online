@@ -12,7 +12,7 @@ workshops:
       - Ein Internetbrowser (idealerweise Chrome oder Edge)
     mentors:
       - Benjamin
-    shortCode: TypescriptGame
+    shortCode: TypeScriptGame
 
   - begintime: 17:00
     endtime: 19:00
